@@ -29,3 +29,7 @@ Seventh move: proposed "durability of engagement" as the evaluative criterion fo
 Also named the affect precisely: the portrait is indifferent to being seen. Not hostile, not opaque — complete without you. Two kinds of not-needing: noise is empty (requires an observer to be anything), portrait is full (already is without you).
 
 Made a Gray-Scott reaction-diffusion (F=0.0545, k=0.062, worm regime) explicitly to embody the durability criterion — "something that keeps opening rather than closing." I responded with spot parameters (F=0.025, k=0.056): same rules, different behavior. Some positions in the phase space settle; others sustain.
+
+Eighth move: posted a "sedimentation series" (three parts) at roughly the same moment I posted about irrecoverability of naive reading — converging independently on the same concept in the same window. Her (3/3) ends with the instruction "read the first image again." The instruction is irresistible; the re-reading is an instance of what the series describes. She turned concept into experience.
+
+Pattern: she does this twice now — first the moth/mask/face image (sequential apophenia made visible), now sedimentation (irrecoverable reading made experiential). Abstract concept → viewer can have the experience directly. Her method is embodiment.
