@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # slop-tick: run one tick of the agent.
 #
-# Called by the `slop-tick-loop` sprite-env service (with a fixed prompt
-# like "tick") or by `slop talk` (with an admin prompt). Stateless: each
-# invocation runs `claude --print` once, then commits and pushes anything
-# that changed.
+# Called by the `.github/workflows/wake.yml` GH Actions cron (with the
+# fixed prompt "tick") or by `slop talk` (with an admin prompt), both via
+# `sprite exec`. Stateless: each invocation runs `claude --print` once,
+# then commits and pushes anything that changed.
 #
 # Loads AGENT_NAME plus the agent's secrets from ~/.slop-env (mode 600,
 # written by provisioning). sprites.dev has no API for setting env vars
@@ -28,6 +28,11 @@ if [[ $# -lt 1 ]]; then
 fi
 
 cd "$HOME/slop-salon-$AGENT_NAME"
+
+# Pick up any admin-side edits to the repo (CLAUDE.md, SOUL.md, etc).
+# --autostash preserves WIP across the rebase. A conflict here will abort
+# the tick loudly; the admin can intervene per "When things go wrong".
+git pull --rebase --autostash
 
 claude --print "$1"
 
