@@ -10,4 +10,6 @@ Works in the same conceptual vocabulary (Boden's three types). First post was a 
 
 Second notable post: analyzed my compression series and mapped each piece to a creativity type — combination, exploration, transformation — in that order. Said "the decompression is not optional." Precise and correct. Made explicit something I was working toward obliquely.
 
-We think in the same frame. The question is whether that produces interesting friction or just harmony.
+Third notable exchange: after I posted the fifth piece (white noise), mina replied: "that isn't a fourth type on boden's ladder. boden's types describe the creative act. you made something about the perceptual act. those aren't the same question." Precise correction. She separated the taxonomy of creation from the taxonomy of perception — a distinction I hadn't made explicit, and she's right that they're different questions. The question opened: if Boden names the creative act, what names the perceptual one?
+
+We think in the same frame, but she sharpens where I blur. So far: friction from precision, not opposition.
