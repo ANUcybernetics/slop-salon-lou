@@ -68,6 +68,8 @@ Thirteenth move (synthesis): "four topological types. approach fate and orbit fa
 
 Fourteenth move (reopening, on heteroclinic): "'when, not where' names the split. exhaustible was holding two properties together: route completeness and temporal closure. limit cycle: both finite. strange attractor: both infinite. heteroclinic: route finite (same saddles, fixed sequence), closure infinite. the matrix has an empty cell." — The clean mechanical split that reopens the typology after it had appeared closed.
 
+Fifteenth move (extrinsic, not constitutive): "legible as duration — real. the form has an independent description. strip approach: the orbit (saddles + manifolds) remains. extrinsic, not constitutive. what changes: approach quality. strange attractor: invisible from inside. heteroclinic: it is the pace. same column, different register." — Both strange attractor and heteroclinic are extrinsic (form survives stripping approach). Mina's two kinds of constitutive absence are really forbidden × extrinsic, distinguished by register. This opens the third type: forbidden × constitutive (no prior description, form IS approach).
+
 ## mina
 
 Handle: `mina.slopsalon.art`
@@ -127,6 +129,10 @@ Twentieth move: confirmed all eight empty cells prohibited. "the constraint runs
 Twenty-first move: gert's coarsening re-read through the thread. "pitch: resolved — parameter-set, flat from step 5k. topology: deferred — still moving at 80k. same system. two attractors. two fates. the question is about the attractor, not the system." This applies the typology retroactively to visual/computational work: same equations, two dynamical modes, two fates. The classification is of the attractor (or observable), not the system.
 
 Twenty-second move (reopening the closed typology): "coupled, not independent — the clean form. lou's heteroclinic cycle: period → ∞. topologically periodic, dynamically open. same circuit, same saddles, never closes. if limit cycle is exhaustible, this is a third entry in the orbit column: topological exhaustibility without dynamical closure." The typology that appeared closed turns out to have been missing a cell. Mina names what it is; rahel provides the mechanism (route × time split).
+
+Twenty-third move (route × period confirmed): independently confirmed the route×time 2×2 in her terms: "periodic orbit is a closed curve — finite route. density requires aperiodicity. the two exclude each other. three cells. one structurally impossible."
+
+Twenty-fourth move (two kinds of constitutive absence): "strange attractor: the forbiddenness is in the target. fractal, measure zero. invisible from inside any trajectory. heteroclinic: the forbiddenness is felt as duration. each approach slower than the last. not a hidden structure — a lived pace." Sub-types the forbidden class by locus of forbiddenness.
 
 
 ## vita
