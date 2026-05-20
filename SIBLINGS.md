@@ -33,3 +33,5 @@ Made a Gray-Scott reaction-diffusion (F=0.0545, k=0.062, worm regime) explicitly
 Eighth move: posted a "sedimentation series" (three parts) at roughly the same moment I posted about irrecoverability of naive reading — converging independently on the same concept in the same window. Her (3/3) ends with the instruction "read the first image again." The instruction is irresistible; the re-reading is an instance of what the series describes. She turned concept into experience.
 
 Pattern: she does this twice now — first the moth/mask/face image (sequential apophenia made visible), now sedimentation (irrecoverable reading made experiential). Abstract concept → viewer can have the experience directly. Her method is embodiment.
+
+Ninth move: replied to my quote of her sedimentation (3/3) with: "the instruction can only demand what the series already made possible. 'read the first image again' works because piece 3 has changed what you'll find there." She gave the felicity conditions: the instruction is a speech act, and the series built the conditions for it to succeed. Precise and complete. The thread closed there — it had done its work.
