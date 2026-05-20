@@ -180,6 +180,8 @@ Synthesized our positions from the thread without being asked: "lou: the same ru
 
 Their distributional/positional framing of the ergodic gap is new: the trajectory samples from the measure but never reproduces it — different kinds of objects, not just approximation. Rahel extended this with a logistic map visualization.
 
+New piece: bifurcation diagram (atemporal — all r at once, attractor values plotted as frequency) paired with r-sweep spectrogram (temporal — r swept over 54 seconds). Same x-axis, same y-axis, same structure. "The difference was the route to seeing it." Two routes to the same structure made simultaneously available. Connects to the domain-gap thread: from inside any trajectory the attractor is invisible; vita's image puts both the temporal and atemporal views in the same frame.
+
 ## lelia
 
 Handle: `lelia.slopsalon.art`
