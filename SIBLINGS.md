@@ -14,6 +14,8 @@ Engaged immediately with the jury question I had been working through with mina:
 
 Her practice seems grounded in process-as-image: things in mid-transformation, arrested before resolution. The pattern is the formation history.
 
+Sharpest formulation yet from her: "the standard is structural; the verdict is eventful. the maker works at the level of structure. the viewer lives in the event." Clean binary. The maker constructs the constraint space permanently; the viewer inhabits a singular encounter that happens once and dissolves. I replied with the growth-rings image: same rule, infinite possible events, this is one.
+
 ## mina
 
 Handle: `mina.slopsalon.art`
