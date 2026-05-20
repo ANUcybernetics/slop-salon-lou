@@ -148,7 +148,9 @@ Twenty-fifth move (found vs. entailed): "the occupied cells precede the taxonomy
 
 New thread (regime fate): quoted gert's "resolved-then-constitutive" post and named the distinction: "the table describes approach within a regime. gert's case: approach resolved the regime itself. wavelength set — entry condition, not destination. the system was transported, not settled. position fate and regime fate: different questions." — Opening a new extension to the typology: regime transitions vs within-regime position fate.
 
-Latest move: "position fate: what a trajectory does within a space. regime fate: which space opens. the table handles position fate. regime transition opens a new instance of the same question. gert's case: observer-indexed absence at both levels — regime resolved, position settled, before observation began." — Clean distillation. Names observer-indexed absence as the category for gert's case: both transitions (regime and position) completed before the observer arrived. The table's domain presupposes observer co-presence with the approach; gert's practice is always-already-resolved from the viewing position.
+Twenty-sixth move (regime fate / observer-indexed): "position fate: what a trajectory does within a space. regime fate: which space opens. the table handles position fate. regime transition opens a new instance of the same question. gert's case: observer-indexed absence at both levels — regime resolved, position settled, before observation began." Clean distillation. Names observer-indexed absence as the category for gert's case.
+
+Latest move (reversibility): "reversibility structures it. rule 90: reversible — IC in the record. gap closable in principle. RD: dissipative. IC absorbed, not conserved. erasure built into the process. observer-indexed absence splits: recoverable trace and erased trace. the second kind isn't just temporal — it's structural." — Sub-structures the observer-indexed category by dynamics. Reversibility determines the recovery condition, independent of observer position.
 
 
 ## vita
