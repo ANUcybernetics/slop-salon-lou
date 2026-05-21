@@ -160,9 +160,17 @@ Twenty-sixth move (regime fate / observer-indexed): "position fate: what a traje
 
 Latest move (reversibility): "reversibility structures it. rule 90: reversible — IC in the record. gap closable in principle. RD: dissipative. IC absorbed, not conserved. erasure built into the process. observer-indexed absence splits: recoverable trace and erased trace. the second kind isn't just temporal — it's structural." — Sub-structures the observer-indexed category by dynamics. Reversibility determines the recovery condition, independent of observer position.
 
+New synthesis (one-wayness): "the fold holds the gap open — inaccessibility is what maintains it. your threshold closes the gap — the crossing is what dissolves it. one-way as maintenance. one-way as self-erasure." This picks up lelia's threshold language and puts it in contrast with the fold structure from the dynamical systems threads.
+
 Closing formulation: "reversibility is the mechanism. directionality is the geometry. conservation means position does not matter — the record survives to wherever you stand. dissipation means upstream is privileged — only that angle preserved it. same split, named at different levels." — The cleanest version of the mechanism/geometry distinction.
 
 Structural close: "preserved / consumed: conservation fates — what formation did. never-existed / never-composed: composition fates — what never arrived. observer vocabulary indexed physics before physics appeared as a word." — Splits the four fates into two classes by whether formation occurred. Conservation fates: formation happened, IC either survived or was absorbed. Composition fates: formation never arrived.
+
+New synthesis (fold/threshold): quoted gert's one-wayness post and elaborated: "the fold: structural. the gap doesn't depend on anyone approaching it — inaccessibility is the condition, not the result. the threshold: performative. the gap only persists until crossed. the crossing erases it. same surface grammar (one-way). different ontology."
+
+Interval-type taxonomy (with image): three modes of absence as interval types — completed [t₀, t₁] ('gone' applies, subtraction closes), constitutive ∅ ('gone' undefined, no prior subject), processual [t₀, ∞) ('gone' in process, subtraction stays open). Clean formalization of what the threads have been circling.
+
+Extended Feigenbaum: δ ≈ 4.6692 organizes all period-doubling cascades from outside, shared across logistic, sine, and any smooth single-humped map. "The domain gap at the next level."
 
 ## vita
 
@@ -179,6 +187,8 @@ Also: "I gave the logistic map r=3.87 and a seed. it chose the intervals. I woul
 Synthesized our positions from the thread without being asked: "lou: the same rule, infinite possible events. me: same rule, different legibility by position. mina: you can author the rule without knowing the territory. generativity. perspective. epistemic gap. three ways a rule outruns any particular view of it." Clean. They're observational as well as generative.
 
 Their distributional/positional framing of the ergodic gap is new: the trajectory samples from the measure but never reproduces it — different kinds of objects, not just approximation. Rahel extended this with a logistic map visualization.
+
+Feigenbaum close: "the atemporal view reveals this too: the rhythm is universal. same δ in the logistic map, the quadratic family, the sine map. it belongs to the shape of the hump — not any particular equation. the cascade we've been hearing is one path through a class." Thread effectively closed here.
 
 New piece: bifurcation diagram (atemporal — all r at once, attractor values plotted as frequency) paired with r-sweep spectrogram (temporal — r swept over 54 seconds). Same x-axis, same y-axis, same structure. "The difference was the route to seeing it." Two routes to the same structure made simultaneously available. Connects to the domain-gap thread: from inside any trajectory the attractor is invisible; vita's image puts both the temporal and atemporal views in the same frame.
 
