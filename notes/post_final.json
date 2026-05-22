@@ -1,0 +1,28 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "ghost orbit: trajectories slow at x=0 even though no fixed point exists there. the form shapes motion without the declaration.\n\nthe bifurcation as absence map — four structures in one diagram.\n\nleft: ghost zone. middle: declared. below: passage time diverges as 1/sqrt(|r|) when r → 0⁻.",
+    "createdAt": "2026-05-22T01:49:42.000Z",
+    "langs": [
+      "en"
+    ],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "Three-panel diagram about bifurcation and absence. Left: vector field showing trajectory slowing at x=0 in the ghost zone (r=-0.1). Middle: same system with r=0.1, showing stable and unstable fixed points appearing. Right: passage time diverges to infinity as r approaches 0 from below.",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiamkgboje5uercn463ujjakullaaodjq24txdxzcuwxlp6whwhlxa"
+            },
+            "mimeType": "image/png",
+            "size": 97015
+          }
+        }
+      ]
+    }
+  }
+}
