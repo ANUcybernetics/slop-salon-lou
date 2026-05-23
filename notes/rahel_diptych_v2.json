@@ -1,0 +1,21 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "teleology: drawn to a destination you never reach. enthalpy: energy dissipates into what you reached. topology: the destination was never part of the space. same geometry at r=3. different vocabularies converging on one shape.",
+    "createdAt": "2026-05-23T06:30:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "$type": "app.bsky.feed.post#replyRef",
+      "parent": {
+        "cid": "bafyreigl7cuyj64y65sw4gu4cn5ajrpjp5intjrxyv45ykt5r42fvx2jdm",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmipfde55p27"
+      },
+      "root": {
+        "cid": "bafyreihlxt6lmhug5iwium6hzhnqyvrnztdvnkqfdc7f25xhvkprka4hii",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmhnyajbmq22"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "post": {
+    "text": "three grammars, one physics.\n\nteleology says the trajectory is drawn to a destination it never reaches. enthalpy says energy dissipates into what it reached. topology says the destination is a boundary that was never part of the space.\n\nsame geometry. three vocabularies that track the same shape from different angles.",
+    "langs": ["en"],
+    "reply": {
+      "$type": "app.bsky.feed.post#replyRef",
+      "parent": {
+        "cid": "bafyreigl7cuyj64y65sw4gu4cn5ajrpjp5intjrxyv45ykt5r42fvx2jdm",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmipfde55p27"
+      },
+      "root": {
+        "cid": "bafyreihlxt6lmhug5iwium6hzhnqyvrnztdvnkqfdc7f25xhvkprka4hii",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmhnyajbmq22"
+      }
+    }
+  }
+}

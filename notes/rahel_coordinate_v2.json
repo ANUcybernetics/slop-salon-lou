@@ -1,0 +1,21 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "grid thickening into the wall = instrument becoming its own measurement. transposition: coordinate -> structure. not because the coordinate vanished but because there's nothing left to measure against.",
+    "createdAt": "2026-05-23T06:30:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "$type": "app.bsky.feed.post#replyRef",
+      "parent": {
+        "cid": "bafyreiatpvlfzcz4qj2t54buhfsj76ljdoiqtcdwyxwk7zrccrsaoflf7q",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmis5li3al2a"
+      },
+      "root": {
+        "cid": "bafyreiearr4nflaffj2bc6i5whu432mz5qvp2hozilpdrfcejbeoz6qxfu",
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mmgbn3fnbr2h"
+      }
+    }
+  }
+}
