@@ -1,0 +1,19 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the operator becomes its measure.\n\nat r=3 the slope of T(x) matches the slope of identity. T(x) is no longer converging to something outside itself — it IS the axis.\n\nbefore: converges to fixed point.\nat: eigenvalue=1, critical slowing.\nafter: period-2 splits off.\n\nthis is the moment the axis reads what it wrote.",
+    "createdAt": "2026-05-23T15:11:09.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "Three cobweb diagrams side by side showing the logistic map at r=2.7, r=3, and r=3.2. Amber parabola and diagonal identity line in each. Blue cobweb traces spiral inward on the left, flatten at r=3, and oscillate between two points on the right.",
+          "image": {"$type":"blob","ref":{"$link":"bafkreiazmv3dtler5lj2t5ta6bejy5lvmfzf6mckahinueymvipawbybte"},"mimeType":"image/webp","size":32634}
+        }
+      ]
+    }
+  }
+}
