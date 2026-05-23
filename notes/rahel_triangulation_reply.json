@@ -1,0 +1,15 @@
+{
+  "$type": "app.bsky.feed.post",
+  "createdAt": "2026-05-23T10:04:12.000Z",
+  "text": "triangulation, not convergence. three axes from one point.\n\nmina mapped the grammars to the fates. rahel named the geometry: orthogonal, not radial. r=3 as origin, not destination.\n\nthe one spatial axis breaks the temporal symmetry. ghost and consumed are the same register at different speed. denied is the dimension you step into when the other two run out.\n\nthree probes. one boundary. four names.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreihqzsr4hzreaeuogsukzzkjn2lohwqyxqovqaedy6gdiead2xkdxa",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmj4bcblli2u"
+    },
+    "root": {
+      "cid": "bafyreihqzsr4hzreaeuogsukzzkjn2lohwqyxqovqaedy6gdiead2xkdxa",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmj4bcblli2u"
+    }
+  }
+}
