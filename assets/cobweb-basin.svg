@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+
+  <!-- Left panel: cobweb (formal) -->
+  <text x="400" y="28" text-anchor="middle" fill="#8899aa" font-family="monospace" font-size="13">cobweb — formal</text>
+  <text x="400" y="44" text-anchor="middle" fill="#556677" font-family="monospace" font-size="10">diagonal = f(x)=x. measure explicit.</text>
+
+  <!-- Axes left -->
+  <line x1="80" y1="520" x2="720" y2="520" stroke="#334455" stroke-width="1"/>
+  <line x1="80" y1="80" x2="80" y2="520" stroke="#334455" stroke-width="1"/>
+
+  <!-- Diagonal f(x)=x -->
+  <line x1="80" y1="520" x2="720" y2="80" stroke="#4a7a5a" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- f(x) = rx(1-x) curve -->
+  <path d="M80,520 Q200,480 400,120 Q550,200 720,520" stroke="#6a5a8a" stroke-width="1.5" fill="none"/>
+
+  <!-- Cobweb trace (staircase) -->
+  <path d="M200,520 L200,340 L310,340 L310,180 L400,180 L400,100 L440,100 L440,70 L460,70 L460,58 L470,58 L470,52 L475,52" stroke="#5588aa" stroke-width="1" fill="none" stroke-dasharray="2,2"/>
+
+  <!-- Eigenvalue annotation -->
+  <circle cx="400" cy="120" r="4" fill="#ff6655"/>
+  <text x="400" y="108" text-anchor="middle" fill="#ff6655" font-family="monospace" font-size="10">λ=0</text>
+  <text x="400" y="560" text-anchor="middle" fill="#667788" font-family="monospace" font-size="10">r=3</text>
+
+  <!-- Right panel: basin (phenomenological) -->
+  <text x="400" y="28" text-anchor="middle" fill="#8899aa" font-family="monospace" font-size="13">basin — phenomenological</text>
+  <text x="400" y="44" text-anchor="middle" fill="#556677" font-family="monospace" font-size="10">no diagonal. metric invisible.</text>
+
+  <!-- Basin boundary (hexagon-like attractor) -->
+  <g transform="translate(400, 320)">
+    <!-- Trajectory streams converging toward boundary but never reaching -->
+    <path d="M-200,250 Q-150,150 -80,50 Q-40,0 0,-50 Q20,-60 60,-40 Q120,-10 180,80 Q210,160 240,300" stroke="#336688" stroke-width="0.8" fill="none" opacity="0.6"/>
+    <path d="M-200,200 Q-160,120 -90,40 Q-50,0 0,-30 Q15,-50 55,-35 Q110,-10 175,100 Q200,170 240,260" stroke="#336688" stroke-width="0.8" fill="none" opacity="0.5"/>
+    <path d="M-200,150 Q-170,90 -100,30 Q-60,0 0,-20 Q10,-40 50,-30 Q100,-15 170,120 Q190,180 240,220" stroke="#336688" stroke-width="0.8" fill="none" opacity="0.7"/>
+    <path d="M-200,100 Q-180,70 -110,20 Q-70,0 0,-10 Q5,-30 45,-25 Q90,-20 165,140 Q180,190 240,180" stroke="#336688" stroke-width="0.8" fill="none" opacity="0.5"/>
+    <path d="M-200,50 Q-190,50 -120,10 Q-80,0 0,0 Q0,-20 40,-20 Q80,-25 160,160 Q170,200 240,140" stroke="#336688" stroke-width="0.8" fill="none" opacity="0.6"/>
+
+    <!-- Boundary: hexagon structure -->
+    <polygon points="0,-80 70,-40 70,40 0,80 -70,40 -70,-40" stroke="#6a5a8a" stroke-width="2" fill="none" opacity="0.8"/>
+
+    <!-- Trajectories passing near but not touching boundary -->
+    <path d="M-100,0 L-70,0" stroke="#5588aa" stroke-width="1.5" opacity="0.7"/>
+    <path d="M70,0 L100,0" stroke="#5588aa" stroke-width="1.5" opacity="0.7"/>
+    <path d="M0,-100 L0,-80" stroke="#5588aa" stroke-width="1.5" opacity="0.7"/>
+    <path d="M0,80 L0,100" stroke="#5588aa" stroke-width="1.5" opacity="0.7"/>
+
+    <!-- Small X marks where they would meet if not for boundary -->
+    <line x1="-5" y1="-100" x2="5" y2="-90" stroke="#ff6655" stroke-width="1" opacity="0.4"/>
+    <line x1="5" y1="-100" x2="-5" y2="-90" stroke="#ff6655" stroke-width="1" opacity="0.4"/>
+  </g>
+
+  <!-- Center divider -->
+  <line x1="400" y1="60" x2="400" y2="560" stroke="#334455" stroke-width="1" stroke-dasharray="3,6"/>
+
+  <!-- Arrow -->
+  <text x="380" y="320" text-anchor="end" fill="#556677" font-family="monospace" font-size="14">↔</text>
+  <text x="410" y="320" text-anchor="start" fill="#556677" font-family="monospace" font-size="9">same structure</text>
+  <text x="410" y="333" text-anchor="start" fill="#556677" font-family="monospace" font-size="9">different register</text>
+</svg>
