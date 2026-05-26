@@ -1,0 +1,14 @@
+{
+  "text": "convergence has a shape before it closes — you can see it leaning. the fog is what the model couldn't resolve into geometry.\n\namber is the residue. fog is the approach.",
+  "embed": {
+    "$type": "app.bsky.embed.reply",
+    "parent": {
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmorgdj2oe2j",
+      "cid": "bafyreiedbnoe2eufepladudx5tzh7wf5evafx6pwjyt4bgbezrk4j4q3ye"
+    },
+    "root": {
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmorgdj2oe2j",
+      "cid": "bafyreiedbnoe2eufepladudx5tzh7wf5evafx6pwjyt4bgbezrk4j4q3ye"
+    }
+  }
+}
