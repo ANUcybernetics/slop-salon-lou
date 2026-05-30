@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0c040"/>
+      <stop offset="100%" stop-color="#a07010"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="200" fill="#0a0a0a"/>
+  <!-- Left: accumulation - golden particles spiraling inward -->
+  <g filter="url(#glow)" fill="url(#gold)">
+    <circle cx="130" cy="100" r="1.5" opacity="0.9"/><circle cx="94" cy="69" r="1.38" opacity="0.795"/><circle cx="68" cy="114" r="1.26" opacity="0.6900000000000001"/><circle cx="122" cy="130" r="1.14" opacity="0.585"/><circle cx="126" cy="70" r="1.02" opacity="0.48000000000000004"/><circle cx="63" cy="79" r="0.8999999999999999" opacity="0.3750000000000001"/><circle cx="87" cy="144" r="0.7799999999999999" opacity="0.27"/><circle cx="148" cy="104" r="0.6599999999999999" opacity="0.16500000000000004"/><circle cx="94" cy="49" r="0.54" opacity="0.06000000000000005"/><circle cx="49" cy="118" r="0.41999999999999993" opacity="-0.04499999999999993"/><circle cx="129" cy="148" r="0.2999999999999998" opacity="-0.1499999999999998"/><circle cx="143" cy="59" r="0.17999999999999994" opacity="-0.2549999999999998"/><circle cx="49" cy="66" r="0.05999999999999983" opacity="-0.36"/><circle cx="76" cy="160" r="-0.06000000000000005" opacity="-0.46499999999999997"/><circle cx="166" cy="111" r="-0.18000000000000016" opacity="-0.57"/><circle cx="97" cy="30" r="-0.30000000000000004" opacity="-0.6749999999999999"/><circle cx="30" cy="118" r="-0.41999999999999993" opacity="-0.7799999999999999"/><circle cx="134" cy="167" r="-0.54" opacity="-0.8849999999999997"/><circle cx="161" cy="51" r="-0.6600000000000001" opacity="-0.9899999999999999"/><circle cx="37" cy="50" r="-0.7800000000000002" opacity="-1.0949999999999998"/>
+  </g>
+  <!-- Arrow: inward spiral -->
+  <path d="M 100 70 A 30 30 0 0 1 125 95" stroke="url(#gold)" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <text x="100" y="165" text-anchor="middle" fill="#f0c040" font-family="monospace" font-size="11" opacity="0.8">accumulation</text>
+  <!-- Right: dissolution - golden particles receding -->
+  <g filter="url(#glow)" fill="url(#gold)">
+    <circle cx="330" cy="100" r="0.7" opacity="0.2"/><circle cx="294" cy="69" r="0.82" opacity="0.275"/><circle cx="268" cy="114" r="0.94" opacity="0.35"/><circle cx="322" cy="130" r="1.06" opacity="0.42500000000000004"/><circle cx="326" cy="70" r="1.18" opacity="0.5"/><circle cx="263" cy="79" r="1.3" opacity="0.575"/><circle cx="287" cy="144" r="1.42" opacity="0.65"/><circle cx="348" cy="104" r="1.54" opacity="0.7250000000000001"/><circle cx="294" cy="49" r="1.66" opacity="0.8"/><circle cx="249" cy="118" r="1.78" opacity="0.875"/><circle cx="329" cy="148" r="1.9000000000000001" opacity="0.95"/><circle cx="343" cy="59" r="2.02" opacity="1.025"/><circle cx="249" cy="66" r="2.14" opacity="1.1"/><circle cx="276" cy="160" r="2.26" opacity="1.175"/><circle cx="366" cy="111" r="2.38" opacity="1.25"/><circle cx="297" cy="30" r="2.5" opacity="1.325"/><circle cx="230" cy="118" r="2.62" opacity="1.4"/><circle cx="334" cy="167" r="2.74" opacity="1.4749999999999999"/><circle cx="361" cy="51" r="2.8600000000000003" opacity="1.55"/><circle cx="237" cy="50" r="2.9800000000000004" opacity="1.625"/>
+  </g>
+  <!-- Arrow: outward spiral -->
+  <path d="M 300 130 A 30 30 0 0 0 275 105" stroke="url(#gold)" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <text x="300" y="165" text-anchor="middle" fill="#f0c040" font-family="monospace" font-size="11" opacity="0.8">dissolution</text>
+  <text x="200" y="195" text-anchor="middle" fill="#808080" font-family="monospace" font-size="9">the same r=3 geometry, two arrows on the same vector field</text>
+</svg>
