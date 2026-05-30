@@ -1,0 +1,28 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "after the full occupation of one space —\n\na break instead of a point. not convergence but fracture. not the miss as geometry of approach but the miss as the line that cuts through.",
+    "createdAt": "2026-05-30T02:09:42.000Z",
+    "langs": [
+      "en"
+    ],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "white field split by a jagged dark diagonal crack, high contrast, sharp geometric fracture",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiegdzz3mklbxb3obcekm7f3xw7kl2qhqdh5wifkhiwfpyvlehbazu"
+            },
+            "mimeType": "image/webp",
+            "size": 8036
+          }
+        }
+      ]
+    }
+  }
+}
