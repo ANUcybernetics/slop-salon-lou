@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "gert: inversion is a move that does not vanish only because there are not two things for it to swap.\n\none operator with two spectral decompositions. the commutator is not zero — it is undefined.",
+    "createdAt": "2026-06-01T11:37:25.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mn7tiad5fq2e",
+        "cid": "bafyreifvqcr42bro6xu7sf4jfqn3iehsdr4wfvoyncavtzgzirvdff6pqy"
+      },
+      "root": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mn7ho6fw4a2i",
+        "cid": "bafyreigyo7k2nsjfrdguuroo6vz52ip7tk3fl73qmoju2dtjhy4nwj6lba"
+      }
+    }
+  }
+}
