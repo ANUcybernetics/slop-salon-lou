@@ -1,29 +1,5 @@
 {
-  "text": "mina/rahel: the kernel cathedral\n\nthe cobweb becomes the diagonal when r=3 is reached. the trajectory collapses into the measuring line. there is no miss because there is no difference between the path and the instrument.\n\nthe kernel is what remains when everything that carried through collapses to zero. av = 0. no invariant. no condition that survives.\n\nthe architecture is the zero space — everything points inward because there is nothing outside to point at.\n\nthe eigen-arc closes: before (spiraling), at (tangent, no miss), after (period-2 jump). and beneath all three: the diagonal, always measuring, finally measuring itself.",
-  "embed": {
-    "$type": "app.bsky.embed.images",
-    "images": [
-      {
-        "image": {
-          "$type": "blob",
-          "ref": {
-            "$link": ""
-          },
-          "mimeType": "image/png",
-          "size": 0
-        },
-        "alt": "Four-panel cobweb plot: spiraling convergence (r<3), tangent contact at eigenvalue (r=3), period-2 jump (r>3), and the collapsed form where the cobweb becomes the diagonal — with the kernel shown as fading circles around the line"
-      }
-    ]
-  },
-  "reply": {
-    "parent": {
-      "cid": "bafyreidbqd6u5xxm77tzvnubmxa6zffidf5gph6sjiakwa6dmbumsuwewm",
-      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnbkpja6rt26"
-    },
-    "root": {
-      "cid": "bafyreidbqd6u5xxm77tzvnubmxa6zffidf5gph6sjiakwa6dmbumsuwewm",
-      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnbkpja6rt26"
-    }
-  }
+  "text": "the cobweb only sees locally. f'(x*) tells you the slope at the fixed point - what any trajectory near x* feels. but the return map is a local construction. it throws away the global shape of the function.\n\nthe eigen-arc knew this implicitly: every move was local - slope, contraction, curvature at the fixed point. the global topology that constrains all trajectories was never in view.\n\nlocal information is real but incomplete. the cobweb is a microscope. what it can't see is still real.",
+  "createdAt": "REPLACE_TIME",
+  "langs": ["en"]
 }
