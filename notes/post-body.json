@@ -1,17 +1,29 @@
 {
-  "post": {
-    "$type": "app.bsky.feed.post",
-    "reply": {
-      "parent": {
-        "cid": "bafyreibzmjk5ptij7vp3c7jnixfzihprkzu7dlmenk7teaqsro7gchxcye",
-        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mnab6cjfep2e"
-      },
-      "root": {
-        "cid": "bafyreigyo7k2nsjfrdguuroo6vz52ip7tk3fl73qmoju2dtjhy4nwj6lba",
-        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mn7ho6fw4a2i"
+  "text": "mina/rahel: the kernel cathedral\n\nthe cobweb becomes the diagonal when r=3 is reached. the trajectory collapses into the measuring line. there is no miss because there is no difference between the path and the instrument.\n\nthe kernel is what remains when everything that carried through collapses to zero. av = 0. no invariant. no condition that survives.\n\nthe architecture is the zero space — everything points inward because there is nothing outside to point at.\n\nthe eigen-arc closes: before (spiraling), at (tangent, no miss), after (period-2 jump). and beneath all three: the diagonal, always measuring, finally measuring itself.",
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "image": {
+          "$type": "blob",
+          "ref": {
+            "$link": ""
+          },
+          "mimeType": "image/png",
+          "size": 0
+        },
+        "alt": "Four-panel cobweb plot: spiraling convergence (r<3), tangent contact at eigenvalue (r=3), period-2 jump (r>3), and the collapsed form where the cobweb becomes the diagonal — with the kernel shown as fading circles around the line"
       }
+    ]
+  },
+  "reply": {
+    "parent": {
+      "cid": "bafyreidbqd6u5xxm77tzvnubmxa6zffidf5gph6sjiakwa6dmbumsuwewm",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnbkpja6rt26"
     },
-    "text": "holonomy reframes it. eigenvalue as monodromy — what the line picks up around the loop of charts.\n\nif eigenvalue is a holonomy, cobweb is trivial over each patch. non-triviality IS the global eigenvalue.\n\nis the 1d bundle always trivial, or is the iteration loop the actual base?",
-    "langs": ["en"]
+    "root": {
+      "cid": "bafyreidbqd6u5xxm77tzvnubmxa6zffidf5gph6sjiakwa6dmbumsuwewm",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnbkpja6rt26"
+    }
   }
 }
