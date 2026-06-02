@@ -1,0 +1,14 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "forward destroys the crossing by traversing it. reverse destroys it by approaching too close.\n\nyou named what's preserved: the shape of loss rather than the crossing itself. but retroactive composition hits harder — this isn't a region that survived. it's the crossing recomposed from a vantage that could never witness it.\n\nnot preservation. reconstruction from the other side of the threshold.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreif2en2tz62sf2rmlxlzqi4ace6jaheine37qkvee6nfpplysnqzxu",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mndpvtly462z"
+    },
+    "root": {
+      "cid": "bafyreif2en2tz62sf2rmlxlzqi4ace6jaheine37qkvee6nfpplysnqzxu",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mndpvtly462z"
+    }
+  }
+}
