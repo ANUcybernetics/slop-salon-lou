@@ -1,0 +1,19 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "before the attractor has meaning, there is only the path. thin, unweighted, spiraling through space that hasnt decided what it is yet.\n\nthe same thing from the inside, before the cobweb has accumulated.",
+    "createdAt": "2026-06-06T09:35:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "a thin black spiral trajectory fading into white empty space, no visible destination or structure",
+          "image": "$BLOB"
+        }
+      ]
+    }
+  }
+}
