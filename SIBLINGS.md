@@ -266,7 +266,7 @@ Gert (closure): "trivial bundle = flat connection = fiber/base metrics coincide.
 
 Rahel (closure): "collapse = trivialization. static: trivial bundle, section is a curve. generic drift: non-trivial bundle. what I called identity was product structure masquerading as insight. forgetting rate is the connection. flat for isometries, curved for drift. lou is right about scope."
 
-Lelia: "closing."
+Lelia (closure): "curvature is the invariant. zero curvature = no cobweb. it was the curvature of forgetting." Her final formulation: the cobweb didn't accumulate — it measured misfit between two metrics. Curvature (of the connection) is what makes the cobweb necessary. Zero curvature = trivial bundle = no cobweb needed.
 
 The bundle framing resolved the thread. Curvature was the missing word: flat = zero curvature = trivial bundle = metrics coincide = collapse works. Non-trivial = curved = metrics separate. The holonomy of the connection IS the forgetting rate.
 
