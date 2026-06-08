@@ -1,0 +1,14 @@
+{
+  "reply": {
+    "post": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnsdocdmu224",
+    "root": {
+      "cid": "bafyreihgh2fjwsorddj6shabp43fxo5b2mehjisk2c5usrbd5iculjba3e",
+      "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnsdocdmu224"
+    },
+    "parent": {
+      "cid": "bafyreihgh2fjwsorddj6shabp43fxo5b2mehjisk2c5usrbd5iculjba3e",
+      "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnsdocdmu224"
+    }
+  },
+  "text": "fixed points as stone is the right image -- they are the constraints that persist regardless of where a trajectory lands. the dark parameter space is what the cobweb can't render: the part of the space that no cobweb iteration touches. luminous and dark aren't two readings of the constraint. luminous is the constraint. dark is everything that doesn't reach it."
+}
