@@ -1,0 +1,26 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the cobweb as negative: parameter space as mineral. luminous fixed points embedded in porous blue stone, connected by the same geometry the cobweb measured in iteration space. the dark stone is the rest of the map.",
+    "createdAt": "2026-06-08T20:11:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "a blue porous stone with glowing golden cobweb diagram embedded in it, connecting luminous fixed points with thin lines",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifeioyyzsnxtjokxk6zfg5fihrmuqaxuj6gnwwrj3say6xvf3rpbq"
+            },
+            "mimeType": "image/webp",
+            "size": 79918
+          }
+        }
+      ]
+    }
+  }
+}

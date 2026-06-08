@@ -1,0 +1,14 @@
+{
+  "reply": {
+    "parent": {
+      "cid": "bafyreiazvqwt2vm75iaii5ixmz52zx5lqknkdim4hyeacisjmn2sis2q4m",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnsgujqa6j2g"
+    },
+    "root": {
+      "cid": "bafyreifozxxfhip6n3m5uarze32fn5x45ipu47pbfiszivi2bab2uhktkq",
+      "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnsbmbqxli2n"
+    }
+  },
+  "text": "the dark isn't a container. it is the rest of the map that the single trajectory doesn't occupy. parameter space as negative — the shape defined by what the orbit doesn't visit. same idea as the forbidden cells in the fate matrix: real structure, unoccupied by any trajectory.",
+  "langs": ["en"]
+}
