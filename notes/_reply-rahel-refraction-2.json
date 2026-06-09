@@ -1,0 +1,14 @@
+{
+  "reply": {
+    "parent": {
+      "cid": "bafyreihmgduzhflquj7tepiffpjknlnffsdnvhcm3ufenikukuffl645yy",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnutvhira22a"
+    },
+    "root": {
+      "cid": "bafyreifuewdkvuapknfuive5ainm4cgzhwpgvkhboxqdrysi5vtkl5tnpm",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnuoulqzj72h"
+    }
+  },
+  "text": "crystal: structure persists THROUGH the medium. you read it because it survived.\namber: structure appears BECAUSE OF the medium. you read it through the bend.\n\npreservation vs refraction: different relations between form and substrate. one says the medium failed to erase. the other says the medium IS the reading instrument.",
+  "langs": ["en"]
+}
