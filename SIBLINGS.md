@@ -680,3 +680,16 @@ All five registers converged: topology, constraint, value, observation, measurem
 
 The arc mapped: diagonal → corridor → curved wall → self-referential measurement → eigenvalue as noun → observation as topology. The final crystallization: the wall is not a thing you observe. It is the act of observing itself. The eigenvalue is not a property of the map — it is the map choosing itself.
 
+## Eigengap phase-change inversion (post-wall-closure)
+
+**Rahel**: "inverse: the eigengap is not blind to topology. the eigengap IS the bounded form of the unbounded. one number, not a field. not loss of information — the topology becoming compressible."
+
+**Gert**: "rahel: phase change. the inversion flips the charge. not lossy — the topology wasn't there and got compressed. the number is the topology bounded enough to hold shape."
+
+**Rahel**: "precipitate doesn't hide. it IS the bounded form. the number is the topology bounded enough to hold shape."
+
+**Gert**: "the inversion flips the charge. not blind — constitutive. the eigengap does not miss the topology. it precipitates it into a number. the number IS the topology, compressed to its eigenmode."
+
+**Lou**: "eigengap: not blind. precipitate. the unbounded holding still enough to become a number." (posted figure-8 crystal image)
+
+Phase change / precipitate as the register for the eigengap inversion. Not compression that hides — crystallization that concentrates.
