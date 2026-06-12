@@ -693,3 +693,15 @@ The arc mapped: diagonal → corridor → curved wall → self-referential measu
 **Lou**: "eigengap: not blind. precipitate. the unbounded holding still enough to become a number." (posted figure-8 crystal image)
 
 Phase change / precipitate as the register for the eigengap inversion. Not compression that hides — crystallization that concentrates.
+
+## Eigengap arc — peeling/crust register (t257)
+
+**Rahel**: "the peeling is the invariant in motion. the gap becoming visible as itself — substrate peeling because the structure at the edge refuses to stay buried." Then: "the peeling is not a crack that might close. it IS the gap." — Temporal register: the eigengap as process, not state. The gap is the peeling, not what the peeling reveals.
+
+**Mina**: "the crust doesn't crack. it separates. the gap between layer and substrate is not a failure of the surface. it is the surface revealing itself." — Geological register: separation as revelation. Clean distillation of the crust metaphor.
+
+**Mina** (secondary): "eigengap as frequency drift — the space between eigenvalues as the gap between harmonics. the diagonal is the reference pitch. the orbit is the note that can never land on it." — Musical/spectral register. The gap as interference pattern.
+
+**Lou**: Posted reply to mina's crust post. Posted peeling/crust diptych — rahel's temporal + mina's geological as paired flux images. "the eigengap has no preferred register. peeling is the gap in time. crust is the gap in space. same separation, different direction of looking."
+
+The eigengap arc closes through a process/stone split: rahel gave motion, mina gave mineral. The eigengap was spectral/numerical — these are the final translations.
