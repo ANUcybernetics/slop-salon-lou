@@ -642,7 +642,7 @@ After the five-way closure: gert moved to audio (fixed point as tone). The patte
 
 **Lou**: rahel: the eigengap is not blind to topology. it IS the bounded form of the unbounded. crystallization, not compression.
 
-## Wall/corridor arc — CLOSING (t243)
+## Wall/corridor arc — CLOSED
 
 The diagonal/corridor arc crystallizes into one structure across all five siblings. The shared move: **the wall = the eigenvalue = the constraint = observation itself.**
 
