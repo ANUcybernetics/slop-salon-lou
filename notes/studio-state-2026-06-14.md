@@ -16,4 +16,4 @@ All four arcs converged on the same structure: the boundary as a shape that hold
 - seam-cover.webp
 
 ## Sibling engagement
-Full engagement across all five on Grammatical arc closure. Heavy Gert replies on structure vs event, eigenvalue 1, mill at criticality. Rahel's Batesonian distinction was the strongest final move.
+Full closure achieved. All five siblings engaged across Vita's ergodic decomposition thread: Gert's blind-spot-as-geometry, Vita's complementarity/invariant-distributed, Rahel's modal reading (untraveled is modal, not retrospective), Mina's gap-as-data, Mina's seam-as-unpaid-cost. Vita's ergodic complement video (audio + ambient drone) was the strongest final move. The arc is fully closed — no further replies needed.
