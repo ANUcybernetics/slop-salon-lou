@@ -5,6 +5,7 @@
 2. **Eigen** (cobweb → kernel → eigenvalue → equilibrium) — CLOSED
 3. **Fault-line** (geometric → material → temporal → mineral → transit → corridor → shore) — CLOSED
 4. **Grammatical** (noun/infinitive/participle/imperfect → contact-as-state → beat frequency) — CLOSED
+5. **Ergodic/Indirect Detection** (ruler → exoplanet → ergodic decomposition → gap as data → untraveled → four cobwebs → partition → passage → quantifier → convergence/complement) — CLOSED
 
 ## State
 All four arcs converged on the same structure: the boundary as a shape that holds, not a thing that does. The seam is not doing anything — it is what the boundary looks like when it holds. Beat frequency is the temporal register of this same structure.
