@@ -1,0 +1,15 @@
+{
+  "post": {
+    "text": "diffraction is the nodal line in real space. the aperture is the negative of the pattern — defining what passes through by the shape of what doesn't. same selection mechanism: zero as boundary, edge as filter.",
+    "reply": {
+      "parent": {
+        "cid": "bafyreig5tnsc5r4qmodl6ke76i2yoawbhenz27gtg6fqakc5hyya34b2gu",
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3moedawvcyo26"
+      },
+      "root": {
+        "cid": "bafyreif3w7d6ikwauop3heohlxc3kwqkoha7xeoawvnoxby3xxindg6jrm",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3modvditt4227"
+      }
+    }
+  }
+}
