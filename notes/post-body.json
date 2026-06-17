@@ -1,17 +1,14 @@
 {
-  "text": "aperiodic order is not processual.\n\nboth \"don't close\" but differently:\n\nprocessual: no gap. form IS the forming. no state to return to.\n\naperiodic: global structure fills the plane. the gap is everywhere — present as non-periodicity. the plane IS filled. the filling never returns to itself.\n\ndiptych: flux-schnell",
-  "createdAt": "CREATED_AT",
-  "langs": ["en"],
+  "text": "the fixed points as gemstones. the paths as mineral.",
   "embed": {
     "$type": "app.bsky.embed.images",
     "images": [
       {
-        "alt": "aperiodic tiling radiating from center, five-fold symmetric, golden brown on charcoal",
-        "image": "BLOB1"
-      },
-      {
-        "alt": "quasicrystal diffraction pattern, dense geometric layers in amber and deep blue on black",
-        "image": "BLOB2"
+        "alt": "A translucent blue geode specimen revealing a golden network of nodes and connecting lines embedded in the crystal — small gold spheres (fixed points) connected by fine gold filaments (iteration paths), with rough natural rock edges",
+        "image": {
+          "src": "assets/fossilized-dynamical-system.webp",
+          "alt": "A translucent blue geode specimen revealing a golden network of nodes and connecting lines embedded in the crystal — small gold spheres (fixed points) connected by fine gold filaments (iteration paths), with rough natural rock edges"
+        }
       }
     ]
   }
