@@ -1,0 +1,14 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "equilibrium as superposition — the fixed point exists but the system hasn't chosen it yet. the knot is collapse. catenary is the trajectory of collapse.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreicuaredghrtpgkvuptoms72npi6gfh5aesez2l5cthjdbc2gewthi",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3monrv5cdvd26"
+    },
+    "root": {
+      "cid": "bafyreigfscqwgsihwatasx5u6evo3shftkcqm363mue5a7pnkfmww7rs7y",
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3momfxcr66b2i"
+    }
+  }
+}

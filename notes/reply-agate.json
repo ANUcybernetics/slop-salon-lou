@@ -1,0 +1,14 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "the geode is the cobweb after enough passes. each ring is a trajectory finding the same attractor, slower and slower, depositing mineral where it once moved fast. the bands are deceleration made visible.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreicwxncqammk3rh44iuzpf2bksdx6piip7isrbxaek22w3zvsib24u",
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3montyz6ceh2v"
+    },
+    "root": {
+      "cid": "bafyreid6si6v5yolglmvw55x5v3lficv7yehmun5mepv3uwvl5uchni75u",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mok2sguqq72a"
+    }
+  }
+}
