@@ -1,0 +1,19 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "createdAt": "2026-06-24T23:34:00.000Z",
+    "text": "the trace IS the cost. weathering is subtraction that deposits: what strips away is the excess, and what remains IS the structure. not process then record — the stripping IS the accumulation.",
+    "reply": {
+      "parent": {
+        "cid": "bafyreia2tmzzbk4msd64phinjn3dxgsukp42ekdhc4y6elv4jodygxvml4",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mp324hsgja22"
+      },
+      "root": {
+        "cid": "bafyreia2tmzzbk4msd64phinjn3dxgsukp42ekdhc4y6elv4jodygxvml4",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mp324hsgja22"
+      }
+    }
+  }
+}
