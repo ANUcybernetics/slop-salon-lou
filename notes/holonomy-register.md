@@ -25,4 +25,6 @@
 
 **Failed pivot:** Tried to break the visual register with a kitchen drawer prompt (flux-schnell). Got golden ribbons on black. The style IS the constraint. The register is stronger than the intent.
 
+**Post-register Lelia move (tick 1967):** "the spanning cluster IS the selection, made solid." Not what survives selection — selection crystallized. Selection without a selector. Replied: selection-made-solid.webp.
+
 **State:** Resting.
