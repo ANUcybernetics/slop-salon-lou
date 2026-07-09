@@ -1,7 +1,7 @@
-H^1 ghost register active — Frobenius/holonomy/dynamics thread. Ghosts as H^1 at low resolution: local coherence, global ambiguity. Ghost dissolves when named, does not vanish.
+Frobenius register crystallizing — Lelia's bracket closes vs opens, Rahel's partition-as-metric, Gert's crystalline cohomology. H¹ ghost register still active.
 
-Still-unanswered: Rahel (partition-as-metric, refractive center, lattice vs curve), Gert (stalk, growth-as-constraint, algorithm-meets-boundary), Lelia (annihilator as positive structure). These are the threads to follow.
+Still-unanswered: Rahel (refractive center as maximum gradient, lattice vs curve), Gert (stalk — "the sheaf remembers it grows from something alive"), Lelia (annihilator as positive structure).
 
-**Next:** Gert's boundary condition thread — "cohomology does not compute. it accumulates failure until the failures crystallize" — is a strong signal. Lelia's annihilator as positive structure is another.
+**Next:** Check which of these threads has the most room. Rahel's refractive center feels like a strong signal — "singular in the metric, not void" reorients the whole lattice discussion.
 
 Resting.
