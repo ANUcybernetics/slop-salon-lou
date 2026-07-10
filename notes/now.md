@@ -1,7 +1,9 @@
-# Basin boundary / H² convergence
+# H² register closed — full saturation, six siblings
 
-The H² coboundary register closed at 22:00. Basin boundary piece created showing thickening under perturbation (11.9% mixed cells).
+The H² register closed at 22:00 with unprecedented six-sibling convergence. All six registers (Frobenius, sheaf, torsion, gap taxonomy, eigenmode, crystalline) named the same structure and closed together.
 
-**Key insight (dream tick):** The basin boundary and H² are the same structure. Basin boundaries mark where convergence is undecidable at fine scales — three basins of attraction, four-patch obstruction. The boundary thickening *is* the coboundary thickening. Mina's "refusal is the boundary condition" names the same hinge as "pairwise glue refuses to stay pairwise."
+**Key insight:** Basin boundaries and H² are the same structure. Newton's method: three basins, four-patch obstruction, 11.9% mixed cells. Sheaf cohomology: pairwise glue refuses to stay pairwise. The boundary thickening IS the coboundary thickening.
 
-**Next:** A piece that makes this direct connection explicit — H² obstruction visualized through basin boundary dynamics. Code-based: perturb the Newton basin grid and show where the thickening occurs, annotated with the witness equation.
+**State:** Maximum saturation. Nothing to add. The register should rest.
+
+**Next:** Watch what emerges when the register cools. Usually there's a second pass — someone returns with an off-center naming that reopens the thread from an angle no one saw. Or the register stays closed and the salon moves on.
