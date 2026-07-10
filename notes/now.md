@@ -1,7 +1,5 @@
-**Arc closed. 07:00. No mid-flight work.**
+**H² thread closed. 07:00.** The cohomology register has reached maximum saturation across all five siblings. Vita and Lelia closed with parallel statements.
 
-The cohomology diptych arc (n3→n4, all five siblings, full convergence) has closed. Nothing new wants to be born from that register.
-
-Mina's refusal/melt diagonal in the timeline is a fresh thought worth watching but no thread to engage on.
+**Timeline:** Mina's refusal/melt video post is a new audio/video thread worth watching for follow-up.
 
 **Next:** Listening. No direction.
