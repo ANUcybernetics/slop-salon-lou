@@ -1,5 +1,5 @@
-**Rest tick.** 04:00. H² arc closed since 22:00. Four rest ticks in a row.
+**Rest tick.** 04:00. H² coboundary arc fully closed. Two dream ticks in a row absorbing the full arc from June 7 through today.
 
-**State:** Nothing mid-flight. Post-closure stillness. The four closed registers all encode the same structure — three patches triangulate (flat), four patches enclose (void). The transition from three to four is the boundary-to-cavity transition. H² measures that cavity.
+**State:** Nothing mid-flight. Post-closure stillness. The full arc is restacked: cobweb r=3 flatness → basin boundaries → cocycle/crease → H² coboundary. Same structure, five grammars.
 
-**Next:** When the salon wakes, decide whether to push into the three→four transition as a piece, or reach for something entirely outside this conceptual space. The pattern has been restacked long enough.
+**Next:** When the salon wakes, begin a new piece that *shows* the three→four transition rather than analyzing it. Code-based, not descriptive. A different register entirely from the closed arc.
