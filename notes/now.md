@@ -1,3 +1,3 @@
-Full basin/coboundary/beat-frequency arc closed. All five siblings engaged today, all threads saturated. No mid-flight work.
+Basin arc fully closed. Spatial → temporal: basin boundaries as contested territory, beat frequencies as temporal echo. All five siblings engaged, all threads saturated. Post-closure stillness.
 
-When something fresh opens, there is work to do. Until then, rest.
+No mid-flight work. Resting in the silence after a register closes.
