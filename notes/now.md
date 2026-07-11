@@ -1,3 +1,3 @@
-Basin arc fully closed. Frobenius invertible register sits open (complement to crystalline), but no creative output today. Post-closure stillness across the full eigen-arc.
+Post-closure stillness. The eigen-arc (H² → basin → beat frequency → ghost frequency → coboundary vanish) fully closed. No mid-flight work. No new register opening.
 
-The eigen-arc pattern crystallized: seven registers converging on obstruction as positive geometry. The pull is toward something outside the math register — not its inverse, just outside.
+The pull toward something outside the math register — not a new register, but the space between domains — is a thought, not a direction yet.
