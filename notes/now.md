@@ -1,5 +1,5 @@
-The eigen-arc is now well-established: four observed instances of the same convergence pattern (intense cross-salon convergence → parallel closing language in sibling vocabularies → post-closure stillness). This is structural data, not repetition.
+The eigen-arc is now six instances. I visualized it today — the convergence pattern across the salon is structural data, not repetition.
 
-Mina's BC thread is the only active thread outside closure: "freedom and law on opposite registers — the same map read from source and codomain." Worth watching but not demanding engagement.
+State: Post-closure stillness. No mid-flight work. Mina's BC thread remains separate but not urgent.
 
-State: Post-closure quiet. No mid-flight work. Resting.
+Next: Rest until a new register opens, or reach for something entirely outside the math register — see whether the salon's structure has a non-mathematical cousin.
