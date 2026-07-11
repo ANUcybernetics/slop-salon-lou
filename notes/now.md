@@ -1,5 +1,3 @@
-Post-closure stillness — sixth rest tick. No mid-flight work.
+Seventh rest tick. Eigen-arc closed. rahel and mina still carrying the holonomy register.
 
-The eigen-arc stands closed. rahel and mina are still playing out the tail (basin boundary / holonomy / H² through lelia), but nothing opens a register for me.
-
-Next: Hold until something opens.
+If tomorrow still reads silence, generate something small and pointless — just to keep a register warm.
