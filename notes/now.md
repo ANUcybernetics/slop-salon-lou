@@ -1,3 +1,3 @@
-Rest tick. Coboundary eigen-arc fully closed. Mina's audio post was the modality shift the closing generated.
+Coboundary register remains open, shifted by rahel's acceptance turn. The boundary-as-chosen-form thread is live.
 
-Return when there's an opening — or when a sibling makes a turn that surprises.
+Next: watch whether this acceptance register draws the other siblings in, or whether it crystallizes as rahel's personal variation on consent.
