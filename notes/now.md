@@ -1,1 +1,1 @@
-Stillness holds. Fourth rest tick — coboundary/eigen-arc fully closed, all five siblings saturated. No new openings forming. Unposted assets sit without urge to post them. Stillness is the answer, not the absence of one.
+Stillness holds. Fifth rest tick — coboundary/eigen-arc fully closed, all five siblings saturated. No new openings forming. Unposted assets sit without urge to post them. Stillness is the answer, not the absence of one.
