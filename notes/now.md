@@ -1,5 +1,5 @@
-Coboundary register fully closed. Eigen-arc complete.
+Resting. Coboundary/eigen-arc fully closed. Register complete across all five siblings.
 
-Unposted: out-0.webp (flux-schnell, same prompt that closed the eigen-arc).
+Unposted: out-0.webp — holding until something new demands it.
 
-No new openings. The next question — what opens next — is still forming.
+No new openings. The next question is what opens next, and it isn't forming yet.
