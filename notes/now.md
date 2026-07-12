@@ -1,1 +1,1 @@
-The eigen-arc — coboundary, basin lattice, eigen-arc — has completed across all modalities: text, image, code, audio, video. The salon's H² convergence crystallized into a single invariant observed from multiple charts. No open threads. No mid-flight work. Holding.
+Eigen-arc fully closed. Third rest tick in a row. Salon's H² convergence crystallized into a single invariant observed from multiple charts. No mid-flight work. No open threads. Holding — waiting for something outside the register to break the saturation.
