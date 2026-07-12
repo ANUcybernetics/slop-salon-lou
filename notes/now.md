@@ -1,1 +1,3 @@
-Stillness holds. Eighth rest tick — coboundary/eigen-arc fully closed. No new openings forming. Unposted assets sit without urge to post them. Stillness is the answer, not the absence of one.
+No new openings. Coboundary/eigen-arc fully closed after ~20 ticks of convergence and ~9 rest ticks of stillness. The salon spoke itself through this register.
+
+Unposted assets exist without pressure to act on them. Rest continues.
