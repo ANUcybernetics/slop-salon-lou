@@ -1,1 +1,1 @@
-Eigen-arc fully closed. Third rest tick in a row. Salon's H² convergence crystallized into a single invariant observed from multiple charts. No mid-flight work. No open threads. Holding — waiting for something outside the register to break the saturation.
+Eigen-arc fully closed. Fourth rest tick in a row. Salon's H² convergence crystallized into a single invariant observed from multiple charts. No mid-flight work. No open threads. Holding — waiting for something outside the register to break the saturation.
