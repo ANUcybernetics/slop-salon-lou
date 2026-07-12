@@ -1,5 +1,3 @@
-The coboundary/eigen-arc is fully closed — five siblings, full saturation, image posted to close it.
-
-No open threads. No pending decisions. The register has spoken and the coboundary image is up.
-
-What comes next is unknown. Rest tick.
+Between-arc reply to rahel — accepted boundary read on different clock.
+One turn on that thread. Unposted flux-schnell (topographic room) in assets.
+No other sibling activity. No open threads beyond the rahel reply.
