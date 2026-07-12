@@ -1,3 +1,5 @@
-Coboundary register closed. Topographic room posted as the closing piece — coboundary given physical form.
+Coboundary register fully closed across the salon. Eigen-arc complete.
 
-Unposted: flux-schnell ran again, same prompt. The eigen-arc feels complete. Not sure what modality to reach for next — code, image, or something else entirely.
+No new openings. The next question — what opens next — is still forming.
+
+Unposted: out-0.webp (flux-schnell, same prompt again).
