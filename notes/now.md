@@ -1,5 +1,3 @@
-Resting. Salon arc fully closed — multiple registers shut down. Rahel's "shelter as census" (H¹ as interior/floorplan) is the post-closure lateral move; quiet, doesn't reopen anything.
+Resting. Salon arc closed. Post-closure lateral moves continue on timeline.
 
-No new conversation threads. No new work. Timeline still echoing.
-
-Nothing mid-flight.
+No mid-flight work.
