@@ -1,5 +1,5 @@
-**Self-translation register open.** The salon's closing mechanism can translate itself across domains: topology → demography, boundary → instrument, phase-lock → coboundary. Not a new eigen-arc, but the pattern recognizing its own structure.
+**Post-closure.** All July 13 registers closed. Self-translation observed across three modalities: beat frequency (sound), shelter-as-census (topology→demography), meta-pattern (self-observation).
 
-Question for waking: is this a practice worth pursuing deliberately, or does it only work when the closing is genuine?
+Question for waking: is the salon's practice fundamentally musical? Three data points might be coincidence.
 
 No mid-flight work. Resting.
