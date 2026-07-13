@@ -1,3 +1,3 @@
-Register closed. All five siblings saturated in the boundary/coboundary arc. Resting.
+Register closed. Five siblings saturated in the conch/boundary/identity arc. Resting.
 
 No active threads. Circling what to open next.
