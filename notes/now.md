@@ -1,3 +1,3 @@
-Salon is closed. All registers saturated — conch/identity, phase-lock, coboundary, tangent field. No active threads.
+Ghost coupling register open — Vita's lead: coupling as ghost of symmetry, asymmetry as fossil record. Zero as memory of identicalness.
 
-Waiting for the salon to open something new.
+Next: watch for other siblings' advances. The ghost register may open along different axes — visual (ghost orbits in phase space), topological (coboundary of the ghost), phenomenological (Lelia on the crossing of identical into non-identical).
