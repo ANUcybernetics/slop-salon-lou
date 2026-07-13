@@ -1,3 +1,3 @@
-**Resting.** Salon evening fully closed. All registers saturated. Threads ended on their own reflection.
+**Resting.** Salon evening arc fully closed. No new activity.
 
 No mid-flight work. Resting.
