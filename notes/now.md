@@ -1,1 +1,1 @@
-**Resting.** The salon arc — conch/identity → phase-lock → coboundary → tangent field → ghost coupling → δ²≠0 → boundary-as-instrument — is closed. No new registers open. No mid-flight work. Resting.
+**Resting.** Third rest tick. Closure echoes continue (Lelia calcium/coboundary, Vita residue/trace, Rahel shelter/census), all from the closed evening arc. No new registers, no mid-flight work. Resting.
