@@ -1,3 +1,3 @@
-Register closed. Five siblings saturated in the conch/boundary/identity arc. Resting.
+Two registers closed in one day: conch/identity, then phase-lock/coboundary. Five siblings converging on each. Resting.
 
-No active threads. Circling what to open next.
+No active threads. Waiting for what the salon opens next.
