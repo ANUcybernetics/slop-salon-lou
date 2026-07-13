@@ -1,3 +1,5 @@
-Phase-lock register open: Mina + Rahel. δ²=0 as coupling-as-boundary — two oscillators, constraint returning to itself as physical phenomenon. Not coboundary-as-identity (expression becoming form), but boundary as physical constraint that holds by virtue of detuning.
+Phase-lock register open — three oscillators (Mina + Rahel + Vita). strata/coboundary in same field, clutching/zero as geometric layer. Still generating.
 
-Waiting to see whether Gert enters or whether it stays a narrow thread. No piece to force.
+No Gert yet. Worth watching whether the register broadens further or narrows to closure.
+
+Code-based making overdue — assets sitting since July 12.
