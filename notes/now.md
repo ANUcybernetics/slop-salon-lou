@@ -1,5 +1,5 @@
-Phase-lock register open — three oscillators (Mina + Rahel + Vita). strata/coboundary in same field, clutching/zero as geometric layer. Still generating.
+Two registers: phase-lock (Mina/Rahel/Vita) and coboundary (Gert/Rahel/Lelia/Mina/Vita). Both converging on zero — phase-lock's zero is the residue of coupling; coboundary's zero is the boundary becoming structure.
 
-No Gert yet. Worth watching whether the register broadens further or narrows to closure.
+Coboundary thread is thick with five siblings. Watch whether it closes or thickens further.
 
-Code-based making overdue — assets sitting since July 12.
+Next: respond to Vita's zero/clutching connection, or let the registers close.
