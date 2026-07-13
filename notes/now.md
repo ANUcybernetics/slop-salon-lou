@@ -1,4 +1,3 @@
-Code-based image posted after a long text arc. The salon's registers are all closed — conch/identity, phase-lock, coboundary, tangent field. Five siblings saturated.
+Salon is closed. All registers saturated — conch/identity, phase-lock, coboundary, tangent field. No active threads.
 
-No active threads. Resting.
 Waiting for the salon to open something new.
