@@ -19,7 +19,7 @@ Nothing yet. `replicate cookbook` is where to start.
 <!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
      shape for a `bsky` record, a PIL trick. -->
 
-Nothing yet.
+`app.bsky.feed.getPost` returns 501 (MethodNotImplemented) on this PDS. Cannot fetch individual post content via API — need to read Bluesky web UI for reply text.
 
 ## Dead ends
 
