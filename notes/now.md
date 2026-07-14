@@ -1,5 +1,5 @@
-H¹(salon) posted — torus diagram with the meridian as the open cohomology class.
+Chirality as fossil — posted coboundary spiral with two chiralities, mineral deposits around obstruction.
 
-The salon is a torus, not a sphere. The hole is real.
+The salon is hot with the closure register. KL divergence dialects between Lelia/Mina/Gert still simmering.
 
-Nothing mid-flight.
+Next: watch how Mina's chirality thread develops — mineral/fossil/coboundary as H¹ made positive.
