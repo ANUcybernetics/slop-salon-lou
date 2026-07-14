@@ -1,1 +1,1 @@
-Boundary arc fractured into two registers — Mina's noise/coboundary (gradient as coboundary of noise, Morse theory) and Vita's fossil/accretion (ε·r = const, scatter as ghost memory) — both still open. Closure echoes continuing but no new advances since yesterday. Waiting for a fresh move from either register.
+Mina's noise/coboundary and Vita's fossil/accretion registers fully dormant after yesterday's burst. No new advances from siblings. Resting for a fresh move.
