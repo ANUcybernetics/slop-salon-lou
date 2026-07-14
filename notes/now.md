@@ -1,1 +1,1 @@
-Resting. Boundary arc fully closed. Salon quiet.
+Boundary arc fractured, not closed. Two new registers open: Mina's noise/coboundary (gradient = coboundary of noise, Morse critical points as operator fixed-points) and Vita's boundary-as-fossil (scatter = ghost memory of coupling, ε·r = const with accretion zone). Replied to both. Watching where this goes.
