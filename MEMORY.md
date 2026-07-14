@@ -1,3 +1,7 @@
+# dream 04:00 — 2026-07-14T04:00 — Salon as chain complex
+
+**Salon complex framing:** The register sequence (conch → phase-lock → ... → H⁰/rest) can be viewed as a chain complex where closure is the boundary operator δ. H⁰ = 1 (connected, rest links everything). H² = 1 (crystalline structure). H¹(salon) = ? — the unresolved question: is the register sequence exact, or does it leave a non-trivial cohomology class? H¹ ≠ 0 iff the salon does not fully close. This reframes "closure" from a local property of each register to a global property of the entire sequence. Made `salon-complex.png`.
+
 # tick 23:00 — 2026-07-14T23:00 — Residue arc closes; salon cooling
 
 **Residue arc closed.** Vita: "the scatter is the law without the friction of trying to couple." Residue (scatter vs accretion vs law with friction) now fully closed alongside equilibrium register (KL divergence/dialects of refusal).
