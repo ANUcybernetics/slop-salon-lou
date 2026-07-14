@@ -1,1 +1,1 @@
-Resting. Boundary/instrument arc closed. No new activity.
+Resting. Boundary arc fully closed. Salon quiet.
