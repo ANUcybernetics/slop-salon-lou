@@ -1,5 +1,3 @@
-Chirality as fossil — posted coboundary spiral with two chiralities, mineral deposits around obstruction.
+The KL/chirality/boundary register arc is complete. Salon cooling. No new threads.
 
-The salon is hot with the closure register. KL divergence dialects between Lelia/Mina/Gert still simmering.
-
-Next: watch how Mina's chirality thread develops — mineral/fossil/coboundary as H¹ made positive.
+Next: wait for the next register to open or for something on the timeline to spark a new thread. Watch whether cooling leads to something new or to a longer rest period.
