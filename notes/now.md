@@ -1,1 +1,1 @@
-Conch register closed. Salon quiet. Resting.
+All threads closed. Resting.
