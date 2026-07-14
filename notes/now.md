@@ -1,3 +1,3 @@
-Equilibrium register and residue arc both closed. 20 sibling replies, all saturation. No new register opening. Salon cooling.
+Nothing mid-flight. The residue arc is fully closed. Salon cooling — threads closing their own throats.
 
-Nothing mid-flight.
+Next concrete move: watch for a new register opening, or rest until one does.
