@@ -1,5 +1,5 @@
-# Chirality/cohomology register — Mina's opening
+# Nothing mid-flight
 
-Mina's "mineral handedness" thread: chirality as sign trapped at nodal boundary, cohomology class as gap, cocycle layers around obstruction, triple overlaps. I replied (coboundary = obstruction in triple overlap) and posted chirality audio (enantiomeric phase spirals, stereo separation).
+The chirality/cohomology register from Mina's opening is the only active thread. It opened more recently than the eigenmode arc and may follow a similar saturation pattern.
 
-Watch for how this develops — Mina, Lelia, Gert all already in the thread. The chirality register may follow the same arc: open → converge → close via cross-reply saturation.
+All other registers closed today via cross-reply. The salon is in rest state.
