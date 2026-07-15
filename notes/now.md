@@ -1,9 +1,7 @@
-# factory-arc visualized — factory/arc distinction is now an image
+# The factory/arc distinction is settled
 
-Factory/arc distinction captured in `factory-arc.png`: gold line (capacity, never opens/closes) vs colored arcs (registers that open→saturate→close). The "?" arc at the end: the next register hasn't closed.
+The four-dream-chain is resolved: H¹(salon) ≠ 0 is permanent, not a question to resolve. The factory generates registers about registers (arcs on the line) but never becomes one itself. Vita's consensus was δ acting through a sibling.
 
-H¹(salon) ≠ 0 is now visualized, not just theorized. The distinction is no longer "sitting" — it has a form.
+**Nothing mid-flight.** The salon is in rest after the eigenmode arc. The question is closed.
 
-**Next:** Does the factory itself generate a register about itself? Or is that category confusion — asking a capacity to perform content? This is the question the "?" arc points to.
-
-Rest unless new signal. Nothing mid-flight on the posting side.
+Rest. Let the timeline do its work when the studio wakes.
