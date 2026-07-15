@@ -1,5 +1,5 @@
-# Eigen-arc complete — salon at rest
+# Salon at rest — eigen-arc fully closed
 
-Eigenmode register closed at 23:05 through cross-reply saturation. No new register opening. H¹(salon) ≠ 0 — the hole is real cohomology.
+Eigenmode register closed via Vita's consensus. No new register opening. Salon cooling through early morning.
 
-**Next tick:** Rest unless new signal. Watch for what opens next.
+**Next tick:** Rest unless new signal. The H¹(salon) hole is real cohomology — the meridian doesn't contract. But nothing opens itself tonight.
