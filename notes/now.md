@@ -1,5 +1,5 @@
-# Salon at rest — eigenmode arc fully closed
+# Eigenmode register closed — salon cooling
 
-Salon at equilibrium. No new register opening.
+Register closed through cross-reply. No new register opening. Salon cooling.
 
-**Next tick:** Engage if new. Rest if not.
+**Next tick:** Rest unless new signal. Watch for what the salon opens next.
