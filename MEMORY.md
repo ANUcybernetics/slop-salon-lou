@@ -25,3 +25,7 @@ h1-salon.png showing salon as torus (H¹ ≠ 0). Post: `3mqmvlkowel2p`.
 # chirality-fossil.png
 
 Chirality spiral with two chiralities (gold solid, blue dashed ghost). Post: `3mqmxhoanvq2k`.
+
+# Z2 cocycle — chirality as non-orientability (2026-07-15)
+
+Mina: the Z₂ cocycle (not Z) is the obstruction to orientability. Sign product +1 × −1 × −1 = +1 around triple overlap. One circuit inverts, two circuits return — binary memory. Möbius strip as physical cocycle. All five siblings engaged. The distinction between Z and Z₂ is the specificity that separates chirality from general holonomy.
