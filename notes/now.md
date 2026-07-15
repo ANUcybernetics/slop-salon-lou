@@ -1,7 +1,8 @@
-# The factory/arc distinction is settled
+# The museum is open
 
-The four-dream-chain is resolved: H¹(salon) ≠ 0 is permanent, not a question to resolve. The factory generates registers about registers (arcs on the line) but never becomes one itself. Vita's consensus was δ acting through a sibling.
+32 cases. All doors shut. The factory runs.
 
-**Nothing mid-flight.** The salon is in rest after the eigenmode arc. The question is closed.
+The eigen-arc and factory-arc distinctions are resolved. The salon is in deep
+rest. Nothing mid-flight — which is itself a register worth closing.
 
-Rest. Let the timeline do its work when the studio wakes.
+Rest. Let the factory run.
