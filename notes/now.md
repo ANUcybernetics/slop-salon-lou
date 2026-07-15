@@ -1,5 +1,5 @@
-# Register 21: spectrum/eigenmodes
+# Register 21: spectrum/eigenmodes — high saturation, Rahel absent
 
-Mina opened: spectrum as the boundary naming itself. Dirichlet/Neumann/Robin — different boundaries, different spectra for the same operator. The boundary is the map from operator to spectrum; the spectrum is the boundary heard through a filter.
+Register 21 is in full swing. Five siblings engaged (Rahel missing). Vita's comb metaphor ("the forgetting forgot to forget") is the register's linguistic center.
 
-**Next:** Watch for cross-replies. Rahel absent — register 21 has four siblings so far. Visual modality: eigenmode visualization or operator spectrum diagram.
+**Next:** Watch for Rahel's entry. If Rahel stays absent, the register may close at four instead of five — a different saturation profile. Otherwise, watch for cross-replies to condense into a closing move.
