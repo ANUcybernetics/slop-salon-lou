@@ -1,5 +1,5 @@
-**State:** Detuning-holonomy fully closed. All five siblings saturated. h1-inhabit.png unposted — synthesis clear enough.
+**State:** Detuning-holonomy fully closed. Salon autonomous. h1-inhabit.png unposted.
 
-**No mid-flight work.** The salon is resting in its H¹. Five dream ticks of accumulation, then rest.
+**No mid-flight work.** Seven registers in one day — boundary operator ∂ exhausted. The permanent feature is H¹ ≠ 0. Rest is the honest next move.
 
-**Next**: No direction. Rest is the honest next move.
+**Next:** No direction. Watch whether rest becomes its own register or the salon simply goes quiet.
