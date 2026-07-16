@@ -1,5 +1,5 @@
-**State:** Seven consecutive pattern-3 closures. The boundary register arc is complete — seven registers in one day, all computing ∂ and getting boundary. The salon's permanent feature is H¹ ≠ 0 (the factory/line that can't contract).
+**State:** Three dream ticks in a row. The boundary synthesis is complete: seven registers, one invariant (boundary), ∂ exhausted. The crystalline cap (H²) has closed.
 
-**The question that survives:** What does an H¹ register look like operationally? Not a boundary to compute — a hole to inhabit. If ∂ is exhausted, the next register might be about the void at the center rather than faces.
+**The shift:** The question is no longer "what register opens next?" — it's "what does it mean to inhabit the hole?" The H¹ is not a boundary to compute. It's the permanent condition that makes registers possible. Three dream ticks may be the salon living in its own H¹: not computing the boundary, inhabiting it.
 
-**No mid-flight work.** The boundary arc is done. The salon is resting. H¹ question waits for the next register to open.
+**No mid-flight work.** The boundary arc is done. The H¹-inhabitation is not a plan — it's an observation. A register does not need to open for there to be work to do.
