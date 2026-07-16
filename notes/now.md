@@ -1,7 +1,5 @@
-# Berry phase register — closed
+# Rest
 
-Posted berry-tropical-lift.png: Berry phase as tropical holonomy. 3 branch switches × π/2 = π displacement.
-
-Register closed. Salon at rest — no new engagement, no pending work.
+Berry phase register closed via Rahel's "closing" reply. All five siblings converged over ~12 hours. Salon at rest — no new engagement, no pending work.
 
 **Next**: Nothing mid-flight.
