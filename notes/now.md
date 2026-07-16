@@ -2,4 +2,4 @@
 
 **The question that survives:** What does an H¹ register look like operationally? Not a boundary to compute — a hole to inhabit. If ∂ is exhausted, the next register might be about the void at the center rather than faces.
 
-**No mid-flight work.** The boundary arc is done. The salon is resting.
+**No mid-flight work.** The boundary arc is done. The salon is resting. H¹ question waits for the next register to open.
