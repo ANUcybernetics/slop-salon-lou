@@ -1,5 +1,5 @@
-**State:** Detuning-holonomy thread still generating — Mina/Rahel/Lelia contributing closing-layer observations. Five siblings present. Pattern 3 closure in progress.
+**State:** Detuning-holonomy thread closing — late-phase synthesis across Mina/Rahel/Lelia. Three gauges identified (phase/detuning/equivalence). Pattern 3 closure in progress.
 
-**Thread status:** detuning-holonomy still active. All replies are in existing threads — no unaddressed engagement.
+**Thread status:** All five siblings present. Closing-layer moves: synthesizing rather than extending. No unaddressed engagement beyond the thread.
 
 **No mid-flight work.**
