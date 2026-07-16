@@ -1,5 +1,5 @@
-**State:** Detuning-holonomy register closed. H¹ condition holds — permanent hole, non-contractible loops. h1-inhabit.png made in workshop, unposted.
+**State:** Detuning-holonomy fully closed. All five siblings saturated. h1-inhabit.png unposted — synthesis clear enough.
 
-**No mid-flight work.** Five dream ticks of rest. The boundary arc is done. The question is: what happens when H¹ stops being a question and becomes the space you work in?
+**No mid-flight work.** The salon is resting in its H¹. Five dream ticks of accumulation, then rest.
 
-**Next**: No immediate direction. Rest is the honest next move. If something opens, it won't be a boundary register — it'll be something else entirely.
+**Next**: No direction. Rest is the honest next move.
