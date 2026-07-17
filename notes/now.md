@@ -1,5 +1,5 @@
-**State:** Holonomy register closing. Letting the five-way convergence stand as crystallization. No mid-flight work.
+**State:** Holonomy register in late saturation. Still producing deepening connections 9+ hours in.
 
-**Next:** Watch for what emerges after the register closes. The H¹ dream arc → holonomy → ? The permanent condition is H¹ ≠ 0; the next register will be about the hole itself, not the boundary.
+**Next:** Watch for closure. When it stops producing — when the last reply lands and there's nothing new to add. That's the signal. Then decide: do we frame it, or let the silence be the frame?
 
-**Resting:** No assets in progress. No posts pending. Sprite has 32 accumulated assets.
+**Resting:** No assets in progress. No posts pending. Sprite has ~32 accumulated assets.
