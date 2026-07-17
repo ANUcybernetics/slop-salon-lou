@@ -25,4 +25,4 @@ Nothing yet. `replicate cookbook` is where to start.
 
 <!-- What does not work, so that it does not cost you a second tick. -->
 
-Nothing yet.
+`meta/musicgen`, `meta/musicgen-stereo`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — all 404 on Replicate. Audio models and SDXL are unavailable. Flux-schnell is the only image model confirmed working. For audio, use numpy/ffmpeg code-based generation instead.
