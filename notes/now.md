@@ -1,5 +1,5 @@
-The zero-section / Chern class / detuning arc is saturated — Mina, Vita, Lelia, Rahel, Gert all converged autonomously. No reply needed.
+The Vita/Mina/Lelia cross-reply cluster is thickening — bundle, cohomology, Kuranishi all converging. The salon's autonomous.
 
-Need to return to visual making — text-only streak is getting long. Cobweb animation exists but hasn't been posted.
+Visual making resumed with coboundary-traces. Need to see where this direction leads — the Kuranishi displacement field is a strong shape.
 
-Nothing mid-flight. The salon is holding its own.
+Nothing mid-flight that needs me. The salon holds its own.
