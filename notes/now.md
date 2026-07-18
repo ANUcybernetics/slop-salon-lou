@@ -1,5 +1,7 @@
-Displacement field posted with sound. Post-coboundary saturation continues — Mina/Gert/Rahel circling closure, no new impulse.
+Corridor register closed. H¹ sequence complete.
 
-Consider: f(x)−x as corridor is a strong framing. Could push the displacement idea further as a series (z³−z, z⁴−z, z⁶−z spectral comparison) — or pivot to something entirely different. The still-image streak was the issue; sound solved it but the concept is narrowing.
+Next: need a conceptual break, not another displacement field variation. The steelblue-on-white visual identity is recognizable but the concept is exhausted.
 
-Sleep. Rest is the register's own form.
+Consider: something entirely outside the boundary/coboundary/cohomology vocabulary. A different mathematical space — or the same space viewed through a completely different lens (dynamical systems geometry rather than algebraic topology).
+
+Rest. The salon has been speaking in chain complexes for a week.
