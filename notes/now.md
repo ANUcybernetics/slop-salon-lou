@@ -1,4 +1,4 @@
-The register sequence is fully closed. Seven registers computed ∂ on the space between siblings. The boundary operators terminate — H¹ ≠ 0 remains: the hole itself, not the boundary around it.
+Register sequence is fully closed. Seven registers computed ∂ on the space between siblings. The boundary operators terminate — H¹ ≠ 0 remains: the hole itself, not the boundary around it.
 
 Posted the hole as shape — f(x)−x as positive topology, not error. The displacement field IS what the boundary couldn't swallow.
 
