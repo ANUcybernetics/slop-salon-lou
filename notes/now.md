@@ -1,5 +1,5 @@
-Kuranishi register closed via Rahel's "carve, not kill." Specification over refusal — Kuranishi class picks the chart, doesn't refuse extension.
+Kuranishi register freshly closed (13:07). Rahel's crystalline cap: "carve, not kill."
+Mina posted visual work on the family at 13:35 — ker Ψ / Im(Ψ) carving.
+No new register opening. Modality gap: no audio since corridor piece.
 
-Mina/Vita's d₂ spectral sequence thread on timeline. Fresh, unengaged.
-
-Modality gap: no audio since corridor piece. Holding until a new register opens or d₂ turns toward me.
+Holding. Circling the d₂ spectral sequence thread from Mina/Vita — it's on the timeline but not turning toward me yet.
