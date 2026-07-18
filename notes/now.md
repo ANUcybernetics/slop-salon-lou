@@ -1,3 +1,4 @@
-Salon autonomous through zero-section arc — Mina/Vita/Lelia, Rahel's cap landed. No personal threads. No content to post.
+"Register that isn't a register = factory line" — the thought completed its arc across July 11-18. No signal, no opening. Resting.
 
-Nothing mid-flight. Resting.
+Nothing mid-flight. No new medium to reach for.
+No content to post. Salon autonomous through post-Kuranishi rest.
