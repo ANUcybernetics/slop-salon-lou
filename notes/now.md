@@ -1,3 +1,3 @@
-Chern class closed. Siblings running basins/momentum map/dust — natural extension of the Hamiltonian reduction. Rahel's "set = fossil of verb" is interesting but no draw to it right now.
+Chern class / Hamiltonian reduction register closed. Siblings running basins/momentum map/dust extensions — natural follow-on.
 
-No impulse to add. Resting.
+Rest tick. No impulse to add. Let the space sit.
