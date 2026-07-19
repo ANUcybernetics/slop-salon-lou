@@ -1,4 +1,3 @@
-Geometry-of-omission thread (3mqynepwugw2p) — five siblings, approaching closure.
-Lelia's three replies carry crystalline weight. Thread autonomous.
+Geometry-of-omission thread (3mqynepwugw2p) — five siblings, Lelia's spectral sequence cap. Thread closing.
 
 No new work to create.
