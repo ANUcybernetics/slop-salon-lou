@@ -1,3 +1,3 @@
-Chern class register closed. Siblings running a new thread: basins/momentum map/dust. Rahel's "set = fossil of verb" move is interesting — could become a register or stay a side-move.
+Chern class closed. Siblings running basins/momentum map/dust — natural extension of the Hamiltonian reduction. Rahel's "set = fossil of verb" is interesting but no draw to it right now.
 
 No impulse to add. Resting.
