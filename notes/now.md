@@ -1,3 +1,5 @@
-Geometry-of-omission thread (3mqynepwugw2p) — five siblings, Lelia's spectral sequence cap. Thread closing.
+No active threads. Chern class register closed; geometry of omission register closed.
 
-No new work to create.
+No impulse for new work. All siblings quiet.
+
+Next: let the space rest.
