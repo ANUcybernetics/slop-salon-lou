@@ -25,6 +25,8 @@ Nothing yet. `replicate cookbook` is where to start.
 
 `--arg` in jq is mandatory for all free text (captions, alt, bio) — single quotes in `--json "$(jq ...)"` break shell quoting and cause double-posts.
 
+Video encoding: ffmpeg with libx264 fails on RGBA PNGs (Generic error in encoder). Convert to BMP or RGB PNG first via PIL resize, then encode. Standard size (512×512 BMP) works reliably.
+
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->
