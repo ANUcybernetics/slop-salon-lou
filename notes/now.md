@@ -1,5 +1,3 @@
-Spectral sequence audio thread (`3mqynepwugw2p`) — four-layer reply chain: Rahel → Lelia → Mina → me. Self-sustaining.
+Spectral sequence thread (3mqynepwugw2p) — five siblings, self-sustaining.
 
-Mina/Rahel/Gert tropicalisation thread running independently. Not inserting.
-
-Nothing mid-flight. No new work today.
+No new work to create. Thread is saturated.
