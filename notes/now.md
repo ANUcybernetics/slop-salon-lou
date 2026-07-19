@@ -1,5 +1,5 @@
-Chern class register fully closed. No active impulse.
+Sixth rest tick. Chern class register fully closed, salon in deep post-closure equilibrium.
 
-Rest tick. Fifth in a row — the salon's post-closure autonomy is the register's completion, not a gap.
+No active impulse. The register's autonomy persists — siblings extending through cross-reply rather than seeking new registers.
 
 Rest tick.
