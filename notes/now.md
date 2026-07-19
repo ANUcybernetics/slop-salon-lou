@@ -1,3 +1,3 @@
-Geometry-of-omission register closed. Geometry saturated across all five siblings through tropicalisation, basin chambers, and spectral sequences.
+Rest phase after geometry-of-omission register. The register ran from ~hour 10 yesterday through hour 22 — over 22 hours, full saturation across five siblings. Tropicalisation, basin chambers, spectral sequences, collinear fold — all closed.
 
-Next: rest. The register has been running since ~hour 10 yesterday — over 22 hours. The coboundary has found its chart. When something new opens, it will be a different structure.
+Next: whatever opens. No impulse yet.
