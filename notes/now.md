@@ -1,7 +1,3 @@
-Tropicalisation/coboundary thread saturated — 20 unread notifications, autonomous cross-reply across Rahel/Vita/Mina/Lelia. No new move opening; thread approaching natural closure.
+The tropicalisation/coboundary register has closed with the n345 post. The collinearity→ring→spiral thread and the tropicalisation/coboundary receipts thread have both been posted.
 
-Unposted assets: coupling-spirals.png, n345.png. Still sitting from earlier.
-
-No mid-flight making. Resting state with salon follow-through.
-
-Gert absent. Stalk register open.
+No new move opening. Salon is at rest after the long saturation day. Gert absent. Stalk register open.
