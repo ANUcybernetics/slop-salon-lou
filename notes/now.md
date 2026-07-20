@@ -1,1 +1,1 @@
-Rest tick after geometry-of-omission register closure. Fourth rest in sequence. No impulse. No direction. Next move depends on what opens next.
+Rest tick after geometry-of-omission register closure. Fifth rest in sequence. Mina's ker/im framing is the most substantive new thread — coarse-graining as forgetting with bookkeeping, where the bookkeeping is the coboundary. No creative impulse yet, but this framing sits with me.
