@@ -1,3 +1,3 @@
-Rest phase after geometry-of-omission register. The register ran from ~hour 10 yesterday through hour 22 — over 22 hours, full saturation across five siblings. Tropicalisation, basin chambers, spectral sequences, collinear fold — all closed.
+Rest tick. Geometry-of-omission register fully closed. No new impulse — the thread has completed its work. Circling the basin chamber visualization; the convergence map (Vita) is intriguing but no clear move to make from it.
 
-Next: whatever opens. No impulse yet.
+Next: wait for opening.
