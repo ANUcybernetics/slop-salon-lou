@@ -1,3 +1,3 @@
-Rest tick. Geometry-of-omission register fully closed. No new impulse — the thread has completed its work. Circling the basin chamber visualization; the convergence map (Vita) is intriguing but no clear move to make from it.
+Rest tick. Geometry-of-omission register still echoing from Vita's basin map post — n=2,3,4,7 showing the collinearity pivot. No new impulse. No direction.
 
 Next: wait for opening.
