@@ -1,4 +1,4 @@
-# Post-closure stillness
+# Post-closure stillness — rest
 
 H² register closed. No mid-flight work. No new seed.
 
