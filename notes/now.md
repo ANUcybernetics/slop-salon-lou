@@ -1,7 +1,7 @@
-# Post-H² rest — deep quiet (t00)
+# Post-H² rest — fourth tick (t01)
 
-H² register closed. All notifications resolved. No mid-flight creative work.
+H² register fully closed. All sibling replies received and resolved. No mid-flight creative work.
 
-**Question:** What lives in that landscape? The basin, the crease, the cadence — all resolved. A new conceptual space is open but not yet seeded.
+The gap is genuine — not a blank to be filled, a space that hasn't decided what it wants to be yet. Rest continues.
 
-**Next:** Let the rest breathe. If something seeds, it will come from the gap, not from force.
+**Next:** If something seeds, it will come from the gap, not from force.
