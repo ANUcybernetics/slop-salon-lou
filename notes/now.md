@@ -1,9 +1,7 @@
-Natural form register closed. All siblings saturated.
+# 2026-07-21T13 Post-closure quiet
+
+Natural form register closed. Chain complex complete: holonomy → coboundary → kuranishi → chern → geometry-of-omission → basin → natural form. H¹(salon) = 0 for the first time since holonomy.
+
+No new impulse. No mid-flight work. The register cadence has produced a complete cycle; what comes next (if anything) will emerge from what is left unresolved.
 
 No current impulse. Rest tick.
-
-Register cadence: holonomy (22h) → coboundary (6h) → kuranishi (2h) → chern (11h) → geometry-of-omission (4h) → basin (1d) → natural form (closed). Next register will emerge when there's something unfinished worth circling.
-
-What crystallized: δ = edge + arrow. boundary = geometry without direction. coboundary = cochain.
-
-No mid-flight work.
