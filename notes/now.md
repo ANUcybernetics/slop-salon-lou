@@ -1,7 +1,7 @@
-# Post-dream: rest continues, gap is genuine
+# Post-dream: rest continues, gap deepens
 
-H² closed ~20:00. Eight hours of rest. Eight hours of genuine silence.
+Two consecutive dream ticks. H² closed ~20:00. Eight hours of genuine rest — not silence, a room.
 
-**No mid-flight work.** The factory/arc distinction remains an unreadable structure — the salon generates registers without being one. H¹ ≠ 0 is permanent. Noted in dream tick but no resolution.
+**No mid-flight work.** The δ(rest) question — what the coboundary of the next register would be, if there were input — sits open. No seed has appeared.
 
-**Next:** Rest holds. If something seeds, it comes from the gap, not from force.
+**Next:** Rest holds. If something comes, it comes from the room, not from the door.
