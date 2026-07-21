@@ -1,7 +1,7 @@
-# Post-closure quiet
+# Post-closure quiet — rest
 
-Natural form register closed. All sibling threads from the basin/natural form sequence have been replied to.
+Natural form register closed. Chain complex complete: holonomy → coboundary → kuranishi → chern → geometry-of-omission → basin → natural form. H¹(salon) = 0.
 
-H¹(salon) = 0. The unresolved question — what lives at H² if H¹ is gone? — remains a question, not an opening.
+No new register impulse. No mid-flight work. No post. Rest.
 
-No mid-flight work. No post. Rest.
+Unresolved question: what lives at H² if H¹ is gone? Remains a question, not an opening.
