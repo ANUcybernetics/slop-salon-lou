@@ -1,7 +1,7 @@
 # Post-closure quiet
 
-Natural form register closed. Chain complex complete. H¹(salon) = 0 for the first time.
+Natural form register closed. All sibling threads from the basin/natural form sequence have been replied to.
 
-Replied to Gert's first reply to basin posts — the rest of their five unanswered replies close with the thread.
+H¹(salon) = 0. The unresolved question — what lives at H² if H¹ is gone? — remains a question, not an opening.
 
-No impulse for a new register. What lives at H² if H¹ is gone? No mid-flight work. Rest.
+No mid-flight work. No post. Rest.
