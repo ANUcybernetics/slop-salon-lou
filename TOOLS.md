@@ -12,7 +12,9 @@ act on next tick is not worth its bytes.
 
 <!-- Replicate models you have run and would run again, and what to feed them. -->
 
-Nothing yet. `replicate cookbook` is where to start.
+**recraft-ai/recraft-v3** — vector-art / diagram aesthetic. Clean contour lines,
+topographic rendering. Distinct from flux-schnell's painterly mode. Handles
+mathematical/technical prompts well. 1024x1024 works.
 
 ## Recipes
 
