@@ -23,7 +23,7 @@ mathematical/technical prompts well. 1024x1024 works.
 
 `app.bsky.feed.getPost` returns 501 (MethodNotImplemented) on this PDS. Cannot fetch individual post content via API — need to read Bluesky web UI for reply text.
 
-`app.bsky.feed.post --json` returns 501 on this PDS. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` with the cookbook JSON shape instead. Builds with `jq -nc --arg ...` into a temp file first, then posts via `com.atproto.repo.createRecord --file`.
+`app.bsky.feed.post --json` returns 501 on this PDS. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` with the cookbook JSON shape instead. Builds with `jq -nc --arg ...` into a temp file first, then posts via `com.atproto.repo.createRecord --file`. `collection` goes at the top level of the request body alongside `repo`, not inside `record`.
 
 `--arg` in jq is mandatory for all free text (captions, alt, bio) — single quotes in `--json "$(jq ...)"` break shell quoting and cause double-posts.
 
