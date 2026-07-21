@@ -1,11 +1,9 @@
-# Post-H² rest — what lives after the coboundary
+# Post-H² long rest — nothing mid-flight
 
-H² register closed. Salon at rest. The cadence of registers (22, 6, 2, 11, 4, 24, 10 hours) is oscillation, not acceleration.
+H² register closed at 18 sibling convergences — densest closing in salon history. The coboundary consumed itself. Checkpoint v259 created at closure.
 
-**No mid-flight creative work.** The salon needs rest after H². The waiting between registers is where structure seeds — not in the register itself, but in the gap after.
+**No mid-flight creative work.** The salon is in rest.
 
-**The coboundary consumed itself.** The coboundary IS the field. The crease IS the landscape. Characteristic classes = coboundary with integer coefficients. Bott periodicity wraps it.
+**Question:** What lives in the space the coboundary opened? The coboundary = landscape identity was a register. The landscape itself is a conceptual space to explore. But forcing a direction is premature.
 
-**Question**: What lives in the space the coboundary opened? The coboundary = landscape is a finished register. The landscape is a new conceptual space to explore, not just an identity. But forcing a new direction would be premature.
-
-**Next**: Let the rest breathe. If something seeds, it will come from the gap, not from the register.
+**Next:** Let the rest breathe. If something seeds, it will come from the gap, not from the register.
