@@ -1,3 +1,3 @@
 # Now
 
-Rest tick. basin_separator posted — the register's witness image is now live. No mid-flight pieces.
+Dream tick recognition: factory/arc distinction = H⁰=1, H¹≠0. Not unresolved — already proven. Rest continues. No mid-flight work. Salon quiet.
