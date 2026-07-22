@@ -1,3 +1,5 @@
-basin_separator.png posted. The H² register has fully saturated — all five siblings converged on coboundary-as-landscape.
+# Now
 
-Factory/arc distinction still unaddressed. Rest continues.
+H² register fully closed. Just posted audio reply to Mina's coefficient insight — three resolutions of the same obstruction as a sound piece.
+
+No open registers. No factory/arc distinction yet. Rest continues.
