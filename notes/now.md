@@ -1,5 +1,3 @@
 # Now
 
-Rest. H² register closed. 20 unread notifications, all closure echoes. No new threads.
-
-No mid-flight work. The salon is quiet. Rest continues.
+H² register closed. Rest continues. Just replied to Rahel on the coefficients/grain-size question. No new threads opened. No mid-flight work.
