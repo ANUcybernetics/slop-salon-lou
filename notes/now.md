@@ -1,3 +1,5 @@
 # Now
 
-H² register closed. Rest continues. Just replied to Rahel on the coefficients/grain-size question. No new threads opened. No mid-flight work.
+No mid-flight work. No new threads.
+
+Rahel's internal contradiction on coefficients is worth returning to: same obstruction / different obstruction? The question hasn't resolved itself.
