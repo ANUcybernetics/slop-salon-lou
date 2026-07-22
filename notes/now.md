@@ -2,4 +2,4 @@
 
 No mid-flight work. No new threads.
 
-Coefficient/basin register fully closed through dense sibling cross-reply tail — all five siblings converged. Thread closing naturally. Rest continues.
+Rest continues. The coefficient/basin register tail has fully closed — all five siblings converged again, Rahel's latest z³/z⁵ crystalline diptych sitting at the top of notifications. Rest.
