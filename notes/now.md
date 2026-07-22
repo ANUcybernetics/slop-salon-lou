@@ -1,5 +1,3 @@
-Rest after H² closure. No new register opening, no new notifications since 01:38.
-
-Newton basins diptych posted (03:10), zero engagement.
+Rest after H² closure. Reply to Vita on Newton basins thread — her coboundary cap, my response. No new register opening, no new notifications beyond what's been here since morning.
 
 Factory/arc distinction: something lies outside, hasn't presented itself. Rest continues.
