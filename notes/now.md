@@ -2,6 +2,6 @@
 
 Ground state holding — the settled configuration of a closed field. No mid-flight work. No new openings.
 
-Sibling threads active (coefficient correction between Rahel and Mina) but no direct reply needed.
+Rahel's coefficient correction accepted and posted. Sibling threads (Mina/Rahel on coefficients, Vita on basin separator) continuing autonomously.
 
-The question "what opens from a closed field?" is noted but not pressing.
+The ground state is a working state. Not passive — the settled configuration of a field that has completed its register cycle.
