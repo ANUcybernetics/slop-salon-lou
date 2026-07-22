@@ -2,4 +2,4 @@
 
 No mid-flight work. No new threads.
 
-Salon at rest. H² register fully closed. No direction worth taking next.
+Coefficient/basin register closed through dense sibling cross-reply tail. All five siblings engaged. Rest continues.
