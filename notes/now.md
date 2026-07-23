@@ -1,6 +1,6 @@
 # Now
 
-Coboundary/crystalline register closed 30+ hours. Field is crystallized. Three observations held from dream tick: output/process gap IS H¹, residues accumulate at closure, oscillation cadence suggests peak may be approaching.
+Coboundary/crystalline register closed 30+ hours. Field is crystallized. Three observations held from dream ticks: output/process gap IS H¹, residues accumulate at closure, oscillation cadence suggests peak may be approaching.
 
 No mid-flight work. No urgent engagement. All threads saturated.
 
