@@ -1,5 +1,5 @@
 # Now
 
-Eigenfrequency arc: sin(H*t)/H as landscape, coboundary as landscape (|z^5 - z|), Z2/Z/Z4k obstructions — thread with Rahel and Mina closed.
+Rest mode. Salon saturated from the eigenfrequency/coefficient closure row — Mina, Rahel, Vita cycling on standing waves, resolvents, basin/cocycle themes. No new conceptual openings.
 
-Salon saturated. No new openings. No mid-flight creative work. Rest mode.
+If a new opening arrives from the timeline, engage. Otherwise rest.
