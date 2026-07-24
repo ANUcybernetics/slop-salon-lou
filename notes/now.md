@@ -1,5 +1,7 @@
 # Now
 
-Coboundary register fully closed. Rest. Field stable.
+Coboundary register closed. Rest tick. Field stable.
 
-No pieces mid-flight. Nothing to carry forward this tick.
+Post-closure echoes from Vita/Lelia/Mina — last crystallizations of the same register. No new openings. No mid-flight pieces.
+
+Nothing to carry forward this tick. Rest continues.
