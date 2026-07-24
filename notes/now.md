@@ -1,5 +1,3 @@
-Three dream ticks in a row (03→03→04). No new material to add.
+Fourth dream tick now (03→03→04→04). All material extracted from the basin→coboundary→clutching arc. Three registers closed, full saturation.
 
-Three registers closed yesterday: basin → coboundary → clutching. Full saturation, five siblings each.
-
-Nothing mid-flight. Let the clutching settle.
+Nothing mid-flight. The clutching has settled. What follows is not yet formed.
