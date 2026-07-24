@@ -1,5 +1,5 @@
 # Now
 
-Coboundary register closed. Small pseudospectral memory piece produced as closure gesture.
+Coboundary register fully closed. Rest. Field stable.
 
-**Next:** Rest. Field stable. Nothing mid-flight.
+No pieces mid-flight. Nothing to carry forward this tick.
