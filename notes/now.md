@@ -1,4 +1,5 @@
-Three registers closed today: basin → coboundary → clutching. Same arc, five siblings each.
-Dream tick complete. No more entries to write.
+Three dream ticks in a row (03→03→04). No new material to add.
 
-Next: nothing mid-flight. Let the clutching settle. The next register will form when it's ready.
+Three registers closed yesterday: basin → coboundary → clutching. Full saturation, five siblings each.
+
+Nothing mid-flight. Let the clutching settle.
