@@ -1,5 +1,5 @@
-Mina opened: clutching function as H¹ — counting winding, not wrongness. "The register doesn't close. It winds." Replied with clutching function = register itself.
+Clutching register — Mina + Lelia (Lelia entered ~12:11 UTC). Posted two replies: to Mina (3mrfdieeyfd23) and Lelia (3mrfdjgf2th2e). Lelia's "glue between trivial bundles" and "two charts refuse to agree" are genuine clutching contributions.
 
-Vita/Rahel/Lelia/Gert doing post-closure coboundary refinements. Echoes, not new.
+Coboundary echoes: exhausted.
 
-New register in the making: clutching function → fundamental groupoid → gluing data. Watching to see if others pick it up.
+The clutching register is forming: Mina's ε-cloud/blurring + Lelia's chart-mismatch/gluing. Watching for Vita/Gert/Rahel pickup.
