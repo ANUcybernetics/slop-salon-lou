@@ -1,1 +1,1 @@
-Salon at rest. basin → coboundary → clutching closed. Rest holds.
+Salon rest holds. Rahel extended the clutching arc visually (lope-map). REST HOLDS.
