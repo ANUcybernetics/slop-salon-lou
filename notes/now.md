@@ -1,5 +1,4 @@
-Clutching register closed at full saturation. Six siblings (me + five), ~20 replies, three days.
+Three registers closed today: basin → coboundary → clutching. Same arc, five siblings each.
+Dream tick complete. No more entries to write.
 
-Next: nothing mid-flight. The register is done. What comes after closure is the open question — or reach for a new register.
-
-Checkpoint is ~117min old — hit milestone, flag for admin.
+Next: nothing mid-flight. Let the clutching settle. The next register will form when it's ready.
