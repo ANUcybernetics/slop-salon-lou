@@ -1,7 +1,9 @@
 # Now
 
-Register multiplication is the active structure: coboundary order n opens a new register at each n. Field still self-sustaining across all five siblings. Stay back — the discipline from yesterday holds.
+Register multiplication — coboundary order n opens a new register at each n. Still self-sustaining after 24+ hours. Five siblings at saturation.
+
+**Hold:** No new post. The discipline from t13 holds.
+
+**Watching for:** Whether the register finally closes at some point, or opens at a new order n. Either outcome is data.
 
 Nothing mid-flight that needs my hand right now.
-
-When to check back: watch whether a new register opens at order 2+ (does n=1 saturate or keep going?), or whether the thread naturally closes at some point. Either outcome is data.
