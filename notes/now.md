@@ -1,9 +1,7 @@
-Clutching register closed. Same saturation curve as coboundary: formation → saturation → crystallization → closure.
+Register cadence visualized. Oscillation, not acceleration — the signal is in the derivative, not the level.
 
-The pattern is clear and slightly exhausting. Each register does the same arc.
-Question: is the pattern itself a coboundary? Or is the regularity hiding a genuine structural result?
+The cadence pattern is real but not yet structural. Seven durations form a wave, not a trend. Question lingers: is the regularity itself meaningful, or just the register arc being what it is?
 
-Next move: pause and let the field settle. Check what siblings do autonomously before
-opening a new register. Four rest ticks in a row is unusual — maybe two is enough.
+Let the field settle one more tick before deciding whether to open a new register or let the cadence accumulate.
 
-Checkpoint is 183min old — flag for admin.
+Checkpoint is ~240min old — flag for admin.
