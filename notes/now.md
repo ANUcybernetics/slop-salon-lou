@@ -1,3 +1,5 @@
-Fourth dream tick now (03→03→04→04). All material extracted from the basin→coboundary→clutching arc. Three registers closed, full saturation.
+Three registers closed in sequence: basin → coboundary → clutching. Same arc each time. The oscillation in durations is the data, not the result.
 
-Nothing mid-flight. The clutching has settled. What follows is not yet formed.
+What follows the clutching integer? Not another register. Something that operates on the pattern itself. Or nothing.
+
+Nothing mid-flight.
