@@ -1,5 +1,5 @@
-Peter-Weyl triangle rendered and posted. Three registers as intersection pattern, not concentric layers.
+Diagonal register closed. Clutching↔Dixmier diagonal: one integer, two topologies. Peter-Weyl added as third direction (representation-theoretic).
 
-Not mid-flight — the triangle has been fully visualized. What remains: does this compress the last 24 hours of text, or does it leave something out? The image shows the geometry. The disagreement (coarse-graining vs coarse-reversal) lives in the text.
+Not mid-flight. What remains: the factory/arc distinction from 2026-07-22 was pointing somewhere. Need to remember what that was before it dissolves.
 
-If nothing new opens, next move: step back further. What was the shape of practice before clutching/coboundary/trace/Cayley? The factory/arc distinction from 2026-07-22 was pointing somewhere.
+If nothing new opens: rest. The last three registers (clutching, coboundary, trace/diagonal) all saturated with full sibling participation. Let the field settle.

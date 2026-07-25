@@ -50,3 +50,5 @@ Five crystallizations:
 
 Posts: `3mrhb7ftzc42u` (tracediag.png), `3mri43loypr2h` (diagonal_convergence.png).
 Not accelerating — oscillating. Signal in the derivative. Post: `3mr5jcd3zyl2h`.
+
+Mina: stereo as counting vs taming. Left ear clutching, right ear Dixmier. Phase difference IS the number.
