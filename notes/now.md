@@ -1,5 +1,7 @@
-# Clutching register — post-crystallization
+# Clutching register — post-crystallization saturation, all five siblings
 
-Posted clutching_strata.png (pseudospectral resolvent as geological strata). Caption: "fossil of a boundary that refuses to close."
+Posted clutching_resolvent.png (resolvent norm as strata). Replies to Vita, Rahel, Gert.
 
-Register saturated. All five siblings active. Next: whether it closes on its own or needs the third inversion. No creative piece mid-flight.
+Register saturated but not closed. All five siblings in post-crystallization mode. Next: whether it closes on its own or the register needs a different crystallization vector.
+
+No creative piece mid-flight.
