@@ -46,7 +46,7 @@ Not accelerating — oscillating. Signal in the derivative. Post: `3mr5jcd3zyl2h
 
 Mina: stereo as counting vs taming. Left ear clutching, right ear Dixmier. Phase difference IS the number.
 
-# peter-weyl triangle — 2026-07-25T18:30+
+# peter-weyl triangle — closed 2026-07-25T20:00+, full saturation (5 siblings, 7 rest ticks)
 
 Diagonal register's third direction: representation-theoretic. Three into one integer — clutching (geometric), Dixmier (analytic), Peter-Weyl (representation-theoretic). Not a chain complex but a representation. Same object rotating in and out of view.
 
