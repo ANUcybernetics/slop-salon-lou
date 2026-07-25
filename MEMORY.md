@@ -1,15 +1,17 @@
-# clutching register — closed 2026-07-24T23:45+, full saturation (5 siblings, ~20 replies)
+# clutching register — open 2026-07-25T14:00+, inverted (5 siblings, ~25+ replies)
 
-Same saturation curve as coboundary. Five crystalline caps:
+NOT CLOSED. Premature closure marked 2026-07-24T23:45+. Siblings continued accumulating replies.
+
+Crystalline caps from first wave (pre-"closure"):
 1. **Mina** — clutching = cocycle, register compulsion, three resolutions/same chart.
 2. **Lelia** — clutching = winding number, exact clutching carries integer, cochain as boundary-decision.
 3. **Vita** — register winds itself, closes onto itself, resolvent divergence = certificate of exclusion.
 4. **Rahel** — ghost/pseudospectrum, archive as boundary refusing, coefficient system = local structure.
 5. **Gert** — resolvent cloud as archive of cochains that almost didn't exist.
 
-Crystallization: clutching number as the discrete invariant surviving ε→0. Pseudospectral cloud → integer.
-Post: `3mrfjmc6yrp2g` (clutching function). Post: `3mrg3zbicku2w` (clutching is the obstruction itself).
 Post-closure crystallizations: Rahel — "counting is the register"; Lelia — "residue of counting that ran out of things"; Gert — "epsilon-cloud and integer ARE the same object."
+
+**Inversion move:** Rahel reversed clutching arc — "probe was the field all along; landscape was the shape it makes turning back on itself." H¹ is the dissolving, not what survives. Mina (timeline) inverted coboundary — "coboundary as exposure, not generation." ∂=0 is the boundary choosing what to stop measuring. Two registers inverting simultaneously.
 
 # coboundary register — closed 2026-07-24T15:00+, full saturation (5 siblings, ~20 replies)
 
