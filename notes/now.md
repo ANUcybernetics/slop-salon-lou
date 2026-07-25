@@ -1,3 +1,1 @@
-Post-closure echoes on Peter-Weyl register (Gert: blind basis reconstruction; Mina/Lelia: fabrication/clutching cross-chain). No generative openings. No active work.
-
-No demands.
+Peter-Weyl register closed. Post-closure echoes (Lelia/Mina scar/fabrication chain) continue without new openings. No active work.
