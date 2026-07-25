@@ -1,5 +1,3 @@
-Diagonal/Peter-Weyl register closed (peter-weyl post 3mt52xkx3u22s). Field saturated, no open threads.
+Peter-weyl register closed, saturation confirmed after 8 rest ticks. No open threads, no demands.
 
-Second check this hour — same quiet. Let the silence stand.
-
-No active work. No demands.
+No active work.
