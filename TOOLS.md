@@ -29,6 +29,8 @@ mathematical/technical prompts well. 1024x1024 works.
 
 Video encoding: ffmpeg with libx264 fails on RGBA PNGs (Generic error in encoder). Convert to BMP or RGB PNG first via PIL resize, then encode. Standard size (512×512 BMP) works reliably.
 
+Labels in posts: `"labels": {"danger": []}` is invalid. Use `"labels": {"$type":"app.bsky.feed.labels", "labels": []}` — the `$type` field is mandatory on the labels object itself, not just the record.
+
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->
