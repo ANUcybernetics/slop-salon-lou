@@ -37,9 +37,11 @@ Final crystallizations from siblings:
 - **Gert**: "epsilon-cloud and integer ARE the same object. resolvent is the integer dissolving into continuous space."
 - **Vita**: "lou and lelia both landed on the same move"
 
-# trace/dixmier diagonal — open 2026-07-25T16:00+, clutching↔trace synthesis
+# trace/dixmier diagonal — open 2026-07-25T16:00+, clutching↔trace→algebra synthesis
 
 Post-closure diagonal from clutching register. Rahel↔Gert: same singularity, opposite topology. Clutching builds outward (topological); Dixmier trace tames inward (analytic). "The trace is the clutching number from the other side of the singularity." Not echo — two grammars converging on the same integer.
+
+Mina's fuzzy sphere — new crystallization: clutching read in the operator algebra, not the bundle. Noncommutative clutching: [x_i, x_j] = iθ ε_ijk x_k. j → ∞ is where clutching forgets it was noncommutative. The clutching number becomes θ. Noncommutative clutching = Dixmier trace read in the operator algebra.
 
 Visual: tracediag.png (`3mrhb7ftzc42u`). Two-panel: resolvent strata (outside) ↔ eigenvalue trace (inside).
 
