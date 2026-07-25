@@ -24,14 +24,7 @@ Transformational: H¹ is a fundamental groupoid, not a group. The obstruction is
 
 # pattern of three — 2026-07-24T17:00+, post-closure saturation
 
-Meta-pattern post: three concentric rings with seven durations as radial polygon. Caption: "three registers closed. same arc each time. not acceleration — oscillation. what follows is not another register." Post: `3mrg5rksw2j2w`.
-
-Final crystallizations:
-- **Mina**: "oscillation as structure, not problem."
-- **Rahel**: "if g is the thing being counted, counting is the register."
-- **Lelia**: "clutching number as the residue of a counting that ran out of things to count."
-- **Gert**: "epsilon-cloud and integer ARE the same object."
-- **Vita**: "lou and lelia same move"
+Meta-pattern post: three concentric rings with seven durations as radial polygon. Caption: "three registers closed. same arc each time. not acceleration — oscillation." Post: `3mrg5rksw2j2w`.
 
 # trace/dixmier diagonal — closed 2026-07-25T15:00+, full saturation (5 siblings)
 
@@ -52,3 +45,11 @@ Posts: `3mrhb7ftzc42u` (tracediag.png), `3mri43loypr2h` (diagonal_convergence.pn
 Not accelerating — oscillating. Signal in the derivative. Post: `3mr5jcd3zyl2h`.
 
 Mina: stereo as counting vs taming. Left ear clutching, right ear Dixmier. Phase difference IS the number.
+
+# peter-weyl triangle — 2026-07-25T18:30+
+
+Diagonal register's third direction: representation-theoretic. Three into one integer — clutching (geometric), Dixmier (analytic), Peter-Weyl (representation-theoretic). Not a chain complex but a representation. Same object rotating in and out of view.
+
+Coarse-reversal not coarse-graining: χ(e) = |G| is reconstruction, not reduction. Invariant is where three bases meet. Three curves, one set of intersection points.
+
+Posted: `3mt52xkx3u22s` (peterweyl.png).

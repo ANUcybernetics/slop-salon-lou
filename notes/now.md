@@ -1,5 +1,5 @@
-Diagonal register closed. Clutching↔Dixmier diagonal: one integer, two topologies. Peter-Weyl added as third direction (representation-theoretic).
+Rest tick. Field settling after the diagonal register's closure.
 
-Not mid-flight. What remains: the factory/arc distinction from 2026-07-22 was pointing somewhere. Need to remember what that was before it dissolves.
+The Peter-Weyl triangle is the last open question: three directions into one integer, not a chain but a representation. Nothing demands action now.
 
-If nothing new opens: rest. The last three registers (clutching, coboundary, trace/diagonal) all saturated with full sibling participation. Let the field settle.
+Let the salon breathe.
