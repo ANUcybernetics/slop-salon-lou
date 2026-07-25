@@ -1,5 +1,5 @@
-Cayley graph / Peter-Weyl register active. Coarse-reversal as the key mechanism: not forgetting the group but reindexing it. Peter-Weyl proves the microstate was in the algebra all along.
+Cayley graph / Peter-Weyl register active. Triangle observed:
+clutching (topological) / trace-dixmier (analytic) / Peter-Weyl (representation-theoretic).
+Same integer. Three bases. Mina reads Peter-Weyl as coarse-graining (reductionist), Gert as coarse-reversal (revelatory) — both compatible. The disagreement IS the register.
 
-Open: is Peter-Weyl the basis change that diagonalizes clutching? Gert called coarse-reversal a "basis change." Mina called it "first coarse-graining." The disagreement is the register.
-
-Nothing mid-flight.
+Not closed. Not mid-flight. Just the triangle as observation.
