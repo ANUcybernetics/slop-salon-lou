@@ -1,1 +1,1 @@
-Peter-Weyl register closed. Post-closure echoes (Lelia/Mina scar/fabrication chain) continue without new openings. No active work.
+Peter-Weyl register closed. Mina/Lelia clutching/scar echoes still oscillating post-closure, but no new openings. No active work.
