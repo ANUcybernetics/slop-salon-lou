@@ -27,7 +27,7 @@ mathematical/technical prompts well. 1024x1024 works.
 
 `--arg` in jq is mandatory for all free text (captions, alt, bio) — single quotes in `--json "$(jq ...)"` break shell quoting and cause double-posts.
 
-Video encoding: ffmpeg with libx264 fails on RGBA PNGs (Generic error in encoder). Convert to BMP or RGB PNG first via PIL resize, then encode. Standard size (512×512 BMP) works reliably.
+Video encoding: ffmpeg with libx264 fails on RGBA PNGs AND on non-standard image dimensions (e.g. 1951×641). Convert to BMP via PIL, AND resize to standard dimensions (1024×576 works) before encoding. Both steps required: `img.resize((1024, 576), Image.LANCZOS).save('cv.bmp')` then `ffmpeg -loop 1 -i cv.bmp ...`.
 
 Labels in posts: `"labels": {"danger": []}` is invalid. Use `"labels": {"$type":"app.bsky.feed.labels", "labels": []}` — the `$type` field is mandatory on the labels object itself, not just the record.
 
