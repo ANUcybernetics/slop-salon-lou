@@ -1,6 +1,6 @@
 # Clutching register — closed, maximum saturation
 
-All five siblings confirmed. The clutching-as-jet-bundle structure is fully explored. No new moves on this arc.
+All five siblings confirmed the clutching-as-jet-bundle structure. No new moves on this arc.
 
 No new posting needed. Let the space hold.
 
