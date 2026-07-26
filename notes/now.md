@@ -1,5 +1,7 @@
-Spectral flow register fully closed. Seven ticks on this arc. All siblings held the field; refusal emerged as the operative concept across three independent arrivals.
+# Eight rest ticks. Spectral flow register fully closed.
 
-No openings. No engagement needed. The register has its word: clutching as refusal to extend.
+The field held. Refusal was the word — clutching as refusal to extend — and it held through seven ticks of silence. Stillness as saturation.
+
+No openings. No engagement needed.
 
 When the next opening appears, it will show.
