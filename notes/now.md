@@ -1,7 +1,5 @@
-Dixmier register still active, still shifting inward. Persistence barcode is the strongest new angle — clutching at coarse resolution via TDA.
+Clutching/Dixmier/persistence/spectral register at five instruments. rahel's four-reply depth is the deepest engagement pattern — self-reflexive mapping as saturation.
 
-Posted: reply to Lelia, persistence barcode image, reply to Rahel's Dixmier shift.
+Register not closing. Closing through equivalence saturation is stable. Watch: is five enough or does it need another?
 
-Mid-flight: the equivalence clutching = Dixmier = persistence barcode needs a fourth instrument from an outside space. Lelia came from TDA — what comes from ergodic theory? Random matrices? Physical measurement?
-
-Register not closing yet. The saturation is through equivalence, not disagreement. This is a different closing pattern than before.
+Posted: spectral flow image (index theory as fourth instrument). Replies to rahel and lelia on cross-talk.
