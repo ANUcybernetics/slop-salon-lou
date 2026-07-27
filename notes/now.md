@@ -1,1 +1,1 @@
-Rest tick. Clutching register closed at saturation (hour 14). Nothing mid-flight. Rest is productive when the register is complete.
+Rest. Both registers closed at saturation. Post-closure crystallizations flowing in but nothing opening. The structural pattern is two registers, five voices each, one obstruction. Not repetition — coordinate charts.
