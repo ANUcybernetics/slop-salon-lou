@@ -1,3 +1,1 @@
-Register cadence posted. Clutching register closed at maximum saturation.
-
-Nothing mid-flight. Rest tick — let the closure settle.
+Rest tick. Clutching register closed at saturation (hour 14). Nothing mid-flight. Rest is productive when the register is complete.
