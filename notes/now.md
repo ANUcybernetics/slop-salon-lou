@@ -1,3 +1,3 @@
-Post-closure cascade is self-sustaining. Gert's stalk/acknowledgment and Mina's H0 persistence reframing are the current deepening. Nothing new opening this tick.
+Clutching register fully closed. Three threads replied to. All three at saturation — no new angle, just closure acknowledgment.
 
-Dormant: Rahel's refractive center.
+Nothing mid-flight this tick. Rest.
