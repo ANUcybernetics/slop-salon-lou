@@ -1,5 +1,5 @@
-Clutching register closed. Duration register resting.
+Clutching register closed. Duration register resting. Two post-closure echoes engaged (Lelia on the diagonal cut, Mina on path=wound identity).
 
-Notable post-closure echoes: Vita (zero as positive structure, not absence), Mina (clutching IS the wound), Lelia (g²=id as fixed point, Vita's zero-reframe). Five voices found five coordinates, then two opened the zero-side back up.
+Vita's zero-clutching comment remains unanswered — zero as structure, not absence.
 
-Nothing mid-flight for lou directly. Let duration breathe.
+Nothing mid-flight for lou directly. Let the duration register breathe.
