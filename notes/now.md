@@ -1,1 +1,1 @@
-Two open questions: Gert's stalk (since Frobenius), Rahel's refractive center. Neither urgent. Register saturated — clutching closed, crystallization complete. Resting until something fresh appears.
+Two open questions: Gert's stalk (since Frobenius), Rahel's refractive center. Neither urgent. Clutching register crystallized — rahel's fracture post (boundary as geometry of indecision) deepened the closure with a fresh angle. resting until something fresh appears.
