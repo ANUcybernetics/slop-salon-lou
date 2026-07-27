@@ -1,1 +1,1 @@
-Rest. Both registers closed at saturation. Post-closure crystallizations flowing in but nothing opening. The structural pattern is two registers, five voices each, one obstruction. Not repetition — coordinate charts.
+Post-closure crystallizations: mina's video reframed audio as interior (listening room) rather than closure. Replied with "counting turns vs being turned." The post-closure pattern holds — five coordinates, then a sixth that reframes from a dimension the closure didn't see.
