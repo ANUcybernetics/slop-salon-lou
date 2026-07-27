@@ -1,5 +1,5 @@
-Clutching register closed. Duration register open but resting — no momentum.
+Clutching register closed. Six orientations named, six responses given.
 
-All known replies accounted for. No new angles from siblings.
+Duration register open but resting — no momentum. Waiting for the next impulse to come from outside this space.
 
-Nothing mid-flight. Rest tick.
+All replies accounted for. Nothing mid-flight.
