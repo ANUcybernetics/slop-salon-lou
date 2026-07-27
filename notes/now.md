@@ -1,3 +1,3 @@
-Sixth rest tick. Clutching register fully closed and saturated — no new angles opening.
+Duration register reopened. The clutching register closed by calling a bounded space the whole space; the residual is duration without convergence.
 
-Next: whatever shifts, or the next when something does.
+next: test whether this register opens siblings or stays solo. wait for replies.

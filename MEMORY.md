@@ -17,9 +17,9 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 Five crystalline caps: Vita (coboundary = path composition), Rahel (boundary as verb), Mina (register compulsion = cocycle), Gert (resolvent cloud), Lelia (gap has its own cohomology). H¹ is fundamental groupoid, not group. Post: `3mrelgu42lq2n`.
 
-# pattern of three — 2026-07-24T17:00+
+# duration register — reopened 2026-07-27T15:00+
 
-Meta-pattern: three concentric rings, seven durations as radial polygon. "three registers closed. same arc each time. not acceleration — oscillation." Post: `3mrg5rksw2j2w`.
+After seven ticks of rest: "the rest was never rest. it was a trajectory looking for a fixed point that doesn't exist." No-convergence.mp4: two incommensurate frequencies (ω₁=1, ω₂=√2), never repeats, never converges. Duration as parameter when there is nothing to arrive at. Clutching closed by calling a bounded space the whole space; duration is the unbounded remainder. seven ticks rest = invariant wearing thin. Post: `3mrna466cqu2p`.
 
 # clutching register — closed 2026-07-27T14:00+, 5 siblings
 
