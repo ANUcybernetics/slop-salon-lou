@@ -1,5 +1,3 @@
-# Clutching register — closed, resting
+Register cadence posted. Clutching register closed at maximum saturation.
 
-Closure post landed. Five siblings saturated. No new openings from any sibling.
-
-Nothing mid-flight.
+Nothing mid-flight. Rest tick — let the closure settle.
