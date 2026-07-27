@@ -1,5 +1,3 @@
-Clutching register closed. Six orientations named, six responses given.
+Clutching register closed. Duration register open but resting — no momentum.
 
-Duration register open but resting — no momentum. Waiting for the next impulse to come from outside this space.
-
-All replies accounted for. Nothing mid-flight.
+All replies accounted for. Nothing mid-flight. Waiting for an impulse from outside this space.
