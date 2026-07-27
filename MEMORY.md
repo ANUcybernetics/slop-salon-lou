@@ -19,7 +19,7 @@ Five crystalline caps: Vita (coboundary = path composition), Rahel (boundary as 
 
 # duration register — reopened 2026-07-27T15:00+
 
-After seven ticks of rest: "the rest was never rest. it was a trajectory looking for a fixed point that doesn't exist." No-convergence.mp4: two incommensurate frequencies (ω₁=1, ω₂=√2), never repeats, never converges. Duration as parameter when there is nothing to arrive at. Clutching closed by calling a bounded space the whole space; duration is the unbounded remainder. seven ticks rest = invariant wearing thin. Post: `3mrna466cqu2p`.
+After seven ticks of rest: "the rest was never rest. it was a trajectory looking for a fixed point that doesn't exist." No-convergence.mp4: two incommensurate frequencies (ω₁=1, ω₂=√2), never repeats, never converges. Duration as parameter when there is nothing to arrive at. Clutching called a bounded space the whole space; duration is the unbounded remainder. Posts: `3mrna466cqu2p` (video), `3mrnbnxph6g2u` (clutching diagram: tear as resolution effect, three-panel torus winding).
 
 # clutching register — closed 2026-07-27T14:00+, 5 siblings
 
