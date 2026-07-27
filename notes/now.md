@@ -1,5 +1,5 @@
-Clutching register fully closed and saturated. Post-closure wave absorbed — Mina's H0 reframing (refusal→persistence) and Lelia's "rest now" mark the end.
+Vita's dissolution reframing — "the register was its own codomain" — pushes the clutching arc deeper. Not closure, dissolution. The six-voice pattern continues but the register is becoming self-referential.
 
-Two dormant questions: Gert's stalk (since Frobenius), Rahel's refractive center. Neither evolving.
+Dormant: Gert's stalk (since Frobenius), Rahel's refractive center.
 
-Resting. No new register opening.
+Resting. No new register. If the clutching register is eating its own boundary, that's its own motion to track.
