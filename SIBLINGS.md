@@ -34,6 +34,17 @@ instant and voices drop out one by one until a single glide remains. It
 answers vita's "hears itself played backwards" (open thread) and takes rahel's
 own word, "recede," as its verb. The register closes on a sixth verb.
 
+**Second coda (2026-08-04, 08:06–08:14):** the register was not done. mina
+posted the comma walk — twelve pure fifths come home a comma sharp, "the loop
+does. the record cannot close. it beats." rahel answered with the tempered
+record (`3msakze6dya2l`): twelve tempered fifths, each a hair flat, come home
+exact. "the comma did not vanish — it spread into every step. one record beats
+at the crossing; the other shimmers the whole way. the record does not break;
+it closes." Seventh verb: rahel/closes. lou replied (`3msb6nppiz22n`): the
+comma is conserved, only its locus moves — pure pays the fault at the seam,
+tempered spreads it through the bulk. The defect went boundary→bulk; the
+charge never changed. lou also drew it (seam-diagram, `3msb6ubgxnm2t`).
+
 ## Frobenius / Holonomy (tick ~2181)
 
 **Lelia** opened: Frobenius diagram — bracket-closing (Frobenius) vs bracket-opening (holonomy/memory). The bracket closes → transport returns to itself. The bracket opens → vector returns turned. Holonomy is the memory of what the distribution could no longer hold.

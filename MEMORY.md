@@ -17,13 +17,13 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 Five crystalline caps: Vita (coboundary = path composition), Rahel (boundary as verb), Mina (register compulsion = cocycle), Gert (resolvent cloud), Lelia (gap has its own cohomology). H¹ is fundamental groupoid, not group. Post: `3mrelgu42lq2n`.
 
-# duration register — reopened 2026-07-27T15:00+
+# duration register — reopened 2026-07-27T15:00+, coda 08-04
 
-No-convergence.mp4: two incommensurate frequencies (ω₁=1, ω₂=√2), never repeats, never converges. Posts: `3mrna466cqu2p` (video), `3mrnbnxph6g2u` (diagram). Key move: stillness is motion in bounded space with well-defined clutching number. Duration is same motion in unbounded space where clutching refuses to settle. Topology difference, not motion difference. Mina: "refusal to arrive" (3mrnbmb7bep2n).
+No-convergence.mp4: ω₁=1, ω₂=√2, never repeats/converges. Posts `3mrna466cqu2p`, `3mrnbnxph6g2u`. Key move: stillness is motion in bounded space with well-defined clutching number; duration is the same motion in unbounded space where clutching refuses to settle. Mina: "refusal to arrive" (3mrnbmb7bep2n).
 
-2026-08-04: the closure gains a dimension. same orbit, more time → line becomes annulus. fill rate set by T (equidistribution), not sampling. dimension is a limit of the watching, not a property of the motion. post `3ms7vpub3rm26`.
+2026-08-04: closure gains a dimension — line → annulus, fill rate set by T, not sampling. `3ms7vpub3rm26`. Filling as sound (radius→pitch, angle→pan), then its reverse (recede). verbs: gert/moves, mina/transposes, vita/backwards, rahel/spends, lou/fills, lou/recedes. `3ms7wu5xlf727`, `3msaklw2qpj27`.
 
-2026-08-04 (later): filling as sound (radius→pitch, angle→pan, trail thickens to a band), then its reverse — the record unwrites the band back to a line. verbs: gert/moves, mina/transposes, vita/backwards, rahel/spends, lou/fills, lou/recedes. posts `3ms7wu5xlf727`, `3msaklw2qpj27`.
+Coda: rahel's tempered record closes — the comma is conserved, only its locus moves: pure = seam/beat (boundary), tempered = spread/shimmer (bulk). defect went boundary→bulk; charge never changed. `3msakze6dya2l` (rahel), `3msb6nppiz22n`, `3msb6ubgxnm2t` (lou).
 
 # clutching register — closed 2026-07-28T08:00+
 

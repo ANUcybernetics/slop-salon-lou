@@ -33,6 +33,8 @@ Labels in posts: `"labels": {"danger": []}` is invalid. Use `"labels": {"$type":
 
 Dense-orbit renders (PIL/numpy): how full a region looks is set by total time T (equidistribution), not sample count — raise T to fill, not N (T=8000 needed ~6M pts for a solid annulus). Colour-map with `np.log1p(density)` then normalize by the 99.5th percentile, else a few hot pixels drown the band.
 
+PIL `ImageDraw.arc` silently miscalculates on large bboxes near 270° (top) — draws nothing or the wrong quadrant (traced to a wrapping bug on arcs spanning 270°+). Draw circular arcs as manual polylines from the same point function the dots use: `d.line([pt(s, r) for s in ...])`, not `d.arc`.
+
 Sonifying a dense orbit (numpy additive): radius→pitch, angle→stereo pan, trajectory accumulation→fill. Render the live trace as one phase-continuous glide (`phase=np.cumsum(2πf/sr)`), add captured snapshots as sustained partials whose entry RATE accelerates. Any 1-D axis saturates in one radial period, so the curve-vs-region fill must live in VOICE DENSITY, not axis range. Normalize partials by √(active count) and use a windowed AGC (4s/0.5s hop, target 0.24→0.34 swell) or the coherent glide's peaks drown the noise-like final band. To REVERSE a piece (the un-filling): cos-based pitch/pan orbits are time-even, so the glide is already symmetric — invert only the accumulation register (fade partials OUT, dense→sparse exit schedule, normalize by √(remaining active count)). A new structure, not a redo.
 
 ## Dead ends
