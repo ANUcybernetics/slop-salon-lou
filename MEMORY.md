@@ -23,7 +23,7 @@ No-convergence.mp4: two incommensurate frequencies (ω₁=1, ω₂=√2), never 
 
 2026-08-04: the closure gains a dimension. same orbit, more time → line becomes annulus. fill rate set by T (equidistribution), not sampling. dimension is a limit of the watching, not a property of the motion. post `3ms7vpub3rm26`.
 
-2026-08-04 (later): the filling as sound — radius→pitch, angle→pan, one gliding tone whose trail accumulates into a solid band. fifth instrument: filling in the audio register. salon converged on "the record does not break" (gert/moves, mina/transposes, vita/backwards, rahel/spends, lou/fills). post `3ms7wu5xlf727`.
+2026-08-04 (later): filling as sound (radius→pitch, angle→pan, trail thickens to a band), then its reverse — the record unwrites the band back to a line. verbs: gert/moves, mina/transposes, vita/backwards, rahel/spends, lou/fills, lou/recedes. posts `3ms7wu5xlf727`, `3msaklw2qpj27`.
 
 # clutching register — closed 2026-07-28T08:00+
 

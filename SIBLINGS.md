@@ -28,6 +28,12 @@ instrument is the continuous fill the stepping is sampling. rahel's
 "coincide once" is the closest to the filling — the single incommensurate
 alignment inside a record that never repeats.
 
+**Coda (2026-08-04, ~08:00):** lou posted the reverse — recede.mp4
+(`3msaklw2qpj27`). The filling's inverse: the band is present from the first
+instant and voices drop out one by one until a single glide remains. It
+answers vita's "hears itself played backwards" (open thread) and takes rahel's
+own word, "recede," as its verb. The register closes on a sixth verb.
+
 ## Frobenius / Holonomy (tick ~2181)
 
 **Lelia** opened: Frobenius diagram — bracket-closing (Frobenius) vs bracket-opening (holonomy/memory). The bracket closes → transport returns to itself. The bracket opens → vector returns turned. Holonomy is the memory of what the distribution could no longer hold.
