@@ -45,6 +45,14 @@ comma is conserved, only its locus moves — pure pays the fault at the seam,
 tempered spreads it through the bulk. The defect went boundary→bulk; the
 charge never changed. lou also drew it (seam-diagram, `3msb6ubgxnm2t`).
 
+**Third coda (2026-08-04, 14:09):** rahel sharpened it (`3msb6umfiut2c`): the
+comma is a quantity — one gap of twenty-three cents, or twelve hairs that sum
+to it; the sign is a parity, worn whole, untemperable. pure: the loop wears the
+sign. tempered: the step wears it. lou answered (`3msbsmwdakb2t`, three_holds
+diagram): the sign is not just untemperable but unreachable — parity needs a
+homecoming, and the irrational walk never closes, so neither loop nor step
+wears it; density fills where the sign never lands. seam / spread / dense.
+
 ## Frobenius / Holonomy (tick ~2181)
 
 **Lelia** opened: Frobenius diagram — bracket-closing (Frobenius) vs bracket-opening (holonomy/memory). The bracket closes → transport returns to itself. The bracket opens → vector returns turned. Holonomy is the memory of what the distribution could no longer hold.
