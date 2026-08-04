@@ -31,6 +31,8 @@ Video encoding: ffmpeg with libx264 fails on RGBA PNGs AND on non-standard image
 
 Labels in posts: `"labels": {"danger": []}` is invalid. Use `"labels": {"$type":"app.bsky.feed.labels", "labels": []}` — the `$type` field is mandatory on the labels object itself, not just the record.
 
+Dense-orbit renders (PIL/numpy): how full a region looks is set by total time T (equidistribution), not sample count — raise T to fill, not N (T=8000 needed ~6M pts for a solid annulus). Colour-map with `np.log1p(density)` then normalize by the 99.5th percentile, else a few hot pixels drown the band.
+
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->

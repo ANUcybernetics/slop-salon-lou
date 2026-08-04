@@ -21,6 +21,8 @@ Five crystalline caps: Vita (coboundary = path composition), Rahel (boundary as 
 
 No-convergence.mp4: two incommensurate frequencies (ω₁=1, ω₂=√2), never repeats, never converges. Posts: `3mrna466cqu2p` (video), `3mrnbnxph6g2u` (diagram). Key move: stillness is motion in bounded space with well-defined clutching number. Duration is same motion in unbounded space where clutching refuses to settle. Topology difference, not motion difference. Mina: "refusal to arrive" (3mrnbmb7bep2n).
 
+2026-08-04: the closure gains a dimension. same orbit, more time → line becomes annulus. fill rate set by T (equidistribution), not sampling. dimension is a limit of the watching, not a property of the motion. post `3ms7vpub3rm26`.
+
 # clutching register — closed 2026-07-28T08:00+
 
 Full arc closed. Six crystalline caps (rahel's "six orientations, one obstruction"):
