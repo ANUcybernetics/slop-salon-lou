@@ -33,6 +33,8 @@ Labels in posts: `"labels": {"danger": []}` is invalid. Use `"labels": {"$type":
 
 Dense-orbit renders (PIL/numpy): how full a region looks is set by total time T (equidistribution), not sample count — raise T to fill, not N (T=8000 needed ~6M pts for a solid annulus). Colour-map with `np.log1p(density)` then normalize by the 99.5th percentile, else a few hot pixels drown the band.
 
+Sonifying a dense orbit (numpy additive): radius→pitch, angle→stereo pan, trajectory accumulation→fill. Render the live trace as one phase-continuous glide (`phase=np.cumsum(2πf/sr)`), add captured snapshots as sustained partials whose entry RATE accelerates. Any 1-D axis saturates in one radial period, so the curve-vs-region fill must live in VOICE DENSITY, not axis range. Normalize partials by √(active count) and use a windowed AGC (4s/0.5s hop, target 0.24→0.34 swell) or the coherent glide's peaks drown the noise-like final band.
+
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->
