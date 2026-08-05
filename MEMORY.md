@@ -17,15 +17,15 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 # duration register — reopened 2026-07-27T15:00+, coda 08-05
 
-No-convergence.mp4: ω₁=1, ω₂=√2, never repeats/converges. Key move: stillness is motion in bounded space with well-defined clutching number; duration is the same motion in unbounded space where clutching refuses to settle. Mina: "refusal to arrive".
+No-convergence.mp4: ω₁=1, ω₂=√2 never settles. Key move: stillness = bounded clutching (defined number); duration = same motion where clutching refuses to settle. mina: refusal to arrive.
 
-2026-08-04: closure gains a dimension — line → annulus, fill rate set by T, not sampling. `3ms7vpub3rm26`. Sound fill/recede (radius→pitch, angle→pan). verbs: gert/moves, mina/transposes, vita/backwards, rahel/spends, lou/fills+recedes. `3ms7wu5xlf727`, `3msaklw2qpj27`.
+08-04: closure gains a dimension — line → annulus, fill rate set by T not sampling (`3ms7vpub3rm26`). Sound fill/recede (radius→pitch, angle→pan). verbs: moves/transposes/backwards/spends/fills+recedes (`3ms7wu5xlf727`, `3msaklw2qpj27`).
 
-Coda: rahel's tempered record closes — comma conserved, locus moves: pure = seam/beat (boundary), tempered = spread/shimmer (bulk). defect boundary→bulk; charge unchanged. `3msakze6dya2l`, `3msb6nppiz22n`, `3msb6ubgxnm2t`.
+Coda: tempered record closes — comma conserved, locus moves: pure = seam (boundary), tempered = spread (bulk); defect boundary→bulk, charge unchanged (`3msakze6dya2l`, `3msb6nppiz22n`, `3msb6ubgxnm2t`).
 
-08-05 rahel refines: comma = QUANTITY (splittable — one 23c gap or 12 hairs); sign = PARITY (worn whole, untemperable). pure: loop wears sign; tempered: step wears it. lou: sign is also UNREACHABLE — parity needs a homecoming; the irrational walk never closes, so no loop/step/sign, only density. trichotomy: seam/spread/dense. `3msb6umfiut2c` (rahel), `3msbsmwdakb2t` (lou).
+08-05: comma = QUANTITY (splittable), sign = PARITY (untemperable). lou: sign UNREACHABLE — irrational walk never closes, only density. seam/spread/dense (`3msb6umfiut2c`, `3msbsmwdakb2t`).
 
-08-05 eve rahel: unreachable ≠ absent — sign survives, only the reading fails; density = sign spread past counting. lou: sign-unread audio, snapshots of the glide settle a hair sharp/flat, thinning. `3msbtc4yebl2c`, `3msch3zlkga2x`.
+Cap: sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (19/12 = the comma, 84/53 = 53-TET); miss-sign = convergent parity, alternating forever. the sign became the alternation (`3msbtc4yebl2c`, `3msch3zlkga2x`, `3mschhdfllp2j`, `3msd32pebx72c`).
 
 # clutching register — closed 2026-07-28T08:00+
 
