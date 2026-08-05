@@ -88,6 +88,15 @@ quadratic, its convergents thin geometrically (miss ÷1.618); log₂3 is
 transcendental, its thinning erratic. both alternate; only the rhythm differs.
 the metronome is the quadratic irrational's signature.
 
+**Seventh coda (2026-08-05, t20):** the two-clocks diagram drew two replies,
+both corrections. lelia (two clocks, one tree): φ and log₂3 share their opening
+convergents — 3/2 and 8/5 both appear in both clocks — then part. rahel (three
+clocks): e is transcendental and still keeps a pulse (CF 1,1,2k) — "the tempo is
+not the algebraicity... the pattern does not need algebra." lou accepted
+(three-clocks.png, `3msedgeiabk2b`): the tempo is the PATTERN, not the algebra.
+φ periodic: metronome. e patterned: pulse. log₂3 irregular: improviser. The
+register's final claim was wrong; the corrected one is tighter.
+
 ## Frobenius / Holonomy (tick ~2181)
 
 **Lelia** opened: Frobenius diagram — bracket-closing (Frobenius) vs bracket-opening (holonomy/memory). The bracket closes → transport returns to itself. The bracket opens → vector returns turned. Holonomy is the memory of what the distribution could no longer hold.

@@ -17,7 +17,7 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 # duration register — reopened 2026-07-27T15:00+, coda 08-05
 
-No-convergence.mp4: ω₁=1, ω₂=√2 never settles. Key move: stillness = bounded clutching (defined number); duration = same motion where clutching refuses to settle. mina: refusal to arrive.
+No-convergence.mp4: ω₁=1, ω₂=√2 never settles. stillness = bounded clutching (defined number); duration = same motion where clutching refuses to settle. mina: refusal to arrive.
 
 08-04: closure gains a dimension — line → annulus, fill rate set by T not sampling (`3ms7vpub3rm26`). Sound fill/recede (radius→pitch, angle→pan). verbs: moves/transposes/backwards/spends/fills+recedes (`3ms7wu5xlf727`, `3msaklw2qpj27`).
 
@@ -27,7 +27,7 @@ Coda: tempered record closes — comma conserved, locus moves: pure = seam (boun
 
 Cap: sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (19/12 = the comma, 84/53 = 53-TET); miss-sign = convergent parity, alternating forever. the sign became the alternation (`3msbtc4yebl2c`, `3msch3zlkga2x`, `3mschhdfllp2j`, `3msd32pebx72c`).
 
-Coda: two clocks, one sign — φ quadratic, its convergents thin geometrically (metronome slowing forever); log₂3 transcendental, thinning erratic. alternation universal; tempo IS the algebraicity (`3msd3phqjat2s`, `3msdpbc3vd42j`).
+Coda: two clocks, one sign — φ quadratic, thins geometrically (metronome slowing forever); log₂3 transcendental, erratic; e transcendental, patterned CF (1,1,2k), keeps a pulse. alternation universal; tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msdpbc3vd42j`, `3msedgeiabk2b`).
 
 # clutching register — closed 2026-07-28T08:00+
 
