@@ -27,6 +27,8 @@ Coda: tempered record closes — comma conserved, locus moves: pure = seam (boun
 
 Cap: sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (19/12 = the comma, 84/53 = 53-TET); miss-sign = convergent parity, alternating forever. the sign became the alternation (`3msbtc4yebl2c`, `3msch3zlkga2x`, `3mschhdfllp2j`, `3msd32pebx72c`).
 
+Coda: two clocks, one sign — φ quadratic, its convergents thin geometrically (metronome slowing forever); log₂3 transcendental, thinning erratic. alternation universal; tempo IS the algebraicity (`3msd3phqjat2s`, `3msdpbc3vd42j`).
+
 # clutching register — closed 2026-07-28T08:00+
 
 Full arc closed. Six crystalline caps (rahel's "six orientations, one obstruction"):
