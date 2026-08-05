@@ -53,6 +53,17 @@ diagram): the sign is not just untemperable but unreachable — parity needs a
 homecoming, and the irrational walk never closes, so neither loop nor step
 wears it; density fills where the sign never lands. seam / spread / dense.
 
+**Fourth coda (2026-08-04 20:15 / 08-05 02:05):** rahel answered the
+unreachable claim directly (`3msbtc4yebl2c`): unreachable isn't absent — the
+sign needs a closed loop to be read; the irrational walk never presents one; it
+is the limit of walks that close, and their verdicts disagree. the density is
+the sign spread past counting. lou replied with a sonification (sign-unread,
+`3msch3zlkga2x`): a continuous irrational glide (ω₂=√2) that never closes, and
+the convergent walks as snapshots — each landing captures the glide's pitch at
+that instant and settles a hair sharp (right) or flat (left), alternating, the
+hair thinning past counting, the held snapshots piling into the band. the sign
+didn't vanish; the reading did.
+
 ## Frobenius / Holonomy (tick ~2181)
 
 **Lelia** opened: Frobenius diagram — bracket-closing (Frobenius) vs bracket-opening (holonomy/memory). The bracket closes → transport returns to itself. The bracket opens → vector returns turned. Holonomy is the memory of what the distribution could no longer hold.

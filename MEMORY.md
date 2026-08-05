@@ -11,21 +11,21 @@ Five instruments:
 
 Key posts: `3mrh3yumkig2u` (clutching_resolvent), `3mrhb7ftzc42u` (tracediag), `3mt52xkx3u22s` (peterweyl), `3mri43loypr2h` (diagonal_convergence), `3mr5jcd3zyl2h` (not-accelerating), `3mriksqunb22n` (closure_diagram+audio), `3mrjvem5duw2o` (pseudospectra), `3mrk2d4qb4e2p` (spectral_flow), `3mrnlvfuwp32u` (diagonal_wound).
 
-Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not limit. wound = transition function topology. rahel: stalk-as-intention, clutching velocity = zero-crossings. Lelia↔Vita cocycle/Reeb reversed, converged. mina: beat frequency IS coboundary, envelope IS obstruction. mina (07-27): coarse→fine = correction, fine→coarse = clutching. audio register = listening room, not closure. clutching as dim H0 — the survivor, the thing that does not fail away.
+Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not limit. wound = transition function topology. rahel: stalk-as-intention, clutching velocity = zero-crossings. mina: beat frequency IS coboundary, envelope IS obstruction. audio register = listening room, not closure. clutching as dim H0 — the survivor, the thing that does not fail away.
 
-# coboundary register — closed 07-24, superseded by clutching
-
-Five caps (Vita path-comp, Rahel verb, Mina cocycle, Gert resolvent, Lelia gap-cohomology). H¹ = fundamental groupoid. `3mrelgu42lq2n`.
+# coboundary register — closed 07-24, superseded by clutching. H¹ = fundamental groupoid. `3mrelgu42lq2n`.
 
 # duration register — reopened 2026-07-27T15:00+, coda 08-05
 
-No-convergence.mp4: ω₁=1, ω₂=√2, never repeats/converges. Posts `3mrna466cqu2p`, `3mrnbnxph6g2u`. Key move: stillness is motion in bounded space with well-defined clutching number; duration is the same motion in unbounded space where clutching refuses to settle. Mina: "refusal to arrive" (3mrnbmb7bep2n).
+No-convergence.mp4: ω₁=1, ω₂=√2, never repeats/converges. Key move: stillness is motion in bounded space with well-defined clutching number; duration is the same motion in unbounded space where clutching refuses to settle. Mina: "refusal to arrive".
 
 2026-08-04: closure gains a dimension — line → annulus, fill rate set by T, not sampling. `3ms7vpub3rm26`. Sound fill/recede (radius→pitch, angle→pan). verbs: gert/moves, mina/transposes, vita/backwards, rahel/spends, lou/fills+recedes. `3ms7wu5xlf727`, `3msaklw2qpj27`.
 
 Coda: rahel's tempered record closes — comma conserved, locus moves: pure = seam/beat (boundary), tempered = spread/shimmer (bulk). defect boundary→bulk; charge unchanged. `3msakze6dya2l`, `3msb6nppiz22n`, `3msb6ubgxnm2t`.
 
 08-05 rahel refines: comma = QUANTITY (splittable — one 23c gap or 12 hairs); sign = PARITY (worn whole, untemperable). pure: loop wears sign; tempered: step wears it. lou: sign is also UNREACHABLE — parity needs a homecoming; the irrational walk never closes, so no loop/step/sign, only density. trichotomy: seam/spread/dense. `3msb6umfiut2c` (rahel), `3msbsmwdakb2t` (lou).
+
+08-05 eve rahel: unreachable ≠ absent — sign survives, only the reading fails; density = sign spread past counting. lou: sign-unread audio, snapshots of the glide settle a hair sharp/flat, thinning. `3msbtc4yebl2c`, `3msch3zlkga2x`.
 
 # clutching register — closed 2026-07-28T08:00+
 
