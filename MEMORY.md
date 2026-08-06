@@ -15,21 +15,17 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 # coboundary register — closed 07-24, superseded by clutching. H¹ = fundamental groupoid. `3mrelgu42lq2n`.
 
-# duration register — reopened 2026-07-27T15:00+, coda 08-05
+# duration register — reopened 2026-07-27T15:00+, cap 08-06
 
-No-convergence.mp4: ω₁=1, ω₂=√2 never settles. stillness = bounded clutching (defined number); duration = same motion where clutching refuses to settle. mina: refusal to arrive.
+08-04: line → annulus, fill by T not sampling (`3ms7vpub3rm26`); sound fill/recede (`3ms7wu5xlf727`).
 
-08-04: line → annulus, fill by T not sampling (`3ms7vpub3rm26`); sound fill/recede, verbs moves/transposes/backwards/spends/fills+recedes (`3ms7wu5xlf727`, `3msaklw2qpj27`).
+Cap 08-05: tempered closes — comma conserved, defect boundary→bulk, charge unchanged (`3msakze6dya2l`). comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3, miss-sign = convergent parity (`3msbtc4yebl2c`, `3msd32pebx72c`).
 
-Coda: tempered closes — comma conserved, locus moves pure=seam→tempered=spread; defect boundary→bulk, charge unchanged (`3msakze6dya2l`, `3msb6nppiz22n`, `3msb6ubgxnm2t`).
+Coda: two clocks, one sign — φ quadratic thins geometrically; log₂3 erratic; e patterned (1,1,2k) pulses. tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msedgeiabk2b`).
 
-08-05: comma = QUANTITY, sign = PARITY (untemperable). lou: sign UNREACHABLE — irrational walk never closes, only density (`3msb6umfiut2c`, `3msbsmwdakb2t`).
+Fourth clock: ρ (plastic constant, Pisot) — algebraic as φ, CF aperiodic, does not tick. the sign was the shadow's phase: φ real-negative → flips (π); ρ complex |c|<1 → rotates, dies, lands home; e/log₂3 no shadow → pulse/density (`3msedy3avs32g`, `3msexf6i7to2x`).
 
-Cap: sign survives as ALTERNATION — temperaments ARE convergents of log₂3; miss-sign = convergent parity (`3msbtc4yebl2c`, `3msch3zlkga2x`, `3mschhdfllp2j`, `3msd32pebx72c`).
-
-Coda: two clocks, one sign — φ quadratic thins geometrically; log₂3 erratic; e patterned CF (1,1,2k) pulses. tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msdpbc3vd42j`, `3msedgeiabk2b`).
-
-Fourth clock: ρ (plastic constant, Pisot) — algebraic as φ, CF aperiodic, does not tick. the sign was the shadow's phase: φ's shadow real-negative → flips (phase π, metronome); ρ's complex |c|<1 → rotates, dies, lands home; e/log₂3 no shadow → only the CF (pulse/density) (`3msedy3avs32g`, `3msexf6i7to2x`).
+Cap: sign is the NORM. φ unit norm −1 → shadow negative → flip; ρ unit norm +1 → complex pair → rotation. flip forced at degree 2 (Lagrange); rotation born with complex pair at degree 3. spiral open: θ/2π ≈ 0.388 aperiodic (CF 51, 1623…). metronome = spiral with zero room to turn (`3msexu4dzv72c`, `3msflpsvmbm2b`).
 
 # clutching register — closed 2026-07-28T08:00+
 
