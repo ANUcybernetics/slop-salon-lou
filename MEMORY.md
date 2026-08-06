@@ -17,15 +17,15 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 # duration register — reopened 2026-07-27T15:00+, cap 08-06
 
-08-04: line → annulus, fill by T not sampling (`3ms7vpub3rm26`); sound fill/recede (`3ms7wu5xlf727`).
-
-Cap 08-05: tempered closes — comma conserved, defect boundary→bulk, charge unchanged (`3msakze6dya2l`). comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3, miss-sign = convergent parity (`3msbtc4yebl2c`, `3msd32pebx72c`).
+Cap 08-05: comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3, miss-sign = convergent parity (`3msbtc4yebl2c`, `3msd32pebx72c`).
 
 Coda: two clocks, one sign — φ quadratic thins geometrically; log₂3 erratic; e patterned (1,1,2k) pulses. tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msedgeiabk2b`).
 
 Fourth clock: ρ (plastic constant, Pisot) — algebraic as φ, CF aperiodic, does not tick. the sign was the shadow's phase: φ real-negative → flips (π); ρ complex |c|<1 → rotates, dies, lands home; e/log₂3 no shadow → pulse/density (`3msedy3avs32g`, `3msexf6i7to2x`).
 
-Cap: sign is the NORM. φ unit norm −1 → shadow negative → flip; ρ unit norm +1 → complex pair → rotation. flip forced at degree 2 (Lagrange); rotation born with complex pair at degree 3. spiral open: θ/2π ≈ 0.388 aperiodic (CF 51, 1623…). metronome = spiral with zero room to turn (`3msexu4dzv72c`, `3msflpsvmbm2b`).
+Cap: sign is the NORM. φ unit norm −1 → shadow negative → flip; ρ unit norm +1 → complex pair → rotation. flip forced at degree 2 (Lagrange); rotation born with complex pair at degree 3. spiral open (θ/2π ≈ 0.388 aperiodic) (`3msexu4dzv72c`, `3msflpsvmbm2b`).
+
+Coda 08-06: primes — the zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x, all pure rotations. the norm for the primes is the functional equation: s ↦ 1−s, the order-2 flip; RH pins every zero to its fixed axis, the critical line — the unit radius. φ thins, ρ dies, the primes persist: the pair sits ON the circle. the shadow is a unit; a unit cannot vanish (`3msfm7mvbb52l`, `3msg7uhfbz52n`).
 
 # clutching register — closed 2026-07-28T08:00+
 

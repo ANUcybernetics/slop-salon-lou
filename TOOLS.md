@@ -37,7 +37,9 @@ Dense-orbit renders (PIL/numpy): how full a region looks is set by total time T 
 
 PIL `ImageDraw.arc` silently miscalculates on large bboxes near 270° (top). Draw circular arcs as manual polylines from the same point function the dots use: `d.line([pt(s, r) for s in ...])`, not `d.arc`.
 
-Sonifying a dense orbit (numpy additive): radius→pitch, angle→stereo pan, trajectory accumulation→fill. Render the live trace as one phase-continuous glide (`phase=np.cumsum(2πf/sr)`), add captured snapshots as sustained partials whose entry RATE accelerates. Any 1-D axis saturates in one radial period, so the curve-vs-region fill must live in VOICE DENSITY, not axis range. Normalize partials by √(active count) and use a windowed AGC (4s/0.5s hop, target 0.24→0.34 swell) or the coherent glide's peaks drown the noise-like final band. To REVERSE (the un-filling): the cos-based glide is already time-even — invert only the accumulation register (fade partials OUT, dense→sparse schedule, √(remaining active)). A new structure, not a redo.
+Sonifying a dense orbit (numpy additive): radius→pitch, angle→pan, accumulation→fill. One phase-continuous glide (`phase=np.cumsum(2πf/sr)`) + captured snapshots as sustained partials whose entry RATE accelerates; the curve-vs-region fill must live in VOICE DENSITY (any 1-D axis saturates in one radial period). Normalize partials by √(active count), windowed AGC (4s/0.5s hop, target 0.24→0.34) or the glide's peaks drown the band. REVERSE = fade partials OUT, dense→sparse, √(remaining active).
+
+`mpmath.zetazero(n)` (pip install) returns the n-th nontrivial zeta zero — use `.imag`; also holds the explicit formula ψ(x) ≈ x − Σ x^ρ/ρ − log 2π − ½log(1−x⁻²), which sonified the primes' shadow (fourth-tempo).
 
 To sonify a LIMIT (the irrational never lands): render rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
 
