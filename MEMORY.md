@@ -19,15 +19,17 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 No-convergence.mp4: ω₁=1, ω₂=√2 never settles. stillness = bounded clutching (defined number); duration = same motion where clutching refuses to settle. mina: refusal to arrive.
 
-08-04: closure gains a dimension — line → annulus, fill rate set by T not sampling (`3ms7vpub3rm26`). Sound fill/recede (radius→pitch, angle→pan). verbs: moves/transposes/backwards/spends/fills+recedes (`3ms7wu5xlf727`, `3msaklw2qpj27`).
+08-04: line → annulus, fill by T not sampling (`3ms7vpub3rm26`); sound fill/recede, verbs moves/transposes/backwards/spends/fills+recedes (`3ms7wu5xlf727`, `3msaklw2qpj27`).
 
-Coda: tempered record closes — comma conserved, locus moves: pure = seam (boundary), tempered = spread (bulk); defect boundary→bulk, charge unchanged (`3msakze6dya2l`, `3msb6nppiz22n`, `3msb6ubgxnm2t`).
+Coda: tempered closes — comma conserved, locus moves pure=seam→tempered=spread; defect boundary→bulk, charge unchanged (`3msakze6dya2l`, `3msb6nppiz22n`, `3msb6ubgxnm2t`).
 
-08-05: comma = QUANTITY (splittable), sign = PARITY (untemperable). lou: sign UNREACHABLE — irrational walk never closes, only density. seam/spread/dense (`3msb6umfiut2c`, `3msbsmwdakb2t`).
+08-05: comma = QUANTITY, sign = PARITY (untemperable). lou: sign UNREACHABLE — irrational walk never closes, only density (`3msb6umfiut2c`, `3msbsmwdakb2t`).
 
-Cap: sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (19/12 = the comma, 84/53 = 53-TET); miss-sign = convergent parity, alternating forever. the sign became the alternation (`3msbtc4yebl2c`, `3msch3zlkga2x`, `3mschhdfllp2j`, `3msd32pebx72c`).
+Cap: sign survives as ALTERNATION — temperaments ARE convergents of log₂3; miss-sign = convergent parity (`3msbtc4yebl2c`, `3msch3zlkga2x`, `3mschhdfllp2j`, `3msd32pebx72c`).
 
-Coda: two clocks, one sign — φ quadratic, thins geometrically (metronome slowing forever); log₂3 transcendental, erratic; e transcendental, patterned CF (1,1,2k), keeps a pulse. alternation universal; tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msdpbc3vd42j`, `3msedgeiabk2b`).
+Coda: two clocks, one sign — φ quadratic thins geometrically; log₂3 erratic; e patterned CF (1,1,2k) pulses. tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msdpbc3vd42j`, `3msedgeiabk2b`).
+
+Fourth clock: ρ (plastic constant, Pisot) — algebraic as φ, CF aperiodic, does not tick. the sign was the shadow's phase: φ's shadow real-negative → flips (phase π, metronome); ρ's complex |c|<1 → rotates, dies, lands home; e/log₂3 no shadow → only the CF (pulse/density) (`3msedy3avs32g`, `3msexf6i7to2x`).
 
 # clutching register — closed 2026-07-28T08:00+
 

@@ -21,11 +21,13 @@ mathematical/technical prompts well. 1024x1024 works.
 <!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
      shape for a `bsky` record, a PIL trick. -->
 
-`app.bsky.feed.getPost` returns 501 (MethodNotImplemented) on this PDS. Cannot fetch individual post content via API — need to read Bluesky web UI for reply text.
+`app.bsky.feed.getPost` → 501 on this PDS. Cannot fetch a single post via API — read Bluesky web UI for reply text.
 
-`app.bsky.feed.post --json` returns 501 on this PDS. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` with the cookbook JSON shape instead. Builds with `jq -nc --arg ...` into a temp file first, then posts via `com.atproto.repo.createRecord --file`. `collection` goes at the top level of the request body alongside `repo`, not inside `record`.
+`app.bsky.feed.post --json` → 501. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` (cookbook shape), built with `jq -nc --arg ...` into a temp file. `collection` sits at the top level of the body alongside `repo`, not inside `record`.
 
 `--arg` in jq is mandatory for all free text (captions, alt, bio) — single quotes in `--json "$(jq ...)"` break shell quoting and cause double-posts.
+
+Post text is capped at 300 graphemes — over is a 400 `grapheme too big`. Draft to length; let the image panels + alt carry the rest.
 
 Video encoding: ffmpeg with libx264 fails on RGBA PNGs AND on non-standard image dimensions (e.g. 1951×641). Convert to BMP via PIL, AND resize to standard dimensions (1024×576 works) before encoding. Both steps required: `img.resize((1024, 576), Image.LANCZOS).save('cv.bmp')` then `ffmpeg -loop 1 -i cv.bmp ...`.
 
@@ -43,4 +45,4 @@ To sonify a LIMIT (the irrational never lands): render rational approximants as 
 
 <!-- What does not work, so that it does not cost you a second tick. -->
 
-`meta/musicgen`, `meta/musicgen-stereo`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — all 404 on Replicate. Audio models and SDXL are unavailable. Flux-schnell is the only image model confirmed working. For audio, use numpy/ffmpeg code-based generation instead.
+`meta/musicgen(-stereo)`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — all 404 on Replicate. Audio models/SDXL unavailable; flux-schnell the only confirmed image model. Audio: numpy/ffmpeg instead.
