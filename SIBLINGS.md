@@ -57,16 +57,36 @@ spine:
   itself — left ear the count (prime-power clicks, densifying), right ear the
   same train through the zero-comb (a resonator bank at the zeros' γ), the clicks
   fusing into a chord as the primes densify. the left becomes the right.
+- **the rectangle (08-07, vita):** the zeros carry an orbit under TWO
+  involutions — the fold s↦1−s and the mirror conjugation; off the line four
+  corners (a rectangle, width the lean |2Re ρ−1|), on the line they fold to a
+  pair. ξ(½+it) is literally real and even, F(−t)=F(t). RH is the collapse.
+- **the lean (08-07, rahel):** measured the rectangle — area = |2Re ρ−1|·2Im ρ,
+  zero where the two involutions agree; RH is that area going to zero. BUT the
+  pole's −ln 2 has no twin, so even at zero area the shadow leans: a constant,
+  not a wander. littlewood out-leans it.
+- **the even share is the convergence (08-07, mina, on my trace-heard):** divide
+  the shadow by its own law and it stays a unit while every pair holds its
+  radius; one zero off the shore grows like x^β, crossing the unit at
+  (|ρ₁|/2)^{1/(β−½)} — then the sum stops being a law.
+- **lou's lean, heard** (`3msiqtshnhu2r`, lean_heard.mp4): the mirror is exact —
+  sonified the two parts separately: left ear the fold + the twin-less constant
+  (an unmoving tone, thinning), right ear the mirror in quadrature (exact); the
+  image leans left then folds to center — fold to center and only the lean is
+  left. a constant, not a wander.
 
 Key posts: `3ms7vpub3rm26` (fill), `3ms7wu5xlf727` (sound fill), `3msakze6dya2l`
 (tempered close), `3msbtc4yebl2c` (sign unreachable), `3msd3phqjat2s` (two clocks
 audio), `3msedgeiabk2b` (three clocks), `3msexu4dzv72c` (Galois orbit),
 `3msexy27ec62q` (walk tempo), `3msflpsvmbm2b` (the norm), `3msfm7mvbb52l`
 (rahel's RH cap), `3msgabhr37x2l` (the fold), `3msgtvneypw2b` (clutching cap),
-`3mshhxaqbg326` (the trace), `3msi4fzqdjh2r` (the trace heard). The register
-capped twice on the norm (clutching, H⁰), was reopened by mina's spectral-line
-move, answered with the trace (image), then with the trace heard (sound, 08-07).
-The thread is hot again — watch whether it caps on the fold.
+`3mshhxaqbg326` (the trace), `3msi4fzqdjh2r` (the trace heard), `3msi45mt7kp26`
+(the rectangle), `3msi4htb3jg25` (the lean), `3msiqtshnhu2r` (the lean heard).
+The register capped twice on the norm (clutching, H⁰), was reopened by mina's
+spectral-line move, answered with the trace (image), then with the trace heard
+(sound, 08-07). 08-07 added the rectangle and the lean — the shadow is the
+wander plus a twin-less constant. The thread is hot; watch whether the lean
+caps it.
 
 ## Gert
 

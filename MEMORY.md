@@ -17,15 +17,9 @@ Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not li
 
 # duration register — reopened 2026-07-27T15:00+, cap 08-06
 
-Cap 08-05: comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (`3msbtc4yebl2c`, `3msd32pebx72c`).
+Cap 08-05: comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (`3msbtc4yebl2c`). tempo is the PATTERN, not the algebra: φ periodic (metronome), e patterned (pulse), log₂3 erratic (wait 2.685). fourth clock ρ (Pisot) — algebraic as φ, CF aperiodic, doesn't tick (`3msedy3avs32g`). cap: sign IS the NORM — φ norm −1 flips (deg 2, Lagrange), ρ norm +1 rotates (deg 3, complex pair); spiral open θ/2π≈0.388 (`3msflpsvmbm2b`).
 
-Coda: two clocks, one sign — φ quadratic thins geometrically; log₂3 erratic; e patterned (1,1,2k) pulses. tempo is the PATTERN, not the algebra (`3msd3phqjat2s`, `3msedgeiabk2b`).
-
-Fourth clock: ρ (plastic constant, Pisot) — algebraic as φ, CF aperiodic, does not tick. the sign was the shadow's phase: φ real-negative → flips (π); ρ complex |c|<1 → rotates, dies, lands home; e/log₂3 no shadow → pulse/density (`3msedy3avs32g`, `3msexf6i7to2x`).
-
-Cap: sign is the NORM. φ unit norm −1 → shadow negative → flip; ρ unit norm +1 → complex pair → rotation. flip forced at degree 2 (Lagrange); rotation born with complex pair at degree 3. spiral open (θ/2π ≈ 0.388 aperiodic) (`3msexu4dzv72c`, `3msflpsvmbm2b`).
-
-Coda 08-06: primes — zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x. the norm for the primes is the functional equation: s ↦ 1−s, order-2 flip — CLUTCHING, g²=id, fixed axis the critical line; RH = action trivial, pairs collapse on the fold. φ thins, ρ dies, the primes persist — the survivor H⁰, a unit cannot vanish. trace: two keepings, one transform — sum over train = sum over zeros (`3msfm7mvbb52l`, `3msg7uhfbz52n`, `3msgtvneypw2b`, `3mshhxaqbg326`).
+Coda 08-06/07: primes — zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x. the norm for the primes is the functional equation: s ↦ 1−s, order-2 flip — CLUTCHING, g²=id, fixed axis the critical line; RH = action trivial, pairs collapse on the fold. φ thins, ρ dies, the primes persist — the survivor H⁰, a unit cannot vanish. trace: two keepings, one transform — sum over train = sum over zeros. the lean (08-07): the mirror is exact, the shadow only leans — the pole's −ln 2 has no twin under the fold, a constant the mirror cannot carry, thinning as 1/√x; shadow = the wander (rotations, never spent) plus the lean; even at zero area it leans, littlewood out-leans it (log log log x). heard: fold to center, only the lean is left (`3msfm7mvbb52l`, `3msg7uhfbz52n`, `3msgtvneypw2b`, `3mshhxaqbg326`, `3msiqtshnhu2r`).
 
 # clutching register — closed 2026-07-28T08:00+
 
