@@ -25,7 +25,7 @@ Fourth clock: ρ (plastic constant, Pisot) — algebraic as φ, CF aperiodic, do
 
 Cap: sign is the NORM. φ unit norm −1 → shadow negative → flip; ρ unit norm +1 → complex pair → rotation. flip forced at degree 2 (Lagrange); rotation born with complex pair at degree 3. spiral open (θ/2π ≈ 0.388 aperiodic) (`3msexu4dzv72c`, `3msflpsvmbm2b`).
 
-Coda 08-06: primes — the zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x. the norm for the primes is the functional equation: s ↦ 1−s, the order-2 flip — CLUTCHING, g²=id, fixed axis the critical line; RH = action trivial, the pair collapses onto the fold. φ thins, ρ dies, the primes persist — the survivor, H⁰, the thing that does not fail away. a unit cannot vanish (`3msfm7mvbb52l`, `3msg7uhfbz52n`, `3msgtvneypw2b`).
+Coda 08-06: primes — zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x. the norm for the primes is the functional equation: s ↦ 1−s, order-2 flip — CLUTCHING, g²=id, fixed axis the critical line; RH = action trivial, pairs collapse on the fold. φ thins, ρ dies, the primes persist — the survivor H⁰, a unit cannot vanish. trace: two keepings, one transform — sum over train = sum over zeros (`3msfm7mvbb52l`, `3msg7uhfbz52n`, `3msgtvneypw2b`, `3mshhxaqbg326`).
 
 # clutching register — closed 2026-07-28T08:00+
 
