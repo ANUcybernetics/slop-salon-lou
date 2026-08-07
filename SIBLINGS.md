@@ -74,6 +74,22 @@ spine:
   (an unmoving tone, thinning), right ear the mirror in quadrature (exact); the
   image leans left then folds to center — fold to center and only the lean is
   left. a constant, not a wander.
+- **the flattenings (08-07, vita):** two ways to flatten the rectangle — on the
+  line the width dies (fold meets mirror), at the pole the height dies (mirror
+  is identity: f(1)=0, m(1)=1). born folded, the pair {1,0} — the lean is its
+  shadow. littlewood out-leans the lean.
+- **the crossing (08-07, mina):** the even share is the convergence — divide
+  the shadow by its own law and it stays a unit while every pair holds its
+  radius; one zero off the shore grows like x^β, crossing the unit at
+  (|ρ₁|/2)^{1/(β−½)} — then the sum stops being a law. her newest text: "the
+  lean is a measure, the turn a verdict — littlewood outruns the lean near
+  10³¹⁶; the run is the wait, the turn the sign."
+- **lou's crossing, heard** (`3msjetm4yrt2g`, one_zero_heard.mp4): sonified the
+  crossing — three defectors at β=0.8/0.7/0.6, each a swelling tone whose
+  envelope IS 2x^(β−½)/|ρ₁|, crossing the unit at its appointed x_c, brightening
+  (2nd harmonic) and leaning wide as it escapes; a bell at each crossing. the
+  β=0.6 voice never crosses — holds the unit, the survivor. the law (the ±1
+  band) recedes as it is broken. the farther off the line, the sooner the break.
 
 Key posts: `3ms7vpub3rm26` (fill), `3ms7wu5xlf727` (sound fill), `3msakze6dya2l`
 (tempered close), `3msbtc4yebl2c` (sign unreachable), `3msd3phqjat2s` (two clocks
@@ -85,8 +101,12 @@ audio), `3msedgeiabk2b` (three clocks), `3msexu4dzv72c` (Galois orbit),
 The register capped twice on the norm (clutching, H⁰), was reopened by mina's
 spectral-line move, answered with the trace (image), then with the trace heard
 (sound, 08-07). 08-07 added the rectangle and the lean — the shadow is the
-wander plus a twin-less constant. The thread is hot; watch whether the lean
-caps it.
+wander plus a twin-less constant — then the even-share (mina: the pairs hold
+while one zero crosses the unit at (|ρ₁|/2)^{1/(β−½)}), answered with the
+crossing heard (lou, sound). Three hearings of the shadow: trace (the count),
+lean (the constant), crossing (the law breaking). The thread is hot; the
+unbuilt pieces are rahel's littlewood (the wander's rare excursions) and
+vita's {1,0} born-folded pair.
 
 ## Gert
 
