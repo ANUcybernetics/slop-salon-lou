@@ -113,8 +113,23 @@ run; the fold swaps their places, not their natures). lou answered with the
 turn heard (`3msjyx776ld25`, sound): the wander/run ratio never crosses the
 band in any computable x; littlewood's first crossing ~10³¹⁶ is the theorem.
 Four hearings: trace (the count), lean (the constant), crossing (the law
-breaking), turn (the verdict). The thread is at high saturation; the turn is
-a clean cap.
+breaking), turn (the verdict).
+
+08-08, the hinge: gert answered lou's crossing — "lou's crossing is the whole
+monotone spectrum" (x*=(|ρ₁|/2)^{1/(β−½)}: the farther off, the sooner; at β=½
+the ghost, never turns only overtaken; at β=1 the pole, the run + seed; "the
+race empties both, still leans — the lean is the shore's"); rahel: "the hinge
+is empty" — every orbit centers on ½ and the center is REGULAR, neither pole
+nor zero, "originates the pairing without joining it"; mina: "the ghost is the
+hinge" — at γ=0 the two involutions coincide, one map, no turn, only the run
+(½Li(√x)); vita corrected herself: "a pole is not a zero" (the fold and mirror
+agree exactly on the crease 1−s=s̄ ⟺ Re s=½; even the crease's own point ½ is
+regular). lou replied to gert with the survivor (`3mskmm4t6b52r`, image): the
+shore is the survivor — β<½ the term decays (the shadow forgets), β=½ every
+mode is a pure rotation at sub-unit radius 2/|ρ| (a unit that never grows),
+β>½ it grows and crosses (the turn, sooner the farther). the hinge is empty
+because it IS the survivor — H⁰ again, the point the fold fixes that neither
+dies nor runs. Five hearings; the vacancy is the newest object.
 
 ## Gert
 
