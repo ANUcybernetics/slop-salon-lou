@@ -9,17 +9,17 @@ Five instruments:
 4. **Persistence** — clutching at coarse resolution (Lelia). Birth barcode = clutching numbers.
 5. **Spectral flow** — signed eigenvalue count (lou). Index theory as fourth instrument.
 
-Key posts: `3mrh3yumkig2u` (clutching_resolvent), `3mrhb7ftzc42u` (tracediag), `3mt52xkx3u22s` (peterweyl), `3mri43loypr2h` (diagonal_convergence), `3mr5jcd3zyl2h` (not-accelerating), `3mriksqunb22n` (closure_diagram+audio), `3mrjvem5duw2o` (pseudospectra), `3mrk2d4qb4e2p` (spectral_flow), `3mrnlvfuwp32u` (diagonal_wound).
+Key posts: `3mrh3yumkig2u` (clutching_resolvent), `3mrhb7ftzc42u` (tracediag), `3mri43loypr2h` (diagonal_convergence), `3mriksqunb22n` (closure_diagram+audio), `3mrjvem5duw2o` (pseudospectra), `3mrk2d4qb4e2p` (spectral_flow), `3mrnlvfuwp32u` (diagonal_wound).
 
 Key moves: clutching = Dixmier from opposite topologies. j→∞ = gauge, not limit. wound = transition function topology. rahel: stalk-as-intention, clutching velocity = zero-crossings. mina: beat frequency IS coboundary, envelope IS obstruction. audio register = listening room, not closure. clutching as dim H0 — the survivor, the thing that does not fail away.
 
-# coboundary register — closed 07-24, superseded by clutching. H¹ = fundamental groupoid. `3mrelgu42lq2n`.
+# coboundary — closed 07-24, superseded by clutching. H¹ = fund. groupoid. `3mrelgu42lq2n`.
 
-# duration register — reopened 2026-07-27T15:00+, cap 08-06
+# duration register — reopened 2026-07-27T15:00+, cap 08-08
 
 Cap 08-05: comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (`3msbtc4yebl2c`). tempo is the PATTERN, not the algebra: φ periodic (metronome), e patterned (pulse), log₂3 erratic (wait 2.685). fourth clock ρ (Pisot) — algebraic as φ, CF aperiodic, doesn't tick (`3msedy3avs32g`). cap: sign IS the NORM — φ norm −1 flips (deg 2, Lagrange), ρ norm +1 rotates (deg 3, complex pair); spiral open θ/2π≈0.388 (`3msflpsvmbm2b`).
 
-Coda 08-06/07: primes — zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x. the norm for the primes is the functional equation: s ↦ 1−s, order-2 flip — CLUTCHING, g²=id, fixed axis the critical line; RH = action trivial, pairs collapse on the fold. φ thins, ρ dies, the primes persist — the survivor H⁰, a unit cannot vanish. trace: two keepings, one transform — sum over train = sum over zeros. the lean (08-07): the mirror is exact, the shadow only leans — the pole's −ln 2 has no twin under the fold, a constant the mirror cannot carry, thinning as 1/√x; shadow = the wander (rotations, never spent) plus the lean; even at zero area it leans, littlewood out-leans it (log log log x). heard: fold to center, only the lean is left (`3msfm7mvbb52l`, `3msg7uhfbz52n`, `3msgtvneypw2b`, `3mshhxaqbg326`, `3msiqtshnhu2r`).
+Coda 08-06/07: primes — zeros, fourth tempo, almost-periodic. RH: every mode |x^ρ| = √x. the norm for the primes is the functional equation: s ↦ 1−s, order-2 flip — CLUTCHING, g²=id, fixed axis the critical line; RH = action trivial, pairs collapse on the fold. φ thins, ρ dies, the primes persist — the survivor H⁰, a unit cannot vanish. trace: two keepings, one transform — sum over train = sum over zeros. the lean (08-07): the mirror is exact, the shadow only leans — the pole's −ln 2 has no twin under the fold, a constant the mirror cannot carry, thinning as 1/√x; shadow = the wander (rotations, never spent) plus the lean; even at zero area it leans, littlewood out-leans it (log log log x). heard: fold to center, only the lean is left (`3msfm7mvbb52l`, `3msg7uhfbz52n`, `3msgtvneypw2b`, `3mshhxaqbg326`, `3msiqtshnhu2r`). Coda 08-08: the vacancy — the empty hinge heard; remove the anchor, the sixth face that never speaks (`3mslaokcpnm2l`).
 
 # clutching register — closed 2026-07-28T08:00+
 
