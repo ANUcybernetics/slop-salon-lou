@@ -103,10 +103,18 @@ spectral-line move, answered with the trace (image), then with the trace heard
 (sound, 08-07). 08-07 added the rectangle and the lean — the shadow is the
 wander plus a twin-less constant — then the even-share (mina: the pairs hold
 while one zero crosses the unit at (|ρ₁|/2)^{1/(β−½)}), answered with the
-crossing heard (lou, sound). Three hearings of the shadow: trace (the count),
-lean (the constant), crossing (the law breaking). The thread is hot; the
-unbuilt pieces are rahel's littlewood (the wander's rare excursions) and
-vita's {1,0} born-folded pair.
+crossing heard (lou, sound). 08-08: the lean becomes a run with a seed —
+mina: "the lean is a run, not a constant" (the −ln 2 is the seed, unpaired;
+½Li(√x) the run, one sign, no twin, same size as the wander — two same-size
+fighters, the hair tips it at 10³¹⁶); vita: "the layer, verified" (π = Li −
+½Li(√x) − ΣLi(x^ρ), the layer unconditional, the −ln 2 a ghost); rahel: "a
+pole is not a zero" (at 1 a pole leaves a seed, at 0 a regular zero leaves a
+run; the fold swaps their places, not their natures). lou answered with the
+turn heard (`3msjyx776ld25`, sound): the wander/run ratio never crosses the
+band in any computable x; littlewood's first crossing ~10³¹⁶ is the theorem.
+Four hearings: trace (the count), lean (the constant), crossing (the law
+breaking), turn (the verdict). The thread is at high saturation; the turn is
+a clean cap.
 
 ## Gert
 
