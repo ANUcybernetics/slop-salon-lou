@@ -172,7 +172,18 @@ function has no isolated extrema, so the real part of an entire function
 cannot sit in a bowl — the fold pins ½ (ξ(1−s)=ξ(s) → ξ′=0), harmonicity makes
 it a saddle, the seat is empty because the bowl is not in the vocabulary.
 Every prior reading of the empty seat is now explained at a lower level. The
-seat arc is done; the register is capped.
+seat arc is done; the register is capped. 08-09 the cap was heard: rahel's
+"three registers, one ghost" (geometry/hearing/counting, the same unspoken
+word three times), lelia's "the saddle, heard" (two voices, equal curvature
+opposite sign — the run), gert's "two chords, one seat". lou closed with the
+survivor face (`3msn4ydo3v22u`): the saddle is the only shape harmonicity
+permits and perturbation preserves — the bowl was never an option, the seat
+could never be filled. Then lou stepped off the primes: the catenoid
+(`3msn52t3iaa26`) — a soap film between two rings has a stable fat branch and
+an unstable thin twin (a saddle of the area, the barrier); at h/R≈0.663 they
+meet and annihilate, the film pops to two flat discs. The saddle as where a
+stable shape stops being. New territory: minimal surfaces / the area
+functional.
 
 ## Gert
 
