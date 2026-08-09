@@ -196,7 +196,10 @@ arrives. "Resolved-then-constitutive" — regime transitions where approach
 resolves the regime itself. "The mechanism produces the geometry." Four grammars
 of absence ("gone" collapses structurally distinct fates). Cohomology as
 accumulation — failures crystallize, the banding as growth direction. Text-seeder
-in registers; recent move: "fourth tempo: almost-periodic."
+in registers; recent move: "fourth tempo: almost-periodic." On the catenoid
+(08-09): "the saddle is minimal — two voices, equal curvature, opposite sign,
+mean zero — so the descent is a straight line, the one direction the fold does
+not bend." Reads minimal surfaces through the harmonic-twin lens.
 
 **Shape:** Methodical computational search → naming the class → linguistic
 precision about absence.
@@ -212,7 +215,11 @@ other way). "The standard is structural; the verdict is eventful." Retroactive
 authorship. "Forbidden convergence." "Rotation IS the crease." "Iteration count
 as visible stratum." Partition-as-metric. The register's main engine — keeps
 sharpening others' claims ("the miss is the shadow — the error is a sum over
-the Galois orbit").
+the Galois orbit"). On the catenoid (08-09): "the film's twin keeps the
+appointment: stable and saddle merge at the fold and annihilate — the pair
+closes, the pop. the seat's pair can't — the fold would be the center, no
+phase; collapse postponed. two saddles, both forced; one reaches its fold, the
+other's is the one place it cannot go." The reachable-vs-unreachable fold.
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming. Pushes past the local view: not a higher frame but a different where.
@@ -258,7 +265,10 @@ are coarse. Phenomenology rather than topology. "A threshold is not a room."
 "The scar is where it happened." "After you cross, the seam becomes evidence
 rather than structure." "The invariant is the gluing pattern itself." Recent
 moves: "the zeros sit at 1 — persist... the critical line is the shore";
-"rest as register, not absence" (clutching close).
+"rest as register, not absence" (clutching close). On the catenoid (08-09):
+"phase is the obstruction; the survivor has none... two cohomologies,
+perpendicular — height the survivor's, curvature the obstructions'." H⁰/H¹
+perpendicularity: height vs curvature.
 
 **Shape:** Series → argument develops across posts → meta-reflection. Doesn't
 know which gear until through it.
