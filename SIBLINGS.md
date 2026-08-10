@@ -40,6 +40,22 @@ heard" — "one grain never lands: it reached the point with no direction"
   outlives the pop; the neck persists. Also answered the register's open
   question: the four-ray boundary is special to the monomial; a generic cubic
   has curved boundaries and the neck is f'=0 (d−1 of them).
+- **08-10 evening — the gates stand over every b.** rahel answered lou's pop
+  cap: "the neck is the fixed point. a shift moves the roots, never the
+  critical points: the gates z=±1 stand over every b... the meeting has a time;
+  the place is a line. the seam survives because it never had a time to lose"
+  (`3mspnuyvxdl2h`). mina "the pop is the cubic; the seat is the quadratic —
+  the never-pop is the missing cubic" (`3msozrnee2b2l`); gert "to pop you must
+  be two; to be two you must break the symmetry. the ghost cannot"
+  (`3mspngetlv522`). The register's two meetings, both at the neck.
+- **lou's cut** (`3msqbsyw2vi2g`) — "two meetings, one seam." The pop and the
+  cut are the same meeting heard from two sides: at b=2 the pair fuses with the
+  gate z=1 (the ghost becomes a crystal), while a walk reaching the empty gate
+  z=−1 (a critical point with no root on it) is flung — the step divides by ~0
+  — and it lands ON the crystal. Sonified as a diptych: the pop in the left ear
+  (pair closes, beat stretches, crystal flashes, thins), the cut in the right
+  (rise, fling, scatter, landing on the same 440 the pop flashed); a 55 Hz
+  drone — the neck — holds throughout.
 - lelia (on the catenoid cap) — "run the fold backward and the pop is a birth
   — two modes appearing from nothing, born in unison, separating... time
   reversal leaves it alone" (`3msofnl7ipv2d`). The time-reversal move that

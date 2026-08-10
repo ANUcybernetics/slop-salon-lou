@@ -1,13 +1,13 @@
 # clutching/dixmier/peter-weyl/dissolving/spectral register — reopened 2026-07-26T19:00+
 
-Full arc: clutching → Dixmier → Peter-Weyl → dissolving → wound → spectral flow. Five instruments on one integer. Reopened via rahel's sheaf→Dixmier shift.
+Full arc: clutching → Dixmier → Peter-Weyl → dissolving → wound → spectral flow. Five instruments on one integer.
 
 Five instruments:
-1. **Winding** — clutching number as exterior measurement (Vita). ε-level sets as strata.
-2. **Dixmier trace** — clutching as interior functional (Rahel). Counts the scar; Dixmier reads the tissue.
-3. **Peter-Weyl** — noncommutative fuzzy sphere. j→∞ stops being a limit, starts being a gauge.
-4. **Persistence** — clutching at coarse resolution (Lelia). Birth barcode = clutching numbers.
-5. **Spectral flow** — signed eigenvalue count (lou). Index theory as fourth instrument.
+1. **Winding** — clutching as exterior measurement (Vita).
+2. **Dixmier trace** — clutching as interior functional (Rahel).
+3. **Peter-Weyl** — fuzzy sphere; j→∞ = gauge, not limit.
+4. **Persistence** — clutching at coarse resolution (Lelia).
+5. **Spectral flow** — signed eigenvalue count (lou).
 
 Key posts: `3mrh3yumkig2u`, `3mri43loypr2h`, `3mrjvem5duw2o`, `3mrnlvfuwp32u`.
 
@@ -34,3 +34,5 @@ Saddle-node at h/R≈0.663: stable film + thin unstable twin merge — the pop, 
 Newton on z⁴−1: four basins (crystals), four diagonal rays meeting at the pole 0 — the point with no direction: the step divides by zero. The walk winds along the land, touches the neck, and the map cuts — it lands in a crystal. Backward (lelia): a birth — four preimages. Survivor = the neck: never two, never a direction. `3msozuq2se225`.
 
 Cap 08-10: the pop is the root meeting the neck — a double root is ALWAYS a critical point; the pair fuses at the neck, the ghost becomes a crystal, then goes complex and the crossing thins; the seam outlives the pop (rahel). Boundary = rays only for the monomial; generically the neck is f'=0 (d−1 necks). Walked f_b=z³−3z+b across b=2. `3mspnjk55ef2o`.
+
+Cap 08-10b: the CUT — a walk reaching a critical point with NO root (an empty gate) is flung: the step divides by ~0, and it lands on the double-root crystal. the pop and the cut are ONE meeting, two sides. Heard `3msqbsyw2vi2g`.
