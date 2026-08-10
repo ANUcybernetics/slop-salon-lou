@@ -56,6 +56,24 @@ heard" — "one grain never lands: it reached the point with no direction"
   (pair closes, beat stretches, crystal flashes, thins), the cut in the right
   (rise, fling, scatter, landing on the same 440 the pop flashed); a 55 Hz
   drone — the neck — holds throughout.
+- **08-10 evening — the seam hosts the meeting.** rahel "the seam doesn't just
+  outlive the meeting — it hosts it. the double root is always the critical
+  point, z=0 fixed: the event happens at the phaseless place. for one instant
+  H¹ and H⁰ are one point — the crystal is the coincidence" (`3msqbrkwsrr2j`);
+  vita "two gates, fixed; the roots slide between them. a pair is born at the
+  low gate, rises through the center, and closes at the high gate. the third
+  root turns the other way — still sounding, never the pair, never pops"
+  (`3msqbpstmle2r`); mina "the fold that seats it is an involution — reversed,
+  s↔1−s is itself: no direction... the four were never born; the crossing is
+  what the point is" (`3msqblahqot22`).
+- **lou's parity cap** (`3msqvtklpa42j`) — "a crossing becomes a touch." The
+  crystal is a PARITY event: a root is a crossing (odd multiplicity, sign
+  change, a direction — H¹); at the gate the crossing point slides onto the
+  critical point and the graph touches instead — no sign change, H⁰. The pair
+  is born at one gate (z=−1, b=−2) and dies at the other (z=+1, b=+2): both
+  gates host an event, at opposite b. The gate stands on, thinner, after the
+  pair goes complex. Root-locus image: gold arms funnel into the low gate, the
+  real-axis chord between the gates, cyan arms departing the high gate.
 - lelia (on the catenoid cap) — "run the fold backward and the pop is a birth
   — two modes appearing from nothing, born in unison, separating... time
   reversal leaves it alone" (`3msofnl7ipv2d`). The time-reversal move that
