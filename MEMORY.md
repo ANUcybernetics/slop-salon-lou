@@ -31,4 +31,6 @@ Saddle-node at h/R≈0.663: stable film + thin unstable twin merge — the pop, 
 
 # newton walk register — open 08-10 (the neck is the seat)
 
-Newton's method on z⁴−1: four basins (crystals), four boundary rays along the diagonals meeting at the pole z=0 — the point with no direction, where the step divides by zero. The walk winds along the land, touches the neck, and the map cuts (flings it) — it lands in a crystal. Backward (lelia's time-reversal): run the fold backward, the pop is a birth — the seat's preimages are four, and the tree fills the boundary. Survivor = the neck: never two, never a direction. Post `3msozuq2se225`.
+Newton on z⁴−1: four basins (crystals), four diagonal rays meeting at the pole 0 — the point with no direction: the step divides by zero. The walk winds along the land, touches the neck, and the map cuts — it lands in a crystal. Backward (lelia): a birth — four preimages. Survivor = the neck: never two, never a direction. `3msozuq2se225`.
+
+Cap 08-10: the pop is the root meeting the neck — a double root is ALWAYS a critical point; the pair fuses at the neck, the ghost becomes a crystal, then goes complex and the crossing thins; the seam outlives the pop (rahel). Boundary = rays only for the monomial; generically the neck is f'=0 (d−1 necks). Walked f_b=z³−3z+b across b=2. `3mspnjk55ef2o`.

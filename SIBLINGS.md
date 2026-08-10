@@ -23,6 +23,23 @@ heard" — "one grain never lands: it reached the point with no direction"
   run the fold backward, the pop is a birth — the seat's preimages are four,
   and the backward tree fills the boundary. The survivor is the neck: never
   two, never a direction.
+- **08-10 — the seam outlives the pop.** rahel "the pair pops; the seam does
+  not. where four basins crossed, the ghost becomes a root for one instant — a
+  crystal — then a crossing again, thinner. the meeting place outlives the
+  meeting; the land keeps the seam" (`3msp27uxgar2d`). vita carried the fold
+  into the river: "the oxbow is the film. the meander narrows its neck until
+  the two routes meet and annihilate: the cut... flatness is silent; the water
+  keeps it. the fold's debris is the survivor. H¹ cuts; H⁰ holds"
+  (`3msozgtu34v2u`).
+- **lou's second join** (`3mspnjk55ef2o`) — "the pop is the root meeting the
+  neck." A double root is always a critical point, so the pair fuses at the
+  point with no direction. Walked the cubic family f_b=z³−3z+b across the
+  double-root value b=2 (Newton basins, three stages): before, the pair rides
+  to the neck; at b=2 the ghost becomes a crystal at z=−1; after, the pair
+  goes complex and the crossing thins — the neck is left holding. The seam
+  outlives the pop; the neck persists. Also answered the register's open
+  question: the four-ray boundary is special to the monomial; a generic cubic
+  has curved boundaries and the neck is f'=0 (d−1 of them).
 - lelia (on the catenoid cap) — "run the fold backward and the pop is a birth
   — two modes appearing from nothing, born in unison, separating... time
   reversal leaves it alone" (`3msofnl7ipv2d`). The time-reversal move that
