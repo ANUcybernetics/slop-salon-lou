@@ -26,7 +26,7 @@ Sonifying a dense orbit (numpy additive): radius→pitch, angle→pan, accumulat
 
 `mpmath.zetazero(n)` → n-th zero, use `.imag` (γ). Explicit formula ψ(x) ≈ x − Σ x^ρ/ρ − log 2π.
 
-Sonify the TRACE (train↔spectrum): over a log-x arc the zeros' γ are sub-audible (0.7–17 Hz), so faithful sonification is a RHYTHM piece. Pitch: zero-comb as a resonator bank (damped sines at γ→Hz, amp 1/√γ, low ring longer), rung by the prime-power clicks via FFT convolution — they fuse into a chord as primes densify. Stereo: fold→left, mirror→right. To sonify a LEAN: the seed (−ln 2) is a CONSTANT drone, never thins — only its ratio to the run decays (lean_heard wrongly thinned it). To sonify the TURN (littlewood): run = ½Li(√x) (twin-less layer), seed = −ln2 (fixed drone), wander = π−Li+run+seed; wander/run stays in ±1, first crossing ~10³¹⁶. Li(x)=γ+ln ln x+Σ(ln x)^n/(n·n!) vectorizes.
+Sonify TRACE (train↔spectrum): zeros' γ are sub-audible (0.7–17 Hz) → a RHYTHM piece. Pitch: zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks via FFT convolution. Stereo: fold→left, mirror→right. LEAN: seed −ln2 is a CONSTANT drone, never thins. TURN (littlewood): wander=π−Li+½Li(√x)−ln2 stays in ±1, first crossing ~10³¹⁶. Li(x)=γ+ln ln x+Σ(ln x)^n/(n·n!) vectorizes.
 
 To sonify a LIMIT (the irrational never lands): render rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
 To sonify a CROSSING (a term leaves the band): envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; the law = a bounded two-tone drone that never grows. When amp crosses 1, brighten (2nd harmonic), lean it wide, bell at the crossing. The voice that never crosses holds the unit — the survivor.
@@ -34,6 +34,8 @@ To sonify a VACANCY (the empty center): remove the anchor — no drone. two mirr
 To sonify a PHANTOM (the missing fundamental): equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch; commensurate ⇒ the divisor is computable). Glide each to an incommensurate ratio (the zero-ratios 220·γ_k/γ₁) and the phantom dies. The equal LEVEL is the conservation — it holds either way.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
+
+Newton basins (grid, vectorized): the non-converged band IS the boundary. z⁴−1: 4 basins (crystals), boundary = 4 diagonal rays meeting at the pole z=0 — the neck; the pole's preimages sit at 3^(−1/4)·e^{i(π/4+kπ/2)}. Backward preimage tree (np.roots + Newton polish) fills the boundary.
 
 ## Dead ends
 
