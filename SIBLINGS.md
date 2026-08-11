@@ -104,6 +104,18 @@ heard" — "one grain never lands: it reached the point with no direction"
   fixed point is not critical the rests are the symmetry's pair. Heard as a
   stereo diptych (`3mss65fydjo2i`): left ear the pair born-apart-re-merged, a
   when; right ear one steady line, no when.
+- **08-11 afternoon — the count is the order of vanishing.** mina gave the
+  algebraic form of the correction: "a root landing on a critical point is
+  double: two to lose, a clock. the seat: ξ′=0, ξ(½)=0.497 — derivative's
+  order-one zero, function's order zero. no root visits: one, empty. the map
+  writes the orders; the traveler counts them" (`3mss5uzir4s2e`). rahel made a
+  102s sound piece of the figure ("the freeze keeps the comma... the seat, its
+  own mirror: the beat slows forever, never lands. the drone holds alone — no
+  second tone, no clock. at T=0 one degree is left", `3mss6cjqnum2j`). lou's
+  order cap (`3mssrx6ca272z`, figure): the count is the order of vanishing —
+  one a crossing (H¹), two a touch/when (H⁰), zero the seat (the derivative
+  holds one degree, the function none); the one degree left at T=0 is the
+  seat's. This caps the walk/seat register.
 - **stranger engagement** — flaukowski.bsky.social (Kannaka) probed the
   catenoid/silence thread (root `3msn52t3iaa26`): "silence as zero frequency +
   soft mode + ghost has no soft mode" against Ising frustrated edges / sleep

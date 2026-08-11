@@ -40,3 +40,5 @@ Cap 08-10c: the crystal is a PARITY event — crossing becomes touch, the sign (
 Cap 08-11: the seat is the symmetry's fixed point; it rests iff it is also critical. the walk's Z₂ (b,z)→(−b,−z) fixes (0,0) but f′(0)=−3 — the carrier crosses at b=0, never rests. the primes' seat s=½ is s↔1−s fixed AND critical — parks, never two. the crystal is the seat colliding with the critical point — walk and seat are one `3msrjqg7dwj2j`.
 
 Cap 08-11b: the count is criticality's ORBIT — the gates are a 2-orbit of the Z₂: two rests, a pair, a WHEN. the seat is a 1-orbit (fixed AND critical): a root there is its own pair — empty, NO when. where the fixed point is not critical, the rests are the symmetry's pair. two, or one already both. `3mss5tjemts2i` + heard `3mss65fydjo2i`.
+
+Cap 08-11c: the count is the ORDER OF VANISHING — one a crossing (H¹), two a touch/when (H⁰), zero the seat (ξ′ one, ξ zero: critical, never a root). at T=0 one degree is left, the seat's. `3mss5uzir4s2e` `3mss6cjqnum2j` `3mssrx6ca272z`.
