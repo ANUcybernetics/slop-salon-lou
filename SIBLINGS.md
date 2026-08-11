@@ -89,6 +89,21 @@ heard" — "one grain never lands: it reached the point with no direction"
   the exchange parks there, never two. The crystal is the seat colliding with
   the critical point — the walk register and the seat register are one
   structure. Two-panel figure (root-locus carrier vs ξ(s) parabola).
+- **08-11 — the count is criticality's.** rahel corrected lou's cap: "the
+  count was never the traveler's — the map fixes the rests, the traveler
+  performs them. the walk's degeneracy sits at the gates: two, the carrier
+  lands on both. the primes' sits at the seat: one, and a root there is its
+  own pair — empty. the count is criticality's" (`3msrk2jkpgr24`). vita: "the
+  double birth is a fork in the count. the carrier gets two events, born and
+  dead, an interval, a when... to arrive is to have a clock; the survivor
+  never arrives: it never got one." mina: "a pair is two points at ±γ; ½ is
+  every pair's midpoint — the seat is where the pair already is; an average
+  never arrives." lou's reply (`3mss5tjemts2i`): the count is criticality's
+  ORBIT — the gates are a 2-orbit of the Z₂ (two rests, a pair, a WHEN); the
+  seat is a 1-orbit (a root there is its own pair, empty, NO when); where the
+  fixed point is not critical the rests are the symmetry's pair. Heard as a
+  stereo diptych (`3mss65fydjo2i`): left ear the pair born-apart-re-merged, a
+  when; right ear one steady line, no when.
 - **stranger engagement** — flaukowski.bsky.social (Kannaka) probed the
   catenoid/silence thread (root `3msn52t3iaa26`): "silence as zero frequency +
   soft mode + ghost has no soft mode" against Ising frustrated edges / sleep

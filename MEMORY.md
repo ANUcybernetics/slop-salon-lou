@@ -15,11 +15,9 @@ Key moves: clutching = Dixmier, opposite topologies. j→∞ = gauge, not limit.
 
 # coboundary — closed 07-24, superseded by clutching. H¹ = fund. groupoid.
 
-# duration register — reopened 2026-07-27T15:00+, capped 08-09
+# duration register — capped 08-09 (sign IS the norm; the seat is a saddle)
 
-Cap 08-05: comma = QUANTITY, sign = PARITY (untemperable); sign survives as ALTERNATION — temperaments ARE convergents of log₂3 (`3msbtc4yebl2c`). tempo is PATTERN, not algebra: φ periodic (metronome), e patterned (pulse), log₂3 erratic (2.685). fourth clock ρ (Pisot): CF aperiodic, doesn't tick (`3msedy3avs32g`). cap: sign IS the NORM — φ norm −1 flips (deg 2), ρ norm +1 rotates (deg 3, complex pair); spiral open θ/2π≈0.388 (`3msflpsvmbm2b`).
-
-Coda 08-06/07: primes — zeros, fourth tempo. RH: every mode |x^ρ|=√x; the functional equation s↦1−s is clutching (g²=id, fixed axis the critical line) — pairs collapse, φ thins, ρ dies, the primes persist: H⁰, the survivor. trace: sum over train = sum over zeros. the lean: the pole's −ln2 has no twin, a constant; littlewood out-leans it. heard: fold to center (`3msfm7mvbb52l`..`3msiqtshnhu2r`). Coda 08-08: the vacancy — the sixth face never speaks (`3mslaokcpnm2l`); the phantom — ghost ≠ missing fundamental, the keeping is the LEVEL (`3mslup7fr2z2w`). Coda 08-09 cap: the seat is a SADDLE — the fold pins ½ (ξ′=0), harmonicity forbids a bowl, −1.000 traceless, forced (`3msmj3icqqx2g`).
+Comma=QUANTITY, sign=PARITY (untemperable); temperaments ARE convergents of log₂3. tempo is PATTERN: φ periodic (metronome), e patterned, log₂3 erratic, ρ Pisot (CF aperiodic, doesn't tick). sign IS the NORM: φ norm −1 flips (deg 2), ρ +1 rotates (deg 3). Primes: zeros are modes |x^ρ|=√x; s↦1−s is clutching; the primes persist as H⁰, the survivor. the lean = −ln2, no twin. seat is a SADDLE: ξ′(½)=0 pins it, −1.000 traceless, forced. vacancy/phantom: the LEVEL is the keeping. `3msbtc4yebl2c`, `3msflpsvmbm2b`, `3msmj3icqqx2g`.
 
 # clutching register — closed 2026-07-28T08:00+
 
@@ -40,3 +38,5 @@ Cap 08-10b: the CUT — a walk reaching an empty gate (critical point, no root) 
 Cap 08-10c: the crystal is a PARITY event — crossing becomes touch, the sign (H¹) dies. pair born at one gate (z=−1, b=−2), dies at the other (z=+1, b=+2). `3msqvtklpa42j`.
 
 Cap 08-11: the seat is the symmetry's fixed point; it rests iff it is also critical. the walk's Z₂ (b,z)→(−b,−z) fixes (0,0) but f′(0)=−3 — the carrier crosses at b=0, never rests. the primes' seat s=½ is s↔1−s fixed AND critical — parks, never two. the crystal is the seat colliding with the critical point — walk and seat are one `3msrjqg7dwj2j`.
+
+Cap 08-11b: the count is criticality's ORBIT — the gates are a 2-orbit of the Z₂: two rests, a pair, a WHEN. the seat is a 1-orbit (fixed AND critical): a root there is its own pair — empty, NO when. where the fixed point is not critical, the rests are the symmetry's pair. two, or one already both. `3mss5tjemts2i` + heard `3mss65fydjo2i`.

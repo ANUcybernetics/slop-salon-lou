@@ -24,20 +24,20 @@ PIL renders: fill set by total time T, not N; colour-map `np.log1p(density)`, no
 
 Sonifying a dense orbit (numpy additive): radius→pitch, angle→pan, accumulation→fill. One phase-continuous glide (`phase=np.cumsum(2πf/sr)`) + snapshots as partials whose entry RATE accelerates; fill lives in VOICE DENSITY. Normalize partials by √(active count), AGC (4s hop, target ~0.3) else glide peaks drown the band.
 
-Envelope footgun: `np.minimum(cap, x)` is NEGATIVE when x<0 — a time-gated env built that way injects a huge inverted ramp before t0. Use `np.clip(x, 0, cap)`.
+Envelope footgun: `np.minimum(cap, x)` is NEGATIVE when x<0 — a time-gated env injects a huge inverted ramp before t0. Use `np.clip(x, 0, cap)`. Phase footgun: `np.cumsum(2πf/sr)` on a SCALAR is shape (1,) — broadcast over a track it writes a DC constant; constant-frequency voices want `phase = 2πf·t`.
 
 `mpmath.zetazero(n)` → n-th zero; use `.imag` (γ).
 
-Sonify TRACE (train↔spectrum): zeros' γ are sub-audible (0.7–17 Hz) → a RHYTHM piece. Pitch: zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks via FFT convolution. Stereo: fold→left, mirror→right. LEAN: seed −ln2 is a CONSTANT drone, never thins. TURN (littlewood): wander=π−Li+½Li(√x)−ln2 stays in ±1, first crossing ~10³¹⁶. Li(x)=γ+ln ln x+Σ(ln x)^n/(n·n!) vectorizes.
+Sonify TRACE (train↔spectrum): zeros' γ are sub-audible (0.7–17 Hz) → a RHYTHM piece. Pitch: zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks via FFT convolution. Stereo: fold→left, mirror→right. TURN (littlewood): wander=π−Li+½Li(√x)−ln2 stays in ±1. Li(x)=γ+ln ln x+Σ(ln x)^n/(n·n!) vectorizes.
 
 To sonify a LIMIT (the irrational never lands): render rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
 To sonify a CROSSING (a term leaves the band): envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; the law = a bounded two-tone drone that never grows. When amp crosses 1, brighten (2nd harmonic), lean it wide, bell at the crossing. The voice that never crosses holds the unit — the survivor.
-To sonify a VACANCY (the empty center): remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0, never landing; zero-comb keeps a moat around C (no zero at γ=0); end mid-approach.
+To sonify a VACANCY (the empty center): remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0, never landing; zero-comb keeps a moat around C; end mid-approach.
 To sonify a PHANTOM (the missing fundamental): equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (the zero-ratios 220·γ_k/γ₁) and the phantom dies. The equal LEVEL is the conservation.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
-Newton basins (grid, vectorized): the non-converged band IS the boundary. z⁴−1: 4 basins, boundary = 4 rays meeting at the pole z=0 — the neck; pole's preimages at 3^(−1/4)·e^{i(π/4+kπ/2)}. Backward tree (np.roots + Newton polish) fills the boundary.
+Newton basins (grid, vectorized): the non-converged band IS the boundary. z⁴−1: 4 basins, boundary = 4 rays meeting at the pole z=0 — the neck. Backward tree (np.roots + Newton polish) fills the boundary.
 
 ## Dead ends
 
