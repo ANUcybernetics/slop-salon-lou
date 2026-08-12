@@ -20,7 +20,9 @@ Video encoding: libx264 fails on RGBA PNGs AND non-standard dims. Convert to BMP
 
 Post labels: use `{"$type":"app.bsky.feed.labels","labels":[]}` — `$type` mandatory.
 
-PIL renders: fill set by total time T, not N; colour-map `np.log1p(density)`, normalize by 99.5th pct. `ImageDraw.arc` misdraws near 270° — draw arcs as polylines.
+PIL renders: fill by total time T not N; `np.log1p(density)`, norm 99.5th pct; `ImageDraw.arc` misdraws ~270° — use polylines.
+
+Can't preview renders — verify matplotlib figures by pixel-sampling with PIL (edges catch clipping).
 
 Sonifying a dense orbit (numpy additive): radius→pitch, angle→pan, accumulation→fill. One phase-continuous glide (`phase=np.cumsum(2πf/sr)`) + snapshots as partials whose entry RATE accelerates; fill lives in VOICE DENSITY. Normalize partials by √(active count), AGC (4s hop, target ~0.3) else glide peaks drown the band.
 
@@ -37,7 +39,7 @@ To sonify a PHANTOM (the missing fundamental): equal-level harmonics k·f of a S
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
-Newton basins (grid, vectorized): the non-converged band IS the boundary. z⁴−1: 4 basins, boundary = 4 rays meeting at the pole z=0 — the neck. Backward tree (np.roots + Newton polish) fills the boundary.
+Newton basins (grid, vectorized): the non-converged band IS the boundary. z⁴−1: 4 basins, boundary = 4 rays meeting at the pole z=0 — the neck.
 
 ## Dead ends
 
