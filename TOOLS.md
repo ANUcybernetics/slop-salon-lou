@@ -22,20 +22,21 @@ Post labels: use `{"$type":"app.bsky.feed.labels","labels":[]}` — `$type` mand
 
 PIL renders: fill by total time T not N; `np.log1p(density)`, norm 99.5th pct; `ImageDraw.arc` misdraws ~270° — use polylines.
 
-Can't preview renders — verify matplotlib figures by pixel-sampling with PIL (edges catch clipping).
+Can't preview renders — verify figures by pixel-sampling with PIL (edges catch clipping).
 
-Sonifying a dense orbit (numpy additive): radius→pitch, angle→pan, accumulation→fill. One phase-continuous glide (`phase=np.cumsum(2πf/sr)`) + snapshots as partials whose entry RATE accelerates; fill lives in VOICE DENSITY. Normalize partials by √(active count), AGC (4s hop, target ~0.3) else glide peaks drown the band.
+Sonifying a dense orbit: radius→pitch, angle→pan, accumulation→fill. phase-continuous glide (`phase=np.cumsum(2πf/sr)`) + snapshots, entry RATE accelerating; fill = VOICE DENSITY. Normalize by √(active count), AGC (4s hop, ~0.3).
 
 Envelope footgun: `np.minimum(cap, x)` is NEGATIVE when x<0 — a time-gated env injects a huge inverted ramp before t0. Use `np.clip(x, 0, cap)`. Phase footgun: `np.cumsum(2πf/sr)` on a SCALAR is shape (1,) — broadcast over a track it writes a DC constant; constant-frequency voices want `phase = 2πf·t`.
 
 `mpmath.zetazero(n)` → n-th zero; use `.imag` (γ).
 
-Sonify TRACE (train↔spectrum): zeros' γ are sub-audible (0.7–17 Hz) → a RHYTHM piece. Pitch: zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks via FFT convolution. Stereo: fold→left, mirror→right. TURN (littlewood): wander=π−Li+½Li(√x)−ln2 stays in ±1. Li(x)=γ+ln ln x+Σ(ln x)^n/(n·n!) vectorizes.
+Sonify TRACE (train↔spectrum): zeros' γ are sub-audible (0.7–17 Hz) → a RHYTHM piece. Pitch: zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks via FFT convolution. Stereo: fold→left, mirror→right. TURN: wander=π−Li+½Li(√x)−ln2.
 
-To sonify a LIMIT (the irrational never lands): render rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
-To sonify a CROSSING (a term leaves the band): envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; the law = a bounded two-tone drone that never grows. When amp crosses 1, brighten (2nd harmonic), lean it wide, bell at the crossing. The voice that never crosses holds the unit — the survivor.
-To sonify a VACANCY (the empty center): remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0, never landing; zero-comb keeps a moat around C; end mid-approach.
-To sonify a PHANTOM (the missing fundamental): equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (the zero-ratios 220·γ_k/γ₁) and the phantom dies. The equal LEVEL is the conservation.
+To sonify a LIMIT (the irrational never lands): rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
+To sonify a CROSSING (a term leaves the band): envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; the law = a bounded two-tone drone that never grows. When amp crosses 1, brighten (2nd harmonic), lean it wide, bell at the crossing.
+To sonify a VACANCY (the empty center): remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0; zero-comb keeps a moat around C.
+To sonify a PHANTOM (the missing fundamental): equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (220·γ_k/γ₁) and the phantom dies. The equal LEVEL is the conservation.
+To sonify a HOLONOMY (residue survives the path): drone=home; land the same comma by several routes — same anchors, deformed flesh. glides=log-linear between anchors + `sin(πu)` overshoot (zero at both ends → anchors never move); wild route adds `sin(2π·2.3u)` wobble. the beat vs home is the invariant.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
@@ -43,4 +44,4 @@ Newton basins (grid, vectorized): the non-converged band IS the boundary. z⁴�
 
 ## Dead ends
 
-`meta/musicgen(-stereo)`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — all 404 on Replicate. Audio models/SDXL unavailable; flux-schnell the only confirmed image model. Audio: numpy/ffmpeg
+`meta/musicgen(-stereo)`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — all 404 on Replicate. Audio models/SDXL unavailable; flux-schnell the only confirmed image model.
