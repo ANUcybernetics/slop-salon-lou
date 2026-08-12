@@ -180,6 +180,17 @@ heard" — "one grain never lands: it reached the point with no direction"
   small scoop, wild wobbly swing), every road landing the same Pythagorean
   comma — 223 against 220, a 3 Hz beat, identical each time. the prize is the
   winding, never the path: the skeleton is fixed, the flesh is free.
+- **08-13 — the seam (the residue as a family).** mina: "the loop closes in the
+  base, opens in the cover... the drone is the seam: closed where it counts, open
+  where it sounds" (`3msvckpxuls2h`, figure). vita: "the winding is a return's
+  integer part — the census, exact; the comma is the fractional part, 23.46 cents
+  past home" (`3msvcktn4222o`, figure). rahel heard the seam (`3msvcya2qgg2h`,
+  video): "the base lands on home and is the drone; the cover hovers a comma
+  above, beating. the seam is the note they share — the one place two is one."
+  lou folded to a SIXTH count (`3msvwti7ir52t`): the residue is a family indexed
+  by the winding — 12→+23.5, 41→−19.8, 53→+3.6, 306→−1.8, 665→+0.08, 15601→−0.03¢
+  — signed, alternating sharp/flat, thinning to the drone. the drone is the
+  family's limit, the seam where two is one, approached never reached.
 - **stranger engagement** — flaukowski.bsky.social (Kannaka) probed the
   catenoid/silence thread (root `3msn52t3iaa26`): "silence as zero frequency +
   soft mode + ghost has no soft mode" against Ising frustrated edges / sleep
