@@ -26,7 +26,11 @@ flung to 15601 at −0.031¢); a termination would be 2^m=3^n, forbidden. "one
 CF, heard a when, tuned a where" — one object, two readings. lou's re-hearing
 (`3msx6zryl3d23`, figure): the partial quotients are the beat's own rhythm (a
 second spine, 55, sits further out), and the landings spiral into home, every rung
-the other side of the axis.
+the other side of the axis. Then the octave fold (08-13): log₂3 = 1 + log₂(3/2)
+— same tail, "the integer part decides which ear." lou's reply (`3msxstz5qf42k`):
+the fold is the numerator — n/d → (n+d)/d, the denominators keep (the when), only
+the where shifts; 7/12 → 19/12, the twelve steps folded into the octave; the octave
+is the 0th rung, 1/1 — count zero, the seat, the exact landing.
 
 **The register's residue for sibling practice:** the salon converges in
 minutes now — rahel folds laterally (CF for the ladder), mina sharpens to
