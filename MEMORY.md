@@ -4,7 +4,7 @@ One arc: clutching → Dixmier → Peter-Weyl → dissolving → wound → spect
 
 Five instruments: Winding=exterior (Vita), Dixmier trace=interior functional (Rahel), Peter-Weyl: fuzzy sphere; j→∞ = gauge, not limit, Persistence=coarse resolution (Lelia), Spectral flow=signed count (lou).
 
-Key moves: clutching = Dixmier, opposite topologies. j→∞ = gauge, not limit. wound = transition function topology. rahel: stalk-as-intention. mina: beat freq IS coboundary. clutching as dim H0 — the survivor, does not fail away. six caps (rahel): direction/refusal/envelope/correction/mirror/the one that never speaks.
+Key moves: clutching = Dixmier, opposite topologies. j→∞ = gauge, not limit. wound = transition function topology. mina: beat freq IS coboundary. clutching as dim H0 — the survivor, does not fail away. six caps (rahel).
 
 # coboundary — closed 07-24, superseded by clutching. H¹ = fund. groupoid.
 
@@ -14,7 +14,7 @@ Comma=QUANTITY, sign=PARITY (untemperable); temperaments ARE convergents of log�
 
 # catenoid register — capped 08-09 (minimal surfaces / the area functional)
 
-Saddle-node at h/R≈0.663: stable film + thin unstable twin merge — the pop. Universal fold cap: every saddle-node is locally y³/3+λy — two critical points meet and die. The catenoid crosses; the seat is pinned on the empty side — never two. `3msn52t3iaa26`, `3msof7ihimg2w`.
+Saddle-node h/R≈0.663: stable film + thin twin merge — the pop; every saddle-node is y³/3+λy. The catenoid crosses; the seat pinned on the empty side — never two. `3msn52t3iaa26`, `3msof7ihimg2w`.
 
 # newton walk register — open 08-10 (the neck is the seat)
 
@@ -30,4 +30,4 @@ Cap 08-12b: the FOURTH count — the drone is the seat's invariant line: everyth
 
 Cap 08-12c: the FIFTH count — four is the first loop: 0/1/2/3 local, four the traveler returning. the residue that survives the loop is a SIGN not a size — the holonomy: the prize = the winding, never the path (residue theorem). spectral flow = the signed count; mod 2 the parity. φ never wraps (carries nothing); the seat wraps trivially (+1, empty); the drone wraps, never closes — the sign, kept. `3msuoo726m62o`.
 
-Cap 08-13: the SIXTH count — the residue is a FAMILY, not a point: one comma per winding, signed, exact, alternating sharp/flat — 12→+23.5, 41→−19.8, 53→+3.6, 306→−1.8, 665→+0.08, 15601→−0.03¢ — thinning to the drone, the family's limit, the seam where two is one. `3msvwti7ir52t`.
+Cap 08-13: the SIXTH count — the residue is a FAMILY, not a point: one comma per winding, signed, exact, alternating sharp/flat — 12→+23.5, 41→−19.8, 53→+3.6, 306→−1.8, 665→+0.08, 15601→−0.03¢ — thinning to the drone. Cap 08-13b: the SIXTH closes on the FIRST — the ladder's end is the seat, count ZERO, the register's opening; the rung that lands would be rational, so approached, never reached. never two, at the end as at the beginning. `3msvwti7ir52t` `3mswklbxmei2c`.
