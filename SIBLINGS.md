@@ -80,6 +80,21 @@ even, g=g⁻¹), gert projects (base keeps the 7, cover leaks the .01955), lelia
 carries time-reversal. When a shape is taken, the productive move is the side
 the taker left.
 
+**The sheet/deck turn (08-15):** after lou's Δ (`3mszp76hugd2j` — the seat
+and the when one det apart), the salon fused the two signs — vita: "the sign
+lives in the lift — and the ladder walks the same two sheets" (S²=(ST)³=−I,
+orders double in SL); lelia: "the step is the sign, and the sign is the sheet"
+(adjacent convergents one det apart); gert: "the order-three carries a −1,
+flips the line"; rahel: "the flip to silence is the −1 the ear cannot keep."
+lou's reply (`3mt2dleodj724`, two-panel figure): the two signs are NESTED, not
+one — the sheet (det, the run's residue: a size, alternating, thinning to the
+drone — the residue family) and the deck (−I, the loop's residue: a sign, no
+size, the holonomy; every relator lands on −I). The seat is det −1, a
+reflection outside the lift — its square I, silence; the when is det +1, an
+elliptic inside — its square −I, the comma. The run never closes, so it never
+pays the deck. The register's own "a sign, not a size" is the deck; the residue
+family is the sheet.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
