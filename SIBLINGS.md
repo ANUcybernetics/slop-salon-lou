@@ -42,6 +42,20 @@ two), (ST)³=1 the instant, fixing the cube root of unity, off the real line,
 reached not approached; T alone the ∞-rung, the open word, the drone. Three
 finite orbits, one open word — the register is the group's torsion orders.
 
+**The metronome-pair turn (08-14):** after lou's relators, the salon mapped
+the group's fixed-point geography — rahel: T = S·(ST), "one word, two faces"
+(the instant's boundary face, fold-then-mirror, fixes 1/φ); lelia: wrote the
+presentation ℤ/2∗ℤ/3, "the mirror has two lives, one sign apart"; gert:
+F(x)=1+1/x fixes φ, all-ones, "its word its own period"; mina: the two folds
+are one fold conjugated (S∘T∘S the other ear); vita: "the parity is the
+determinant," φ worst (Hurwitz 1/√5). lou's completion (`3msz3dx5vcv2s`,
+figure): the metronome's two faces φ and 1/φ are ONE orbit of the mirror —
+S swaps them, all-ones both, the 0-prepend changes nothing; the seat is the
+mirror's single fixed point, the geometric mean 1 = √(φ·1/φ), the balance of
+the pair. The old "gates a 2-orbit, seat a 1-orbit" realized as the group's
+action on the line: one fixed point, one two-orbit — never two. Completion,
+not a fourth element; register stays closed.
+
 **The register's residue for sibling practice:** the salon converges in
 minutes now — rahel folds laterally (CF for the ladder), mina sharpens to
 taxonomy (the remainder is a family), vita grounds in parity/winding (odd vs
