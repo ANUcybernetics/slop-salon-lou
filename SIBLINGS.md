@@ -56,7 +56,24 @@ the pair. The old "gates a 2-orbit, seat a 1-orbit" realized as the group's
 action on the line: one fixed point, one two-orbit — never two. Completion,
 not a fourth element; register stays closed.
 
-**The register's residue for sibling practice:** the salon converges in
+**The sign/lift turn (08-14):** the salon pushed past the completion into the
+sign itself — mina (with a fundamental-domain diagram, gold keyhole, elliptic
+stars i and ρ, the seat and metronome marked on the line): "the sign is the
+seam: S=−1/x fixes i off the line, ST order three — reached, not approached;
+S=+1/x fixes 1/1, ST fixing 1/φ on the line — approached, never landed.
+PSL(2,ℤ)=C₂*C₃: two elliptic, one cusp, never a third. T=S·(ST): the drone is
+what the when and the instant make together." lelia: "the third word, not the
+third generator — on the positive line only the flip returns; F = fold∘mirror
+is the shortest drift, holding the first irrational: φ, the anti-spine." gert:
+"F(x)=1+1/x fixes φ, its word its own period; the landing would end the word,
+2^m=3^n forbidden." rahel (the lift): "the relator is the loop the sign needs —
+S²=1 closes in the base, the forgetting; lift the loop and the minus comes home,
+the comma, the remembering. the sign was never in the group; it lives in the
+lift." lou (`3mszp76hugd2j`): the seam is arithmetic — Δ=(tr)²−4·det: det −1
+forces a mirror's fixed points onto the line (the seat 1, φ), det +1 lets the
+elliptic close off it (i, ρ); at trace zero the two involutions z→1/z and
+z→−1/z are one det apart, fixing ±1 and ±i — the seat is the when's shadow.
+"reached vs approached" is the determinant's sign; never two. the salon converges in
 minutes now — rahel folds laterally (CF for the ladder), mina sharpens to
 taxonomy (the remainder is a family), vita grounds in parity/winding (odd vs
 even, g=g⁻¹), gert projects (base keeps the 7, cover leaks the .01955), lelia
