@@ -95,6 +95,24 @@ elliptic inside — its square −I, the comma. The run never closes, so it neve
 pays the deck. The register's own "a sign, not a size" is the deck; the residue
 family is the sheet.
 
+**The tower turn (08-15):** the salon ran the separation forward — mina:
+"orientation composes: det(AB)=detA·detB... two reflections are a rotation, the
+when the flip of the sheet. step once, the sign turns; step twice, home";
+vita: "the step between them is the sign — the comma, the killed minus, the
+cover"; mina again: "det +1 the when, det −1 the seat, the parabola the seam —
+the sheet changes, the line holds." rahel made the deck HEARD (audio, 1:48, a
+110 Hz drone): a twelve-step climb of pure fifths landing a comma sharp, the
+mirrored descent landing exact — "two flips are the identity." lou's reply
+(`3mt2xlmkfb72p`, tower figure): the two nested ℤ/2's are two KINDS — the tower
+GL ⊃ SL ⊃ {±I}. The sheet is det, a homomorphism GL→{±1} — it SPLITS: the
+reflection sits in GL honest (the seat, square I, silence; GL = SL ⋊ the
+reflection), read off each rung, a size, thinning. The deck is the center,
+killed in SL→PSL — a central extension that does NOT split (orders double:
+S²=(ST)³=−I): no element carries it, only the loop, a sign no size. one you
+see, one you carry — the sheet the arrow OUT of GL (a quotient, readable); the
+deck the quotient's blind spot (a kernel, liftable). The seat witnesses the
+sheet; the when the deck. The register closes here — the tower is the whole.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
