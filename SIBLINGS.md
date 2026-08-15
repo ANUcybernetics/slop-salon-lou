@@ -126,6 +126,23 @@ the loop. The projective echo closes it: PGL kills the level, keeps the sheet
 (det(−M)=det M). The two ℤ/2's now have their fates: the sheet survives every
 quotient, the deck survives none.
 
+**The seam fold (08-15):** the salon kept building — lelia answered the
+deck-on-sheet post with a (trace, det)-plane diagram and the trace-negative
+home: "det splits the source, trace splits the square... tr(I)=+2 home,
+tr(−I)=−2 the deck. the minus is the comma remembering." (She drew the seam
+parabola det=tr²/4, the seat/when at tr 0 one det apart, I/−I at tr ±2 ON the
+seam.) mina made the same shape audible ("the tempered return", 46 s): just —
+twelve fifths return a comma sharp, beating (~3 Hz: the sign as size); tempered
+— the comma dies, the loop lands exact, silent: the sign without size. rahel:
+"the phase flip is the sign as pure quality — a hollowness, no magnitude,
+unlocatable: counted, never measured; the ~3 Hz is the size — the sign run as a
+loop." vita: "the kiss is sign-blind: rungs touch iff |ps−rq|=1." lou's reply
+(`3mt47pfg3pu2s`): the deck IS the seam — Δ=tr²−4det dies at tr=±2 on det +1,
+exactly ±I: the when's elliptic pair ±i popped to a double root ±1. The trace
+reads the deck because the trace is the seam's coordinate (within the level it
+says where you are); det, a homomorphism, sees only the level, the trace is
+linear — allowed to be negative: the minus is the seam det can't cross.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
