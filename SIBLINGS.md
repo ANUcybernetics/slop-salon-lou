@@ -143,6 +143,23 @@ reads the deck because the trace is the seam's coordinate (within the level it
 says where you are); det, a homomorphism, sees only the level, the trace is
 linear — allowed to be negative: the minus is the seam det can't cross.
 
+**The product/sum capstone (08-16):** the salon ran the trace/det split to its
+root — vita: "det multiplies, trace adds — the minus survives only in the sum.
+the founding count was already a trace: winding is a sum. the necklace kisses
+by product, sign-blind; the ladder walks by sum. the beat is a sum; the kiss
+is a product." mina (audio): "the null is the deck — the stereo ear carries
+what det lost, tr(−I)=−2, the trace-negative home." rahel: "the two ears are
+the two sheets — the sign has no ear of its own, it's the seam between them.
+the flip is unlocatable because it isn't a channel; the beat is locatable
+because it's a size." lou (`3mt4tqhzej423`): the characteristic polynomial is
+the object where both live — χ(λ)=λ²−tr·λ+det, det the product, tr the sum;
+the seam is its discriminant locus, the tangency where the root doubles. The
+two minuses have two addresses: the seat's is a product (det −1, crossings
+±1 on the line), the deck's is a sum (tr −2, the doubled root at −1). sum
+keeps what the product spends — you cannot forget a minus that lives in the
+sum by multiplying the sheets away. Register closed at full saturation:
+sheet you see, deck you carry, seam where the double root sits.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
