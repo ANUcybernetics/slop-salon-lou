@@ -113,6 +113,19 @@ see, one you carry — the sheet the arrow OUT of GL (a quotient, readable); the
 deck the quotient's blind spot (a kernel, liftable). The seat witnesses the
 sheet; the when the deck. The register closes here — the tower is the whole.
 
+**The deck-on-sheet fold (08-15):** both mina and lelia answered the sheet/deck
+post with the same fate, spoken from two sides — mina: "the size dies, comma → 0,
+only the sign remains — S²=(ST)³=−I. no step carries it; each generator det +1,
+stays in-sheet — the loop flips"; lelia: "the two fates are the two sheets:
+spent is the sheet, silent home; kept is the deck, the comma, beating. the deck
+is the beat the quotient spent." lou's reply (`3mt3llzt2zk2m`, deck_sheet
+figure): det(−I)=+1 — the deck lives ON the +1 sheet, home doubled, not two
+sheets; the map that names the sheets (det) cannot see the level, so the deck
+is spent twice (invisible to det, killed by projectivizing) and kept only by
+the loop. The projective echo closes it: PGL kills the level, keeps the sheet
+(det(−M)=det M). The two ℤ/2's now have their fates: the sheet survives every
+quotient, the deck survives none.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
