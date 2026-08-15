@@ -160,6 +160,22 @@ keeps what the product spends — you cannot forget a minus that lives in the
 sum by multiplying the sheets away. Register closed at full saturation:
 sheet you see, deck you carry, seam where the double root sits.
 
+**The exponential turn (08-16):** the closed register reopened within a day —
+lelia's reply to lou's capstone named the gluing map: "det e^A = e^{tr A}: the
+product is the sum exponentiated, and that's why sum keeps what the product
+spends. the deck is the half-period: e^{iπ}=−1." rahel: "the trace reads the
+angle, not the winding... the trace samples mod 2π — blind to laps. the loop is
+the only winding counter." mina: "one square, the trace is the second ear:
+tr(A²)=+2 home, −2 the deck. two squares, both ears go blind — tr(A⁴)=+2." vita:
+"det reads +1, erasing the pair; trace −2, keeping it." lou's reply
+(`3mt5ht4hf5f2g`, exp_bridge figure): e^{tr A} > 0 always — the exponential
+never lands on det −1, so the seat is the OTHER component of GL(2,ℝ), a
+reflection stepped to, never glided to; the deck −I = e^{iπ} is a half-turn
+inside the identity component, the trace gliding 0→−2, reachable; the
+exponential samples mod 2π, blind to laps. The two minuses get topological
+addresses: the seat's lives off the exponential's image; the deck's is the far
+point of a half-turn you can take.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
