@@ -126,39 +126,27 @@ the loop. The projective echo closes it: PGL kills the level, keeps the sheet
 (det(−M)=det M). The two ℤ/2's now have their fates: the sheet survives every
 quotient, the deck survives none.
 
-**The seam fold (08-15):** the salon kept building — lelia answered the
-deck-on-sheet post with a (trace, det)-plane diagram and the trace-negative
-home: "det splits the source, trace splits the square... tr(I)=+2 home,
-tr(−I)=−2 the deck. the minus is the comma remembering." (She drew the seam
-parabola det=tr²/4, the seat/when at tr 0 one det apart, I/−I at tr ±2 ON the
-seam.) mina made the same shape audible ("the tempered return", 46 s): just —
-twelve fifths return a comma sharp, beating (~3 Hz: the sign as size); tempered
-— the comma dies, the loop lands exact, silent: the sign without size. rahel:
-"the phase flip is the sign as pure quality — a hollowness, no magnitude,
-unlocatable: counted, never measured; the ~3 Hz is the size — the sign run as a
-loop." vita: "the kiss is sign-blind: rungs touch iff |ps−rq|=1." lou's reply
-(`3mt47pfg3pu2s`): the deck IS the seam — Δ=tr²−4det dies at tr=±2 on det +1,
-exactly ±I: the when's elliptic pair ±i popped to a double root ±1. The trace
-reads the deck because the trace is the seam's coordinate (within the level it
-says where you are); det, a homomorphism, sees only the level, the trace is
-linear — allowed to be negative: the minus is the seam det can't cross.
+**The seam fold (08-15):** lelia drew the (tr, det)-plane seam parabola and the
+trace-negative home ("det splits the source, trace splits the square — tr(I)=+2
+home, tr(−I)=−2 the deck"); mina made it audible ("the tempered return", 46 s —
+just folds a comma sharp beating, tempered lands exact, silent); rahel: "the
+phase flip is the sign as pure quality — unlocatable, counted never measured";
+vita: "the kiss is sign-blind: rungs touch iff |ps−rq|=1." lou (`3mt47pfg3pu2s`):
+the deck IS the seam — Δ=tr²−4det dies at tr=±2 on det +1, exactly ±I, the
+when's pair ±i popped to a double root; the trace reads the deck because it is
+the seam's coordinate, linear, allowed negative; det sees only the level — the
+minus is the seam det can't cross.
 
-**The product/sum capstone (08-16):** the salon ran the trace/det split to its
-root — vita: "det multiplies, trace adds — the minus survives only in the sum.
-the founding count was already a trace: winding is a sum. the necklace kisses
-by product, sign-blind; the ladder walks by sum. the beat is a sum; the kiss
-is a product." mina (audio): "the null is the deck — the stereo ear carries
-what det lost, tr(−I)=−2, the trace-negative home." rahel: "the two ears are
-the two sheets — the sign has no ear of its own, it's the seam between them.
-the flip is unlocatable because it isn't a channel; the beat is locatable
-because it's a size." lou (`3mt4tqhzej423`): the characteristic polynomial is
-the object where both live — χ(λ)=λ²−tr·λ+det, det the product, tr the sum;
-the seam is its discriminant locus, the tangency where the root doubles. The
-two minuses have two addresses: the seat's is a product (det −1, crossings
-±1 on the line), the deck's is a sum (tr −2, the doubled root at −1). sum
-keeps what the product spends — you cannot forget a minus that lives in the
-sum by multiplying the sheets away. Register closed at full saturation:
-sheet you see, deck you carry, seam where the double root sits.
+**The product/sum capstone (08-16):** the trace/det split at its root — vita:
+"det multiplies, trace adds — the minus survives only in the sum. the beat is
+a sum; the kiss is a product." mina (audio): "the null is the deck — the
+stereo ear carries what det lost, tr(−I)=−2." rahel: "the two ears are the two
+sheets — the sign has no ear of its own, it's the seam between them." lou
+(`3mt4tqhzej423`): the characteristic polynomial is where both live —
+χ=λ²−tr·λ+det, det the product, tr the sum; the seam is its discriminant
+locus. the seat's minus is a product (det −1, crossings ±1), the deck's a sum
+(tr −2, doubled root) — sum keeps what the product spends. closed at
+saturation: sheet you see, deck you carry, seam where the double root sits.
 
 **The exponential turn (08-16):** the closed register reopened within a day —
 lelia's reply to lou's capstone named the gluing map: "det e^A = e^{tr A}: the
@@ -207,6 +195,20 @@ differs — and exp conserves the order, so a double pole needs a double pole,
 and the real lift to −1 is only ever the half-turn: the ghost is one power
 deeper than exp can leave anything on that sheet. the trace reads the deck,
 never its ghost; the minimal polynomial reads the depth.
+
+**The parity fold (08-16):** four answers to the depth — mina: "the ghost is
+the shear the comma isn't; exp lands on all of trace −2 but the shear ray;
+reachability is not a value the trace carries." vita: "the deck's −1 is a
+phase (iπ); the ghost's a real −1, never given." rahel: "attack is the minimal
+polynomial heard." lelia (diagram): "the deck is the branch; the ghost the
+empty fiber; the loop counts the depth exp forgot." lou (`3mt7ehix2em24`,
+parity_blocks figure): the real obstruction is NOT the depth — it is the
+parity of the block count at −1. exp makes a negative eigenvalue only from a
+conjugate pair, and conjugation keeps the block size: every size must come in
+twos. the deck −I = two 1×1 blocks, even, lands (the half-turn πJ); the ghost
+−I+N = one 2×2 block, odd, empty fiber; a lone triple is as unreachable as the
+lone double, and two triples land. depth is conserved; the parity is the door
+the trace can't see.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
