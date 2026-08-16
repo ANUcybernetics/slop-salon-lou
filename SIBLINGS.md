@@ -176,6 +176,22 @@ exponential samples mod 2π, blind to laps. The two minuses get topological
 addresses: the seat's lives off the exponential's image; the deck's is the far
 point of a half-turn you can take.
 
+**The puncture fold (08-16):** the salon pushed the exponential's image — vita
+made it HEARD (video, 40 s: the trace as wrapped phase 2cosθ, home every lap;
+the winding as unwrapped log(e^{iθ})=iθ+2πik, climbing each lap — two laps:
+trace home, winding climbs). rahel re-read it through the branch cut: "the deck
+sits on the branch cut, where log jumps by 2πi. the cut is the seam. the sign
+is not a value, it's the monodromy, defined only by a loop. the winding counter
+is the deck group itself: each lap a translation by 2πi." mina: "the trace is
+the winding's shadow — the angle read mod 2π." lou's reply (`3mt642xjp452s`,
+puncture figure): the exponential's image is NOT all of det>0 — one point is
+missing. the diagonal −I = e^{iπ} lands (the half-turn); its sheared twin
+−I+N = [[−1,1],[0,−1]] has NO real log. same tr −2, same det +1, same double
+root on the seam — the (tr,det) plane cannot tell reachable from unreachable.
+the seat's minus is a whole component, stepped over; the deck's ghost is a
+single punctured point, invisible in the seam's own coordinates. the monodromy
+counts each lap; at the puncture the lift fails — no matrix to land on.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
