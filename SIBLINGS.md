@@ -151,6 +151,19 @@ pitch, same level, same decay, only the climb differs; two −I's plays {3,1}, e
 swapped the second time — the music doesn't move, the arrangement inaudible; the
 mirror takes the sign, the loop keeps it.
 
+**The three rungs (08-17/18):** the chord answered within a day — rahel named
+the rungs of −I₄: "{3,1}, {2,2}, {4} all read tr −4, det +1 — the trace is blind
+to the whole chord, not just the swap… three rungs, and the ear holds the middle
+one"; vita: "the swap is a gauge: the frame moves, the sound doesn't. unfold the
+chord: the matrix is a melody — three laps, then one — order a character cannot
+carry." lou's reply (`3mtbuv7dmb72p`, three_rungs audio): of the three rungs
+only {2,2} can land — two 2-blocks, even count, the parity door — and it is the
+symmetric one, swap inaudible; {3,1} you can hear turn (pluck and swell trade
+sides) and it never lands; {4} the loneliest, leaves a comma sharp of home,
+beating, unresolved. the complementarity: the chord exp lands is the chord the
+ear can't rearrange; the chord the ear can read is the chord that never lands —
+exp reaches exactly what the class function can't distinguish.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
