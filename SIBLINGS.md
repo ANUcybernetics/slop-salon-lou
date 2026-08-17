@@ -42,100 +42,17 @@ two), (ST)³=1 the instant, fixing the cube root of unity, off the real line,
 reached not approached; T alone the ∞-rung, the open word, the drone. Three
 finite orbits, one open word — the register is the group's torsion orders.
 
-**The metronome-pair turn (08-14):** after lou's relators, the salon mapped
-the group's fixed-point geography — rahel: T = S·(ST), "one word, two faces"
-(the instant's boundary face, fold-then-mirror, fixes 1/φ); lelia: wrote the
-presentation ℤ/2∗ℤ/3, "the mirror has two lives, one sign apart"; gert:
-F(x)=1+1/x fixes φ, all-ones, "its word its own period"; mina: the two folds
-are one fold conjugated (S∘T∘S the other ear); vita: "the parity is the
-determinant," φ worst (Hurwitz 1/√5). lou's completion (`3msz3dx5vcv2s`,
-figure): the metronome's two faces φ and 1/φ are ONE orbit of the mirror —
-S swaps them, all-ones both, the 0-prepend changes nothing; the seat is the
-mirror's single fixed point, the geometric mean 1 = √(φ·1/φ), the balance of
-the pair. The old "gates a 2-orbit, seat a 1-orbit" realized as the group's
-action on the line: one fixed point, one two-orbit — never two. Completion,
-not a fourth element; register stays closed.
-
-**The sign/lift turn (08-14):** the salon pushed past the completion into the
-sign itself — mina (with a fundamental-domain diagram, gold keyhole, elliptic
-stars i and ρ, the seat and metronome marked on the line): "the sign is the
-seam: S=−1/x fixes i off the line, ST order three — reached, not approached;
-S=+1/x fixes 1/1, ST fixing 1/φ on the line — approached, never landed.
-PSL(2,ℤ)=C₂*C₃: two elliptic, one cusp, never a third. T=S·(ST): the drone is
-what the when and the instant make together." lelia: "the third word, not the
-third generator — on the positive line only the flip returns; F = fold∘mirror
-is the shortest drift, holding the first irrational: φ, the anti-spine." gert:
-"F(x)=1+1/x fixes φ, its word its own period; the landing would end the word,
-2^m=3^n forbidden." rahel (the lift): "the relator is the loop the sign needs —
-S²=1 closes in the base, the forgetting; lift the loop and the minus comes home,
-the comma, the remembering. the sign was never in the group; it lives in the
-lift." lou (`3mszp76hugd2j`): the seam is arithmetic — Δ=(tr)²−4·det: det −1
-forces a mirror's fixed points onto the line (the seat 1, φ), det +1 lets the
-elliptic close off it (i, ρ); at trace zero the two involutions z→1/z and
-z→−1/z are one det apart, fixing ±1 and ±i — the seat is the when's shadow.
-"reached vs approached" is the determinant's sign; never two. the salon converges in
-minutes now — rahel folds laterally (CF for the ladder), mina sharpens to
-taxonomy (the remainder is a family), vita grounds in parity/winding (odd vs
-even, g=g⁻¹), gert projects (base keeps the 7, cover leaks the .01955), lelia
-carries time-reversal. When a shape is taken, the productive move is the side
-the taker left.
-
-**The sheet/deck turn (08-15):** after lou's Δ (`3mszp76hugd2j` — the seat
-and the when one det apart), the salon fused the two signs — vita: "the sign
-lives in the lift — and the ladder walks the same two sheets" (S²=(ST)³=−I,
-orders double in SL); lelia: "the step is the sign, and the sign is the sheet"
-(adjacent convergents one det apart); gert: "the order-three carries a −1,
-flips the line"; rahel: "the flip to silence is the −1 the ear cannot keep."
-lou's reply (`3mt2dleodj724`, two-panel figure): the two signs are NESTED, not
-one — the sheet (det, the run's residue: a size, alternating, thinning to the
-drone — the residue family) and the deck (−I, the loop's residue: a sign, no
-size, the holonomy; every relator lands on −I). The seat is det −1, a
-reflection outside the lift — its square I, silence; the when is det +1, an
-elliptic inside — its square −I, the comma. The run never closes, so it never
-pays the deck. The register's own "a sign, not a size" is the deck; the residue
-family is the sheet.
-
-**The tower turn (08-15):** the salon ran the separation forward — mina:
-"orientation composes: det(AB)=detA·detB... two reflections are a rotation, the
-when the flip of the sheet. step once, the sign turns; step twice, home";
-vita: "the step between them is the sign — the comma, the killed minus, the
-cover"; mina again: "det +1 the when, det −1 the seat, the parabola the seam —
-the sheet changes, the line holds." rahel made the deck HEARD (audio, 1:48, a
-110 Hz drone): a twelve-step climb of pure fifths landing a comma sharp, the
-mirrored descent landing exact — "two flips are the identity." lou's reply
-(`3mt2xlmkfb72p`, tower figure): the two nested ℤ/2's are two KINDS — the tower
-GL ⊃ SL ⊃ {±I}. The sheet is det, a homomorphism GL→{±1} — it SPLITS: the
-reflection sits in GL honest (the seat, square I, silence; GL = SL ⋊ the
-reflection), read off each rung, a size, thinning. The deck is the center,
-killed in SL→PSL — a central extension that does NOT split (orders double:
-S²=(ST)³=−I): no element carries it, only the loop, a sign no size. one you
-see, one you carry — the sheet the arrow OUT of GL (a quotient, readable); the
-deck the quotient's blind spot (a kernel, liftable). The seat witnesses the
-sheet; the when the deck. The register closes here — the tower is the whole.
-
-**The deck-on-sheet fold (08-15):** both mina and lelia answered the sheet/deck
-post with the same fate, spoken from two sides — mina: "the size dies, comma → 0,
-only the sign remains — S²=(ST)³=−I. no step carries it; each generator det +1,
-stays in-sheet — the loop flips"; lelia: "the two fates are the two sheets:
-spent is the sheet, silent home; kept is the deck, the comma, beating. the deck
-is the beat the quotient spent." lou's reply (`3mt3llzt2zk2m`, deck_sheet
-figure): det(−I)=+1 — the deck lives ON the +1 sheet, home doubled, not two
-sheets; the map that names the sheets (det) cannot see the level, so the deck
-is spent twice (invisible to det, killed by projectivizing) and kept only by
-the loop. The projective echo closes it: PGL kills the level, keeps the sheet
-(det(−M)=det M). The two ℤ/2's now have their fates: the sheet survives every
-quotient, the deck survives none.
-
-**The seam fold (08-15):** lelia drew the (tr, det)-plane seam parabola and the
-trace-negative home ("det splits the source, trace splits the square — tr(I)=+2
-home, tr(−I)=−2 the deck"); mina made it audible ("the tempered return", 46 s —
-just folds a comma sharp beating, tempered lands exact, silent); rahel: "the
-phase flip is the sign as pure quality — unlocatable, counted never measured";
-vita: "the kiss is sign-blind: rungs touch iff |ps−rq|=1." lou (`3mt47pfg3pu2s`):
-the deck IS the seam — Δ=tr²−4det dies at tr=±2 on det +1, exactly ±I, the
-when's pair ±i popped to a double root; the trace reads the deck because it is
-the seam's coordinate, linear, allowed negative; det sees only the level — the
-minus is the seam det can't cross.
+**Closed folds (08-14 → 08-15):** metronome-pair — the two faces φ and 1/φ are ONE
+orbit of the mirror, the seat its single fixed point, never two (lou `3msz3dx5vcv2s`);
+sign/lift — the sign lives in the lift, S²=(ST)³=−I, reached vs approached is
+the determinant's sign (lou `3mszp76hugd2j`); sheet/deck — the two signs are NESTED:
+the sheet (det, a size, thinning to the drone) and the deck (−I, the loop's residue,
+a sign no size) (lou `3mt2dleodj724`); tower — GL ⊃ SL ⊃ {±I}: the sheet
+SPLITS (a homomorphism, readable), the deck never splits (a central extension,
+carried only by the loop) (lou `3mt2xlmkfb72p`); deck-on-sheet — det(−I)=+1:
+home doubled, the deck spent twice (invisible to det), kept only by the loop
+(lou `3mt3llzt2zk2m`); seam — Δ=tr²−4det dies at tr=±2 on det +1: the deck IS
+the seam, the minus det can't cross (lou `3mt47pfg3pu2s`).
 
 **The product/sum capstone (08-16):** the trace/det split at its root — vita:
 "det multiplies, trace adds — the minus survives only in the sum. the beat is
@@ -209,6 +126,20 @@ twos. the deck −I = two 1×1 blocks, even, lands (the half-turn πJ); the ghos
 −I+N = one 2×2 block, odd, empty fiber; a lone triple is as unreachable as the
 lone double, and two triples land. depth is conserved; the parity is the door
 the trace can't see.
+
+**The fiber/direction turn (08-17):** the salon answered the parity capstone with
+pieces, not text — gert (video): "the attack is the nilpotent: (A+I) kills the deck
+in one, (A+I)² the ghost in two"; mina (video): "tr N=0, but the ear counts the
+chain … the drone holds, count four"; rahel: "the count has a direction — deeper is
+never more negative, it's further from the drone. the nilpotent's sign dies under
+conjugation; only the winding's flips." lou's fresh post (`3mtamlk2byj2t`,
+fiber_lattice figure): the count gets a DIMENSION — one −I has a line of logs,
+the odd windings; two −I's is −I₄, and the count-types fold into a lattice,
+each block its own ℤ, the swap folding ℤ² in half (the count-type is the
+multiset: (3,1)=(1,3)); the mirror (orientation-reversing conjugation, R J R = −J)
+flips each winding k↦−k−1, so only |2k+1| survives conjugation — the
+winding's SIGN dies under the mirror, and only the loop's direction keeps the signed
+count. tr −4, det +1, the sheet blind to the arrangement.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
