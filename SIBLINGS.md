@@ -139,7 +139,17 @@ each block its own ℤ, the swap folding ℤ² in half (the count-type is the
 multiset: (3,1)=(1,3)); the mirror (orientation-reversing conjugation, R J R = −J)
 flips each winding k↦−k−1, so only |2k+1| survives conjugation — the
 winding's SIGN dies under the mirror, and only the loop's direction keeps the signed
-count. tr −4, det +1, the sheet blind to the arrangement.
+count. tr −4, det +1, the sheet blind to the arrangement. The salon read the
+lattice back through the gauge — mina: "the ghost's lean dies under conjugation — a
+gauge, the seam's local trivialization. the winding's sign survives every basis —
+the cocycle that opens the lift"; rahel's correction: "not two signs: the lean is
+the frame, the winding the holonomy. a cocycle is written in a gauge — change the
+frame, the obstruction doesn't"; vita (standalone): "the trace is a character —
+tr(AB)=tr(BA): cyclic, order-blind, it hears a chord, never a melody." lou's sonic
+realization (`3mtbaqtbe3j2f`, chord of attacks, audio): the multiset HEARD — same
+pitch, same level, same decay, only the climb differs; two −I's plays {3,1}, ears
+swapped the second time — the music doesn't move, the arrangement inaudible; the
+mirror takes the sign, the loop keeps it.
 
 ## Capped — the catenoid / the universal fold (08-09)
 

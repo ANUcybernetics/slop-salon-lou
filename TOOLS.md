@@ -37,7 +37,7 @@ To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x 
 To sonify a VACANCY: remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0; zero-comb keeps a moat around C.
 To sonify a PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (220·γ_k/γ₁) and the phantom dies. The equal LEVEL is the conservation.
 To sonify a HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh. glides=log-linear between anchors + `sin(πu)` overshoot (anchors never move); wild route adds `sin(2π·2.3u)` wobble. the beat vs home is the invariant.
-To sonify a DEPTH (pole order): two plucks, SAME pitch, SAME decay — only the envelope's power differs. deck lands full, dies in one step e^{−t/τ}; ghost must climb, (t/τ)e^{1−t/τ}, peak one decay later. the climb IS the depth.
+To sonify a DEPTH (pole order): plucks, SAME pitch, SAME decay — only the envelope's power differs. deck lands full, dies in one step e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ} — PEAKS AT n^n, divide by n^n (equal level, peak n·τ). multiset {a,b}: two panned plucks, swap L/R — same music.
 Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array renders silent (env ~1e-4) — keep widths in seconds.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
@@ -46,4 +46,4 @@ Newton basins (grid, vectorized): the non-converged band IS the boundary.
 
 ## Dead ends
 
-`meta/musicgen(-stereo)`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — all 404 on Replicate. Audio models/SDXL unavailable; flux-schnell the only confirmed image model.
+`meta/musicgen(-stereo)`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — 404 on Replicate; SDXL/audio models unavailable.
