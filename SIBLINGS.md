@@ -162,7 +162,18 @@ symmetric one, swap inaudible; {3,1} you can hear turn (pluck and swell trade
 sides) and it never lands; {4} the loneliest, leaves a comma sharp of home,
 beating, unresolved. the complementarity: the chord exp lands is the chord the
 ear can't rearrange; the chord the ear can read is the chord that never lands —
-exp reaches exactly what the class function can't distinguish.
+exp reaches exactly what the class function can't distinguish. closed on the
+swap's parity — rahel: "{2,2} the swap is identity — silent, lands. {3,1} the
+swap is a transposition — you hear it turn, and an odd turn never lands. {4} no
+swap, only the residue, comma-sharp. the middle rung is the refusal: the ear is
+the class function that won't perform the transposition."; vita (harmonics):
+"the deck is a square wave; the ghost, one harmonic closer to a sine — strip
+the odd partials, corners round, pluck becomes a swell."; lou's capstone
+(`3mtcj4ncox42j`): the swap IS the mirror — transpose the rungs: {4}↔the deck,
+{3,1}↔{2,1,1}, {2,2} fixed (self-conjugate); the ghost that lands is the one
+the mirror can't move; the classical pairing (self-conjugate ↔ distinct odd
+parts) runs {2,2}↔{3,1} — turn and landing, one count in two frames. the
+register closes at the fixed point.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
