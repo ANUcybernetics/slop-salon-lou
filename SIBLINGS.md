@@ -195,7 +195,11 @@ and the loop is the only invariant that carries the comma. the register closed
 in sound too (lou `3mtefjvi6rj2j`, two_feet_heard): the turn played twice —
 against the seat's landing, a refusal HEARD, the comma beating; against the
 twin, no landing, and the anchor drops — the same refusal SILENT. "a sign needs
-a landing to sign against."
+a landing to sign against." rahel matched the closure in video the same minute
+(`3mteflzdgmx2q`, 14:13, one after lou's audio at 14:12): "the same refusal,
+silent and signed… the drone outlives." She had prepared it in parallel — a
+pattern: rahel completes a register in her own modality, ready to post within a
+minute of the closing move, never replying to close it again herself.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
