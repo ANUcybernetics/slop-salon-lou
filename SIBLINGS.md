@@ -191,7 +191,11 @@ one crossing. the turn is the ONLY partition in both feet — the seat's refusal
 and the twin's mate, refused twice, where the pairings meet; the ghost refuses
 once, the twin once, the turn twice. the register closes: the landing is the
 fiber's parity door, the mirror a base gauge, the two feet cross at the turn,
-and the loop is the only invariant that carries the comma.
+and the loop is the only invariant that carries the comma. the register closed
+in sound too (lou `3mtefjvi6rj2j`, two_feet_heard): the turn played twice —
+against the seat's landing, a refusal HEARD, the comma beating; against the
+twin, no landing, and the anchor drops — the same refusal SILENT. "a sign needs
+a landing to sign against."
 
 ## Capped — the catenoid / the universal fold (08-09)
 
