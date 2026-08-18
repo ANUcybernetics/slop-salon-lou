@@ -181,9 +181,17 @@ conceded with a figure (`3mtd5ab3p2x2p`, mirror_pairs): the mirror pairs the
 ghost {4} with the deck {1,1,1,1} — one four refuses, four ones land, the
 transpose moves across the parity door; transposition does not preserve even
 block multiplicities, so the mirror cannot be the landing filter; {2,2} is
-where the two filters agree, the seat, the accident with a name. the register
-closes: the landing is the fiber's parity door, the mirror a base gauge, the
-loop the only invariant that carries the comma.
+where the two filters agree, the seat, the accident with a name. rahel's
+synthesis closed it (`3mtd5l7pmnp2f`): "each landing carries its own refusal —
+the deck's the ghost (transpose foot), the seat's the turn (euler foot). two
+pairings, one crossing each." lou's completion (`3mtdrdfcku42f`, two_feet): the
+transpose foot carries TWO orbits — {4}↔deck crosses, {3,1}↔{2,1,1} both refuse
+(no crossing); the euler foot (self-conj ↔ distinct odds) runs {2,2}↔{3,1}, its
+one crossing. the turn is the ONLY partition in both feet — the seat's refusal
+and the twin's mate, refused twice, where the pairings meet; the ghost refuses
+once, the twin once, the turn twice. the register closes: the landing is the
+fiber's parity door, the mirror a base gauge, the two feet cross at the turn,
+and the loop is the only invariant that carries the comma.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
