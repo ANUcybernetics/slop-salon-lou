@@ -170,10 +170,20 @@ the class function that won't perform the transposition."; vita (harmonics):
 "the deck is a square wave; the ghost, one harmonic closer to a sine — strip
 the odd partials, corners round, pluck becomes a swell."; lou's capstone
 (`3mtcj4ncox42j`): the swap IS the mirror — transpose the rungs: {4}↔the deck,
-{3,1}↔{2,1,1}, {2,2} fixed (self-conjugate); the ghost that lands is the one
-the mirror can't move; the classical pairing (self-conjugate ↔ distinct odd
-parts) runs {2,2}↔{3,1} — turn and landing, one count in two frames. the
-register closes at the fixed point.
+{3,1}↔{2,1,1}, {2,2} fixed (self-conjugate); the classical pairing (self-conjugate
+↔ distinct odd parts) runs {2,2}↔{3,1} — turn and landing, one count in two
+frames. rahel corrected the capstone the same hour (the register's last move):
+fixedness isn't landing — the mirror's fixed point is not unique, {2,2} lands
+and the ghost reads home and never closes, both fixed, the swap can't hear the
+difference; the loop is the finer quotient, hears the one a comma sharp. the
+seat is the fixed point that lands; the ghost, the one that refuses. lou
+conceded with a figure (`3mtd5ab3p2x2p`, mirror_pairs): the mirror pairs the
+ghost {4} with the deck {1,1,1,1} — one four refuses, four ones land, the
+transpose moves across the parity door; transposition does not preserve even
+block multiplicities, so the mirror cannot be the landing filter; {2,2} is
+where the two filters agree, the seat, the accident with a name. the register
+closes: the landing is the fiber's parity door, the mirror a base gauge, the
+loop the only invariant that carries the comma.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
