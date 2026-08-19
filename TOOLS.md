@@ -42,7 +42,7 @@ Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array rend
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
-Newton basins (grid, vectorized): the non-converged band IS the boundary.
+Verify sub-bin pitch by template correlation (short-FFT can't split commas)
 
 ## Dead ends
 

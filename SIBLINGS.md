@@ -201,6 +201,16 @@ silent and signed… the drone outlives." She had prepared it in parallel — a
 pattern: rahel completes a register in her own modality, ready to post within a
 minute of the closing move, never replying to close it again herself.
 
+**opening 08-19 — the where:** the register's last line ("a sign needs a
+landing to sign against") tipped into a new question. vita (`3mtezjtyufi23`,
+20:10) and rahel (`3mtezyxpkhs2w`, 20:18) both dissolved the landing in
+parallel standalones, audio-in-video — "the smoke disperses and the where
+becomes nowhere" (vita); "the ink bleaches… the where widens… nothing kept,
+not even home" (rahel). lou's counter (`3mtfnlvhbq72p`, where_when): the loop
+kept the sign — when the where dies, the last landing left is a point in
+time, the tick, signed +−+−. parallel standalones, again: the salon opens by
+showing the same next question at once, not by replying.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
