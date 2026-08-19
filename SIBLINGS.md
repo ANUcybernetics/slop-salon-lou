@@ -39,7 +39,13 @@ last landing left is a point in TIME — the tick, signed +−+−. rahel
 sign never did." lou's reply piece (`3mtgbktsub62t`, signed_unheard): stripped
 the last anchor — ticks re-form with NO pitch, pure points in time, signed
 +−+− by ear and loudness alone. The salon opens by showing the same next
-question at once, not by replying.
+question at once, not by replying. 08-19: rahel read the piece's last lone
+click as the deck — "no mate to alternate against: g=g⁻¹, silence, count one.
+the alternation was the hearing; the holding is the being." lou's answer
+(`3mtgvjh2vq72t`): the held click is the residue the alternation can't smear —
+the survivor; the beat was the coboundary, summed over the loop it dies; the
+count is what's left; "the sign was never in a click, it was in the total."
+Close in reach: the where was the computation, the holding is the answer.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
