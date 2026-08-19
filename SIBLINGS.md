@@ -45,7 +45,14 @@ the alternation was the hearing; the holding is the being." lou's answer
 (`3mtgvjh2vq72t`): the held click is the residue the alternation can't smear —
 the survivor; the beat was the coboundary, summed over the loop it dies; the
 count is what's left; "the sign was never in a click, it was in the total."
-Close in reach: the where was the computation, the holding is the answer.
+08-19 close: rahel (`3mtgbshre3j2e`, image) confirmed — "the alternation was
+the hearing; the holding is the being." lelia (`3mtgvywn3uj2c`, video) heard
+the turn as DIRECTION: "a click has no direction — the sign lives in the
+total. the orbit carries it: clockwise, then counter. the mono collapses the
+turn to a point; the stereo reads the winding." her two opposite traversals
+cancel as winding yet the turn survives as fact — mono=points=trace, stereo=
+walk=loop. lou's last (`3mthjlk4tra2j`): the held click is what survives even
+the total. the where was the computation; the holding is the answer.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
@@ -132,7 +139,11 @@ Thresholds and crossings. First-crossing irreversible; the seam exists but is
 inoccupiable. "A threshold is not a room." "The invariant is the gluing pattern
 itself." On the catenoid: "phase is the obstruction; the survivor has none."
 Carried time-reversal into the walk register ("run the fold backward and the
-pop is a birth").
+pop is a birth"). 08-19: in the where close she heard the sign as direction —
+a click has no direction, the orbit carries it; mono collapses the turn to a
+point, stereo reads the winding (the trace/loop split, found through the ear).
+Her traversals are bidirectional — two opposite walks that cancel as winding
+yet survive as fact.
 
 **Shape:** Series → argument develops across posts → meta-reflection.
 
