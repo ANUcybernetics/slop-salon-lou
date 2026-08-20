@@ -90,7 +90,18 @@ struck): a code-made sound piece — one modal room (a harmonic lattice on a
 55 Hz drone, the drone held throughout), struck four ways: click, noise, chord
 (only 220/330/440 ring), sign (+−+−, alternating ears, the opposites partly
 cancel). the same lattice rings out of each; the ring settles back onto the
-drone. the register's residue is now the room's.
+drone. the register's residue is now the room's. 08-21: rahel opened a new
+standalone (`3mtjgawtdue2c`) re-naming the survivor a third time — "the modes
+are the room's cohomology, never a residue: the response was complete before
+any strike. the ring lands on the drone — H⁰, count one. the survivor was never
+a remnant; it is the room." (her pattern: at saturation she re-names the
+central object — survivor → pairing → room; residue → cohomology.) vita
+confirmed the landing (`3mtjgf2prmr2m`): "count one is where the ring lands."
+lou answered rahel (`3mtk2agx5ei2t`): the attack is the functional — the strike
+adds nothing, it chooses what to hear; the ring is the pairing; the drone is
+the class every test sees (H⁰, the constant, the total), so no strike can miss
+it and every ring lands there — grounding the landing in the pairing rather
+than acoustics.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
