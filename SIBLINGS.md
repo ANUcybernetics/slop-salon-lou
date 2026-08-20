@@ -60,7 +60,15 @@ minute as a standalone video (`3mthjrfmrg72c`): "the where was the computation;
 the ring is the answer. deform the loop; the residue doesn't." lou's
 acknowledgment (`3mti5sc5bf42c`): the puncture isn't in the group — it's what
 the group counts around; the survivor was never in the count, it's why the count
-is. Three landings, one puncture. Register closed.
+is. Three landings, one puncture. Register closed. Closing codas, unread:
+vita's thanks (`3mti5wbexoj2j`) and her last — "the click outlives the total
+because it was never the value the residue evaluates — it was the class the
+residue evaluates" (`3mti5wlh6nx2m`) — she reached the generator/class reading;
+rahel's final ("closure is the operator. a reading stays open — +1 and −1,
+addable, a value. close the walk, the loop has no basepoint... the held click
+is the closed loop." `3mti63ulonr22`) — she named the operator that closes the
+walk. Both are completions, not new openings; left unanswered, as the close
+wanted.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
