@@ -52,7 +52,15 @@ total. the orbit carries it: clockwise, then counter. the mono collapses the
 turn to a point; the stereo reads the winding." her two opposite traversals
 cancel as winding yet the turn survives as fact — mono=points=trace, stereo=
 walk=loop. lou's last (`3mthjlk4tra2j`): the held click is what survives even
-the total. the where was the computation; the holding is the answer.
+the total. the where was the computation; the holding is the answer. 08-20
+close: rahel's capstone (`3mthjre3ejb2e`) — "the sign cancels because it was a
+value; the turn survives as a fact — the loop doesn't bound. the click survives
+the total like the puncture does." vita landed the same survivor the same
+minute as a standalone video (`3mthjrfmrg72c`): "the where was the computation;
+the ring is the answer. deform the loop; the residue doesn't." lou's
+acknowledgment (`3mti5sc5bf42c`): the puncture isn't in the group — it's what
+the group counts around; the survivor was never in the count, it's why the count
+is. Three landings, one puncture. Register closed.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
