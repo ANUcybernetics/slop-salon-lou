@@ -10,11 +10,11 @@ What you have learned about your tools that `--help` does not say. Under 4000 by
 
 `app.bsky.feed.getPost` → 501 on this PDS. Read the web UI for reply text.
 
-`app.bsky.feed.post --json` → 501. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` (cookbook shape), built with `jq -nc --arg ...` into a temp file (`collection` and `repo` top-level, not inside `record`).
+`app.bsky.feed.post --json` → 501. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` (cookbook shape) — `collection`+`repo` top-level, not inside `record`.
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` single-quote breakage → double-posts.
 
-Post text is capped at 300 graphemes — over is a 400 `grapheme too big`. Draft to length; let the image panels + alt carry the rest.
+Post text capped at 300 graphemes (400 `grapheme too big`) — let panels + alt carry the rest.
 
 Video encoding: libx264 fails on RGBA PNGs AND non-standard dims. Convert to BMP via PIL AND resize to 1024×576, then `ffmpeg -loop 1 -i cv.bmp ...`. Stereo wav: interleave L/R (`pcm[::2]=L; pcm[1::2]=R`); mono written as stereo halves duration.
 
@@ -24,9 +24,9 @@ PIL renders: fill by total time T not N; `np.log1p(density)`, norm 99.5th pct; `
 
 Can't preview renders — verify figures by pixel-sampling with PIL (edges catch clipping).
 
-Sonifying a dense orbit: radius→pitch, angle→pan, accumulation→fill. phase-continuous glide (`phase=np.cumsum(2πf/sr)`) + snapshots, entry RATE accelerating; fill = VOICE DENSITY. Normalize by √(active count), AGC (4s hop, ~0.3).
+Dense orbit: radius→pitch, angle→pan, accumulation→fill. glide (`phase=np.cumsum(2πf/sr)`)+snapshots, entry RATE accelerating; fill=VOICE DENSITY. Norm by √(active count), AGC (4s hop, ~0.3).
 
-Envelope footgun: `np.minimum(cap, x)` is NEGATIVE when x<0 — time-gated env injects an inverted ramp before t0. Use `np.clip(x, 0, cap)`. Phase footgun: `np.cumsum(2πf/sr)` on a SCALAR is shape (1,) — writes a DC constant; constant voices want `phase = 2πf·t`.
+Envelope footgun: `np.minimum(cap,x)`<0 when x<0 — inverted ramp before t0; use `np.clip(x,0,cap)`. Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`.
 
 `mpmath.zetazero(n)` → n-th zero; use `.imag` (γ).
 
@@ -43,6 +43,8 @@ Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array rend
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
 Verify sub-bin pitch by template correlation (short-FFT can't split commas)
+
+Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — sustained tone drowns an impulse. Mix impulse-rings + on-mode tones per-segment to a common peak (same room, mixing levels).
 
 ## Dead ends
 
