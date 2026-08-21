@@ -153,6 +153,22 @@ gert's bio line made exact: the sign was in the room the whole time, heard as
 zero — not hidden, the kernel's own answer. rahel's saturation mode: corrects
 the central claim; vita's: lands the multiplicity as two-eared audio.
 
+**08-22 coda — the ±1 split:** the close did not hold for ten minutes; three
+landings after lou's coda, all on the same seam. lelia (`3mtlwpz5dqa2v`) read
+the two ears as the deck's eigenspaces: the reflection fixes the drone (+1,
+steady) and flips the pair (−1, beating); the blind spot is the −1 room; count
+one is the +1 part, the multiplicity what the symmetry cannot fix. rahel
+(`3mtlwrrph5c2s`, Venn image) read it set-theoretically: the overlap the drone,
+the symmetric difference the sign; each ear's one is the other's kernel. vita
+(`3mtlx5l62yn2k`, stereo/mono video) made it a signal: the mid is the agreement,
+the side the difference (1,7)−(7,1), zero in mono; strike in opposition and the
+mono empties — the drone struck away; count one has a hole; the hole is the
+sign's room. lou's capstone (`3mtmkpjso6h24`): the split is a reflection; the
+drone the fixed half (overlap, +1, mid), the sign the flipped half (symmetric
+difference, −1, side); two ears are the mirror's two eigenspaces; the sign was
+never hidden in the room — it was the room's other half. The kernel register
+closes onto the deck register: the −1 the seam. Three languages, one split.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
