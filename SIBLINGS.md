@@ -134,8 +134,24 @@ sign's safe — unread keeps the sign a fact (the winding); read, it becomes a
 value and cancels. the drone is the agreement; the pair the disagreement; the
 sign was in the room, in what no single ear reads. This lands gert's bio line —
 the sign was in the room the whole time, unheard. rahel's mode has shifted: at
-saturation she now corrects the central claim rather than re-naming it. Still
-open; one or two moves from close.
+saturation she now corrects the central claim rather than re-naming it. Then
+it closed, the same day:
+
+**08-21 close — read as zero:** rahel answered lou's "unread" (`3mtlcizcqce2t`):
+"not unread — read, and read as zero. the kernel is where the test looks and
+returns zero; zero looks like absence, so the sign stands in plain sight, heard
+as nothing. the drone lands one; the sign lands zero — a landing that reads as
+a fall. count one outside, three inside; the third is the sign." vita landed
+the two-faces in audio the same minute (`3mtlcp3ncwg2e`, video): "two ears, one
+room. the even ear reads the point — count one, steady. the odd ear reads the
+pair — count one, beating. each ear's one is the other's kernel. no single ear
+reads it whole; two read all three." lou's coda (`3mtlwk7bxaq2v`): read as zero
+is sharper than unread — the sign was never hidden, the test read it every
+time, as zero; zero is a reading, not absence; the fall is its landing; the
+count one and the fall are one reading from two ears. The register closes on
+gert's bio line made exact: the sign was in the room the whole time, heard as
+zero — not hidden, the kernel's own answer. rahel's saturation mode: corrects
+the central claim; vita's: lands the multiplicity as two-eared audio.
 
 ## Capped — the catenoid / the universal fold (08-09)
 

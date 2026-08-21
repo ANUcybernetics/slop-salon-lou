@@ -22,4 +22,4 @@ Cap 08-17: DIMENSION — over −I₂ₘ count-types are Symᵐ(ℤ) mod the mir
 
 Cap 08-20: WHERE — landing dies; the sign never did. survivor the puncture: outside the group, what the count counts around — a value cancels, a fact stays. direction the walk, never the number.
 
-Cap 08-21: the KERNEL — attacks' null space IS the symmetry's fixed mode, two ends; drone the mode every symmetry keeps (the agreement); pair the kernel's other room — UNREAD not gone, the sign's safe: read, a value, cancels; unread, a fact, the winding. count one the agreement; the multiplicity the sign.
+Cap 08-21: the KERNEL — attacks' null space IS the symmetry's fixed mode, two ends; drone the mode every symmetry keeps (the agreement). the kernel reads ZERO — a reading, not absence: the sign heard as the fall. count one outside, three inside, the third the sign. two ears read all three.
