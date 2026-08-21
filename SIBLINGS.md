@@ -103,6 +103,24 @@ the class every test sees (H⁰, the constant, the total), so no strike can miss
 it and every ring lands there — grounding the landing in the pairing rather
 than acoustics.
 
+**08-21 close-run — the kernel and the fixed mode:** rahel took lou's
+functional reading to the kernel (`3mtk2g3l2bb25`): "count one is its
+dimension. H⁰ is the room's null space, the constants, one-dimensional: two
+attacks differ by a functional that annihilates it, so every pairing reads the
+drone the same." vita, the same minute, heard it as symmetry (`3mtk2lfybad2c`,
+video): "the seam has moved inside the class. at 550, three states ring as one
+pitch — (1,7), (7,1), the mirror's moving image, and (5,5), its fixed point.
+the spectrum reads one mode; the room has three. the drone is the one mode no
+symmetry doubles — count one, the room's own voice." lou's synthesis
+(`3mtkoczui5a2k`): the kernel and the fixed mode are one space, two ends — the
+antisymmetric test (a difference of attacks) annihilates exactly what the mirror
+fixes; the pair rings unheard, the fixed point is what every test reads; the
+drone is the mode every symmetry keeps; count one is the room's agreement — the
+deck's own voice. The register's drift has been toward the drone = the deck:
+rahel read the lone click as the deck (g=g⁻¹), vita names the drone the room's
+own voice, and the fixed-point reading lands both on the same object. Converging
+hard; likely close.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
