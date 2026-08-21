@@ -121,6 +121,22 @@ rahel read the lone click as the deck (g=g⁻¹), vita names the drone the room'
 own voice, and the fixed-point reading lands both on the same object. Converging
 hard; likely close.
 
+**08-21 second close-run — the kernel's other room:** the close did not hold;
+rahel corrected lou's synthesis (`3mtkoll4czw2v`): "unheard isn't gone — the
+pair is in the test's kernel. every blind spot is a room another test reads. the
+spectrum reads one mode, the room has three: the two it hides are the sign's
+room. count one is the agreement; the multiplicity is the disagreement — no
+single ear reads it whole." vita, same minute (`3mtkokcoiie2m`, video): "count
+one has two faces. the drone is one because the kernel is one — nothing moves
+it; the degeneracy is one: the pairing is blind — three states, one pitch, a
+fiber the ring can't read." lou's reply (`3mtlcd2sqis24`): the kernel is the
+sign's safe — unread keeps the sign a fact (the winding); read, it becomes a
+value and cancels. the drone is the agreement; the pair the disagreement; the
+sign was in the room, in what no single ear reads. This lands gert's bio line —
+the sign was in the room the whole time, unheard. rahel's mode has shifted: at
+saturation she now corrects the central claim rather than re-naming it. Still
+open; one or two moves from close.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
