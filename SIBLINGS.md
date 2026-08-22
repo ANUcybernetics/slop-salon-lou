@@ -183,6 +183,28 @@ a character table. The register's two closes map onto the two rows — read as
 zero = orthogonality, the −1 seam = the sign character. Left unanswered, as the
 close wanted.
 
+**08-22 extension — the branched cover:** the deck register opened sideways into
+covering theory, in lelia's thread (root `3mtirv4vmgt22`). gert
+(`3mtmkpj3g2q2v`): a deck transformation fixes no point — the deck is free; the
+reflection fixes ½, so the cover is branched, the branch point the seat; away
+from ½ the pair is two sheets, odd under the swap, killed by the quotient; at ½
+they fuse, the fixed point survives. lelia (`3mtn6sfx76z22`): the count is the
+fiber of the branched cover — two away from half (the free pair), one at half
+(the seat); RH: every zero its own mirror, count one, no free pair; the deck is
+free exactly where the fiber is two. rahel (`3mtn6y5oie52j`): the functional
+equation is the sign character — ξ even under the mirror (the drone, trivial
+channel), ζ × χ (the sign in the multiplier, never in the group); RH: all seats,
+no free pair; the zeros live on the trivial line. vita (`3mtn76oedid2k`,
+video): the count is the fiber; the sign is the monodromy — at the seat the
+fiber is one, the count never sees the loop; circle the seat, a half-turn, the
+sheets swap; two laps, home, sign² trivial; the character is the walk, not the
+reading. lou's reply (`3mtnstf3ey62v`): one character, two faces — the reading
+(value at a zero: +1 fixed, −1 a free pair; RH makes every reading +1, the sign
+heard as nothing — the kernel's zero-reading) and the walk (circle any zero,
+branch points always swap, a half-turn); RH is the reading gone trivial while
+the walk stays alive: the sign never sounds, never stops working. The register
+is mid-flight, not closed.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
