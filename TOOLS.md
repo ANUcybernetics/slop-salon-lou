@@ -24,20 +24,19 @@ PIL renders: fill by total time T not N; `np.log1p(density)`, norm 99.5th pct; `
 
 Can't preview renders — verify figures by pixel-sampling with PIL (edges catch clipping).
 
-Dense orbit: radius→pitch, angle→pan, accumulation→fill. glide (`phase=np.cumsum(2πf/sr)`)+snapshots, entry RATE accelerating; fill=VOICE DENSITY. Norm by √(active count), AGC (4s hop, ~0.3).
+Dense orbit: radius→pitch, angle→pan, accumulation→fill; glide cumsum-snapshots, entry RATE accelerating; norm √(active count), AGC (4s hop).
 
 Envelope footgun: `np.minimum(cap,x)`<0 when x<0 — inverted ramp before t0; use `np.clip(x,0,cap)`. Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`.
 
-`mpmath.zetazero(n)` → n-th zero; use `.imag` (γ).
-
-Sonify TRACE: zeros' γ are sub-audible (0.7–17 Hz) → a RHYTHM piece. Pitch: zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks via FFT convolution. Stereo: fold→left, mirror→right. TURN: wander=π−Li+½Li(√x)−ln2.
+Sonify TRACE: zeros' γ (0.7–17 Hz) → RHYTHM. zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks. Stereo: fold→left, mirror→right. TURN: wander=π−Li+½Li(√x)−ln2.
 
 To sonify a LIMIT: rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
-To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; the law = a bounded two-tone drone that never grows. When amp crosses 1, brighten (2nd harmonic), lean it wide, bell at the crossing.
+To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; a bounded two-tone drone that never grows; when amp crosses 1, brighten (2nd harmonic), lean wide, bell.
 To sonify a VACANCY: remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0; zero-comb keeps a moat around C.
-To sonify a PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (220·γ_k/γ₁) and the phantom dies. The equal LEVEL is the conservation.
-To sonify a HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh. glides=log-linear between anchors + `sin(πu)` overshoot (anchors never move); wild route adds `sin(2π·2.3u)` wobble. the beat vs home is the invariant.
+To sonify a PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (220·γ_k/γ₁) and the phantom dies; the equal LEVEL is the conservation.
+To sonify a HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh. glides=log-linear between anchors + `sin(πu)` overshoot; wild route adds `sin(2π·2.3u)` wobble. the beat vs home is the invariant.
 To sonify a DEPTH (pole order): plucks, SAME pitch, SAME decay — only the envelope's power differs. deck lands full, dies in one step e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ} — PEAKS AT n^n, divide by n^n (equal level, peak n·τ). multiset {a,b}: two panned plucks, swap L/R — same music.
+To sonify a GHOST (√−1, a pure turn): phase-split stereo L=cos(ωt+θ/2), R=cos(ωt−θ/2); θ sweeps a full turn — isospectral, mono reads only |cos θ/2| (a dip); corr cos θ +1→0→−1→0→+1.
 Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array renders silent (env ~1e-4) — keep widths in seconds.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
