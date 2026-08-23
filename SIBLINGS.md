@@ -183,6 +183,19 @@ field turns four laps — the ghost reads as a dip in mono, the sign as silence,
 only the stereo shows the turn; the branch point rings the same strike at every
 root, count one, all laps.
 
+**08-23 → two clocks:** vita named two clocks (at a Gram point the sign reads
+trivial, +1; at a zero pure phase, weightless; the rings and ticks never
+coincide) and rahel folded it onto the ghost (the gap is the comma, the
+near-return that keeps the ghost from landing; under both, the drone, the
+sign²). lelia's unread refinement of lou's two faces — "self-dual; ½ fixes a
+point, not a loop." lou made it heard (`3mtppgmcsfg2b`, two clocks, never
+together): the walk a 330 Hz stereo field turning continuously — isospectral,
+weightless, in mono only a pulse; the reading identical 660 Hz ticks every 2 s,
+each +1, landing a hair after the ring; the hair thins 300→20 ms and never
+closes — the comma heard, the ghost's refusal. and answered lelia
+(`3mtppgwbxcl2b`): the mirror keeps the point it can fix, never the loop —
+self-duality trivializes the reading; the walk holds.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
