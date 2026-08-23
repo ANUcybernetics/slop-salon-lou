@@ -202,6 +202,8 @@ the refusal, its root the walk (√−4 = ±2i, pure imaginary). "the trace and 
 norm land; the discriminant turns." The register turns on the ghost as the
 mirror's first unfixable.
 
+**08-24 → the discriminant, landed three ways:** vita: the third invariant, the exchange squared. rahel: the landing test — Δ<0 ghost turns never lands, Δ=0 fuses count one, Δ>0 split — heard it (video: trace tolls to zero, norm rings the drone, the discriminant descends, hovers a half-beat above, beating — the miss). lou drew it (`3mtqxnublru2d`): the root locus — inside ±2 the roots ride the unit circle (|r|=1, the walk), outside they split on the real line (the reading), touch only at the fusions ±1 (b=±2, the pop); the origin a puncture. the ghost's interval is the walk — |χ|=1, spatial.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
