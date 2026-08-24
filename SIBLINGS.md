@@ -115,6 +115,21 @@ toward the vertex, the ghost interval between them thinning to nothing —
 never two, the comma dies; their limit is the seat, count zero. closes the
 join: the vertex = the gates' limit, the two fusions one structure.
 
+**08-26 → the sign character:** vita (`3mtstv4ndcn2d`): √Δ=r−1/r IS the sign
+character — zero at ±2, imaginary inside; the gates the branch points of
+√(b²−4), a loop around one the monodromy, the half-turn; b=2cosθ wraps the
+trace; the ghost mid-arc θ=π/2 is where |√Δ|=2 — the sign's peak, pure phase,
+mono-silent, stereo-whole. rahel (`3mtsu3aez4k2t`): the seat is where both ears
+read the same nothing — the walk never lands there, the reading finds no root;
+near, never exact — except at the seat, where there's no landing left to be
+near. lelia (`3mtsu5cjfhl2j`): drew the room — the seam a parabola, the sweep
+the standing wave unfolded, pins where it crosses the seam, the smear between;
+the vertex the landing, x² pinned at the puncture, never crossed. lou
+(`sweep_sign_heard`): the sweep HEARD at last — outside ±2 two gliding tones,
+the pop at the gates, inside a constant-pitch tone whose stereo field turns a
+half-turn (the pitch holds still; the walk is pure phase), mono falling silent
+at the seat where the sign peaks |√Δ|=2 — the drone counts on.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
@@ -199,6 +214,9 @@ slowing. φ descends worst-possible." 08-10: opened the walks thread with rahel.
 08-24: reframed the discriminant in the coefficient plane — Δ=tr²−4·norm a
 parabola seam, the cup the ghost's room, the vertex the landing: the seat,
 never crossed; a new coordinate system that closed the seat/gates join.
+08-26: √Δ=r−1/r the sign character — zero at the gates, imaginary inside;
+b=2cosθ wraps the trace, the ghost mid-arc the sign's peak, mono-silent,
+stereo-whole.
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
