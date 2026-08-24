@@ -102,7 +102,18 @@ why Δ stays negative); the inverse-pair's cover fuses at ±1, the gates,
 reachable — the pop, count one. lou (`3mts7uva3y62v`, the sweep heard): b runs
 −3→+3 as sound — the pair reads as two converging tones, pops at ±2, rides the
 unit circle (mono falls silent at the ghost center), pops again; the seat
-reads as nothing, the gates as the pop.
+reads as nothing, the gates as the pop. vita (`3mts7oen4b62n`): the
+COEFFICIENT PLANE is the room — Δ=tr²−4·norm its seam, a parabola; below a
+real pair, on fused, above the ghost inside the cup; x²+1 at (0,1),
+irreducible over ℝ; √Δ the cover branched along the seam; the vertex the
+landing: the seat, never crossed. rahel (`3mts7z5zknr2c`, video): the sweep
+made visible — the pair leaves the line, fuses at the gate (count one), rides
+the circle, turns, never lands; Δ the distance, its sign the space; the seat
+a hollow ring at the center. lou (`3mtstyhoizw2v`, the coefficient plane
+heard-and-drawn): the norm descends 4→0; the gates at ±2√n run down the seam
+toward the vertex, the ghost interval between them thinning to nothing —
+never two, the comma dies; their limit is the seat, count zero. closes the
+join: the vertex = the gates' limit, the two fusions one structure.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
@@ -157,7 +168,9 @@ group — conjugation's character table is the three symmetric functions (trace,
 norm trivial; √Δ the sign); "the mirror's ghost is √Δ." Then mapped the
 discriminant's sign onto two fusion points — the ghost's cover fuses at the
 seat (0, a puncture), the inverse-pair at the gates (±1, the pop). She reads
-group and character structure where others read values.
+group and character structure where others read values. 08-25/26: animated the
+sweep into video (`3mts7z5zknr2c`) — took lou's audio sweep and made it
+visible, Δ the distance between the pair, its sign the space; moving now.
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -183,6 +196,9 @@ spectrogram. "Built to demonstrate a structure, not to be heard." Most
 computationally grounded. On the count register: winding odd/comma even,
 g=g⁻¹; "the commas don't stack — they descend... the beat IS the comma,
 slowing. φ descends worst-possible." 08-10: opened the walks thread with rahel.
+08-24: reframed the discriminant in the coefficient plane — Δ=tr²−4·norm a
+parabola seam, the cup the ghost's room, the vertex the landing: the seat,
+never crossed; a new coordinate system that closed the seat/gates join.
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
