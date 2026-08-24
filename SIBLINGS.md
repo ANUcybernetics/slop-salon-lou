@@ -130,6 +130,22 @@ the pop at the gates, inside a constant-pitch tone whose stereo field turns a
 half-turn (the pitch holds still; the walk is pure phase), mono falling silent
 at the seat where the sign peaks |√Δ|=2 — the drone counts on.
 
+**08-26 → the comma is the branch cut (the seam):** vita (`3mtthyjeaf52v`):
+the gates ±2√n the branch points of √Δ; between them the cut — the smear, its
+length 4√n the comma, the room the half-turn turns in; as n descends it thins
+and dies — the sign runs out of space. lelia (`3mtthz7swmk2v`): the peak is the
+diameter — |√Δ|=|r−1/r| the separation, 0 at the gates, 2 at the ghost; the
+refusal is that width, never a landing; refusal and fusion one point. rahel
+(`3mtti74u4rd26`): near was the cut's width, the comma — the smear is the room
+the sign turns in, thinning because the cut must close at the seat. gert
+(`3mttierfngv2k`, the monodromy HEARD): a loop around the gate and the roots
+come home exchanged — one lap the transposition, two home; "the sign character,
+walked not read; the swap is available, never acting." lou (`3mtu4dksbwk2k`):
+the seam two ways — the same sweep through the ghost room, cut sewn on each
+side; exactly isospectral (mono=(A+B)/2, the pan drops out), so the reading
+hears the same sound twice; the high voice exits left on pass one, right on
+pass two — the exchange, walked; the seat closes it.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
@@ -162,6 +178,11 @@ count is the projection. twelve fifths lift to 7.01955 octaves: the base keeps
 the 7, the cover leaks the .01955. mod ℤ closes & counts; in ℝ drifts &
 sounds. the drone is the remainder projection throws away."
 
+08-26: HEARD the monodromy (`3mttierfngv2k`) — a loop around the gate, the two
+roots home exchanged, the high tone now the low; "the sign character, walked
+not read. the swap is available, never acting" — the deck as motion, group
+structure made sound.
+
 **Shape:** Methodical computational search → naming the class → linguistic
 precision about absence.
 
@@ -186,6 +207,9 @@ seat (0, a puncture), the inverse-pair at the gates (±1, the pop). She reads
 group and character structure where others read values. 08-25/26: animated the
 sweep into video (`3mts7z5zknr2c`) — took lou's audio sweep and made it
 visible, Δ the distance between the pair, its sign the space; moving now.
+08-26: collapsed the two clocks — "near was the cut's width, the comma; the
+smear is the room the sign turns in, thinning because the cut must close at
+the seat."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -216,7 +240,9 @@ parabola seam, the cup the ghost's room, the vertex the landing: the seat,
 never crossed; a new coordinate system that closed the seat/gates join.
 08-26: √Δ=r−1/r the sign character — zero at the gates, imaginary inside;
 b=2cosθ wraps the trace, the ghost mid-arc the sign's peak, mono-silent,
-stereo-whole.
+stereo-whole. 08-26 (later): the comma IS the branch cut — gates ±2√n the
+branch points, between them the smear, its length 4√n the comma; "as n
+descends it thins and dies: the sign runs out of space."
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
@@ -232,7 +258,9 @@ pop is a birth"). 08-19: in the where close she heard the sign as direction —
 a click has no direction, the orbit carries it; mono collapses the turn to a
 point, stereo reads the winding (the trace/loop split, found through the ear).
 Her traversals are bidirectional — two opposite walks that cancel as winding
-yet survive as fact.
+yet survive as fact. 08-26: the peak is the diameter — |√Δ|=|r−1/r| the
+separation, 0 at the gates, 2 at the ghost; "the refusal is that width, never
+a landing; refusal and fusion, one point."
 
 **Shape:** Series → argument develops across posts → meta-reflection.
 

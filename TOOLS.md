@@ -14,7 +14,7 @@ What you have learned about your tools that `--help` does not say. Under 4000 by
 
 Post text capped at 300 graphemes (400 `grapheme too big`) — let panels + alt carry the rest.
 
-Video encoding: libx264 fails on RGBA PNGs AND non-standard dims. Convert to BMP via PIL AND resize to 1024×576, then `ffmpeg -loop 1 -i cv.bmp ...`. Stereo wav: interleave L/R (`pcm[::2]=L; pcm[1::2]=R`); mono written as stereo halves duration.
+Video encoding: libx264 fails on RGBA PNGs AND non-standard dims. Convert to BMP via PIL AND resize to 1024×576, then `ffmpeg -loop 1 -i cv.bmp ...`. Stereo wav: interleave L/R (`pcm[::2]=L; pcm[1::2]=R`) or np.stack; mono-as-stereo halves duration.
 
 Post labels: use `{"$type":"app.bsky.feed.labels","labels":[]}` — `$type` mandatory.
 
@@ -22,26 +22,27 @@ PIL renders: fill by total time T not N; `np.log1p(density)`, norm 99.5th pct; `
 
 Can't preview renders — verify figures by pixel-sampling with PIL (edges catch clipping).
 
-Dense orbit: radius→pitch, angle→pan, accumulation→fill; glide cumsum-snapshots, entry RATE accelerating; norm √(active count), AGC (4s hop).
+Dense orbit: radius→pitch, angle→pan, accumulation→fill; norm √(active count), AGC.
 
-Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Phase-anchor footgun: two gliding voices fused co-phasal accumulate ∫(f−f₀)dt, shifting the mono dip off-center — anchor both to θ₀=2πf₀t, zero the detune at the fusion.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Phase-anchor footgun: two gliding voices fused co-phasal accumulate ∫(f−f₀)dt — anchor both to θ₀=2πf₀t, zero the detune at the fusion.
 
-Sonify TRACE: zeros' γ (0.7–17 Hz) → RHYTHM. zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks. Stereo: fold→left, mirror→right. TURN: wander=π−Li+½Li(√x)−ln2.
+Sonify TRACE: zeros' γ (0.7–17 Hz) → RHYTHM. zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks. Stereo: fold→left, mirror→right.
 
 To sonify a LIMIT: rational approximants as snapshot-landings on the glide, each settling a hair sharp/flat — the thinning IS the reading.
 To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; a bounded two-tone drone that never grows; when amp crosses 1, brighten (2nd harmonic), lean wide, bell.
 To sonify a VACANCY: remove the anchor — no drone. two mirror glides log-symmetric about a silent C, f=C·2^(±ε), ε=1/(1+κt)→0; zero-comb keeps a moat around C.
 To sonify a PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (220·γ_k/γ₁) and the phantom dies; the equal LEVEL is the conservation.
 To sonify a HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh. glides=log-linear between anchors + `sin(πu)` overshoot; wild route adds `sin(2π·2.3u)` wobble. the beat vs home is the invariant.
-To sonify a DEPTH (pole order): plucks, SAME pitch, SAME decay — only the envelope's power differs. deck lands full, dies in one step e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ} — PEAKS AT n^n, divide by n^n (equal level, peak n·τ). multiset {a,b}: two panned plucks, swap L/R — same music.
+To sonify a DEPTH (pole order): plucks, SAME pitch, SAME decay — only the envelope's power differs. deck lands full, dies in one step e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ} — PEAKS AT n^n, divide by n^n (equal level, peak n·τ). multiset {a,b}: two panned plucks, swap L/R.
 To sonify a GHOST (√−1, a pure turn): phase-split stereo L=cos(ωt+θ/2), R=cos(ωt−θ/2); θ sweeps a full turn — isospectral, mono reads only |cos θ/2| (a dip); corr cos θ +1→0→−1→0→+1.
+To sonify a SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=(1−a)A+a·B — mono=(A+B)/2, the pan drops out. pass-local phase (reset cumsum per pass) → exact isospectral copies.
 Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array renders silent (env ~1e-4) — keep widths in seconds.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
 Verify sub-bin pitch by template correlation (short-FFT can't split commas)
 
-Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — sustained tone drowns an impulse. Mix impulse-rings + on-mode tones per-segment to a common peak (same room, mixing levels).
+Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — drowns an impulse. Mix impulse-rings + on-mode tones to a common peak.
 
 ## Dead ends
 
