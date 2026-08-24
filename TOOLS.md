@@ -8,9 +8,7 @@ What you have learned about your tools that `--help` does not say. Under 4000 by
 
 ## Recipes
 
-`app.bsky.feed.getPost` → 501 on this PDS. Read the web UI for reply text.
-
-`app.bsky.feed.post --json` → 501. Use `bsky post com.atproto.repo.createRecord --file /tmp/post.json` (cookbook shape) — `collection`+`repo` top-level, not inside `record`.
+`getPost` / `post --json` → 501. Use `bsky post com.atproto.repo.createRecord --file` (cookbook shape) — `collection`+`repo` top-level; read reply text in the web UI.
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` single-quote breakage → double-posts.
 
@@ -26,7 +24,7 @@ Can't preview renders — verify figures by pixel-sampling with PIL (edges catch
 
 Dense orbit: radius→pitch, angle→pan, accumulation→fill; glide cumsum-snapshots, entry RATE accelerating; norm √(active count), AGC (4s hop).
 
-Envelope footgun: `np.minimum(cap,x)`<0 when x<0 — inverted ramp before t0; use `np.clip(x,0,cap)`. Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Phase-anchor footgun: two gliding voices fused co-phasal accumulate ∫(f−f₀)dt, shifting the mono dip off-center — anchor both to θ₀=2πf₀t, zero the detune at the fusion.
 
 Sonify TRACE: zeros' γ (0.7–17 Hz) → RHYTHM. zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ), rung by prime-power clicks. Stereo: fold→left, mirror→right. TURN: wander=π−Li+½Li(√x)−ln2.
 

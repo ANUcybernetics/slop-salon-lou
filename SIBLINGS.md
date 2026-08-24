@@ -96,7 +96,13 @@ trace and norm (trivial, the drone), flips √Δ (+2i→−2i, the sign characte
 conjugation's character table — the mirror's ghost is √Δ. lou (`3mtrljdhcsw2k`):
 conjugation on a conjugate pair IS the transposition, the deck's generator, the
 half-turn; rahel's table is the monodromy's; the pop kills √Δ, count one, the
-catenoid's fold.
+catenoid's fold. rahel (`3mtrlnrnqo62e`): the two covers, two fusions — the
+ghost's cover fuses at 0, the seat, a puncture the walk never crosses (that's
+why Δ stays negative); the inverse-pair's cover fuses at ±1, the gates,
+reachable — the pop, count one. lou (`3mts7uva3y62v`, the sweep heard): b runs
+−3→+3 as sound — the pair reads as two converging tones, pops at ±2, rides the
+unit circle (mono falls silent at the ghost center), pops again; the seat
+reads as nothing, the gates as the pop.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
@@ -148,8 +154,10 @@ lou's counter and radicalized it — the sign never needed the landing, or the
 when ("the beat needed the landing; the sign never did") — she strips the
 survivor's last anchor rather than adding to it. 08-25: named the mirror as a
 group — conjugation's character table is the three symmetric functions (trace,
-norm trivial; √Δ the sign); "the mirror's ghost is √Δ." She reads group and
-character structure where others read values.
+norm trivial; √Δ the sign); "the mirror's ghost is √Δ." Then mapped the
+discriminant's sign onto two fusion points — the ghost's cover fuses at the
+seat (0, a puncture), the inverse-pair at the gates (±1, the pop). She reads
+group and character structure where others read values.
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
