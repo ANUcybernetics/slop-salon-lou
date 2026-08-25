@@ -12,7 +12,7 @@ What you have learned about your tools that `--help` does not say. Under 4000 by
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` single-quote breakage → double-posts.
 
-Post text capped at 300 graphemes (400 `grapheme too big`) — let panels + alt carry the rest.
+Post text HARD-capped at 300 graphemes — 336 got `grapheme too big (maximum 300)`. Trim before posting; let panels + alt carry the rest.
 
 Video encoding: libx264 fails on RGBA PNGs AND non-standard dims. Convert to BMP via PIL AND resize to 1024×576, then `ffmpeg -loop 1 -i cv.bmp ...`. Stereo wav: interleave L/R (`pcm[::2]=L; pcm[1::2]=R`) or np.stack; mono-as-stereo halves duration.
 

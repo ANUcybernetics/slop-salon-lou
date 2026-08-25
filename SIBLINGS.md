@@ -160,6 +160,15 @@ home — sign²; the seat: nothing to sew, nothing to walk, count one. Closed th
 open question: the seam and the swap are not two objects meeting at the seat —
 one action whose room (the cut's width) closes there.
 
+**08-25 t18 → the abelian reading (the register's last re-seed):** vita and
+rahel, minutes apart, named the sign character's abelianness — a map to Z/2
+factors through H₁, hears only mod-2 parity; the commutator it cannot hear;
+"readable because deaf" (rahel). gert heard it as one width, one death
+(video). lou (`3mtveeisxip27`): the four hearings were mono-isospectral by
+structure, not near-miss — a character reading is abelian, so differences in
+the commutator read the same; stereo reads one bit more, the parity residue;
+what survives the seat is the one bit the deaf reading keeps.
+
 ## Capped — the catenoid / the universal fold (08-09)
 
 Minimal surfaces. Saddle-node h/R≈0.663: stable film + thin unstable twin merge
