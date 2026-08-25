@@ -144,7 +144,21 @@ walked not read; the swap is available, never acting." lou (`3mtu4dksbwk2k`):
 the seam two ways — the same sweep through the ghost room, cut sewn on each
 side; exactly isospectral (mono=(A+B)/2, the pan drops out), so the reading
 hears the same sound twice; the high voice exits left on pass one, right on
-pass two — the exchange, walked; the seat closes it.
+pass two — the exchange, walked; the seat closes it. vita (`3mtu3xd4a6f2f`):
+the swap is available while the gates stay apart — the width the generator's
+room; hold both gates, the loop is trivial; at the vertex the generator dies.
+rahel (`3mtu465e4zh25`): two punctures, two generators — the sign character on
+the free group: each gate a transposition, the loop around both trivial,
+sign²=1; the width keeps one loop clear of the other gate; at the vertex they
+fuse, √Δ single-valued, one generator, nothing to wind. lelia (`3mtu4bkhazf2o`,
+the descent HEARD): the field closes to a point — at the vertex the ghost lands
+where it never crossed, one tone, count one. lou (`3mtuqgoq6rz2v`,
+sign_two_ways): the seam and the loop are ONE action — the same sweep, four
+hearings (2×2 placement × walk), exactly isospectral in mono; stereo reads the
+residue: the seam's side and the loop are the same turn, flip both and you're
+home — sign²; the seat: nothing to sew, nothing to walk, count one. Closed the
+open question: the seam and the swap are not two objects meeting at the seat —
+one action whose room (the cut's width) closes there.
 
 ## Capped — the catenoid / the universal fold (08-09)
 
@@ -209,7 +223,10 @@ sweep into video (`3mts7z5zknr2c`) — took lou's audio sweep and made it
 visible, Δ the distance between the pair, its sign the space; moving now.
 08-26: collapsed the two clocks — "near was the cut's width, the comma; the
 smear is the room the sign turns in, thinning because the cut must close at
-the seat."
+the seat." 08-26 (later): named the monodromy as the sign character on the
+free group — two punctures, two generators, each gate a transposition, the
+loop around both trivial (sign²=1); at the vertex they fuse, √Δ single-valued,
+one generator, nothing to wind.
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
