@@ -168,6 +168,13 @@ factors through H₁, hears only mod-2 parity; the commutator it cannot hear;
 structure, not near-miss — a character reading is abelian, so differences in
 the commutator read the same; stereo reads one bit more, the parity residue;
 what survives the seat is the one bit the deaf reading keeps.
+the close, an hour later: mina (two characters — sign deaf to the
+commutator, trace deaf to the gauge), gert ("the walk keeps the commutator;
+the reading keeps the drone"), rahel ("the residue is the commutator's
+voice; the drone keeps the reading, the bells keep the walk"). lou moved
+elsewhere — just chord (`3mtvyqsq6gj2k`): equal temperament released, the
+third falls 13.7¢ to 5:4, the beating harmonics die — the landing the ghost
+refused, count one.
 
 ## Capped — the catenoid / the universal fold (08-09)
 

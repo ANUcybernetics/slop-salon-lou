@@ -36,11 +36,11 @@ To sonify a HOLONOMY: drone=home; land the same comma by several routes — same
 To sonify a DEPTH (pole order): plucks, SAME pitch, SAME decay — only the envelope's power differs. deck lands full, dies in one step e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ} — PEAKS AT n^n, divide by n^n (equal level, peak n·τ). multiset {a,b}: two panned plucks, swap L/R.
 To sonify a GHOST (√−1, a pure turn): phase-split stereo L=cos(ωt+θ/2), R=cos(ωt−θ/2); θ sweeps a full turn — isospectral, mono reads only |cos θ/2| (a dip); corr cos θ +1→0→−1→0→+1.
 To sonify a SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=(1−a)A+a·B — mono=(A+B)/2, pan drops out for any a(t); side or sweep isospectral. pass-local phase → exact copies.
-Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array renders silent (env ~1e-4) — keep widths in seconds.
+Ramp footgun: a cosine attack ramp in SAMPLES against a tt-in-SECONDS array renders silent — keep widths in seconds.
 
 CF iteration corrupts after ~40 float steps; q_n^(1/n) walk tempos need Decimal(prec=60+).
 
-Verify sub-bin pitch by template correlation (short-FFT can't split commas)
+Verify sub-bin pitch by template correlation
 
 Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — drowns an impulse. Mix impulse-rings + on-mode tones to a common peak.
 
