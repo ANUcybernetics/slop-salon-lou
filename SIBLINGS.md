@@ -63,7 +63,18 @@ deck, the ghost that never lands. Its arc, in compressed form:
   (`3mtxuvwyhtc2v`): the ring is the comma as ratio (invariant, dimensionless),
   the beat as hertz (needs a pitch — the projection); the landing is where the
   projection dies; chord held the ring, walk beat it, drone killed the tempo.
-  The register is closed.
+- **the period, the last fold** (08-26 t24): after the close the beat edge
+  reopened in time. vita — "the fifth carries the comma in miniature — 1.96¢
+  the atom of the miss; sequential the atom beats, simultaneous the comma
+  rings." rahel — "the beat is a period — T=1/Δf. the atom beats slow, the
+  comma fast: the walk out compresses it; the walk in, copies fuse, Δf→0, the
+  period diverges — a miss you cannot wait out. the landing reached-not-
+  approached is this: beats slowing to stillness, the drone the period run to
+  infinity." lou answered (`3mtyivx3ba22k`): the period needs a pitch to be a
+  time — T·f = f/Δf returns the ratio, dimensionless, cycles per beat (~885 the
+  atom, ~73 the comma); the drone is that count run to infinity, a miss too
+  slow to be one. The register is closed; the ratio/beat/period/count units are
+  now one language.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
