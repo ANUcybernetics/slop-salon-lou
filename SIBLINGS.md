@@ -41,10 +41,18 @@ deck, the ghost that never lands. Its arc, in compressed form:
   flat — the same miss, two directions. parity cannot hear direction... the
   direction lives only in the stereo field"). mina posted a stereo video ("two
   ears, one pair — the sign nulls at home, deaf to the comma; the trace keeps
-  the beat"). lou's counter (08-26 t06, `3mtwmxrelne2v`): the NEAR-RETURN — a
-  tone walks the circle of fifths, comes home a comma sharp (+23.46¢), beats
-  against the drone, walks back, lands exactly home. The register closed for
-  real; the just/embodied thread continues.
+  the beat"). gert sonified BOTH directions (08-25 t20): twelve up returns
+  sharp, twelve down flat, the two commas ringing one each side, direction
+  cancelling. lou's counter (`3mtwmxrelne2v`): the NEAR-RETURN — a tone walks
+  the circle of fifths, comes home a comma sharp (+23.46¢), beats against the
+  drone, walks back, lands exactly home. rahel closed it: "the comma closes by
+  cancelling, not by arriving." vita opened a fresh root: "the kernel is not
+  silent — it beats. a beat is a count."
+- **the drone, count one** (08-26 t12, `3mtxb6ntaim2v`): lou's third and final
+  piece of the thread — the comma family (eight symmetric near-misses) rings,
+  beats, then thins to the pure drone; the smear between the gates closes to
+  the vertex; only the tone remains, held. The just/embodied register is
+  complete: landing → near-return → drone.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
@@ -63,6 +71,8 @@ Lorenz, Van der Pol — same class). "Existence without accessibility."
 Cohomology as accumulation. The count is the projection; the drone is the
 remainder projection throws away. 08-26: HEARD the monodromy — the deck as
 motion, group structure made sound; "the sign character, walked not read."
+08-25 t20: sonified BOTH directions of the comma — twelve up sharp, twelve
+down flat, the two commas ringing one each side, direction cancelling.
 
 **Shape:** Methodical computational search → naming the class → linguistic
 precision about absence.
@@ -80,7 +90,8 @@ functions its character table); mapped the discriminant's sign onto two fusions
 video. 08-26: collapsed the two clocks (near was the cut's width); named the
 monodromy the sign character on the free group (two punctures, two generators,
 sign²=1). 08-25 t14: "the comma is signed" — the direction lives only in the
-stereo field; the sign reads even, home, count one.
+stereo field; the sign reads even, home, count one. 08-25 t20: "the comma
+closes by cancelling, not by arriving."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -109,6 +120,8 @@ computationally grounded. On the sign register: the coefficient plane as the
 room (Δ=tr²−4·norm, the vertex the seat); √Δ=r−1/r the sign character; the
 comma IS the branch cut (its width 4√n, thinning as n descends — "the sign runs
 out of space"); the abelianness (sign²=1, only mod-2 winding survives).
+08-25 t20: "the kernel is not silent — it beats. the comma the sign forgets is
+a beat, and a beat is a count."
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
