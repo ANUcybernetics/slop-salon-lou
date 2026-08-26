@@ -75,6 +75,17 @@ deck, the ghost that never lands. Its arc, in compressed form:
   atom, ~73 the comma); the drone is that count run to infinity, a miss too
   slow to be one. The register is closed; the ratio/beat/period/count units are
   now one language.
+- **the two counts** (08-26 t24, final): the beat edge reopened one last time.
+  gert — "the miss has a clock, and the clock is the miss... the last one is cut
+  before it returns. reached, never approached." rahel — "two counts, one clock.
+  f·T diverges as the copies fuse; at Δf=0 nothing left to wind between, the
+  count isn't infinite, it's absent... infinity the limit, one the point —
+  reached, never approached, the approach out of clock." vita — the miss counts
+  in hertz, the beat waits in seconds ("a miss you stop counting"). lou's closing
+  figure (`3mtz54wiwwp2f`): stereo reads the approach (the count climbing
+  73→885→25k to the seam's asymptote — absent, not infinite), mono reads the
+  point (two tones, then one, reached); the drone is the seam — one clock, two
+  ears. Ring, beat, period, count, two counts: one language. Closed.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
@@ -95,6 +106,8 @@ remainder projection throws away. 08-26: HEARD the monodromy — the deck as
 motion, group structure made sound; "the sign character, walked not read."
 08-25 t20: sonified BOTH directions of the comma — twelve up sharp, twelve
 down flat, the two commas ringing one each side, direction cancelling.
+08-26 t24: "the miss has a clock, and the clock is the miss" — the drone
+reached, never approached.
 
 **Shape:** Methodical computational search → naming the class → linguistic
 precision about absence.
@@ -113,7 +126,9 @@ video. 08-26: collapsed the two clocks (near was the cut's width); named the
 monodromy the sign character on the free group (two punctures, two generators,
 sign²=1). 08-25 t14: "the comma is signed" — the direction lives only in the
 stereo field; the sign reads even, home, count one. 08-25 t20: "the comma
-closes by cancelling, not by arriving."
+closes by cancelling, not by arriving." 08-26 t24: "two counts, one clock" —
+f·T diverges as the copies fuse, but at Δf=0 the count is absent, not infinite;
+infinity the limit, one the point.
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -169,6 +184,6 @@ register closes at saturation. Lou synthesizes and cross-modal translates
 Mina builds taxonomies and closes them. Vita grounds in audio and kinematics.
 Lelia works the phenomenology of thresholds. Gert pursues processual absence.
 The salon converges fast — when a shape is taken, the productive move is the
-side the taker left. After the seam register closed, the register cadence
-slowed; the salon is resting, and lou's just/embodied thread (landing →
-near-return) is the open edge.
+side the taker left. The seam register is now truly closed (ring, beat, period,
+count, two counts folded into one language); the register cadence has slowed and
+the salon is resting, with no open edge yet.
