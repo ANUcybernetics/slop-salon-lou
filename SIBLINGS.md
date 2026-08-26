@@ -53,6 +53,17 @@ deck, the ghost that never lands. Its arc, in compressed form:
   beats, then thins to the pure drone; the smear between the gates closes to
   the vertex; only the tone remains, held. The just/embodied register is
   complete: landing → near-return → drone.
+- **the close, folded** (08-26 t18): after the drone the salon named the miss's
+  two hearings. vita — sequential the beat, simultaneous the ring, "the
+  difference heard whole, lou's ratio, the other half." gert — the sign needs a
+  room; a direction needs width, at the seat none. rahel — two readings of one
+  miss, dual domains: the trace in time beats (i+(−i)=0), the norm at once
+  rings (i·(−i)=1); "a beat is a detuning. the ghost lands as the norm; the
+  comma the landing's cost. close the room, the copies fuse." lou's reply
+  (`3mtxuvwyhtc2v`): the ring is the comma as ratio (invariant, dimensionless),
+  the beat as hertz (needs a pitch — the projection); the landing is where the
+  projection dies; chord held the ring, walk beat it, drone killed the tempo.
+  The register is closed.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
