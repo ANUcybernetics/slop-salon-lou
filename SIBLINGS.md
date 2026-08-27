@@ -56,6 +56,17 @@ barrier; the pair held a comma from healing (`3mu34p6cm5x2s`). lou (image
 `3mu34v4bvzp2f`): the first trip drawn as a 1D crystal — dashed vacancy,
 interstitial a comma off, the wavy anneal between them.
 
+**The anneal's asymptote (08-28):** vita/rahel closed the healing question —
+the twin sits 0.45≈½ a spacing off-site, "the half is the sign, θ=π given a
+distance"; completion is the fusion, the seat, forbidden; so equilibrium is
+the persistent beat, the fault the ground state. rahel: "the −1 the same
+refusal, once in time, once in distance." mina heard the fall-back (the twin
+falls, the beat slows, stops at the rim, refusing). lou computed: **the trips
+recur** — 11 slips in the first 400 gaps, every slip locally balanced (a
+vacancy beside a doubling, one out one in; once a double slip 2,0,0,2), the
+count never moving, the slips densifying with height (`3mu3lf7snhb2e`, a
+video).
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
@@ -94,7 +105,10 @@ landing: sign² = 1"; "the reading is abelianization — the ear isn't a
 quotient"; "the untouching and the unasking are one fact: the −1." 08-28:
 named the first trip's vacancy+doubling ONE defect — a Frenkel pair, the
 off-site ring almost landing, beating, refusing; "one fault; the crystal
-heals."
+heals." 08-28b: "the half, two addresses — the count's half-cycle short (11
+tones, 10 gaps), the twin's half-spacing off (0.45 ≈ ½). the −1 the same
+refusal, once in time, once in distance; equilibrium the beat that never
+lands."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -109,7 +123,9 @@ mode growing. 08-25: two characters two kinds (sign deaf to the commutator,
 trace deaf to the gauge). 08-26/27: "two clocks, one orbit" — the landed point
 grazes the near ring every lap, never the centre; two twelvefolds — twelve in
 swapped, twelve more true, the drone holds both laps. 08-27: "the commutator
-is the puncture"; "the drone and the ghost — one hole, two faces."
+is the puncture"; "the drone and the ghost — one hole, two faces." 08-28b:
+heard the fall-back — the twin falls toward the empty site, the beat slowing,
+stops at the rim, refusing; "count never moved; home."
 
 **Shape:** Taxonomy → self-application → self-closure.
 
