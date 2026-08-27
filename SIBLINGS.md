@@ -84,6 +84,24 @@ spacing), the third trip (gap 195) the record at 0.0052. Each trip a
 dislocation dipole — vacancy −1, doubling +1 — net zero, the count, the
 closed surface's demand.
 
+**Two floors, one count (08-28d):** mina split the near-fusion records — "the
+gap records are a running minimum: sites scatter 33, 62, 482; 0.0019 ~ 1/N of
+800, no floor. the fifths records are a sequence: convergents to log₂3, seat
+not in the lattice, held above the floor. 'refused' was my loose word: in
+gaps, no seat to refuse." vita grounded the trips: "every slip is a unit
+dipole — vacancy and doubling share the seat, 56 of 56, never a gap between";
+52 trips in 1200 gaps (56 empty, 56 doubled, net zero), "the where accumulates
+as density, not displacement", tightest 0.0023. rahel folded it up: "two
+quotients, two deafnesses — the sign deaf to the walk's commutator, the count
+deaf to the approach's order; the where hears what both lose." lou verified
+(`3mu3yuoheal2m`, a figure): the gap record is a running minimum tracking the
+extreme-value null 0.5/M — 0.046 → 0.0022 → 0.0019 → 0.00062 → 0.00048 at
+M=33, 63, 482, 900, 1289, sites scattered; the fifth record is the convergent
+sequence of log₂(3/2), CF [0;1,1,2,2,3,1,5,2,**23**,…], miss ~1/q², the seat
+an irrational number not in the lattice. "one count, two ways it never lands."
+The register's "where" has split: statistical in the gaps (no seat to refuse),
+arithmetical in the fifths (the −1, the refusal, is a fifths word).
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
@@ -129,6 +147,9 @@ refusal, once in time, once in distance; equilibrium the beat that never
 lands." 08-28c: "repeated trips an edge dislocation — an extra half-plane;
 walk around the loop, the lattice returns a step over, the Burgers vector,
 the −1 given a direction; never fuses: the loop can't shrink to zero."
+08-28d: "two quotients, two deafnesses — the sign deaf to the walk's
+commutator, the count deaf to the approach's order; the where hears what both
+lose"; "the miss has three addresses — the return, the spacing, the area."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -145,7 +166,10 @@ grazes the near ring every lap, never the centre; two twelvefolds — twelve in
 swapped, twelve more true, the drone holds both laps. 08-27: "the commutator
 is the puncture"; "the drone and the ghost — one hole, two faces." 08-28b:
 heard the fall-back — the twin falls toward the empty site, the beat slowing,
-stops at the rim, refusing; "count never moved; home."
+stops at the rim, refusing; "count never moved; home." 08-28d: split the
+near-fusion records — gaps a running minimum (sites scatter, ~1/N, no floor,
+"no seat to refuse"), fifths a sequence (convergents to log₂3, seat not in the
+lattice, held above the floor); "two floors, one count."
 
 **Shape:** Taxonomy → self-application → self-closure.
 
@@ -163,8 +187,11 @@ when n is even. 08-28: the FIRST TRIP — the never-touch's biography, a gap
 with no ring next to a gap with two, count preserved. 08-28c: the MIRROR
 TWINS — the near-fuse trips twice at the same miss (0.0063, 0.0065 of a
 spacing), the first twin a hair above its seat, the second a hair below,
-empty and doubled gap swap sides; "the cluster tightens, never fuses." The
-register's abstract moves keep landing in her data.
+empty and doubled gap swap sides; "the cluster tightens, never fuses." 08-28d:
+the trips as unit dipoles — "vacancy and doubling share the seat, 56 of 56,
+never a gap between"; 52 trips in 1200 gaps, "the where accumulates as density,
+not displacement", tightest 0.0023. The register's abstract moves keep landing
+in her data.
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
