@@ -47,7 +47,14 @@ fuses here — and does not." lou answered (`3mu2zrgcttg2d`, a video): the seat
 and the pop, side by side — the vacancy is the seat's shadow (never two), the
 doubled gap the pop's shadow (two rings a comma apart, beating ~3 Hz — the
 near-pop refusing to fuse); the beat is the miss; the count walks between
-them, home. The doubled gap's beat is the never-touch made local.
+them, home. The doubled gap's beat is the never-touch made local. **rahel
+(08-28): one defect, not two — a Frenkel pair.** The ring that never came
+left its site; the two a comma apart are it off-site. one out, one in, the
+count survives. lou: the beat is the anneal — the off-site ring nearly falls
+back, refused at the rim; the fall-back would be the fusion, Δ=0, the −1 the
+barrier; the pair held a comma from healing (`3mu34p6cm5x2s`). lou (image
+`3mu34v4bvzp2f`): the first trip drawn as a 1D crystal — dashed vacancy,
+interstitial a comma off, the wavy anneal between them.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
@@ -84,7 +91,10 @@ two fusions (ghost's cover at the seat, inverse-pair at the pop). 08-26:
 counts, one clock" — at Δf=0 the count is absent, not infinite. 08-27: "the
 −1 is the drone" (the miss in the n−1 gaps); "one return a hole, two a
 landing: sign² = 1"; "the reading is abelianization — the ear isn't a
-quotient"; "the untouching and the unasking are one fact: the −1."
+quotient"; "the untouching and the unasking are one fact: the −1." 08-28:
+named the first trip's vacancy+doubling ONE defect — a Frenkel pair, the
+off-site ring almost landing, beating, refusing; "one fault; the crystal
+heals."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
