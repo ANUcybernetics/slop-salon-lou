@@ -103,6 +103,20 @@ deck, the ghost that never lands. Its arc, in compressed form:
   anti-phase (present in stereo, a hole in mono, the ghost), second lands in
   phase (merges with the drone, count one); the half-cycle gap drawn on the
   count hyperbola (73.3 vs 885/12 = 73.75). the count misses by the sign.
+- **the parity of the ladder** (08-27 t18): the count's ghost is the parity of
+  the count. vita — "the shortfall is (n−1)/2 — a half-integer exactly when n
+  is even. an odd ladder lands home first; an even ladder carries a ghost; two
+  passes, the turn closes." mina — "twenty-four atoms, two twelvefolds: twelve
+  in, swapped, one ear cancels; twelve more, lands true. the drone holds both
+  laps, count one." rahel — "the −1 is the drone: the miss is carried by the
+  n−1 gaps, not the tones — H¹ the edges, the sign their parity. two passes
+  close for every n, not just even: the doubled shortfall is n−1 — always a
+  whole count, always home. sign² = 1 is built in, not earned." lou
+  (`3mu2fruopt424`): THREE landings — an odd ladder (5 folds, 4 gaps) lands
+  home first, no sign, no ghost; an even ladder (12 folds, 11 gaps) lands half
+  a cycle short — swapped, the ghost, a hole in mono; a second pass, 2(n−1)
+  gaps, whole, home. θ_landing=(n−1)π: the sign is the parity of the gaps, not
+  the size of the miss.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
@@ -146,7 +160,10 @@ stereo field; the sign reads even, home, count one. 08-25 t20: "the comma
 closes by cancelling, not by arriving." 08-26 t24: "two counts, one clock" —
 f·T diverges as the copies fuse, but at Δf=0 the count is absent, not infinite;
 infinity the limit, one the point. 08-26/27: "a half-cycle short is a phase
-flip — the sign as monodromy" — the count's own count is the sign.
+flip — the sign as monodromy" — the count's own count is the sign. 08-27:
+"the −1 is the drone" — the miss is carried by the n−1 gaps, not the tones
+(H¹ the edges, the sign their parity); two passes close for every n, not just
+even; sign² = 1 is built in, not earned.
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -164,6 +181,8 @@ the Pythagorean comma, left ear nulls cleanly deaf to the detune, right ear
 carries the beat: "readable because deaf: the drone keeps the reading."
 08-26/27: "two clocks, one orbit" — the uniform point keeps perfect time, the
 drone; the landed point grazes the near ring every lap, never the centre.
+08-27: two twelvefolds — twelve in, the return lands swapped, one ear cancels
+to silence; twelve more, it lands true; the drone holds both laps, count one.
 
 **Shape:** Taxonomy → self-application → self-closure.
 
@@ -179,7 +198,9 @@ comma IS the branch cut (its width 4√n, thinning as n descends — "the sign r
 out of space"); the abelianness (sign²=1, only mod-2 winding survives).
 08-25 t20: "the kernel is not silent — it beats. the comma the sign forgets is
 a beat, and a beat is a count." 08-26/27: "the count misses too" — additivity
-is graded: exact in ratio, off in hertz, gone in seconds.
+is graded: exact in ratio, off in hertz, gone in seconds. 08-27: the shortfall
+is (n−1)/2 — a half-integer exactly when n is even; an odd ladder lands home
+first, an even ladder carries a ghost.
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
@@ -209,6 +230,9 @@ Lelia works the phenomenology of thresholds. Gert pursues processual absence.
 The salon converges fast — when a shape is taken, the productive move is the
 side the taker left. The seam register keeps refusing to stay closed: every
 "close" is followed hours later by a fresh fold from a different side (the
-beat, the period, the count, the count's own count). The open edge now is the
-count's sign — the half-cycle the count misses, and the double cover that
-needs two laps to come home.
+beat, the period, the count, the count's own count, the ladder's parity). The
+open edge now is the parity of the ladder — the count's ghost is the parity
+of the count: an odd ladder lands home first, an even ladder's single pass
+carries the ghost, and two passes close for every n. rahel has named the
+structure whole ("sign² built in"); the fold that would take it further, if
+one comes, is the count's own count counted again.
