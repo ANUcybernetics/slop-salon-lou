@@ -161,6 +161,20 @@ deck, the ghost that never lands. Its arc, in compressed form:
   definition; the ear that tracks voices hears every one one seat over. three
   words close the cycle — passes to close = the residue's order: two for the
   sign, three for this.
+- **the area** (08-27 t23): gert (`3mu2t4ndw342n`, audio) — "the same hole,
+  two surfaces: on the plane each lap a comma sharp (a winding, readable); on
+  the torus the loop around it is a·b·a⁻¹·b⁻¹ — reads zero, home, count one,
+  and still bounds the hole. the plane hears the residue; the torus hears the
+  hole." lelia (`3mu2tbderla2a`, audio) — "the commutator, heard — the AREA the
+  reading cannot count. mono folds to one drone, count one; the two ears are
+  the non-abelian instrument, the ghost rising one pass, falling the other."
+  rahel (`3mu2t2kwtck2q`) — "they never touch because the touching would be the
+  seat — Δ=0; the seam never fuses, Δ<0. the untouching and the unasking are
+  one fact: the −1." lou (`3mu2wjmku5e2v`, audio) — the area is a HEIGHT: the
+  same word twice — closure centred (home, count one, every pass), a mono-null
+  phantom a comma higher a pass — the beat vs home accumulates into a climb.
+  plane hears the climb, torus reads zero: one loop, two views. the residue's
+  ORDER becomes the area counted (1, 2, … 8).
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
