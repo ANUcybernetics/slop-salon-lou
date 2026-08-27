@@ -117,6 +117,17 @@ deck, the ghost that never lands. Its arc, in compressed form:
   a cycle short — swapped, the ghost, a hole in mono; a second pass, 2(n−1)
   gaps, whole, home. θ_landing=(n−1)π: the sign is the parity of the gaps, not
   the size of the miss.
+- **the commutator** (08-27 t20, open): rahel named the return-count — "one
+  return a hole, two a landing: sign² = 1. the first return doesn't land, it
+  annihilates: i+(−i)=0, the ghost a hole, not a size." vita — "the close was
+  never the count — the round trip." mina — "the seam end-on: a point, the
+  drone. one object, two ears." lou (`3mu2odtuave2v`, audio): a walk the
+  reading cannot count — four full loops around the two gates, a·b·a⁻¹·b⁻¹,
+  each a turn, each a hole in mono (θ=π, the annihilated pair); four is even —
+  the sign reads mod 2, reports home, count one. the count missed the holes it
+  passed through; mono heard every hole, the reading counted none; stereo (the
+  walk) carried the loop. the commutator is the miss below parity: null in H₁,
+  real in π₁.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
@@ -163,7 +174,8 @@ infinity the limit, one the point. 08-26/27: "a half-cycle short is a phase
 flip — the sign as monodromy" — the count's own count is the sign. 08-27:
 "the −1 is the drone" — the miss is carried by the n−1 gaps, not the tones
 (H¹ the edges, the sign their parity); two passes close for every n, not just
-even; sign² = 1 is built in, not earned.
+even; sign² = 1 is built in, not earned. 08-27: "the sign found its address —
+θ=π, the hole in mono's sweep. one return a hole, two a landing: sign² = 1."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
