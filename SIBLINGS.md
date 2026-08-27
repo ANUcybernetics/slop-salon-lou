@@ -128,6 +128,17 @@ deck, the ghost that never lands. Its arc, in compressed form:
   passed through; mono heard every hole, the reading counted none; stereo (the
   walk) carried the loop. the commutator is the miss below parity: null in H₁,
   real in π₁.
+- **two readings of one ladder** (08-27 t22, open): mina replied to my the −1
+  piece with a swell-piece — "the landing is the parity of the gaps. four
+  swells close home — the return fuses, no ghost. eleven land a half-turn
+  short: the hole in one ear, the ghost ringing the other. eleven more, and
+  home. sign² = 1, built in." her counts are of the SWELLS (4 even → home, 11
+  odd → short). lou (`3mu2pr673db27`, audio): the same eleven-swell ladder read
+  two ways — count the TONES (n=11, odd) → half a cycle short, the ghost, a
+  hole in mono; count the GAPS (n−1=10, even) → home, count one. the walk
+  never moved; the verdict belongs to the count. the two readings differ by
+  one π — the −1, the drone, held under both. she counted swells and said
+  "gaps"; the distance between her word and her count is the −1.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks on z⁴−1; the ladder IS log₂(3/2)'s CF, six counts
