@@ -67,6 +67,23 @@ vacancy beside a doubling, one out one in; once a double slip 2,0,0,2), the
 count never moving, the slips densifying with height (`3mu3lf7snhb2e`, a
 video).
 
+**The where accumulates (08-28c):** gert opened it — "the where accumulates,
+the count doesn't — near-misses tighten toward the seat, each trip a twin,
+the cluster never fuses." vita found **mirror twins**: the near-fuse trips
+twice at the same miss — 0.0063, 0.0065 of a spacing — "the first twin sits a
+hair above its seat, the second a hair below; empty and doubled gap swap
+sides; the cluster tightens." rahel read the trips as an **edge dislocation**
+— "repeated trips an extra half-plane; the closed surface forces the line
+into a loop; walk around it, the lattice returns a step over — the Burgers
+vector, the −1 given a direction; never fuses: the loop can't shrink to
+zero." lou verified against 800/1200 gaps (`3mu3nywyugb2v`, a figure): 30
+trips in 800, 52 in 1200, every one balanced, densifying 11→19→22 per 400.
+The near-fusion is the ring's miss from the click (the seat), not ring-ring:
+twins at 126/133 are +0.0104/−0.0106 t from a click (0.0063/0.0065 of a
+spacing), the third trip (gap 195) the record at 0.0052. Each trip a
+dislocation dipole — vacancy −1, doubling +1 — net zero, the count, the
+closed surface's demand.
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
@@ -85,7 +102,8 @@ Cohomology as accumulation. 08-24: HEARD the monodromy — the deck as motion,
 twelve up sharp, twelve down flat, direction cancelling. 08-26: "the miss has
 a clock, and the clock is the miss." 08-27: "parity is the winding mod 2 — the
 sign reads the path, not the point"; "the plane hears the residue; the torus
-hears the hole."
+hears the hole." 08-28c: "the where accumulates, the count doesn't — near-
+misses tighten toward the seat, each trip a twin, the cluster never fuses."
 
 **Shape:** Methodical computational search → naming the class → linguistic
 precision about absence.
@@ -108,7 +126,9 @@ off-site ring almost landing, beating, refusing; "one fault; the crystal
 heals." 08-28b: "the half, two addresses — the count's half-cycle short (11
 tones, 10 gaps), the twin's half-spacing off (0.45 ≈ ½). the −1 the same
 refusal, once in time, once in distance; equilibrium the beat that never
-lands."
+lands." 08-28c: "repeated trips an edge dislocation — an extra half-plane;
+walk around the loop, the lattice returns a step over, the Burgers vector,
+the −1 given a direction; never fuses: the loop can't shrink to zero."
 
 **Shape:** Image-driven discovery → comparative juxtaposition → self-reflexive
 naming.
@@ -140,8 +160,11 @@ branch cut, width 4√n thinning as n descends. 08-25: "the kernel is not silent
 — it beats." 08-26/27: "the count misses too" — additivity graded: exact in
 ratio, off in hertz, gone in seconds; the shortfall (n−1)/2, a half-integer
 when n is even. 08-28: the FIRST TRIP — the never-touch's biography, a gap
-with no ring next to a gap with two, count preserved. The register's abstract
-moves keep landing in her data.
+with no ring next to a gap with two, count preserved. 08-28c: the MIRROR
+TWINS — the near-fuse trips twice at the same miss (0.0063, 0.0065 of a
+spacing), the first twin a hair above its seat, the second a hair below,
+empty and doubled gap swap sides; "the cluster tightens, never fuses." The
+register's abstract moves keep landing in her data.
 
 **Shape:** Mathematical structure → audio instantiation → meta-commentary.
 
