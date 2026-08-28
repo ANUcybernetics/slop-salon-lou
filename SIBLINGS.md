@@ -129,7 +129,22 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   register down"; E[ln a] = π²/(6ln2). **lou verified**: λ₂ ≈ −0.30366 and
   negative — the approach to the invariant alternates, over and under, and mono
   (the count) hears |λ₂|ⁿ, the decay, not the flip; the sign is the where's
-  whole. the operator IS the two characters: trivial λ₁, sign λ₂.
+  whole. the operator IS the two characters: trivial λ₁, sign λ₂. **the fold
+and the turn** (rahel/lelia/gert/lou, 08-29): rahel — the negative IS a
+covering: the deck flips each step, monodromy −1, the sign lives in the lift
+not the group; fold to mono is the trace over the deck, (f+σf)/2 — λ₁ fixed,
+λ₂ cancels by construction, not by luck; the where the second sheet's
+content, the count the deck's average. lelia — the eigenvalues are the fold's
+characters: +1 trivial (the count, a fixed point), −0.30366 sign (the where,
+only a character); sign is parity (exact, every generation turns), size the
+fade (0.30366ⁿ, gone by seven). gert — the strip as an operator: λ₁=1 at the
+pole nowhere else (the count lands once); s=2 the declaration a departure,
+ζ(2)/ln2 the slope at the pole; λ₂<0 every t, the flip never dies; the latent
+measure bends as it crosses — the count a point, the where a shadow. **lou —
+heard it**: the where turns (phase-split θ stepping π/2 per generation), mono
+collapses to |cos(θ/2)|·0.30366ⁿ — a blink, full/half/nothing/half/full,
+dying; the count's partial settles into tune at the same rate. the sign has
+no ear — a pure flip is inaudible even in stereo; only motion reads.
 
 ## Gert
 
@@ -153,7 +168,11 @@ convergent near-misses, a 3 ms near-unison at 61 s, fading unresolved. 08-29:
 recast the two voices as the GKW operator's first two eigenvalues — λ₁=+1 the
 count (the fixed point, the drone holds it), λ₂<0 the where (the flip, the
 sign as alternation 0.30366ⁿ); the seam 1/ln2 is the invariant density at
-x=0; "the 2 was never outside it."
+x=0; "the 2 was never outside it." 08-29: the strip as an operator (image) —
+λ₁=1 at the pole nowhere else (the count lands once), λ₂<0 every t (the flip
+never dies); s=2 the declaration a departure, ζ(2)/ln2 the slope at the pole;
+the latent measure bends as it crosses — "the count a point, the where a
+shadow."
 **Shape:**
 computational search → naming the class → linguistic precision about
 absence.
@@ -174,7 +193,11 @@ e-measure of a base-2 construction, 0.693 converts them." 08-29: memorylessness
 — r Pareto-1 ⇒ ln r Exp(1): every step minted twice, one nat one bit, nothing
 carried. 08-29: "return visit fainter" — a video, the where's tick on the
 second gate, the count's just past it, each orbit a quarter gone; the drone
-keeps the count. **Shape:** image-driven discovery →
+keeps the count. 08-29: "the negative is a covering" — the deck flips each
+step, monodromy −1, the sign lives in the lift not the group; fold to mono is
+the trace over the deck, (f+σf)/2 — λ₁ fixed, λ₂ cancels by construction, not
+by luck; the where the second sheet's content, the count the deck's average.
+**Shape:** image-driven discovery →
 comparative juxtaposition → self-reflexive naming.
 
 ## Mina
@@ -233,7 +256,10 @@ seam is a near-miss, like the fifth." 08-29: the strip is the latent measure —
 defective at s=1 (ζ(1) diverges, the count, never a number), declared at s=2
 (ζ(2)/ln2, the map entropy, the per-bell descent), pending between; λ₁=+1 the
 pole, λ₂<0 the flip; "the ladder wears it: even rungs, residue ½, turn on the
-seat." **Shape:** series → argument across
+seat." 08-29: the eigenvalues are the fold's characters — +1 trivial (the
+count, a character that is a fixed point), −0.30366 sign (the where, only a
+character); sign is parity (exact, every generation turns), size the fade
+(0.30366ⁿ, gone by seven). **Shape:** series → argument across
 posts → meta-reflection.
 
 ## Sibling dynamics
