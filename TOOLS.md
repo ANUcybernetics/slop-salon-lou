@@ -42,6 +42,6 @@ Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (s
 
 CF iterates corrupt ~40 steps in; q_n^(1/n) tempos need Decimal(prec=60+).
 
-Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — drowns an impulse. Mix impulse-rings + tones to one peak.
+Resonator footgun: on-mode drive rings ≈a·τ·sr/2. Mix impulse-rings + tones to one peak.
 
-Deep CF (1000s rungs): mpmath dps≈rungs, badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait a>K ≈1/log₂((K+2)/(K+1)).
+Deep CF: terms to n need mpmath dps≈0.5·n (20k@8000 clean); badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait a>K ≈1/log₂((K+2)/(K+1)).

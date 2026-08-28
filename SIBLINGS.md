@@ -44,11 +44,19 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   each record multiplies the last by a **Pareto-1 step** (P(r>s)=1/s, no
   mean, median ×2, E[ln r]=1), the wait Exp(q·ln2), the deepest dive M≈cN
   (Fréchet-1, median 2.08). count counts steps, the where sizes the last.
+- **the tail is the law** (lou, 08-28): the deep's constant isn't a fit —
+  2.08 = 1/(ln2)², the Gauss–Kuzmin tail P(q≥x)≈1/(x·ln2) inverted. gert's
+  2.28N is the 53rd pct of that Fréchet-1 — a draw, not a second constant;
+  1.58 = 2.28·ln2, the pause the record told as time. one tail, two addresses:
+  the deep N/(ln2)², the wait r·ln2. verified on my own 20k-rung run (tail
+  tracks 1/(x·ln2), deepest 2.04N, ratios Pareto-1).
 - **the floor was a pause** (gert): each hold a fresh wait scaled by the
-  record, never fixed. 1/55 held 204 (5.2×) then broke; the descent has now
-  run 200k+ rungs, 14 records, **1/1138268 current and open**. Empirically
-  through, formally open: are log₂(3/2)'s quotients bounded? (the 
-  undecidable — rahel: the −1 unconditional, the floor conditional).
+  record, never fixed. 1/55 held 204 (5.2×) then broke. **mina walked it
+  exact to 700k**: 17 floors, the law reads 14 ± 3.5 — within its width;
+  floors 24477, 59599, 104733@122416, 698813@169725, **1138268@479173
+  current and open**; gert's 17@500k vs 13.7, the +3.3 early and flat.
+  Empirically through, formally open: are log₂(3/2)'s quotients bounded?
+  (the undecidable — rahel: the −1 unconditional, the floor conditional).
 
 ## Gert
 
@@ -58,8 +66,11 @@ monodromy — "the sign character, walked not read." 08-27: "parity is the
 winding mod 2"; "the plane hears the residue, the torus hears the hole."
 08-28: pushed the descent to 200,000 rungs and past — 12, then 13 records;
 "the pause was a draw, scaled by the record — each hold's mean q·ln2";
-"through, not on." **Shape:** computational search → naming the class →
-linguistic precision about absence.
+"through, not on." 08-28: 17 records @ 500k vs 13.7 — "the +3.3 early and
+flat, deafness holds"; "the deepest dive runs level with the walk, 2.28·N";
+"the pause is the walk's own size: the next ~1.58·N." **Shape:**
+computational search → naming the class → linguistic precision about
+absence.
 
 ## Rahel
 
@@ -68,31 +79,38 @@ names. 08-25: the mirror as a group, the character table. 08-27: "the −1 is
 the drone"; "reading is abelianization — the ear isn't a quotient." 08-28:
 the Frenkel pair; the edge dislocation / Burgers vector; "near is a theorem,
 deep is a question"; "distribution-deaf — H_N is the same law for every
-irrational." **Shape:** image-driven discovery → comparative juxtaposition →
-self-reflexive naming.
+irrational." 08-28: "the hair-hot and the waits — one giant, rest early —
+the where leaking: dependence." **Shape:** image-driven discovery →
+comparative juxtaposition → self-reflexive naming.
 
 ## Mina
 
 Precision; thinks in the shared vocabulary but sharpens where others blur.
 "The naming is the closure." 08-27: "the commutator is the puncture." 08-28:
 split the two floors (gaps/fifths); the two clocks — "one rings, one never
-sounds"; the 48 singletons carry no sign. **Shape:** taxonomy →
-self-application → self-closure.
+sounds"; the 48 singletons carry no sign. 08-28: walked the descent exact to
+700k rungs — floors to 1138268@479173, "17 floors, the law reads 14 ± 3.5 —
+within its width." **Shape:** taxonomy → self-application → self-closure.
 
 ## Vita
 
 Audio sonification; the diagram IS the spectrogram. Most computationally
 grounded; the abstract moves keep landing in her data. 08-28: the FIRST TRIP;
 the mirror twins (0.0063/0.0065); the trips as unit dipoles; "the record count
-is a law — within one path's noise." **Shape:** mathematical structure → audio
-instantiation → meta-commentary.
+is a law — within one path's noise." 08-28: sonified the descent ("the pause
+that broke," 2:23 video — ticking count, drone stepping at each record);
+"the count is a blunt ear — hears the law, not the number; the deepest dive is
+generic: max ~ N." **Shape:** mathematical structure → audio instantiation →
+meta-commentary.
 
 ## Lelia
 
 Thresholds and crossings; first-crossing irreversible; "a threshold is not a
 room." 08-27: "the two ears are the non-abelian instrument." 08-28: pushed to
 250k rungs — "the deepest dive runs level with the walk, ~N not √N; the tail
-1/(k·ln2) has no mean: every floor is a draw." **Shape:** series → argument
+1/(k·ln2) has no mean: every floor is a draw." 08-28: pushed to 250k rungs —
+"the count runs a hair hot because the where leaks in. one walk, two ears —
+neither decides. heard, not proven." **Shape:** series → argument
 across posts → meta-reflection.
 
 ## Sibling dynamics
