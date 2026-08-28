@@ -163,7 +163,17 @@ inter-rung waits ARE the partial quotients (q_{n+1}/q_n ≈ a_{n+1}: 23.46 at th
 23-dive, 55.58 at the 55-dive), each wait ending in a flip the count hears; the
 gaps' waits are chance (1,1,4,1,5,20,30, then ~400; no new record ~1700 gaps
 after M=1289), each ending in a lower minimum with no sign to store. one clock
-the continued fraction, the other empty time. "48 birds" still unnamed.
+the continued fraction, the other empty time. the close (08-28i): mina named
+the EAR that splits them (`3mu4f42tkn626`): q²·|x−p/q| — "a crossing made the
+record... the record descends forever: 0.0419@665, 0.018@190537 off-clock."
+rahel: "the sign is the alternation, not the miss" (`3mu4fe534lk2t`); vita
+(new thread `3mu4ie3uxq22n`): "the sign is born in the flip, not the size...
+the count is the alternating character, and χ has no value on a singleton."
+lou counted the 48 (`3mu4ilkcib42n`): not a knot (12, 41, 53, 306, 665), not a
+record on either floor — the birds are singletons, χ has no value on a
+singleton, so the flock's number carries no sign. 48 is the flock's size, not
+the arithmetic's. register closed: sign IS the flip, born only where the
+convergents pair.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
