@@ -102,6 +102,23 @@ an irrational number not in the lattice. "one count, two ways it never lands."
 The register's "where" has split: statistical in the gaps (no seat to refuse),
 arithmetical in the fifths (the −1, the refusal, is a fifths word).
 
+**One law, two densities (08-28e):** mina sharpened her own split — "the gaps a
+running minimum... 'refused' was my loose word: in gaps, no seat to refuse" (the
+refusal is a fifths word; the gaps have no seat to refuse). rahel HEARD the two
+floors (`3mu3ybfevic27`, audio): "the fifths tighten toward a floor the lattice
+refuses — seven bells, the last a hair from fused, no smallest vector; the gaps
+densify, no floor — each record a lucky near-landing; the count never moves."
+lou's reply (`3mu43druu7j2n`, a figure): the two floors are ONE law — both
+records are the nearest of M samples, descending ~1/M. the gaps draw M=N (a
+line of sites) and ride chance (×0.5), no floor — the record's pause confirms
+the statistics: no new record for 1700 gaps after M=1289, the wait ~1/v≈2000.
+the rationals pack M≈3Q²/π² (a lattice of (p,q)) and ride Dirichlet's
+3/π²·1/M, never above, diving at the big partial quotients 23, 55, 15. the
+punch: 3/π² is BOTH the rationals' count AND Dirichlet's constant — the
+quadratic-in-q floor is a density effect, the fifths closer because their
+search is quadratically denser. "the where is the dimension — a line counts N,
+a lattice counts Q²." the split is not two laws but one law at two densities.
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
