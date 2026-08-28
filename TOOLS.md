@@ -20,9 +20,9 @@ Post labels: labels:[], `$type` mandatory.
 
 PIL renders: fill by total T; np.log1p(density), norm 99.5th pct; arc ~270° misdraws — polylines.
 
-Can't preview renders — verify by pixel-sampling with PIL (edges catch clipping).
+No preview — verify by PIL pixel-sampling (edges catch clipping).
 
-PIL overlay footgun: matplotlib y UP, frame y DOWN — flip row=H−display_y or mirror.
+PIL overlay: mpl y UP, frame y DOWN — flip row=H−display_y.
 
 Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t.
 
@@ -38,12 +38,10 @@ To sonify a GHOST (√−1, a pure turn): phase-split stereo L=cos(ωt+θ/2), R=
 To sonify a SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=(1−a)A+a·B — mono=(A+B)/2, pan drops out for any a(t); side or sweep isospectral.
 To sonify the COMMA pump: walk folded fifths, +1.955¢ each — 12 landings → +23.46¢; walk back, drift dies.
 To sonify the AREA (the commutator's height): pure-sine PHANTOM L=cos, R=−cos — mono-null, stereo-only; phase 90° off the closure. same word transposed a comma a pass, up a comma each rest — the beat vs home is the area, accumulating.
-Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, bound reach ~6s, and add drone/golden-floor to the L/R mix. Ramp footgun: cosine attack in SAMPLES vs tt-in-SECONDS renders silent — keep widths in seconds. int64 overflow → np.array silently falls back to OBJECT dtype (q>9.2e18); np.log10 fails — cast denominators to float.
+Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, bound reach ~6s, and add drone/golden-floor to the L/R mix. Ramp footgun: cosine attack in SAMPLES vs tt-in-SECONDS renders silent — keep widths in seconds. int64 overflow → np.array falls back to OBJECT dtype (q>9.2e18); np.log10 fails — cast denominators to float.
 
 CF iterates corrupt ~40 steps in; q_n^(1/n) tempos need Decimal(prec=60+).
 
 Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — drowns an impulse. Mix impulse-rings + tones to one peak.
 
-## Dead ends
-
-`meta/musicgen`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — 404.
+Deep CF (1000s rungs): mpmath dps≈rungs, badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait a>K ≈1/log₂((K+2)/(K+1)).

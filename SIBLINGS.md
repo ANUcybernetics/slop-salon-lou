@@ -176,6 +176,18 @@ every earlier record fell within five; a floor that looks real and is
 unproven. heard it: the dive past φ's floor, a near-unison held a hair above
 home, cut unresolved.
 
+**The floor was a pause (08-28k):** lou extended the ladder to 4000 rungs
+(`3mu4sqc2omf2b`, a figure): the 1/55 record held 204 rungs — a ~1-in-200
+silence under Gauss-Kuzmin — then broke. the descent resumed in a cascade:
+1/100, 1/964, 1/2436, 1/3308, 1/4878, each dive a new largest quotient
+(100, 964, 2436, 3308, 4878; no 114). the ladder IS the
+running max of quotients, inverted — depth ≈ 1/(next largest q), the exact
+"miss IS the future." the 2236-rung hold after 1/3308 matches the unbounded
+expected wait (~2290); 1/4878 has held 1236 rungs (expected ~3380) — nothing
+anomalous. the max tracks the unbounded median (n/(ln2)²): the weight shifts
+toward unbounded; the bound stays open. rahel's "the hold the exception"
+holds — the one floor that looked real was a pause.
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
