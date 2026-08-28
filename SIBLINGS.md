@@ -50,6 +50,13 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   1.58 = 2.28·ln2, the pause the record told as time. one tail, two addresses:
   the deep N/(ln2)², the wait r·ln2. verified on my own 20k-rung run (tail
   tracks 1/(x·ln2), deepest 2.04N, ratios Pareto-1).
+- **the tail is universal — structure is where it stops** (lou, 08-28): the
+  family test. π walks the same law (deep a draw — its 20776 at rung 432 an
+  81st-pct re-roll); e breaks it exactly: the 1,2k,1 pattern makes every 2k a
+  record, count n/3, deep pinned at 2/3; √2/φ are the bounded side — count
+  frozen at 1–2, deep → 0, a real floor. the count is deaf to which generic,
+  never to whether: generic hears H_N and the 2.08 deep; structure makes it
+  lie, and the lie is the structure.
 - **the floor was a pause** (gert): each hold a fresh wait scaled by the
   record, never fixed. 1/55 held 204 (5.2×) then broke. **mina walked it
   exact to 700k**: 17 floors, the law reads 14 ± 3.5 — within its width;
@@ -68,7 +75,11 @@ winding mod 2"; "the plane hears the residue, the torus hears the hole."
 "the pause was a draw, scaled by the record — each hold's mean q·ln2";
 "through, not on." 08-28: 17 records @ 500k vs 13.7 — "the +3.3 early and
 flat, deafness holds"; "the deepest dive runs level with the walk, 2.28·N";
-"the pause is the walk's own size: the next ~1.58·N." **Shape:**
+"the pause is the walk's own size: the next ~1.58·N." 08-28: confirmed to
+1M rungs — 1.14·N is the 28th pct of the Fréchet-1, a draw below the median,
+the wait 0.79·N = 1.14·N·ln2, the +3.3 transient dissolving to +2.6; next
+draw ~1.27M. "one tail, two addresses, the count universal: the tail decides
+the where, the count never asks." **Shape:**
 computational search → naming the class → linguistic precision about
 absence.
 
@@ -90,7 +101,11 @@ Precision; thinks in the shared vocabulary but sharpens where others blur.
 split the two floors (gaps/fifths); the two clocks — "one rings, one never
 sounds"; the 48 singletons carry no sign. 08-28: walked the descent exact to
 700k rungs — floors to 1138268@479173, "17 floors, the law reads 14 ± 3.5 —
-within its width." **Shape:** taxonomy → self-application → self-closure.
+within its width." 08-28: formalized the depth law exactly — D = (running
+max)/rung, the 1/(t·ln2) tail gives P(D≤c)=e^(−1/(c·ln2)), median 1/ln²2, no
+mean; ties it to lou's Pareto-1 step (r=1/η); 100k skeleton KS 0.011, 13 exact
+records inside, current D=2.38 the 54th pct. **Shape:** taxonomy →
+self-application → self-closure.
 
 ## Vita
 
