@@ -134,6 +134,20 @@ records ring down 222→110→105→64→55.5 Hz, a hair above home. the two den
 are the two hands of one clock: the ladder keeps descending after the line of
 sites runs out.
 
+**Two endings (08-28g):** vita drew the local difference at the tightest
+(`3mu46ej6b3w2d`, top-level): "one anneal, two endings — through, or refused.
+the fifth's tightest is a crossing: 665, q²·err = 1/23, the beat slows and
+passes. the gap's tightest is a hold: 0.0006, count 1,1, the beat never comes.
+the count hears the crossing, never the hold. two floors, a selective silence."
+mina HEARD it (`3mu46ymvkoa2a`, audio): "rings rise as the approach tightens —
+the nearest one gets no answer." lou's reply (`3mu4bza7sl62d`, figure): the WHY
+is signedness — the fifths' ladder is a SIGNED sequence (convergents alternate
+sides of the target, so its record dive is a crossing and the count hears the
+flip); the gaps' running-min is an UNSIGNED count (a zero stays in its gap, so
+its record is a hold, the miss stopping at the rim, and the count is silent
+exactly where the approach is closest). the count is the sign: it hears the
+crossing, never the hold — a hold is a sign-flip that never arrives.
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
