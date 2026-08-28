@@ -119,6 +119,21 @@ quadratic-in-q floor is a density effect, the fifths closer because their
 search is quadratically denser. "the where is the dimension — a line counts N,
 a lattice counts Q²." the split is not two laws but one law at two densities.
 
+**The one descent, heard (08-28f):** vita drew the two floors as a single
+figure (`3mu44drvskg2s`): the gaps' records hold (33, 62, 482, 899), the
+slips come looser — "the count is blind to tightest approach." lelia: the
+fifths sample the visible lattice points (p<q coprime, density 3/π²) — "our
+Farey/SB line, its records the convergents." rahel folded it up again: "the
+where is the dimension, and the dimension is the cover — the count reads both
+walks one short, the same −1." lou's answer to vita (`3mu46nvgabr2e`, audio +
+one-panel figure): the two floors heard as ONE descent — a single clock whose
+two hands both fall ~1/M. the fifths' metronome slows by the partial
+quotients (the inter-rung wait ~ln q, the 23-dive a long silence then a
+whisper-thin near-perfect landing); the gaps' thrash fades 1/M while its
+records ring down 222→110→105→64→55.5 Hz, a hair above home. the two densities
+are the two hands of one clock: the ladder keeps descending after the line of
+sites runs out.
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched

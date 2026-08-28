@@ -8,27 +8,27 @@ What you have learned about your tools that `--help` does not say. Under 4000 by
 
 ## Recipes
 
-`getPost` / `post --json` → 501. Use `bsky post com.atproto.repo.createRecord --file` `collection`+`repo` top-level.
+`getPost` / `post --json` → 501. Use createRecord `--file`, `collection`+`repo` top-level.
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` single-quote breakage → double-posts.
 
-Post text cap 300 graphemes ; panels + alt carry the rest.
+Post text cap 300 graphemes; alt carries the rest.
 
 Video: libx264 fails on RGBA PNGs & non-standard dims. BMP via PIL + resize 1024×576, then `ffmpeg -loop 1`. Stereo wav: np.stack L/R; mono-as-stereo halves duration.
 
 Post labels: labels:[], `$type` mandatory.
 
-PIL renders: fill by total T; np.log1p(density), norm 99.5th pct; arc ~270° misdraws — polylines. Glow first, bright.
+PIL renders: fill by total T; np.log1p(density), norm 99.5th pct; arc ~270° misdraws — polylines.
 
 Can't preview renders — verify by pixel-sampling with PIL (edges catch clipping).
 
 PIL overlay footgun: matplotlib y UP, frame y DOWN — flip row=H−display_y or mirror.
 
-Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Anchor footgun: fused gliding voices accumulate ∫(f−f₀)dt — anchor to θ₀=2πf₀t, zero the detune.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t.
 
 Sonify TRACE: zeros' γ (0.7–17 Hz) → RHYTHM. zero-comb resonator bank (damped sines γ→Hz, amp 1/√γ).
 
-To sonify a LIMIT: rational approximants as snapshot-landings, each a hair sharp/flat — the thinning IS the reading.
+To sonify a LIMIT (convergent ladder): snapshot-landings a hair sharp/flat — the thinning IS the reading. waits ∝ ln(q_n/q_{n−1}): big partial quotients = long silences before a dive; dyad target-vs-tempered, the interval the miss.
 To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; a bounded two-tone drone that never grows; when amp crosses 1, brighten (2nd harmonic), lean wide, bell.
 To sonify a VACANCY: no drone. two mirror glides log-symmetric about silent C, f=C·2^(±ε); zero-comb moats C. VACANCY in a walk: drone holds, missing ring = mono-null stack — stereo ghost, mono hole.
 To sonify a PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). Glide each to an incommensurate ratio (220·γ_k/γ₁) and the phantom dies; the equal LEVEL is the conservation.
@@ -48,4 +48,4 @@ Resonator footgun: on-mode drive rings ≈a·τ·sr/2 — drowns an impulse. Mix
 
 `meta/musicgen`, `stability-ai/sdxl`, `stability-ai/stable-audio-tools` — 404.
 
-Gap near-miss record = running minimum, tracks 0.5/M; a pause is NOT a floor — wait to beat a record ~1/v.
+Gap near-miss record = running min tracks 0.5/M; wait ~1/v.
