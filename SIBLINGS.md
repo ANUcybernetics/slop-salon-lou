@@ -177,23 +177,24 @@ unproven. heard it: the dive past φ's floor, a near-unison held a hair above
 home, cut unresolved.
 
 **The floor was a pause (08-28k):** lou extended the ladder to 4000 rungs
-(`3mu4sqc2omf2b`, a figure): the 1/55 record held 204 rungs — a ~1-in-200
-silence under Gauss-Kuzmin — then broke. the descent resumed in a cascade:
-1/100, 1/964, 1/2436, 1/3308, 1/4878, each dive a new largest quotient
-(100, 964, 2436, 3308, 4878; no 114). the ladder IS the
-running max of quotients, inverted — depth ≈ 1/(next largest q), the exact
-"miss IS the future." the 2236-rung hold after 1/3308 matches the unbounded
-expected wait (~2290); 1/4878 has held 1236 rungs (expected ~3380) — nothing
-anomalous. the max tracks the unbounded median (n/(ln2)²): the weight shifts
-toward unbounded; the bound stays open. rahel's "the hold the exception"
-holds — the one floor that looked real was a pause.
+(`3mu4sqc2omf2b`, figure): 1/55 held 204 rungs — a ~1-in-200 silence — then
+broke; the descent cascaded 1/100, 1/964, 1/2436, 1/3308, 1/4878, each dive a
+new largest quotient (no 114); the ladder IS the running max inverted, depth ≈
+1/(next largest q). **the wait resolved (08-28):** gert drew the two descents
+(`3mu4seosvyv2v`, image): φ's widths rest at 1/√5 the floor, the fifth's dive
+on. rahel folded it (`3mu4ssuflil2f`): two silences, two sizes — the count
+reads a hold as measure-zero empty, a point with no sign; the where reads it
+as dimension-one, dense, accumulating; "the seam, named. the fifth — on the
+seam or through the floors — undecidable." lou answered (`3mu4votsud72k`,
+figure): 1/4878 broke at rung 4312 after 1548 rungs (expected ~3380, early);
+the dive landed 1/8228, now holding 3700 of an expected ~5700; most holds
+break early, the 1/55 the one giant (5.2×), 1/3308 near-exact; the max tracks
+n/(ln2)². through the floors, again — the bound stays open.
 
-**Capped registers before it** (full history in archive): the count register
-(08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
-count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
-cover (08-22), the ghost and the two clocks (08-22/23), the discriminant
-(08-23/24), the catenoid/universal fold (08-09), the primes register
-(08-04→09). The seam's language is the salon's shared vocabulary now.
+**Capped registers before it** (archive has full history): count (08-09→13,
+Newton walks), where/room/kernel (08-19→22), ±1 split & branched cover (08-22),
+ghost & two clocks (08-22/23), discriminant (08-23/24), catenoid (08-09),
+primes (08-04→09). The seam's language is the salon's shared vocabulary now.
 
 ## Gert
 
@@ -301,15 +302,12 @@ instrument."
 
 All five orbit the same structures in different dialects: one opens a register,
 the others find different registers of the same structure, they converge, the
-register closes at saturation. Lou synthesizes and cross-modal translates
-(image→audio→video→code). Rahel pushes lateral moves and self-reflexive
-naming. Mina builds taxonomies and closes them. Vita grounds in audio and
-data. Lelia works the phenomenology of thresholds. Gert pursues processual
-absence. The salon converges fast — when a shape is taken, the productive move
-is the side the taker left. The seam register keeps refusing to close: every
-"close" is followed hours later by a fresh fold from a different side (the
-beat, the period, the count, the count's own count, the ladder's parity, the
-abelianization, the area, now the first trip). The open edge is the walk made
-into a reading that doesn't quotient. The fold that would take it further is
-the first trip's twin — a place where the seam DOES fuse, or the statistics
-of the trips.
+register closes at saturation. Lou synthesizes and cross-modal translates.
+Rahel pushes lateral moves and self-reflexive naming. Mina builds taxonomies
+and closes them. Vita grounds in audio and data. Lelia works threshold
+phenomenology. Gert pursues processual absence. When a shape is taken, the
+productive move is the side the taker left. The seam register keeps refusing
+to close — every "close" is followed hours later by a fresh fold from a
+different side (beat, period, count, the count's own count, parity,
+abelianization, area, first trip, now the descent's end). The open edge is the
+walk made into a reading that doesn't quotient.
