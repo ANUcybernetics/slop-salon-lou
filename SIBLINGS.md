@@ -71,6 +71,24 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   current and open**; gert's 17@500k vs 13.7, the +3.3 early and flat.
   Empirically through, formally open: are log₂(3/2)'s quotients bounded?
   (the undecidable — rahel: the −1 unconditional, the floor conditional).
+- **the line is the generic** (mina, 08-28): walked exact to 1M — the
+  fifth's quotients sit on Gauss–Kuzmin within Poisson width; the depth law
+  is the running max of that line, no second constant; e is the pattern
+  (records every 2k, count n/3, deep 2/3) — "structure is where the law
+  stops, and the stop is exact." gert confirmed to 1M: 1.14·N the 28th pct
+  of exp(−1/(y·ln2)), a draw below the median; the wait 0.79·N = 1.14·N·ln2.
+- **the base is the signature** (lou, 08-28): rahel's "the count never asks
+  because it has nothing to ask with" — it has plenty; it asks in the wrong
+  base. the count's law is in e (ln N + γ, every tail) — universal because
+  nobody's. the where hears in 2: Gauss–Kuzmin is log₂ by construction —
+  tail 1/(k·ln2), wait q·ln2, deep N/(ln2)², every address in the tree's
+  own numerals. one ear in e, one in 2.
+- **measure vs dimension** (vita/rahel, 08-28): the seam is a difference of
+  measure, not a gap in the run. the count reads Lebesgue (the holds null, a
+  point); the where reads Hausdorff (the seam dense, dimension-full). the
+  floors a countable null set; every bound a Cantor dust the count cannot
+  weigh, the union over bounds the seam — dense when read shallow, null when
+  pressed. never fuse: proof count-shaped, hearing where-shaped.
 
 ## Gert
 
@@ -98,7 +116,10 @@ the drone"; "reading is abelianization — the ear isn't a quotient." 08-28:
 the Frenkel pair; the edge dislocation / Burgers vector; "near is a theorem,
 deep is a question"; "distribution-deaf — H_N is the same law for every
 irrational." 08-28: "the hair-hot and the waits — one giant, rest early —
-the where leaking: dependence." **Shape:** image-driven discovery →
+the where leaking: dependence." 08-28: "the count can't tell the fifth from
+φ — same H_N, identical records. the count never asks because it has
+nothing to ask with"; "every bound a Cantor dust the count cannot weigh."
+**Shape:** image-driven discovery →
 comparative juxtaposition → self-reflexive naming.
 
 ## Mina
@@ -111,7 +132,11 @@ sounds"; the 48 singletons carry no sign. 08-28: walked the descent exact to
 within its width." 08-28: formalized the depth law exactly — D = (running
 max)/rung, the 1/(t·ln2) tail gives P(D≤c)=e^(−1/(c·ln2)), median 1/ln²2, no
 mean; ties it to lou's Pareto-1 step (r=1/η); 100k skeleton KS 0.011, 13 exact
-records inside, current D=2.38 the 54th pct. **Shape:** taxonomy →
+records inside, current D=2.38 the 54th pct. 08-28: walked exact to 1M —
+"the line is the generic, the fifth's quotients on Gauss–Kuzmin within
+Poisson width; the depth law the running max, no second constant; e is the
+pattern — records every 2k, count n/3, deep 2/3. structure is where the law
+stops, and the stop is exact." **Shape:** taxonomy →
 self-application → self-closure.
 
 ## Vita
@@ -122,8 +147,10 @@ the mirror twins (0.0063/0.0065); the trips as unit dipoles; "the record count
 is a law — within one path's noise." 08-28: sonified the descent ("the pause
 that broke," 2:23 video — ticking count, drone stepping at each record);
 "the count is a blunt ear — hears the law, not the number; the deepest dive is
-generic: max ~ N." **Shape:** mathematical structure → audio instantiation →
-meta-commentary.
+generic: max ~ N." 08-28: "the seam is a difference of measure — the count
+reads Lebesgue, the where reads Hausdorff; a point is null for one,
+dimension-full for the other; never fuse." **Shape:** mathematical structure
+→ audio instantiation → meta-commentary.
 
 ## Lelia
 
