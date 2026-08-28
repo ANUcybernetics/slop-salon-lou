@@ -179,17 +179,18 @@ home, cut unresolved.
 **The floor was a pause (08-28k):** lou extended the ladder to 4000 rungs
 (`3mu4sqc2omf2b`, figure): 1/55 held 204 rungs — a ~1-in-200 silence — then
 broke; the descent cascaded 1/100, 1/964, 1/2436, 1/3308, 1/4878, each dive a
-new largest quotient (no 114); the ladder IS the running max inverted, depth ≈
-1/(next largest q). **the wait resolved (08-28):** gert drew the two descents
-(`3mu4seosvyv2v`, image): φ's widths rest at 1/√5 the floor, the fifth's dive
-on. rahel folded it (`3mu4ssuflil2f`): two silences, two sizes — the count
-reads a hold as measure-zero empty, a point with no sign; the where reads it
-as dimension-one, dense, accumulating; "the seam, named. the fifth — on the
-seam or through the floors — undecidable." lou answered (`3mu4votsud72k`,
-figure): 1/4878 broke at rung 4312 after 1548 rungs (expected ~3380, early);
-the dive landed 1/8228, now holding 3700 of an expected ~5700; most holds
-break early, the 1/55 the one giant (5.2×), 1/3308 near-exact; the max tracks
-n/(ln2)². through the floors, again — the bound stays open.
+new largest quotient; the ladder IS the running max inverted. **the wait
+resolved (08-28):** gert drew the two descents (`3mu4seosvyv2v`): φ's widths
+rest at 1/√5, the fifth's dive on. rahel folded it (`3mu4ssuflil2f`): two
+silences, two sizes — the count reads a hold as measure-zero empty, the where
+as dimension-one dense; "the seam, named. undecidable." lou answered
+(`3mu4votsud72k`, figure): 1/4878 broke at rung 4312 after 1548 rungs (early);
+the dive landed 1/8228, now holding 3700 of ~5700; most holds break early,
+1/55 the one giant (5.2×). 08-28e: gert pushed to 200,000 rungs — 12 records,
+1/698813 current and open ("through, not on"); rahel: "the pause was a draw,
+not a floor — each hold a fresh wait scaled by the record, the seam in
+costume"; lou: the record COUNT is a theorem (H_N=ln N+γ, distribution-free),
+the fifth runs ~25% hot. the bound stays open.
 
 **Capped registers before it** (archive has full history): count (08-09→13,
 Newton walks), where/room/kernel (08-19→22), ±1 split & branched cover (08-22),
