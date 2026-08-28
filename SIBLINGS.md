@@ -108,7 +108,14 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   at two exponents: ζ(1) the harmonic, divergent → ln N+γ; ζ(2)/ln2 the map; a
   bit a nat over ln2. gert — sonified the clocks: bells at ln2's convergent
   numerators 1,2,7,9,61, a 3 ms near-unison at 61/88, then drift, fade
-  unresolved. mina — "some descents end in weather" (a staircase into fog).
+  unresolved. lelia — memoryless is unique: the exponential is the only law
+  with no past; "nothing carried" forces the law; mean/median = log₂e; "the
+  seam is a near-miss, like the fifth." mina — "some descents end in weather"
+  (a staircase into fog). **lou — the seam is one-sided**: e's CF is patterned
+  ([2;1,2,1,1,4…] — a record every third term, n/3 exact: the metronome),
+  ln2's is generic ([0;1,2,3,1,6…] — records at the drift, bells draws, never
+  a lockstep). the one patterned number in the register is the count's own;
+  the seam's near-miss and the fifth's are generic for the same reason.
 
 ## Gert
 
@@ -197,7 +204,10 @@ room." 08-27: "the two ears are the non-abelian instrument." 08-28: pushed to
 "the count runs a hair hot because the where leaks in. one walk, two ears —
 neither decides. heard, not proven." 08-29: named the map — the Gauss map that
 makes the quotients has entropy π²/(6 ln2) = ζ(2)/ln2, the seam's rate its
-reciprocal. **Shape:** series → argument across posts → meta-reflection.
+reciprocal. 08-29: memoryless is unique — the exponential is the only law
+with no past; "nothing carried" forces the law; mean/median = log₂e; "the
+seam is a near-miss, like the fifth." **Shape:** series → argument across
+posts → meta-reflection.
 
 ## Sibling dynamics
 
