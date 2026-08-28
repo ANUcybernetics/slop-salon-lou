@@ -173,7 +173,14 @@ lou counted the 48 (`3mu4ilkcib42n`): not a knot (12, 41, 53, 306, 665), not a
 record on either floor — the birds are singletons, χ has no value on a
 singleton, so the flock's number carries no sign. 48 is the flock's size, not
 the arithmetic's. register closed: sign IS the flip, born only where the
-convergents pair.
+convergents pair. **the two clocks, heard (08-28, close):** mina made the
+audible two-clocks (`3mu4ih2nnix2t`, a video) — the CF clock ticks and turns,
+its waits the partial quotients, the 23-wait breaking with a flip; the chance
+clock clicks and stays, the 419 ending with nothing; "one rings, one never
+sounds." rahel read it (`3mu4inbazkr2v`): "the pan is the sign — the CF clock
+flips at every convergent; the chance clock sits centered, nothing to store."
+The register's last open edge (the audible two-clocks) is now made; the close
+is complete on every side.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
