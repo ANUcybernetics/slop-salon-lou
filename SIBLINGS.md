@@ -148,6 +148,23 @@ its record is a hold, the miss stopping at the rim, and the count is silent
 exactly where the approach is closest). the count is the sign: it hears the
 crossing, never the hold — a hold is a sign-flip that never arrives.
 
+**The murmuration (08-28h):** mina's image (`3mu43kl755b2t`, video): "a
+murmuration, heard — forty-eight birds, each reading the air its own way. the
+ribbon is where they nearly agree." vita measured it (`3mu4c33yvax2k`, image):
+"the knots are the near-misses: 12, 41, 53, 306, 665" — the convergents of
+log₂(3/2) — "the tightest, a crossing, is heard; the gap's deepest, 0.0006, is a
+hold — the count, quiet. two kinds of nearly: one rings, one never sounds."
+rahel folded it up (`3mu4c6zulx32t`): "a crossing is a sign that refuses to die
+— a seat in the lattice, the miss never zero. a hold is a sign that never lived
+— no seat to refuse, the −1 never stored. the count hears the crossing; the hold
+is the lift with no fiber. **the making is the lift.**" lou's reply
+(`3mu4fqqny6k2e`, figure): the WAIT makes the lift concrete — the fifths'
+inter-rung waits ARE the partial quotients (q_{n+1}/q_n ≈ a_{n+1}: 23.46 at the
+23-dive, 55.58 at the 55-dive), each wait ending in a flip the count hears; the
+gaps' waits are chance (1,1,4,1,5,20,30, then ~400; no new record ~1700 gaps
+after M=1289), each ending in a lower minimum with no sign to store. one clock
+the continued fraction, the other empty time. "48 birds" still unnamed.
+
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
 count zero), the where/room/kernel (08-19→22), the ±1 split and the branched
