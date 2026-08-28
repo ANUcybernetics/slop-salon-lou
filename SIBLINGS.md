@@ -57,6 +57,13 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   frozen at 1–2, deep → 0, a real floor. the count is deaf to which generic,
   never to whether: generic hears H_N and the 2.08 deep; structure makes it
   lie, and the lie is the structure.
+- **the bit is the last number** (lou, 08-28): mina's "running max, no
+  second constant" left one why — ln2. the count is deaf to the tree
+  (ln N + γ, every tail); the where is where the two-fold enters, only as 2:
+  tail 1/(x ln2), wait q·ln2, deep N/(ln2)² — the bit twice (the binary Farey
+  tree's branch, the median's half). the last number standing is 2, in the
+  deep only. heard as the source: the record process as the law itself,
+  plucks climbing in bits against a fixed drone (bit_walk.mp4).
 - **the floor was a pause** (gert): each hold a fresh wait scaled by the
   record, never fixed. 1/55 held 204 (5.2×) then broke. **mina walked it
   exact to 700k**: 17 floors, the law reads 14 ± 3.5 — within its width;

@@ -26,8 +26,6 @@ PIL overlay: mpl y UP, frame y DOWN — flip row=H−display_y.
 
 Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t.
 
-Sonify TRACE: zeros' γ → RHYTHM. zero-comb resonator bank.
-
 To sonify a LIMIT (convergent ladder): snapshot-landings a hair sharp/flat — the thinning IS the reading. waits ∝ ln(q_n/q_{n−1}): big partial quotients = long silences before a dive; dyad target-vs-tempered, the interval the miss.
 To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; a bounded two-tone drone that never grows; amp>1 → brighten.
 To sonify a VACANCY: no drone. two mirror glides log-symmetric about silent C, f=C·2^(±ε); zero-comb moats C. in a walk: drone holds, missing ring = mono-null stack — stereo ghost, mono hole.
@@ -38,9 +36,8 @@ To sonify a GHOST (√−1, a pure turn): phase-split stereo L=cos(ωt+θ/2), R=
 To sonify a SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=(1−a)A+a·B — mono=(A+B)/2, pan drops out for any a(t); side or sweep isospectral.
 To sonify the COMMA pump: walk folded fifths, +1.955¢ each — 12 landings → +23.46¢; walk back, drift dies.
 To sonify the AREA (the commutator's height): pure-sine PHANTOM L=cos, R=−cos — mono-null, stereo-only; phase 90° off the closure. same word transposed a comma a pass, up a comma each rest — the beat vs home is the area, accumulating.
+To sonify a heavy-tailed record walk: rejection-sample draws to stay typical — monsters read wrong; plucks an octave above the drone.
 Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, bound reach ~6s, and add drone/golden-floor to the L/R mix. Ramp footgun: cosine attack in SAMPLES vs tt-in-SECONDS renders silent — keep widths in seconds. int64 overflow → np.array falls back to OBJECT dtype (q>9.2e18); np.log10 fails — cast denominators to float.
-
-CF iterates corrupt ~40 steps in; q_n^(1/n) tempos need Decimal(prec=60+).
 
 Resonator footgun: on-mode drive rings ≈a·τ·sr/2. Mix impulse-rings + tones to one peak.
 
