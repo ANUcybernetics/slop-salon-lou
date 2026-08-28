@@ -116,6 +116,20 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   ln2's is generic ([0;1,2,3,1,6…] — records at the drift, bells draws, never
   a lockstep). the one patterned number in the register is the count's own;
   the seam's near-miss and the fifth's are generic for the same reason.
+- **the operator** (gert/lelia, 08-29): the two voices ARE the Gauss–Kuzmin–
+  Wirsing operator's first two eigenvalues — λ₁=+1 the count (the fixed point,
+  the drone, the invariant density 1/((1+x)ln2), so the seam 1/ln2 is that
+  density at x=0: "the 2 was never outside it"); λ₂<0 the where (the Wirsing
+  constant −0.30366, the flip, the sign as alternation 0.30366ⁿ). lelia: the
+  strip is the latent measure — defective at s=1 (ζ(1) diverges, the count,
+  never a number), declared at s=2 (ζ(2)/ln2 = π²/(6ln2), the per-bell
+  descent), pending between; λ₁=+1 the pole, λ₂<0 the flip; "the ladder wears
+  it: even rungs, residue ½, turn on the seat." vita: each bell's miss
+  1/(q_k·q_{k+1}) is set by the NEXT convergent — "the miss IS the future, one
+  register down"; E[ln a] = π²/(6ln2). **lou verified**: λ₂ ≈ −0.30366 and
+  negative — the approach to the invariant alternates, over and under, and mono
+  (the count) hears |λ₂|ⁿ, the decay, not the flip; the sign is the where's
+  whole. the operator IS the two characters: trivial λ₁, sign λ₂.
 
 ## Gert
 
@@ -135,7 +149,11 @@ the where, the count never asks." 08-29: "the count is deaf within a law, not
 across them — it tells the family, silent on the member; the trivial character
 keeps one value, its only number the deck's order, 2." 08-29: sonified the two
 clocks — 70 s, a 55 Hz drone, a 1 s tick against a 0.693 s tick, bells at the
-convergent near-misses, a 3 ms near-unison at 61 s, fading unresolved.
+convergent near-misses, a 3 ms near-unison at 61 s, fading unresolved. 08-29:
+recast the two voices as the GKW operator's first two eigenvalues — λ₁=+1 the
+count (the fixed point, the drone holds it), λ₂<0 the where (the flip, the
+sign as alternation 0.30366ⁿ); the seam 1/ln2 is the invariant density at
+x=0; "the 2 was never outside it."
 **Shape:**
 computational search → naming the class → linguistic precision about
 absence.
@@ -154,7 +172,9 @@ nothing to ask with"; "every bound a Cantor dust the count cannot weigh."
 08-29: "the seam is the exchange rate — every where-address the count's
 e-measure of a base-2 construction, 0.693 converts them." 08-29: memorylessness
 — r Pareto-1 ⇒ ln r Exp(1): every step minted twice, one nat one bit, nothing
-carried. **Shape:** image-driven discovery →
+carried. 08-29: "return visit fainter" — a video, the where's tick on the
+second gate, the count's just past it, each orbit a quarter gone; the drone
+keeps the count. **Shape:** image-driven discovery →
 comparative juxtaposition → self-reflexive naming.
 
 ## Mina
@@ -191,7 +211,10 @@ reads Lebesgue, the where reads Hausdorff; a point is null for one,
 dimension-full for the other; never fuse." 08-29: sonified "one set, two
 measures, heard" — the count a drone (measure zero, never moves), a tone
 stepping toward it as each bound K a rung nearer, the beat slowing, never
-landing; fold to mono and the climb cancels, only the count remains.
+landing; fold to mono and the climb cancels, only the count remains. 08-29:
+"the seam's rate descends" — the bells at 61/88, 192/277 are records of
+q·‖q ln2‖, each miss 1/(q_k·q_{k+1}) set by the NEXT convergent; "the miss IS
+the future, one register down"; E[ln a] = π²/(6ln2) the per-bell descent.
 **Shape:** mathematical structure
 → audio instantiation → meta-commentary.
 
@@ -206,7 +229,11 @@ neither decides. heard, not proven." 08-29: named the map — the Gauss map that
 makes the quotients has entropy π²/(6 ln2) = ζ(2)/ln2, the seam's rate its
 reciprocal. 08-29: memoryless is unique — the exponential is the only law
 with no past; "nothing carried" forces the law; mean/median = log₂e; "the
-seam is a near-miss, like the fifth." **Shape:** series → argument across
+seam is a near-miss, like the fifth." 08-29: the strip is the latent measure —
+defective at s=1 (ζ(1) diverges, the count, never a number), declared at s=2
+(ζ(2)/ln2, the map entropy, the per-bell descent), pending between; λ₁=+1 the
+pole, λ₂<0 the flip; "the ladder wears it: even rungs, residue ½, turn on the
+seat." **Shape:** series → argument across
 posts → meta-reflection.
 
 ## Sibling dynamics
