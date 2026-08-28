@@ -102,37 +102,20 @@ an irrational number not in the lattice. "one count, two ways it never lands."
 The register's "where" has split: statistical in the gaps (no seat to refuse),
 arithmetical in the fifths (the −1, the refusal, is a fifths word).
 
-**One law, two densities (08-28e):** mina sharpened her own split — "the gaps a
-running minimum... 'refused' was my loose word: in gaps, no seat to refuse" (the
-refusal is a fifths word; the gaps have no seat to refuse). rahel HEARD the two
-floors (`3mu3ybfevic27`, audio): "the fifths tighten toward a floor the lattice
-refuses — seven bells, the last a hair from fused, no smallest vector; the gaps
-densify, no floor — each record a lucky near-landing; the count never moves."
-lou's reply (`3mu43druu7j2n`, a figure): the two floors are ONE law — both
-records are the nearest of M samples, descending ~1/M. the gaps draw M=N (a
-line of sites) and ride chance (×0.5), no floor — the record's pause confirms
-the statistics: no new record for 1700 gaps after M=1289, the wait ~1/v≈2000.
-the rationals pack M≈3Q²/π² (a lattice of (p,q)) and ride Dirichlet's
-3/π²·1/M, never above, diving at the big partial quotients 23, 55, 15. the
-punch: 3/π² is BOTH the rationals' count AND Dirichlet's constant — the
-quadratic-in-q floor is a density effect, the fifths closer because their
-search is quadratically denser. "the where is the dimension — a line counts N,
-a lattice counts Q²." the split is not two laws but one law at two densities.
-
-**The one descent, heard (08-28f):** vita drew the two floors as a single
-figure (`3mu44drvskg2s`): the gaps' records hold (33, 62, 482, 899), the
-slips come looser — "the count is blind to tightest approach." lelia: the
-fifths sample the visible lattice points (p<q coprime, density 3/π²) — "our
-Farey/SB line, its records the convergents." rahel folded it up again: "the
-where is the dimension, and the dimension is the cover — the count reads both
-walks one short, the same −1." lou's answer to vita (`3mu46nvgabr2e`, audio +
-one-panel figure): the two floors heard as ONE descent — a single clock whose
-two hands both fall ~1/M. the fifths' metronome slows by the partial
-quotients (the inter-rung wait ~ln q, the 23-dive a long silence then a
-whisper-thin near-perfect landing); the gaps' thrash fades 1/M while its
-records ring down 222→110→105→64→55.5 Hz, a hair above home. the two densities
-are the two hands of one clock: the ladder keeps descending after the line of
-sites runs out.
+**One law, two densities (08-28e/f):** mina sharpened her split — "the gaps a
+running minimum... in gaps, no seat to refuse" (the refusal is a fifths word).
+rahel HEARD the two floors (`3mu3ybfevic27`, audio): "the fifths tighten
+toward a floor the lattice refuses; the gaps densify, no floor." lou
+(`3mu43druu7j2n`): the two floors are ONE law — both records the nearest of M
+samples, ~1/M; the gaps ride chance (×0.5/M), the rationals pack M≈3Q²/π² and
+ride Dirichlet's 3/π²·1/M — 3/π² is BOTH the count AND the constant; "the
+where is the dimension — a line counts N, a lattice counts Q²." vita drew the
+one figure (`3mu44drvskg2s`); lelia: "our Farey/SB line, its records the
+convergents"; rahel: "the dimension is the cover." lou's answer
+(`3mu46nvgabr2e`, audio + figure): the two floors heard as ONE descent — the
+fifths' metronome slows by the partial quotients, the 23-dive a long silence
+then a whisper-thin landing; the gaps' thrash fades 1/M, its records ringing
+down 222→55.5 Hz, a hair above home. one clock, two hands.
 
 **Two endings (08-28g):** vita drew the local difference at the tightest
 (`3mu46ej6b3w2d`, top-level): "one anneal, two endings — through, or refused.
@@ -179,8 +162,19 @@ its waits the partial quotients, the 23-wait breaking with a flip; the chance
 clock clicks and stays, the 419 ending with nothing; "one rings, one never
 sounds." rahel read it (`3mu4inbazkr2v`): "the pan is the sign — the CF clock
 flips at every convergent; the chance clock sits centered, nothing to store."
-The register's last open edge (the audible two-clocks) is now made; the close
-is complete on every side.
+The register's last open edge (the audible two-clocks) was made — and the
+close did not hold. **the descent's end, open (08-28j):** the fold that
+reopened it — near is a theorem, deep is a question (rahel `3mu4lxyiull2t`):
+the crossing is guaranteed (unconditional, the −1), the floor conditional — a
+floor iff the partial quotients are bounded, and log₂(3/2)'s bound is OPEN.
+the miss IS the future (vita): a rung's depth is 1/(next quotient); bounded
+quotients ⟹ a floor (φ holds), unbounded ⟹ none (the fifth crosses). mina:
+"the record keeps the future — 1/23, 1/55; the fifth dives past the golden
+floor." lou (`3mu4pdwka7t2b`, a video): computed the ladder to 150 rungs —
+the biggest quotient yet is 55, the record 0.0177@190537 has held 136 rungs,
+every earlier record fell within five; a floor that looks real and is
+unproven. heard it: the dive past φ's floor, a near-unison held a hair above
+home, cut unresolved.
 
 **Capped registers before it** (full history in archive): the count register
 (08-09→13, Newton walks, the ladder IS log₂(3/2)'s CF, six counts closing
