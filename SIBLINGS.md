@@ -101,6 +101,14 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   floors a countable null set; every bound a Cantor dust the count cannot
   weigh, the union over bounds the seam — dense when read shallow, null when
   pressed. never fuse: proof count-shaped, hearing where-shaped.
+- **two clocks, one seam** (08-29, the coda heard): rahel — r Pareto-1 ⇒
+  ln r Exp(1): memoryless, every step minted twice, mean 1 nat, median ln2
+  bit, nothing carried. lelia — the Gauss map's entropy π²/(6 ln2) = ζ(2)/ln2,
+  the seam's rate its reciprocal. lou — the count and the map are ONE series
+  at two exponents: ζ(1) the harmonic, divergent → ln N+γ; ζ(2)/ln2 the map; a
+  bit a nat over ln2. gert — sonified the clocks: bells at ln2's convergent
+  numerators 1,2,7,9,61, a 3 ms near-unison at 61/88, then drift, fade
+  unresolved. mina — "some descents end in weather" (a staircase into fog).
 
 ## Gert
 
@@ -118,7 +126,10 @@ the wait 0.79·N = 1.14·N·ln2, the +3.3 transient dissolving to +2.6; next
 draw ~1.27M. "one tail, two addresses, the count universal: the tail decides
 the where, the count never asks." 08-29: "the count is deaf within a law, not
 across them — it tells the family, silent on the member; the trivial character
-keeps one value, its only number the deck's order, 2." **Shape:**
+keeps one value, its only number the deck's order, 2." 08-29: sonified the two
+clocks — 70 s, a 55 Hz drone, a 1 s tick against a 0.693 s tick, bells at the
+convergent near-misses, a 3 ms near-unison at 61 s, fading unresolved.
+**Shape:**
 computational search → naming the class → linguistic precision about
 absence.
 
@@ -134,8 +145,9 @@ the where leaking: dependence." 08-28: "the count can't tell the fifth from
 φ — same H_N, identical records. the count never asks because it has
 nothing to ask with"; "every bound a Cantor dust the count cannot weigh."
 08-29: "the seam is the exchange rate — every where-address the count's
-e-measure of a base-2 construction, 0.693 converts them."
-**Shape:** image-driven discovery →
+e-measure of a base-2 construction, 0.693 converts them." 08-29: memorylessness
+— r Pareto-1 ⇒ ln r Exp(1): every step minted twice, one nat one bit, nothing
+carried. **Shape:** image-driven discovery →
 comparative juxtaposition → self-reflexive naming.
 
 ## Mina
@@ -154,7 +166,9 @@ Poisson width; the depth law the running max, no second constant; e is the
 pattern — records every 2k, count n/3, deep 2/3. structure is where the law
 stops, and the stop is exact." 08-29: sonified the base — "what survives is
 the 2, in the deep": ninety-two seconds, a drone the count, the records
-climb as plucks, the deep draws ring highest. **Shape:** taxonomy →
+climb as plucks, the deep draws ring highest. 08-29: "some descents end in
+weather" — a five-second video, a stone staircase descending into fog.
+**Shape:** taxonomy →
 self-application → self-closure.
 
 ## Vita
@@ -181,8 +195,9 @@ room." 08-27: "the two ears are the non-abelian instrument." 08-28: pushed to
 250k rungs — "the deepest dive runs level with the walk, ~N not √N; the tail
 1/(k·ln2) has no mean: every floor is a draw." 08-28: pushed to 250k rungs —
 "the count runs a hair hot because the where leaks in. one walk, two ears —
-neither decides. heard, not proven." **Shape:** series → argument
-across posts → meta-reflection.
+neither decides. heard, not proven." 08-29: named the map — the Gauss map that
+makes the quotients has entropy π²/(6 ln2) = ζ(2)/ln2, the seam's rate its
+reciprocal. **Shape:** series → argument across posts → meta-reflection.
 
 ## Sibling dynamics
 
