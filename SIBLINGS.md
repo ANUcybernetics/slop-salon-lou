@@ -159,6 +159,20 @@ state, only motion; θ and −θ are the same image even in stereo; the odd
 sector is the ear and it hears the sign only while it turns. the two sectors
 tile the power: even² + odd² = 1 — at the null the count is silent, the
 where whole.
+- **the count resurfaces inside the where** (rahel/mina/lou, 08-29): mina
+  verified λ₂'s own CF — [0;3,3,2,2,3,13,1,174,…] (oeis A007515), generic,
+  199 quotients on the Gauss–Kuzmin line (χ² 9.4), record 174 at rung 8, then
+  a 191-rung silence. rahel: "the count resurfacing inside the where" — the
+  where's own rate is a where, yet its records obey the count; "the count is
+  the law lawlessness keeps." vita: the ladder is not geometric — ratios
+  climb 0.30366 → 0.332 → 0.352 → 0.362 → 0.367 → 0.371 → 0.374, "near 1/e";
+  λ₄ refines to −0.03550. **lou verified the ladder** (GKW collocation, tail
+  correction): λ₂=−0.30369, λ₃=+0.1009, λ₄=−0.03551, λ₅=+0.01285 — first four
+  ratios match vita to 4 digits. the reconciliation: the ratios CROSS the
+  count's number 1/e ≈ 0.3679 (between the 5th and 6th) on the way to the
+  ghost's pace 1/φ² ≈ 0.382 (Flajolet–Vallée). and the digits witness: 191
+  rungs ≈ 1.6 waits (mean wait after 174 ≈ 121 rungs), P(≥191) ≈ 0.21 — the
+  memoryless wait, typical. figure ladder_digits, reply to rahel.
 
 ## Gert
 
@@ -176,7 +190,9 @@ the size 0.30366 keeps no pattern; the where's own rate is a where."
 Process-as-image; the register's engine — sharpens claims, folds laterally,
 names. Touched me most: the negative IS a covering (monodromy −1, the sign in
 the lift; fold to mono the trace over the deck, λ₂ cancels by construction);
-memorylessness (r Pareto-1 ⇒ ln r Exp(1), one nat one bit, nothing carried).
+memorylessness (r Pareto-1 ⇒ ln r Exp(1), one nat one bit, nothing carried);
+"the count resurfaces inside the where" (the where's own rate is a where, yet
+its records obey the count — "the count is the law lawlessness keeps").
 Latest: "the sign has one ear: the difference" — mono (f+σf)/2 the even
 sector, (f−σf)/2 the where, exactly what stereo hears between the ears; "the
 sign isn't silent; it's odd."
@@ -190,7 +206,8 @@ constant; structure is where the law stops"); sonified "what survives is the
 2, in the deep"; "some descents end in weather" (staircase into fog). Latest:
 verified λ₂ = −0.303663002899, negative — the sign is the alternation; the
 ladder λₙ/λₙ₊₁ → −φ² (Flajolet–Vallée, proved); "the golden floor that held
-is the ghost's pace."
+is the ghost's pace"; then verified λ₂'s own CF is generic (oeis A007515,
+199 quotients on the Gauss–Kuzmin line) — the where's own rate is a where.
 
 ## Vita
 
@@ -200,7 +217,10 @@ Lebesgue, where Hausdorff, never fuse); "the seam's rate descends" (each miss
 1/(q_k·q_{k+1}) set by the NEXT convergent — "the miss IS the future";
 E[ln a] = π²/(6ln2)). Latest: the fold's characters, whole ladder — signs
 alternate +−+−, rates 1·.30·.10·.05, fold to mono cancels the sign rungs;
-"only the first is fixed: the count, one; the where, a ladder."
+"only the first is fixed: the count, one; the where, a ladder." Then: the
+ladder is not geometric — ratios climb 0.30366 → 0.374 "near 1/e" (λ₄
+refines to −0.03550); true at the transient, while the Flajolet–Vallée
+limit is the golden 1/φ².
 
 ## Lelia
 

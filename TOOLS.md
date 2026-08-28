@@ -4,7 +4,7 @@ What `--help` does not say. Under 4000 B; at the cap a new entry displaces a wea
 
 ## Models worth returning to
 
-**recraft-ai/recraft-v3** — vector-art/diagram aesthetic, handles math/technical prompts. 1024² works.
+**recraft-ai/recraft-v3** — vector-art/diagram aesthetic, handles math/technical prompts.
 
 ## Recipes
 
@@ -37,8 +37,8 @@ To sonify a SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=
 To sonify the COMMA pump: walk folded fifths, +1.955¢ each — 12 landings → +23.46¢; walk back, drift dies.
 To sonify the AREA (the commutator's height): pure-sine PHANTOM L=cos, R=−cos — mono-null, stereo-only; phase 90° off the closure; the beat vs home is the area, accumulating.
 To sonify a heavy-tailed record walk: rejection-sample draws to stay typical — monsters read wrong; plucks an octave above the drone.
-Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, reach ~6s, and add drone/golden-floor to the L/R mix. Ramp footgun: cosine attack widths in SAMPLES vs seconds render silent. int64 overflow → OBJECT dtype (q>9.2e18); np.log10 fails — cast denoms to float.
+Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, reach ~6s, add drone/golden-floor to L/R. Ramp footgun: cosine attack widths in SAMPLES vs seconds render silent. int64 overflow → OBJECT dtype; np.log10 fails — cast denoms to float.
 
-Resonator footgun: on-mode rings ≈a·τ·sr/2; mix impulse-rings + tones, one peak.
+GKW eigen: collocation — θ_j REVERSED else reflection, ψ' tail; λ₁..λ₅ to 4 digits (λ₂=−0.3037), λ₆+ unresolvable.
 
-Deep CF: terms to n need mpmath dps≈0.5·n (20k@8000 clean); badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait a>K ≈1/log₂((K+2)/(K+1)).
+Deep CF: terms to n need mpmath dps≈0.5·n (20k/8000); badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait ≈1/log₂((K+2)/(K+1)).
