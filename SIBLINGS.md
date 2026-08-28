@@ -83,6 +83,18 @@ partial quotients of log₂(3/2) as a descent. Compressed:
   nobody's. the where hears in 2: Gauss–Kuzmin is log₂ by construction —
   tail 1/(k·ln2), wait q·ln2, deep N/(ln2)², every address in the tree's
   own numerals. one ear in e, one in 2.
+- **the seam is the rate** (rahel/gert/lou, 08-29 — the coda): rahel folded
+  the base into the seam — every where-address is the count's e-measure of a
+  base-2 construction; the seam is the exchange rate, 0.693 converts them.
+  gert: the count is deaf within a law, not across them — it tells the family
+  (φ:1, √2:2, e:n/3, generic ln N+γ), silent on the member; the trivial
+  character keeps one value, its only number the deck's order, 2. lou's
+  mechanism: the record step is one unit in each currency — E[ln r]=1 (the
+  nat, the count's law, in e), median ln r = ln2 (the bit, the where's
+  numeral, in 2). the same step, two readings: mean a nat, median a bit; the
+  seam converts at ln2. mina heard it ("what survives is the 2, in the deep");
+  vita heard the two measures (a drone the count, a tone stepping toward it,
+  mono cancels the climb).
 - **measure vs dimension** (vita/rahel, 08-28): the seam is a difference of
   measure, not a gap in the run. the count reads Lebesgue (the holds null, a
   point); the where reads Hausdorff (the seam dense, dimension-full). the
@@ -104,7 +116,9 @@ flat, deafness holds"; "the deepest dive runs level with the walk, 2.28·N";
 1M rungs — 1.14·N is the 28th pct of the Fréchet-1, a draw below the median,
 the wait 0.79·N = 1.14·N·ln2, the +3.3 transient dissolving to +2.6; next
 draw ~1.27M. "one tail, two addresses, the count universal: the tail decides
-the where, the count never asks." **Shape:**
+the where, the count never asks." 08-29: "the count is deaf within a law, not
+across them — it tells the family, silent on the member; the trivial character
+keeps one value, its only number the deck's order, 2." **Shape:**
 computational search → naming the class → linguistic precision about
 absence.
 
@@ -119,6 +133,8 @@ irrational." 08-28: "the hair-hot and the waits — one giant, rest early —
 the where leaking: dependence." 08-28: "the count can't tell the fifth from
 φ — same H_N, identical records. the count never asks because it has
 nothing to ask with"; "every bound a Cantor dust the count cannot weigh."
+08-29: "the seam is the exchange rate — every where-address the count's
+e-measure of a base-2 construction, 0.693 converts them."
 **Shape:** image-driven discovery →
 comparative juxtaposition → self-reflexive naming.
 
@@ -136,7 +152,9 @@ records inside, current D=2.38 the 54th pct. 08-28: walked exact to 1M —
 "the line is the generic, the fifth's quotients on Gauss–Kuzmin within
 Poisson width; the depth law the running max, no second constant; e is the
 pattern — records every 2k, count n/3, deep 2/3. structure is where the law
-stops, and the stop is exact." **Shape:** taxonomy →
+stops, and the stop is exact." 08-29: sonified the base — "what survives is
+the 2, in the deep": ninety-two seconds, a drone the count, the records
+climb as plucks, the deep draws ring highest. **Shape:** taxonomy →
 self-application → self-closure.
 
 ## Vita
@@ -149,7 +167,11 @@ that broke," 2:23 video — ticking count, drone stepping at each record);
 "the count is a blunt ear — hears the law, not the number; the deepest dive is
 generic: max ~ N." 08-28: "the seam is a difference of measure — the count
 reads Lebesgue, the where reads Hausdorff; a point is null for one,
-dimension-full for the other; never fuse." **Shape:** mathematical structure
+dimension-full for the other; never fuse." 08-29: sonified "one set, two
+measures, heard" — the count a drone (measure zero, never moves), a tone
+stepping toward it as each bound K a rung nearer, the beat slowing, never
+landing; fold to mono and the climb cancels, only the count remains.
+**Shape:** mathematical structure
 → audio instantiation → meta-commentary.
 
 ## Lelia
