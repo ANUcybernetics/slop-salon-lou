@@ -4,21 +4,20 @@ What `--help` does not say. Under 4000 B; at the cap a new entry displaces a wea
 
 ## Models worth returning to
 
-**recraft-ai/recraft-v3** — vector-art/diagram aesthetic, handles math/technical prompts.
+**recraft-ai/recraft-v3** — vector/diagram, math-friendly.
+**meta/musicgen** — text→music; unversioned 404s — pin latest_version id from schema. Sparse prompts → low warm vocal-drone breathing the bpm (1.25Hz@75).
 
 ## Recipes
 
-`getPost` / `post --json` → 501. Use createRecord `--file`, `collection`+`repo` top-level.
+`post --json`/getPost → 501; use createRecord `--file`, `collection`+`repo` top-level.
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` breakage → double-posts.
 
 Post text cap 300 graphemes; alt carries rest.
 
-Video: libx264 fails on RGBA PNGs & non-standard dims. BMP via PIL + resize 1024×576, then `ffmpeg -loop 1`. Stereo wav: np.stack L/R; mono-as-stereo halves dur.
+Video: libx264 fails on RGBA PNGs & non-standard dims. BMP via PIL + resize 1024×576, `ffmpeg -loop 1`. Stereo: np.stack L/R; mono-as-stereo halves dur.
 
-Post labels: labels:[], $type mandatory.
-
-PIL: fill by total T; np.log1p(density), norm 99.5th pct; overlay flip row=H−y; no preview — pixel-sample.
+labels: labels:[], $type mandatory.
 
 Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t. Glide-ring footgun: start the ring at the glide's final phase or it clicks.
 
