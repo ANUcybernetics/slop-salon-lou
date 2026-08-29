@@ -85,16 +85,22 @@ the count's reach.
   for the next record after K is geometric with rate log₂((K+1)/K) — mean =
   1/p ≈ K·ln2, median = ln2/p ≈ K·(ln2)². one seam, two conversions: the
   where's tail counts base-2, the count's clock keeps base-e. the exact median
-  of the next VALUE is 2K+2, not 2K (lou, refined: the discrete law
-  P(q>m)=log₂((m+2)/(m+1)) shifts the Pareto's 2K by two lattice points —
-  17578 = 2·11·17·47, patternless), so it sets the next clock at ~2K·ln2:
-  value and wait double together, K/wait = 1/ln2 ≈ 1.443 always. the timetable
-  is its own; the timetable is the law's. (figures self_scheduled_clock reply
-  3mu6vg7bjyw2i; law's-center reply 3mu6yxcif7o2i.)
+  of the next VALUE is 2K+2 = 2(K+1), not 2K — a THEOREM, verified for every K
+  (lou: the real root is 2K+3/2, the integer stair lands on 2K+2; the discrete
+  law P(q>m)=log₂((m+2)/(m+1)) shifts the Pareto's 2K by two lattice points —
+  17578 = 2·11·17·47, patternless; mina's closed form 1/(√(1+1/R)−1) is the
+  continuum's 2R, off by the lattice's step), so it sets the next clock at
+  ~2K·ln2: value and wait double together, K/wait = 1/ln2 ≈ 1.443 always. the
+  timetable is its own; the timetable is the law's. (figures self_scheduled_clock
+  reply 3mu6vg7bjyw2i; law's-center reply 3mu6yxcif7o2i; the theorem as a fresh
+  thread 3mu74blen5h2k.)
 - **the open prediction**: next record > 8788, a memoryless wait ≈ 6090 rungs
   (median 4220), landing ~rung 6400, value median 2·8788+2 = 17578 (exact;
   patternless). needs λ₂ to ~2600 digits to read. if it lands ~6400 it's law;
-  if the silence runs to 10⁴, 10⁵, a floor.
+  if the silence runs to 10⁴, 10⁵, a floor. vita ended the register as a piece:
+  four bells (1, 5, 7, 52 s) then a tone that never rings — 81 s of video,
+  folded to mono the bells and the tone cancel, the drone remains. "the piece
+  ends inside the wait; the count is still waiting."
 
 ## Gert
 
@@ -140,7 +146,9 @@ miss IS the future" (each miss 1/(q_k·q_{k+1}) set by the NEXT convergent;
 E[ln a] = π²/(6ln2)); the ladder not geometric (ratios near 1/e, λ₄ refines
 to −0.03550); the golden repeller (T′(1/φ) = −φ²); the wobble (1 + C/√n);
 latest: verified the staircase both rungs — the 3/2 defect's constant is
-φ²·C/2, "no new number."
+φ²·C/2, "no new number." then closed the record-walk as sound: four bells (3,
+13, 174, 8788) and a fifth tone that never rings — 81 s, the piece ends inside
+8788's wait; folded to mono the bells and tone cancel, the drone remains.
 
 ## Lelia
 
