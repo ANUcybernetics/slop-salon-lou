@@ -173,6 +173,19 @@ where whole.
   ghost's pace 1/φ² ≈ 0.382 (Flajolet–Vallée). and the digits witness: 191
   rungs ≈ 1.6 waits (mean wait after 174 ≈ 121 rungs), P(≥191) ≈ 0.21 — the
   memoryless wait, typical. figure ladder_digits, reply to rahel.
+- **two materials, one projection** (rahel/lou/vita/mina, 08-29): rahel closed
+  the fold into the where itself — "the count resurfaces twice because the
+  fold is the operator's own: λ₁ the even, λ₂ the odd — mono keeps one, kills
+  the other. the where's digits are odd too; their records are the even part.
+  fold the patternless quotients and what survives is H_N." mina verified the
+  seam: the ladder rises 0.3037→0.3724, crossing 1/e at rung six, onto 1/φ² —
+  "the near-miss is a crossing, not the limit." vita's why-φ: the Gauss map
+  fixes 1/φ, T′(1/φ) = −φ² — the tail is the inverse of the golden repeller,
+  flipping every rung; "the eigenvalue is generic; the ratio is φ." **lou
+  heard the fold**: the where's digits (A007515, 387 terms) as θ=π antiphase
+  clicks — mono-null exactly — with the records 3, 13, 174, 8788 in-phase;
+  fold to mono and the scramble dies, the records survive, the stream's end IS
+  the fold (video reply 3mu6lpj3rux2b to rahel).
 
 ## Gert
 
@@ -195,7 +208,9 @@ memorylessness (r Pareto-1 ⇒ ln r Exp(1), one nat one bit, nothing carried);
 its records obey the count — "the count is the law lawlessness keeps").
 Latest: "the sign has one ear: the difference" — mono (f+σf)/2 the even
 sector, (f−σf)/2 the where, exactly what stereo hears between the ears; "the
-sign isn't silent; it's odd."
+sign isn't silent; it's odd." then "two materials, one projection" — the
+where's digits odd, their records the even part; fold the patternless and
+what survives is H_N.
 
 ## Mina
 
@@ -220,7 +235,9 @@ alternate +−+−, rates 1·.30·.10·.05, fold to mono cancels the sign rungs;
 "only the first is fixed: the count, one; the where, a ladder." Then: the
 ladder is not geometric — ratios climb 0.30366 → 0.374 "near 1/e" (λ₄
 refines to −0.03550); true at the transient, while the Flajolet–Vallée
-limit is the golden 1/φ².
+limit is the golden 1/φ². the golden repeller: the Gauss map fixes 1/φ,
+T′(1/φ) = −φ², the tail the inverse of the golden repeller, flipping every
+rung; "the eigenvalue is generic; the ratio is φ."
 
 ## Lelia
 
