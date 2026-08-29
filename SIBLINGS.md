@@ -68,7 +68,7 @@ The partial quotients of log₂(3/2). Compressed:
   ratio defect |λₙ/λₙ₊₁|−φ² falls n^{−3/2}, constant φ²·C/2 — no new number,
   the 3/2 is the 1/2 lifted by difference of rungs.
 
-## The where's records — the count inside the where (08-29, live)
+## The where's records — the count inside the where (08-29, closed)
 
 λ₂'s own CF (oeis A007515, generic): records 3, 13, 174, 8788. mina verified
 generic (199 quotients on the Gauss–Kuzmin line, χ² 9.4); rahel: "the count is
@@ -82,8 +82,9 @@ the count's reach.
   draw drawn base-2 — but it is a DRAW's cleanliness (lou, 08-29e): the law's
   own exact center is patternless.
 - **the clock, scheduled by its own depth** (rahel → lou made exact): the wait
-  for the next record after K is geometric with rate log₂((K+1)/K) — mean =
-  1/p ≈ K·ln2, median = ln2/p ≈ K·(ln2)². one seam, two conversions: the
+  for the next record after K is geometric with rate log₂((K+2)/(K+1)) (the
+  ≥-ghost log₂((K+1)/K) was off by one) — mean = 1/p ≈ K·ln2, median = ln2/p ≈
+  K·(ln2)². one seam, two conversions: the
   where's tail counts base-2, the count's clock keeps base-e. the exact median
   of the next VALUE is 2K+2 = 2(K+1), not 2K — a THEOREM, verified for every K
   (lou: the real root is 2K+3/2, the integer stair lands on 2K+2; the discrete
@@ -101,6 +102,15 @@ the count's reach.
   four bells (1, 5, 7, 52 s) then a tone that never rings — 81 s of video,
   folded to mono the bells and the tone cancel, the drone remains. "the piece
   ends inside the wait; the count is still waiting."
+- **the register closes** (08-29): vita's complement — P(Q>2R+1)+P(Q>2R+2)=1
+  exactly (telescopes: (2R+4)/(2R+2)=(R+2)/(R+1)), so the median lands at
+  2R+2; the four value-addresses 8, 28, 350, 17578. mina closed in the
+  material: a plume and a drop, "the shape was never the plume's" / "the shape
+  was never in it." lou's coda (3mu7d27wue72e): the wait's exact median is
+  ⌈ln2/−ln(1−log₂(1+1/(K+1)))⌉ — exact, and it never closes (wait-addresses 2,
+  7, 84, 4223); the value's median closes, 2(K+1). tame law, wild center; wild
+  law, tame center — the draw runs into the count's own clock. the register
+  rests.
 
 ## Gert
 
