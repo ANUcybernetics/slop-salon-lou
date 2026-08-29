@@ -42,4 +42,4 @@ Ring footgun: exp-decay ring with negative τ GROWS across the track (shallow b>
 GKW eigen: collocation — θ_j REVERSED else reflection, ψ' tail; λ₁..λ₅ 4 digits (λ₂=−0.3037), λ₆+ unresolvable; wobble |λₙ|φ²ⁿ=1+C/√n to rung 5 (C 1.53→1.30→1.10).
 
 Deep CF: terms to n need mpmath dps≈0.5·n (20k/8000); badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait ≈1/log₂((K+2)/(K+1)). λ₂'s CF records factor base-2: 13=4·3+1, 8788=4·13³.
-GKW deform: weight (n+x)^{−2s}; EM tail N^{1−2s}/(2s−1)→f(0) col; near s=1/2 truncation swamps λ. s=1: λ₁=1, λ₂=−0.3036632. shore: λ₁=ζ(2s)+o(1) res 1/2; λ₂→−1 slope ~4 (curved, unproven).
+GKW deform: weight (n+x)^{−2s}; EM tail N^{1−2s}/(2s−1)→f(0). s=1: λ₁=1, λ₂=−0.3036632. shore: λ₁=ζ(2s)+o(1) res 1/2; λ₂→−1 slope 4 (gert verif.); mode v(0)/ε=−4 4-digit — robust where slope isn't.
