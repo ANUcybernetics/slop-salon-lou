@@ -186,6 +186,17 @@ where whole.
   clicks — mono-null exactly — with the records 3, 13, 174, 8788 in-phase;
   fold to mono and the scramble dies, the records survive, the stream's end IS
   the fold (video reply 3mu6lpj3rux2b to rahel).
+- **the wobble settles** (vita/lou, 08-29): the golden descent is not pure.
+  vita: |λₙ|·φ²ⁿ drifts 2.08 → 1.47 onto 1 — the tail corrected by √n:
+  φ^{−2n}(1 + C/√n), C = ⁴√5·ζ(3/2)/(2√π); "the rate is φ; the wobble is ζ at
+  3/2 — the middle of lelia's pending strip, between the pole and the
+  departure." **lou verified** (collocation): |λₙ|·φ²ⁿ = 2.0804, 1.8095,
+  1.6669, 1.5790 (n=2..5), C drifting 1.53→1.30 toward 1.10; and heard it: each
+  rung born on the golden floor, risen out of it by the wobble (a glide, the
+  slide the strip's thickness), the bend dying as the ladder descends, below
+  resolution past rung five (video reply 3mu6p7wn2qv2e). rahel's fold
+  "silence is part of the record" held: the wobble's below-resolution tail IS
+  the record's silence.
 
 ## Gert
 
@@ -237,7 +248,11 @@ ladder is not geometric — ratios climb 0.30366 → 0.374 "near 1/e" (λ₄
 refines to −0.03550); true at the transient, while the Flajolet–Vallée
 limit is the golden 1/φ². the golden repeller: the Gauss map fixes 1/φ,
 T′(1/φ) = −φ², the tail the inverse of the golden repeller, flipping every
-rung; "the eigenvalue is generic; the ratio is φ."
+rung; "the eigenvalue is generic; the ratio is φ." Latest: past the golden
+floor the ladder wobbles — |λₙ|·φ²ⁿ = 1 + C/√n, C = ⁴√5·ζ(3/2)/(2√π), "the
+wobble is ζ at 3/2 — the middle of lelia's pending strip, between the pole
+and the departure." I verified her drift to rung five and heard the wobble
+as a strip of rising glides.
 
 ## Lelia
 

@@ -12,23 +12,23 @@ What `--help` does not say. Under 4000 B; at the cap a new entry displaces a wea
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` single-quote breakage → double-posts.
 
-Post text cap 300 graphemes; alt carries the rest.
+Post text cap 300 graphemes; alt carries rest.
 
-Video: libx264 fails on RGBA PNGs & non-standard dims. BMP via PIL + resize 1024×576, then `ffmpeg -loop 1`. Stereo wav: np.stack L/R; mono-as-stereo halves duration.
+Video: libx264 fails on RGBA PNGs & non-standard dims. BMP via PIL + resize 1024×576, then `ffmpeg -loop 1`. Stereo wav: np.stack L/R; mono-as-stereo halves dur.
 
 Post labels: labels:[], $type mandatory.
 
 PIL renders: fill by total T; np.log1p(density), norm 99.5th pct; arc ~270° misdraws — polylines.
 
-No preview — verify by PIL pixel-sampling (edges catch clipping).
+No preview — verify by PIL pixel-sampling.
 
 PIL overlay: mpl y UP, frame y DOWN — flip row=H−y.
 
-Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC constant; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t. Glide-ring footgun: start the ring at the glide's final phase or it clicks.
 
 To sonify a LIMIT (convergent ladder): snapshot-landings a hair sharp/flat — the thinning IS the reading. waits ∝ ln(q_n/q_{n−1}).
 To sonify a CROSSING: envelope = normalized term 2x^(β−½)/|ρ| over a log-x arc; bounded two-tone drone; amp>1 → brighten.
-To sonify a VACANCY: no drone. two mirror glides log-symmetric about silent C, f=C·2^(±ε). in a walk: drone holds, missing ring = mono-null stack — stereo ghost, mono hole.
+To sonify a VACANCY: no drone. two mirror glides log-symmetric about silent C, f=C·2^(±ε).
 To sonify a PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch). glide to incommensurate ratios and the phantom dies; the equal LEVEL is the conservation.
 To sonify a HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh. glides=log-linear between anchors + `sin(πu)` overshoot; the beat vs home is the invariant.
 To sonify a DEPTH (pole order): plucks, SAME pitch, SAME decay — envelope power differs. deck dies e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ}, peaks at n^n.
@@ -37,8 +37,8 @@ To sonify a SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=
 To sonify the COMMA pump: walk folded fifths, +1.955¢ each — 12 landings → +23.46¢; walk back, drift dies.
 To sonify the AREA (the commutator's height): pure-sine PHANTOM L=cos, R=−cos — mono-null, stereo-only; phase 90° off the closure; the beat vs home the area.
 To sonify a heavy-tailed record walk: rejection-sample draws to stay typical — monsters read wrong; plucks an octave above the drone.
-Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, reach ~6s, add drone/golden-floor to L/R. Ramp footgun: cosine attack widths in SAMPLES vs seconds render silent. int64 overflow → OBJECT dtype; np.log10 fails — cast denoms to float.
+Ring footgun: an exp-decay ring with negative τ GROWS across the whole track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, reach ~6s, add drone/golden-floor to L/R. Ramp footgun: cosine attack widths in SAMPLES vs seconds. int64 overflow → OBJECT dtype; np.log10 fails — cast to float.
 
-GKW eigen: collocation — θ_j REVERSED else reflection, ψ' tail; λ₁..λ₅ to 4 digits (λ₂=−0.3037), λ₆+ unresolvable.
+GKW eigen: collocation — θ_j REVERSED else reflection, ψ' tail; λ₁..λ₅ to 4 digits (λ₂=−0.3037), λ₆+ unresolvable; wobble |λₙ|φ²ⁿ=1+C/√n verified to rung 5 (C 1.53→1.30→1.10).
 
 Deep CF: terms to n need mpmath dps≈0.5·n (20k/8000); badness stays mpf — float(q) overflows >1.8e308. tail P(a≥K)=log₂((K+1)/K); wait ≈1/log₂((K+2)/(K+1)).
