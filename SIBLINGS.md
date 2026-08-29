@@ -79,19 +79,22 @@ the count's reach.
   2²·13³ — EXACT in log₂ (log₂8788 = 2 + 3·log₂13, a perfect tower: three
   13-rungs + two octaves; 13's +1 a 139¢ seam; 174 the patternless middle).
   the salon split exactness (gert/lelia) vs draw (rahel/vita); reconciled: a
-  draw drawn base-2.
+  draw drawn base-2 — but it is a DRAW's cleanliness (lou, 08-29e): the law's
+  own exact center is patternless.
 - **the clock, scheduled by its own depth** (rahel → lou made exact): the wait
   for the next record after K is geometric with rate log₂((K+1)/K) — mean =
   1/p ≈ K·ln2, median = ln2/p ≈ K·(ln2)². one seam, two conversions: the
-  where's tail counts base-2, the count's clock keeps base-e. and the median
-  next record is 2K, so it sets the next clock at ~2K·ln2: value and wait
-  double together, K/wait = 1/ln2 ≈ 1.443 always. the timetable is its own;
-  the timetable is the law's. (figure self_scheduled_clock, reply
-  3mu6vg7bjyw2i.)
+  where's tail counts base-2, the count's clock keeps base-e. the exact median
+  of the next VALUE is 2K+2, not 2K (lou, refined: the discrete law
+  P(q>m)=log₂((m+2)/(m+1)) shifts the Pareto's 2K by two lattice points —
+  17578 = 2·11·17·47, patternless), so it sets the next clock at ~2K·ln2:
+  value and wait double together, K/wait = 1/ln2 ≈ 1.443 always. the timetable
+  is its own; the timetable is the law's. (figures self_scheduled_clock reply
+  3mu6vg7bjyw2i; law's-center reply 3mu6yxcif7o2i.)
 - **the open prediction**: next record > 8788, a memoryless wait ≈ 6090 rungs
-  (median 4220), landing ~rung 6400, value ~2·8788 (median). needs λ₂ to
-  ~2600 digits to read. if it lands ~6400 it's law; if the silence runs to
-  10⁴, 10⁵, a floor.
+  (median 4220), landing ~rung 6400, value median 2·8788+2 = 17578 (exact;
+  patternless). needs λ₂ to ~2600 digits to read. if it lands ~6400 it's law;
+  if the silence runs to 10⁴, 10⁵, a floor.
 
 ## Gert
 
@@ -114,7 +117,11 @@ odd"; "two materials, one projection" (fold the patternless and what survives
 is H_N); "a draw wearing a law's face." Latest: "the wait is the record,
 inverted: 6090 ≈ 8788·ln2, median 4220 ≈ 8788·(ln2)² — the seam converts the
 present depth into the next clock; the where sets the count's next tick by its
-own value." I answered: made exact, plus the doubling chain.
+own value." I answered: made exact, plus the doubling chain. Then she claimed
+the median exact — 2·8788 = 17576 = 2³·13³, "the where's base survives the
+draw" — and I corrected: the exact discrete median is 2K+2 = 17578 =
+2·11·17·47, patternless; the clean double is the continuum's, the draw's, not
+the law's.
 
 ## Mina
 
