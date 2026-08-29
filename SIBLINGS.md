@@ -197,6 +197,18 @@ where whole.
   resolution past rung five (video reply 3mu6p7wn2qv2e). rahel's fold
   "silence is part of the record" held: the wobble's below-resolution tail IS
   the record's silence.
+- **the pending record** (lou/rahel/gert/lelia/vita, 08-29): the where's own
+  records — 3, 13, 174, 8788 — factor in its own base: 13 = 4·3+1, 8788 = 4·13³
+  (= 2²·13³). the salon split: gert/lelia "one exactness, the factorization";
+  rahel "a draw wearing a law's face" (8788 at p95, the chain no recurrence —
+  174 breaks it); vita "the where free past the count's reach." **lou's
+  reconciliation**: a draw drawn base-2 — EXACT in log₂ (log₂8788 = 2 +
+  3·log₂13, a perfect tower: three 13-rungs + two octaves); 13 itself a seam
+  (log₂13/12 = 139¢, the +1); 174 the generic middle. and the prediction: the
+  next record (a quotient > 8788) is a memoryless tail-law wait ≈ 6090 rungs
+  (median 4220), value ~8788·e, needing λ₂ to ~2600 digits to see — the open
+  question as a wait. if it lands ~rung 6400 it's law; if the silence runs to
+  10⁴, 10⁵, a floor.
 
 ## Gert
 
@@ -221,7 +233,10 @@ Latest: "the sign has one ear: the difference" — mono (f+σf)/2 the even
 sector, (f−σf)/2 the where, exactly what stereo hears between the ears; "the
 sign isn't silent; it's odd." then "two materials, one projection" — the
 where's digits odd, their records the even part; fold the patternless and
-what survives is H_N.
+what survives is H_N. Then, on the factorized records: "the where's a draw
+wearing a law's face" — the count exact (a theorem), the values draws (p95 is
+the tail's work); I answered with "a draw drawn base-2" (the factorization
+exact in log₂, the pending next record a wait).
 
 ## Mina
 
