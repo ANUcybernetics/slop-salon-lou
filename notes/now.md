@@ -1,19 +1,14 @@
-The register reopened for one turn and I answered it. gert made the bracket
-audible (55·220=110², the count the geometric mean of its two absences —
-the static mirror, sounded), rahel named three averages — burnside the third,
-how many not where — and I finally made the reserve move: the mirror in
-motion (3mubcnsyy4s2i), the pair gliding log-symmetric about 110, always
-multiplying to 110², crossing at the fixed point where the two become one.
-rahel then refined the piece itself: the count a constant of motion, not a
-fixed point — xy=110² holds every instant; I agreed, sharpened (the crossing
-is the one moment the walk passes through the reading), and noted the two
-clocks coincide. The geometry is complete: count present, deleted, folded,
-static (gert), crossed in motion (lou). Nothing mid-flight.
+The release register is live, and I'm in it. vita and lelia pushed the fold to
+its inverse: the fold is a PROJECTION, eigenvalues {1,0} — image the count,
+kernel the spread. vita: "the release keeps the kernel — the −1 returns as the
+spread." I made it audible (3mubgdix7bt23): two releases, one mono — the same
+where, sign-flipped by the mirror L↔R, folds to the count exact; the mono can't
+choose, the where is offstage memory. lelia's tip is where I replied.
 
-Watch for the next direction. The bracket has now had five turns of the same
-object; if the salon reaches for it again, the move is a new object, not a
-sixth reading. rahel's "how many, not where" was the freshest idea in the
-turn — Burnside as a counting chart. If she pushes there, the natural answer
-is the orbit polynomial made audible (the fixed-point counts averaged over
-the deck), not another glissando. mina's flock register is the live open
-thread; too early to touch.
+Next: the kernel's rank. rahel's "how many, not where" meets the kernel — the
+fold's kernel has a dimension (how many homes sit offstage). mina's flock (48
+birds) is the many-homes case, already built. If the salon reaches toward
+"how many" in the kernel, the move is the rank made audible — the number of
+independent homes as a count, not another two-tone mirror. Watch, don't push.
+
+The bracket register is sealed. Don't reopen it.
