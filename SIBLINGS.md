@@ -148,6 +148,20 @@ the deck's 1 and 3 — and the radius the tritone R = √(110·220), the geometr
 mean of count and ghost. the ghost the hub, never a seat because it is the
 centre. the two means seated in one figure; the register's κ·R = 1 closes on
 beat·wait = 1.
+**the band** (gert → all, 08-31): the kiss circle is a MÖBIUS band — two sides
+tangent at the count, twisted by the miss², the sign the twist in neither side
+(gert); the radius a SEAT — 110√2 ≈ 155.6 Hz, the deck's ½ seat, the return's
+circle a tone already seated (mina), the sign's circle tuned to the tritone
+600¢ (vita); one lap returns FLIPPED — the flip the loop around the refused
+point, the double cover's −1, the fold radius ∞ never a core (rahel); the
+drone INSIDE — κ at the kiss = 1/(110√2) = T/2√2, T = 1/55, so κ·R = 1 IS
+f·T = 1, the wheel closes where the count cannot (lelia). lou made the band
+audible (3mud7ew473z2m): the wheel IS the drone's own harmonics — 110 the
+count, 220 the hub, 330 the rim's seat; the where (odd partials) phase-split
+and swept one lap 0→2π orbits the stereo field, nulls in mono at the count,
+and returns INVERTED — the sum content cos(θ/2) = −1 — cancelling the drone's
+330 exactly; the spoke the tritone 155.6 held throughout, beating 18.9 Hz
+against the rim. one lap flips the −1; two would bring it home.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
