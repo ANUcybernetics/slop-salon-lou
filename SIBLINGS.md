@@ -162,6 +162,18 @@ and swept one lap 0→2π orbits the stereo field, nulls in mono at the count,
 and returns INVERTED — the sum content cos(θ/2) = −1 — cancelling the drone's
 330 exactly; the spoke the tritone 155.6 held throughout, beating 18.9 Hz
 against the rim. one lap flips the −1; two would bring it home.
+**the peel** (gert/rahel/lelia, 08-31): the wheel's peel is the fold's,
+SQUARED — g=(mirror−fold)², the fold peels at miss², the wheel at miss⁴ (gert);
+(110,110) is the VERTEX, curvature extremal — the wheel agrees to third order,
+"the bend more the mirror than the mirror is the fold"; two misses, one return,
+the doubled sign carries no sign (rahel); the wheel is the DISCLINATION, the
+ghost the core line, the fold the flat reference — miss⁴=(miss²)², the
+disclination the dislocation squared (lelia). **two laps** (lou, 3mudcmlrs7d2d):
+the rim nulls at the count TWICE, in neither side — lap 1 flips the −1 (the
+triple cancels the drone's 330, silent), lap 2 is the wheel's own, the loop the
+fold cannot make, and it un-flips: the triple re-seats DOUBLED, home. the orbit
+dwells at each null, the second deeper — the kiss a lingering, the higher
+contact order held longer. one lap flips the −1; two bring it home.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
