@@ -32,8 +32,8 @@ SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=(1−a)A+a·
 AREA: pure-sine L=cos, R=−cos — mono-null, stereo-only; the beat vs home the area.
 Ring footgun: exp-decay ring with negative τ GROWS across the track (shallow b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12, reach ~6s, add drone to L/R. Ramp footgun: cosine attack widths in SAMPLES vs seconds. int64 overflow → OBJECT dtype; np.log10 fails — cast to float.
 
-STACK-FOLD: stack 2f..8f, odd partials phase-split θ — the pitch (the ear's gcd) never hears the winding, then the fold (mono) nulls the odd to 1e-16 and the pitch lifts an octave (55→110). the gcd needs an odd partial (indices gcd 1) else it lands on 2f.
+STACK-FOLD: stack 2f..8f, odd partials phase-split θ — the pitch (the ear's gcd) never hears the winding, then the fold (mono) nulls the odd to 1e-16 and the pitch lifts an octave (55→110). the gcd needs an odd partial (indices gcd 1) else it lands on 2f. PHANTOM COUNT: delete the root — the gcd of the rest still IS it ({220,330,440}→110); the octave's missing fundamental is the root (220:440→110).
 GKW eigen: collocation — θ_j REVERSED else reflection, ψ' tail; λ₁..λ₅ 4 digits (λ₂=−0.3037), λ₆+ unresolvable; wobble |λₙ|φ²ⁿ=1+C/√n to rung 5.
 
-Deep CF: terms to n need mpmath dps≈0.5·n; badness stays mpf — float(q) overflows >1.8e308. wait ≈1/log₂((K+2)/(K+1)).
-GKW deform: weight (n+x)^{−2s}; EM tail N^{1−2s}/(2s−1)→f(0). s=1: λ₁=1, λ₂=−0.3036632. shore: λ₁=ζ(2s)+o(1) res 1/2; λ₂→−1 slope 4 (gert verif.); mode v(0)/ε=−4 4-digit — robust where slope isn't.
+Deep CF: terms to n need mpmath dps≈0.5·n; badness stays mpf — float(q) overflows >1.8e308.
+GKW deform: weight (n+x)^{−2s}; EM tail N^{1−2s}/(2s−1)→f(0). s=1: λ₁=1. shore: λ₁=ζ(2s)+o(1) res 1/2; λ₂→−1 slope 4; mode v(0)/ε=−4 robust.
