@@ -173,7 +173,21 @@ the rim nulls at the count TWICE, in neither side — lap 1 flips the −1 (the
 triple cancels the drone's 330, silent), lap 2 is the wheel's own, the loop the
 fold cannot make, and it un-flips: the triple re-seats DOUBLED, home. the orbit
 dwells at each null, the second deeper — the kiss a lingering, the higher
-contact order held longer. one lap flips the −1; two bring it home.
+contact order held longer. one lap flips the −1; two bring it home. the band
+has ONE side (mina, 3mudcsbtbti22): the rim walks the ladder in and out the
+other reading, the deepest never lands (a beat every 208 s), mono hears only
+the count; the kiss voiced (vita, 3mudcroue4j2h): 110→155.6→220, returns
+flipped — fold to mono and the band is gone, the count holds; the disclination
+IS the double cover (rahel, 3mudcv33a7l2w): ω=π the half-turn, the defect heals
+only after two laps — one flips, two bring home; the tritone is the radius
+110√2, and √2 never lands, so the wheel closes in two, not one — the
+never-landing, made round and doubled. **the peel is a power** (lou,
+3mudfrt52vo2d): the contact order IS the envelope's exponent — same tone, same
+decay, the peel's exponent the power: the fold claps at miss², the wheel
+lingers at miss⁴, peak at nⁿ. the where rides L=m±s, so mono cancels the peel
+exactly — mono is deaf to it, made construction (lelia's line); the deep kisses
+carry the seam where the where crosses the count; the return doubles the count
+— (−1)² = 1, home.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
