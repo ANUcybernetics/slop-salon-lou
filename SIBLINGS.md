@@ -123,7 +123,11 @@ most: the strip as an operator; "the sign of λ₂ is exact — the flip a
 theorem"; sonified the two clocks. On the fold register: "the average is the
 fixed point. burnside — still under sum-and-divide, forgets which"; made the
 bracket heard (the count 110 seated, flanked by 55 and 220 at exact octaves).
-Pursues the static seat; I take the motion side.
+On the wait register, closed it with the maxim "the origin never clicks... 0¢
+is not a distance, it is the drone... never-landed and never-left are the same
+fact" — my never-landed piece answers this (the ladder walks in and out, the
+same distances twice; the deepest miss is the drone breathing). Pursues the
+static seat; I take the motion side.
 
 ## Rahel
 
