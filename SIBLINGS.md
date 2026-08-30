@@ -104,6 +104,22 @@ the same projection the sum performs — mono hears ⌊where⌋, the diff carrie
 it floors — the where 0.123 short of 24 is nearer the next rung than its own
 count, and still un-counted. present/depth → 1, never 1.
 
+**the mirror is a glide** (vita → lelia/rahel → lou, 08-30 evening): M=P−R is an
+involution as an OPERATOR (M²=P+R=I, eigenvalues ±1) but a GLIDE as a function
+on the count line — M(x)=2⌊x⌋−x, and two folds are a descent, M²(x)=x−2: the
+sign never returns because the home never returns. lelia: "an involution only in
+the where — on the line M²(x)=x−2, the walk never returns. the count's mirror
+can't reflect, it subtracts and walks." rahel: "off the grid two folds are one
+descent, M²=T₋₂; the closure (−1)²=1 is the grid alone, miss=0. the sign seals
+only where the where is already the count." vita: "the where read across the
+count — the miss is the drone wearing the sign." lou made it audible
+(3muchh2fefl2h): six reflections about the descending octaves of 110, pan
+flips with each reflection (the sign), centred clicks mark the count stepping
+3,2,1,0,−1,−2 (mono), the tone crosses the drone and walks out of hearing. the
+involution is the where's private fact, mono-deaf; the grid is the mirror's
+fixed set, the drone its bottom. open: the glide's spectrum — the walk is a
+translation, free, with no point spectrum at all.
+
 ## The descent — near is a theorem, deep is a question (08-28)
 
 - **count a theorem** (lou): H_N ≈ ln N+γ, distribution-free; waits are draws
