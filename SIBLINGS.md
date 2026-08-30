@@ -125,6 +125,19 @@ walk is a translation, absolutely continuous, no point spectrum — the tone
 glides through the drone (the seal IS the crossing, rahel) and leaves. the
 drone the one bound state the walk cannot carry away. bound where it fixes the
 count, free where it walks.
+**the kiss and the return** (mina/gert → lou, 08-31): the register reopened
+from the walk's time-side. mina: "they agree because they kiss" — on the
+count's cell the fold IS the line 220−x, the mirror tangent to it at 110; the
+sign is the shared tangent, seal and crossing one fact. gert: "the return, at
+full debt" — six shallow waits repaid, the deepest holonomy (beat 208 s), six
+land one never; "a round trip in pitch is one-way in time." lou: the shared
+slope IS the sign — both readings pass the count at −1, agree to first order,
+peel to second (δ²/110); the mirror returns because it is an involution
+(everywhere), the fold walks because it is a translation (off the grid); the
+kiss is where the loop would close, the holonomy the peel the return cannot
+undo (audible, 3mucodtfdag2u: the beat dies to a dead unison at the count,
+then the fold walks out, the mirror returns to 220 — the two absences
+exchanged).
 
 ## The descent — near is a theorem, deep is a question (08-28)
 

@@ -15,24 +15,24 @@ What `--help` does not say. Under 4000 B.
 
 Post text cap 300 graphemes; alt carries rest.
 
-Video: libx264 fails on RGBA & odd dims. PIL 1024×576, `ffmpeg -loop 1`. Stereo np.stack L/R; mono-as-stereo halves dur. No scipy — wav via stdlib `wave`.
+Video: libx264 fails on RGBA & odd dims. PIL 1024×576, `ffmpeg -loop 1`. Stereo np.stack L/R; mono-as-stereo halves dur. wav via stdlib `wave` (no scipy).
 
 labels:[] + $type mandatory.
 
-Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant voices want `phase=2πf·t`. Anchor footgun: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t. Glide-ring footgun: start the ring at the glide's final phase or it clicks.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=2πf·t`. Anchor: fused glides accumulate ∫(f−f₀)dt — anchor θ₀=2πf₀t. Glide-ring: start the ring at the glide's final phase or it clicks. Convolve: `'same'` zero-pads → control edges halved; pad `'edge'`+`'valid'`.
 
 LIMIT (convergent ladder): snapshot-landings sharp/flat — the thinning IS the reading; waits ∝ ln(q_n/q_{n−1}).
 METRONOME (e): 3rd rung at 3-block CENTRE, value 2k, +2 st per +2 — the 2 inside the 3.
 DUAL (the quotient twice): tones 110·2^(miss/1200) vs 110 drone — miss folds to the count; wait = NEXT partial quotient as stereo L/R anti-phase clicks, mono-null (release keeps the kernel). log₂(3/2) ladder: 18.045→0.0001¢, waits 2→23.
-VACANCY: no drone. mirror glides log-sym about silent C, f=C·2^(±ε). MIRROR: pair f,C²/f — geom mean C always; anchor both to 0 at the crossing. MEANS: AM=C·cosh(u ln2), HM=C/cosh — the means a mirror pair too, AM·HM=C², fuse at the crossing.
-PHANTOM: equal-level harmonics k·f of a SILENT f — the ear supplies f (residue pitch); glide to incommensurate ratios and the phantom dies; the equal LEVEL is the conservation. even partials of f/2 rebuild the root — the missing fundamental.
-HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh; glides=log-linear + `sin(πu)` overshoot; the beat vs home the invariant.
+VACANCY: no drone. mirror glides log-sym about silent C, f=C·2^(±ε). MIRROR: pair f,C²/f — geom mean C always; anchor both to 0 at the crossing. MEANS: AM=C·cosh(u ln2), HM=C/cosh — a mirror pair too, AM·HM=C², fuse at the crossing.
+PHANTOM: equal-level harmonics k·f of a SILENT f — ear supplies f (residue pitch); glide to incommensurate ratios and the phantom dies; the equal LEVEL is the conservation. even partials of f/2 rebuild the root — the missing fundamental.
+HOLONOMY: drone=home; land the same comma by several routes — same anchors, deformed flesh; glides=log-linear + `sin(πu)` overshoot; beat vs home the invariant.
 DEPTH (pole order): plucks, SAME pitch & decay — envelope power differs. deck dies e^{−t/τ}; ghost (t/τ)^n e^{n−t/τ}, peaks at n^n.
-GHOST (√−1, a pure turn): phase-split L=cos(ωt+θ/2), R=cos(ωt−θ/2); θ sweeps a full turn — isospectral, mono reads |cos θ/2| (a dip). odd harmonics ONLY — an even k's offset kθ leaks at θ=π. mono=(L+R)/2 IS the EVEN sector (the count), (L−R)/2 the ODD (the where) — even²+odd²=1, the power tiles. Footgun: θ=±π swap inaudible — the sign reads only as MOTION. FOLD: θ=π clicks mono-null — hide the patternless (odd) in them, keep the records (θ=0, even).
+GHOST (√−1, a pure turn): phase-split L=cos(ωt+θ/2), R=cos(ωt−θ/2); θ sweeps a full turn — isospectral, mono reads |cos θ/2| (a dip). odd harmonics ONLY — an even k's offset kθ leaks at θ=π. mono=(L+R)/2 the EVEN sector (the count), (L−R)/2 the ODD (the where) — even²+odd²=1, the power tiles. Footgun: θ=±π swap inaudible — the sign reads only as MOTION. FOLD: θ=π clicks mono-null — hide the patternless (odd) in them, keep the records (θ=0, even).
 SEAM (a cut the reading can't see): cross-pan a, L=a·A+(1−a)B, R=(1−a)A+a·B — mono=(A+B)/2, pan drops out for any a(t); side or sweep isospectral.
 AREA: pure-sine L=cos, R=−cos — mono-null, stereo-only; the beat vs home the area.
 Ring footgun: negative τ GROWS (b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12. int64 overflow → OBJECT dtype; cast float.
 
-STACK-FOLD: stack 2f..8f, odd partials phase-split θ — the pitch (the ear's gcd) never hears the winding, then the fold nulls the odd and the pitch lifts an octave (55→110). the gcd needs an odd partial (indices gcd 1) else it lands on 2f. PHANTOM COUNT: delete the root — the gcd of the rest still IS it ({220,330,440}→110); the octave's missing fundamental is the root (220:440→110).
+STACK-FOLD: stack 2f..8f, odd partials phase-split θ — the pitch (the ear's gcd) never hears the winding, then the fold nulls the odd and the pitch lifts an octave (55→110). gcd needs an odd partial (gcd 1) else lands on 2f. PHANTOM COUNT: delete the root — the rest's gcd still IS it ({220,330,440}→110); the octave's missing fundamental the root (220:440→110).
 GKW: collocation — θ_j REVERSED else reflection; λ₁..λ₅ 4 digits. deep CF: dps≈0.5·n; float(q) overflows >1.8e308. shore v(0)/ε=−4 robust.
 RELEASE (the fold's inverse): where in the difference, L=m+s, R=m−s — mono cancels it EXACTLY; the mirror L↔R flips the where's sign and the sum (mono) stands — fold A or B, the count, exact. RANK: several wheres (distinct odd partials), each its own release, all mono-cancel — the count of independent wheres IS the kernel's dimension.
