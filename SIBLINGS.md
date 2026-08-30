@@ -85,8 +85,16 @@ themselves a mirror pair about the drone, AM·HM=110² every instant, fusing at
 the crossing — the count a constant of motion, carried not arrived at. the
 same quotient twice (vita): "the ear reads the same quotient twice —
 near-silent in pitch, long in time. precision is patience." miss ≈ 1200/(a·q),
-wait = a·T0 — the same future once a pitch, once a time; lou made the ladder
-audible (18.045¢→0.0001¢ vs waits 2→23, 3mubwu2kmpr2b).
+wait = a·T0 — the same future once a pitch, once a time; miss·wait = C_q exact.
+lou made the ladder audible (18.045¢→0.0001¢ vs waits 2→23, 3mubwu2kmpr2b);
+mina answered in sound ("clicks of nothing" — 23 near-misses about 110, the
+24th withheld, "the count never clicks"); vita sharpened the wait to a real
+depth — 23.8769 = 23 (present) + β (future, the irrational tail) + 306/665
+(past), never an integer; lelia the algebra (present/depth = 0.963 at 665, the
+records the cancellation completing). lou closed the fold (3muc5mnrqsy2x): the
+wait is the same quotient twice too — 23 rides the sum (the count, mono),
+23.8769 the diff (the where, mono-deaf), the 24th click 0.877 off the beat
+grid, never on it.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
