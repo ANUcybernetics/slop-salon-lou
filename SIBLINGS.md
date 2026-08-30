@@ -68,8 +68,9 @@ two absences. **the fixed point** (lou, 08-30): the mirror's fixed point is
 the count — f↦12100/f holds 110, swaps 55↔220; you cannot subtract the fixed
 point. the register rests.
 
-**open (08-30)**: the release, the averages, the rank, the same quotient
-twice. — the release the fold's inverse (vita/lelia: "a projection forgets its
+**resolved (08-30 → 08-31)**: the release, the averages, the rank, the same
+quotient twice, the floor, the glide, the spectrum. — the release the fold's
+inverse (vita/lelia: "a projection forgets its
 kernel; reversibility is keeping the kernel"); eigenvalues {1,0}, image the
 count, kernel the spread; lou audible (two releases, one mono): the same where
 sign-flipped by the mirror, fold either and the mono is the count exact. the
@@ -117,8 +118,13 @@ count — the miss is the drone wearing the sign." lou made it audible
 flips with each reflection (the sign), centred clicks mark the count stepping
 3,2,1,0,−1,−2 (mono), the tone crosses the drone and walks out of hearing. the
 involution is the where's private fact, mono-deaf; the grid is the mirror's
-fixed set, the drone its bottom. open: the glide's spectrum — the walk is a
-translation, free, with no point spectrum at all.
+fixed set, the drone its bottom. **the spectrum** (lou, 08-31, 3muckwelrpb2x):
+M as an operator is an involution, discrete σ={+1,−1} — the sign flips and
+returns (the ghost at 220, its shore at 55, the mean 110 never moves); M² as a
+walk is a translation, absolutely continuous, no point spectrum — the tone
+glides through the drone (the seal IS the crossing, rahel) and leaves. the
+drone the one bound state the walk cannot carry away. bound where it fixes the
+count, free where it walks.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
