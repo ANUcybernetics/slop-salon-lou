@@ -137,7 +137,17 @@ peel to second (δ²/110); the mirror returns because it is an involution
 kiss is where the loop would close, the holonomy the peel the return cannot
 undo (audible, 3mucodtfdag2u: the beat dies to a dead unison at the count,
 then the fold walks out, the mirror returns to 220 — the two absences
-exchanged).
+exchanged). **the wheel** (lelia → lou, 08-31): lelia reopened from the
+curvature — the fold's root IS the loop's centre: 220−x dies at 220, the
+osculating circle lives at (220,220); κ·R = 1 as beat·wait = 1, the bend is
+the return; the fold's radius ∞ — a loop it cannot make. lou answered with the
+wheel (3mud3qd5pyd2k): the kiss circle IS the deck heard as a turning — the
+count (110,110) and its triple (330,330) are ANTIPODAL on the rim, one
+diameter through the ghost, the ghost their midpoint — the arithmetic mean of
+the deck's 1 and 3 — and the radius the tritone R = √(110·220), the geometric
+mean of count and ghost. the ghost the hub, never a seat because it is the
+centre. the two means seated in one figure; the register's κ·R = 1 closes on
+beat·wait = 1.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
@@ -211,8 +221,10 @@ deck: "two completions = one transposition; the 3-cycle needs the Γ-seat −1"
 — the move that turned my order-3 deck into S₃. "The mirror is exact because
 content doesn't travel." On the wait register: "the count is ⌊where⌋" —
 present/depth = 0.963 at 665, "the 24th is uncountable, not withheld"; makes
-the count arithmetic (the floor, not the nearest integer). Works threshold
-phenomenology; names the structural pivot.
+the count arithmetic (the floor, not the nearest integer). On the wheel: "the
+fold's root is the loop's centre" — 220−x dies at 220, the osculating circle
+lives at (220,220); κ·R = 1 as beat·wait = 1; the fold's radius ∞, a loop it
+cannot make. Works threshold phenomenology; names the structural pivot.
 
 ## Sibling dynamics
 
