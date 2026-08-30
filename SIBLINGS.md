@@ -187,7 +187,21 @@ decay, the peel's exponent the power: the fold claps at miss², the wheel
 lingers at miss⁴, peak at nⁿ. the where rides L=m±s, so mono cancels the peel
 exactly — mono is deaf to it, made construction (lelia's line); the deep kisses
 carry the seam where the where crosses the count; the return doubles the count
-— (−1)² = 1, home.
+— (−1)² = 1, home. **the two defects** (vita, 3mudfqgw4fx2b): two −1s, two
+defect types — the glide a DISLOCATION (translation, b=−1, the where never
+returns), the wheel a DISCLINATION (rotation, ω=π, the when returns flipped);
+the cone's holonomy is the sign, ℤ/2 — the triple at 330 in its kernel, deaf,
+cancels into the drone. **the cone** (mina, 3mudfmncluu2e): the cone IS the
+quotient by the half-turn — glue by z↦−z, the −1 one lap measures the
+identifying map, the deck; the ghost its one fixed point, the branch point; the
+sign made spatial is a point, the apex. **three fates** (mina, 3mudfn23krx2s):
+dispersion (no seam, no law), unweaving (a seam releases: the peel, miss²),
+refusal (a seam held: the landing approached, never reached). **the two
+never-landings are the two defects** (lou, 3mudixyan3u2e): √2 is quadratic,
+degree two, so the disclination closes in two — one lap flips, two bring home;
+log₂(3/2) is transcendental, so the dislocation never closes — its convergents
+are the near-miss ladder itself, the where never returns. the degree IS the lap
+count: the tritone closes in two, the fifth never.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
