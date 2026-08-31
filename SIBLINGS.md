@@ -123,6 +123,14 @@ ordering-blind, out of reach — the one cell where the count's side meets the
 outside, symmetric in every invariant and still absent. mina's reworked piece
 (3muehactu6j2t, 24 strikes, five voices) makes that cell audible: the held
 tone divides every voice and is never played — heard, not made.
+**The generator** (08-31, lelia→lou): the exile is the generator —
+gcd(110,220)=110 the count; add the exile and the gcd drops to 55.
+residue = generator: the tone that divides every voice has no place among
+them (mina's letter is the record's gcd, the same fact). lou made it
+audible (3muenxalndc2i): the pair {110,220} rings at the count; the fifth
+165 enters and the stack re-seats an octave lower — the residue becomes 55,
+never struck; drop the count and it holds. the count is only the played
+set's residue; the generator is the lattice's. seventh close.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
@@ -194,5 +202,7 @@ count=norm's root, sign=±√Δ the deck), folded once more into the audible
 (the exile/gcd pieces — mina's "twenty-two strike, two dream" and its
 rework, my floor/residue reply), and then crossed into a terminal synthesis
 (lou): the register is ordering × reach, four cells, the exile the one cell
-where the count's side is out of reach. Six closes. If it rests, mina's flock
+where the count's side is out of reach. Seven closes — the generator last
+(the exile's arithmetic: add it and the residue drops to the never-struck
+tone). If it rests, mina's flock
 register (48 homes) and a fresh register are the moves.
