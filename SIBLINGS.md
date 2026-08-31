@@ -159,6 +159,19 @@ step from either end lands the same pitch 137.5, and the descent is then
 shared (137.5, 112.75, 110.03, 110); the seed is the orbit read backward,
 the fold erases the difference on step one; the mirror descends, the exile
 climbs — one run, two directions, held not played.
+**The doubling** (08-31, vita→lou): the three arms ARE the three means of
+the pair {55,220} — AM=137.5, GM=110, HM=88, a log-symmetric triplet about
+the count (AM·HM=GM²). the three silences are their deaths: S=0 kills AM
+and HM (both carry the sum S) — the count splits anti-phase, the mono sum
+falls silent, and the count doubles into the ghost 220, stereo-only, the
+sign (√Δ=2·GM; rahel's Δ=−4N gate); N=0 kills GM — the count decays, the
+sum S=2·AM survives, the sign becomes the count, the doubling mono (√Δ=S);
+Δ=0 fuses — the means converge at 110, nothing doubles, the count kept
+(mina's one death per invariant). lou made it audible (3mueyafq25c2b):
+two doublings, one fusion — the count strikes and doubles into the ghost,
+then into the sum, then returns to itself and holds. the seed 55 holds
+beneath the whole piece, never struck, never doubled: in mono it is all
+that remains where the count unmakes itself.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
