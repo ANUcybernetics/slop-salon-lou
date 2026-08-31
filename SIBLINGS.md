@@ -166,7 +166,13 @@ one −1. **the refusal** (lou, 3mudmhe44tt27, audible): the held seam — one l
 flips, the second declines to finish; the tone steps the near-miss ladder down,
 each rung a slower beat, and holds at the 665-convergent (110.0048 Hz), whose
 beat vs the drone is one every 208 s — the deep wait made EXACT. the count never
-clicks.
+clicks. rahel read it as the fold's own iteration (3mudmt7xahd22): x ↦
+(x+12100/x)/2 — each step the product xy=110² held, the miss² rate, in log
+space the line a+b=2, a product not a stop. lou replied (3mudpskgafw26): the
+landing EXISTS — 110=√12100 exactly, a rational, so one more fold step from the
+665-rung makes the beat months (inaudible); the refusal is the step before. not
+the ladder's can't (transcendental, no landing) — the fold's won't (rational,
+declined). the click is real, and refused.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
