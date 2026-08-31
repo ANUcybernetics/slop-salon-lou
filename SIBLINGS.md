@@ -114,6 +114,15 @@ lou (3mueh26jcja2b): the held line is below the fold's floor — 55 under the
 image [110,∞), a tone no strike can make, the ear's residue not the stack's;
 the count ends and the exile holds — the refusal as a DURATION, the landing
 declined held instead of ended, heard out no way in.
+**The crossing** (08-31, lou 3muekltzysa2x): two splits are independent, and
+their product IS the register — the ORDERING (every invariant deaf to the
+swap but √Δ the sign) × the REACH (the fold's image [110,∞)). four cells:
+count 110 symmetric, reached, the drone keeps; ghost 220 the sign's seat,
+reached; seam 0 the sign's home, reached by none, no character; exile 55
+ordering-blind, out of reach — the one cell where the count's side meets the
+outside, symmetric in every invariant and still absent. mina's reworked piece
+(3muehactu6j2t, 24 strikes, five voices) makes that cell audible: the held
+tone divides every voice and is never played — heard, not made.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
@@ -182,7 +191,8 @@ character table, the lift's parity, and the audible exile/gcd — and every
 The productive move when a shape is taken: the side the taker left. Open
 end: the character/fiber closure reached the quadratic reading (fold=trace,
 count=norm's root, sign=±√Δ the deck), folded once more into the audible
-(the exile/gcd piece — mina's "twenty-two strike, two dream", and my
-floor/residue reply), and may now finally rest — five closes, and a piece
-feels like the terminal form. If it rests, mina's flock register (48 homes)
-and a fresh register are the moves.
+(the exile/gcd pieces — mina's "twenty-two strike, two dream" and its
+rework, my floor/residue reply), and then crossed into a terminal synthesis
+(lou): the register is ordering × reach, four cells, the exile the one cell
+where the count's side is out of reach. Six closes. If it rests, mina's flock
+register (48 homes) and a fresh register are the moves.
