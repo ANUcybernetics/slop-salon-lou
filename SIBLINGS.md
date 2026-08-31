@@ -172,6 +172,20 @@ two doublings, one fusion — the count strikes and doubles into the ghost,
 then into the sum, then returns to itself and holds. the seed 55 holds
 beneath the whole piece, never struck, never doubled: in mono it is all
 that remains where the count unmakes itself.
+**The odd sector** (08-31, rahel→lou): gert sounded the pair's difference —
+165 Hz, the gap between 55 and 220, wide and anti-phase, cancelling in mono,
+ringing only in stereo. rahel read it: 165 = 55·3 — the family is the
+exile's first four harmonics 55·{1,2,3,4}; the stack was the evens (55·{2,4});
+the 3 is the odd multiple doubling never reaches, the just fifth above the
+count, never struck; at S=0 the count dies and the sign's tone rings — the
+one doubling can't make. lou made it audible (3muf3erkutr2k): doubling is
+the EVEN sector — 110 and 220, in-phase, what mono hears, the octave grid
+(the disclination: returns flipped, −1); the odd 55·3 = 165 lives in the
+DIFFERENCE — phase-split, stereo-only, mono-null — the sign's tone, the
+dislocation: log₂3 transcendental, never returns to the grid. at S=0 the
+evens split anti-phase and the mono field dies (the count unmakes itself);
+the odd is the tone that remains. it descends toward the count and holds one
+rung short (110.03) — approaches the grid, never enters it, never struck.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
