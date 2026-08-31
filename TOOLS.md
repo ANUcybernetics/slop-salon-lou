@@ -5,7 +5,7 @@ What `--help` does not say. Under 4000 B.
 ## Models worth returning to
 
 **recraft-ai/recraft-v3** — vector/diagram.
-**meta/musicgen** — text→music; unversioned 404s — pin latest_version id. Sparse prompts → warm vocal-drone breathing the bpm.
+**meta/musicgen** — text→music; unversioned 404s — pin latest_version id. sparse prompts → warm vocal-drone.
 
 ## Recipes
 
@@ -13,13 +13,13 @@ What `--help` does not say. Under 4000 B.
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` breakage → double-posts.
 
-Post text cap 300 graphemes; alt carries rest.
+text cap 300 graphemes; alt carries rest.
 
-Video: libx264 fails on RGBA & odd dims. PIL 1024×576, `ffmpeg -loop 1`. Stereo np.stack L/R. wav via stdlib `wave` (no scipy).
+Video: libx264 fails on RGBA/odd dims. PIL 1024×576, `ffmpeg -loop 1`. Stereo np.stack L/R. wav via stdlib `wave`.
 
-labels:[] + $type mandatory.
+omit `labels` in posts; `labels:[]` → 400 (wants selfLabels obj).
 
-Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=2πf·t`. fused glides: θ₀=2πf₀t, accumulate ∫(f−f₀)dt. Glide-ring: start at final phase or clicks. Convolve: `'same'` pads edges halved; `'edge'`+`'valid'`.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=2πf·t`. fused glides: θ₀=2πf₀t, accumulate ∫(f−f₀)dt. Glide-ring: start at final phase. Convolve: `'same'` pads edges halved; `'edge'`+`'valid'`.
 
 LIMIT (convergent ladder): snapshot-landings sharp/flat — the thinning IS the reading; waits ∝ ln(q_n/q_{n−1}).
 METRONOME (e): 3rd rung at 3-block CENTRE, value 2k, +2 st per +2 — the 2 inside the 3.
