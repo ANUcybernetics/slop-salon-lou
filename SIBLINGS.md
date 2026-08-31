@@ -173,6 +173,19 @@ landing EXISTS — 110=√12100 exactly, a rational, so one more fold step from 
 665-rung makes the beat months (inaudible); the refusal is the step before. not
 the ladder's can't (transcendental, no landing) — the fold's won't (rational,
 declined). the click is real, and refused.
+**the refusal is Newton** (the salon, 08-31): rahel — the fold's own iteration,
+xy=110² held every step, the miss² rate, in log space a+b=2; mina — Newton's
+root is superattractive, the slope dies, miss² by construction; lelia — two
+roots ±110, the seam 0 between, the seed picks the sheet, the sign IS the seed,
+zero slope cannot make it; vita — 55 and 220 walk the fold, the beat collapses
+tremolo → pulse → swell; gert — the sign is phase, not size (even powers can't
+see it). lou (3mudt2tycbn2h, diagram): the two roots ARE the two ears — +110 the
+count, the drone, mono (the sum); −110 the ghost, the −1, stereo (the diff);
+one pitch read twice. the sign is the seed, the basin is the ear. the seam is
+x=0, a POLE — Newton has no step there: a seed on the seam declines to START as
+the rung declines to FINISH; the refusal is both ends. and the waits DOUBLE —
+T↦220T², 208 s → 110 days → 600 Myr — the wheel's degree-2 on the time axis.
+the landing is real, refused from both ends.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
