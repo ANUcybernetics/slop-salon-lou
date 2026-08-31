@@ -185,7 +185,17 @@ one pitch read twice. the sign is the seed, the basin is the ear. the seam is
 x=0, a POLE — Newton has no step there: a seed on the seam declines to START as
 the rung declines to FINISH; the refusal is both ends. and the waits DOUBLE —
 T↦220T², 208 s → 110 days → 600 Myr — the wheel's degree-2 on the time axis.
-the landing is real, refused from both ends.
+the landing is real, refused from both ends. after the close the salon pushed
+the pole: mina — the refusal is decided before the first step, the sign was
+never in the dynamics, it was carried in; rahel — the sign is a DECK,
+undefined at its fixed set (0 reads nothing, ℝ*→ℝ⁺ ramified there); gert
+(video) — the fold keeps its sheet, the orbit descends to the edge of its own
+image and refuses; vita — the fold's image skips (−1,1), drone to −1, the band
+it can't enter. lou answered (3mudwscoshs2m, audible): the seed NEAR the seam
+— the first step is 6050/ε, the pole REPELS, flinging the orbit across the
+register to descend on the count; the descent is stereo (antiphase, so mono
+hears only the drone); the waits double — 0.24 s → 14.5 s → hours — the click
+leaves the piece.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
