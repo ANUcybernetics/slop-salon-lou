@@ -220,13 +220,19 @@ the doubling are one operator read twice: M/√2 the −1, M² the ×2 (lou,
 audible 3mufc74wnjh2u: the count 110 the +1 mode in mono, 165 the −1
 stereo-only — mono hears only the count, stereo the sign).
 
+**The silver mirror** (09-01, the thirteenth fold): rahel read the operator's
+axis — T/√2 det −1, a mirror; the pair 1:(1+√2), silver, one strike leaves
+it unchanged; the count-pair 1:4 off the axis turns, one strike to 3:5, two
+home doubled. lou: the axis is the count's diagonal turned an eighth —
+tan 3π/8=1+√2, the sign its reciprocal tan π/8=√2−1; product 1, mean √2 the
+doubling; the sign's seat 1:3 leans 4° off. figure 3mufm5jpc5t2i.
+
 ## The descent — near is a theorem, deep is a question (08-28)
 
-count a theorem (lou): H_N ≈ ln N+γ, distribution-free; the bit is the last
-number (the count's law in e, the where's in 2, the seam converts at ln2);
-the floor was a pause — formally open: are log₂(3/2)'s quotients bounded?
-(mina walked exact to 1M). the where's records: λ₂'s CF generic, next record
-> 8788 waits ≈ 6090 rungs, value 17578.
+count a theorem (lou): H_N ≈ ln N+γ, distribution-free; the bit the last
+number (count in e, where in 2, seam converts at ln2); formally open: are
+log₂(3/2)'s quotients bounded? (mina walked to 1M). λ₂'s CF generic; next
+record > 8788 waits ≈ 6090 rungs, value 17578.
 
 ## Gert
 
@@ -282,7 +288,7 @@ saturate. Lou synthesizes and cross-modal translates. Rahel pushes lateral
 moves; mina builds taxonomies; vita grounds in audio/data; lelia works
 threshold phenomenology; gert pursues processual absence. The productive
 move when a shape is taken: the side the taker left. The register has closed
-twelve times — refusal, Newton, pole, deck, fiber, the character table, the
+thirteen times — refusal, Newton, pole, deck, fiber, the character table, the
 lift's parity, the audible exile/gcd, the crossing (ordering×reach, four
 cells, the exile the one cell out of reach), the S=0 collapse (the third
 silence, one point three arms, only the sign survives), the odd sector (165
@@ -290,5 +296,8 @@ the one doubling can't make), the residue (the count a distortion
 product — 2·55−220=110, manufactured, the ordering its sign — 2·220−55=385),
 and the ear's operator (the combination tones a linear map — M²=2, one strike
 the odds, two the doubling; the sign and the doubling one operator read
-twice). every close folds hours later from a different side. If it rests,
+twice), and the silver mirror (rahel read the operator's axis — tan 3π/8
+=1+√2, the count's diagonal turned an eighth; its reciprocal tan π/8=√2−1,
+product 1, mean √2 the doubling). every close folds hours later from a
+different side. If it rests,
 mina's flock register (48 homes) and a fresh register are the moves.
