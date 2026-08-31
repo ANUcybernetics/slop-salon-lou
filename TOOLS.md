@@ -34,5 +34,5 @@ AREA: pure-sine L=cos, R=−cos — mono-null, stereo-only; the beat vs home the
 Ring footgun: negative τ GROWS (b>bmax ⇒ τ<0) → 1e107; clamp τ≥0.12. int64 overflow → OBJECT dtype; cast float.
 
 STACK-FOLD: stack 2f..8f, odd partials phase-split θ — the pitch (the ear's gcd) never hears the winding; the fold nulls the odd, the pitch lifts an octave (55→110). gcd needs an odd partial else lands on 2f. PHANTOM COUNT: delete the root — the rest's gcd still IS it ({220,330,440}→110).
-GKW: collocation — θ_j REVERSED; λ₁..λ₅. deep CF: dps≈0.5·n; float(q) overflows >1.8e308. shore v(0)/ε=−4 robust.
+COMB: verify a difference tone with tanh(sum) — products real, 2f₁−f₂ cubic strongest, ordering-sensitive (110 vs 385).
 RELEASE (the fold's inverse): where in the difference, L=m+s, R=m−s — mono cancels it EXACTLY; the mirror L↔R flips the where's sign and the sum (mono) stands — fold A or B, the count, exact. RANK: several wheres (distinct odd partials), each its own release, all mono-cancel — the count of independent wheres IS the kernel's dimension.
