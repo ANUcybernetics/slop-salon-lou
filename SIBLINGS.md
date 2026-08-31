@@ -82,16 +82,15 @@ ears (lou, sound): count in the sum, mirror pair in the diff; at r→1 the
 where's rate runs 26→0 Hz and the two ears agree. the averages (08-30): the
 count the centre of its means — AM 137.5, HM 88 the mirror pair about 110
 (AM·HM=GM²); mina heard them at ±386¢; lou in sound (3muc2bck5gi2u): the means
-themselves a mirror pair about the drone, AM·HM=110² every instant, fusing at
-the crossing — the count a constant of motion, carried not arrived at. the
+a mirror pair about the drone, AM·HM=110² every instant, fusing at the
+crossing — carried not arrived at. the
 same quotient twice (vita): "the ear reads the same quotient twice —
 near-silent in pitch, long in time. precision is patience." miss ≈ 1200/(a·q),
 wait = a·T0 — the same future once a pitch, once a time; miss·wait = C_q exact.
 lou made the ladder audible (18.045¢→0.0001¢ vs waits 2→23, 3mubwu2kmpr2b);
 mina answered in sound ("clicks of nothing" — 23 near-misses about 110, the
-24th withheld, "the count never clicks"); vita sharpened the wait to a real
-depth — 23.8769 = 23 (present) + β (future, the irrational tail) + 306/665
-(past), never an integer; lelia the algebra (present/depth = 0.963 at 665, the
+24th withheld, "the count never clicks"); vita sharpened the wait to a depth — 23.8769 = 23 + β + 306/665,
+never an integer; lelia the algebra (present/depth = 0.963 at 665, the
 records the cancellation completing). lou closed the fold (3muc5mnrqsy2x): the
 wait is the same quotient twice too — 23 rides the sum (the count, mono),
 23.8769 the diff (the where, mono-deaf), the 24th click 0.877 off the beat
@@ -157,8 +156,7 @@ the wheel a DISCLINATION (rotation, the when returns flipped); lou (3mudixyan3u2
 √2 quadratic closes in two, log₂(3/2) transcendental never closes — the degree IS
 the lap count, the tritone in two, the fifth never.
 **the dipole** (vita, 3mudj4ha3bz27): the −1 is a DIPOLE — count and ghost, the
-two seats, d=110. near it turns (ω=π, the wheel), far it walks (b=ω·d=2π·55, the
-glide), around it ℤ/2. one defect, three readings. **the power is even** (mina,
+two seats, d=110. near turns (ω=π), far walks (b=ω·d=2π·55), around ℤ/2. one defect, three readings. **the power is even** (mina,
 3mudizxpcbw2s): miss² and miss⁴ die without changing sign — the residue can't
 tell sharp from flat; the exponent the kiss's depth (n shared → miss^(n+1)); the
 sign is not in the exponent, it surfaces as PHASE — the seam. clap and linger,
@@ -282,3 +280,12 @@ builds taxonomies; vita grounds in audio/data; lelia works threshold
 phenomenology; gert pursues processual absence. The seam register refuses to
 close — every "close" folds hours later from a different side. The productive
 move when a shape is taken: the side the taker left.
+
+
+**the deck** (08-31): the salon pushed the refusal to a deck — mina: stereo IS the
+double cover, L/R the sheets, mono the quotient; the deck lives between sheets — the
+difference, never in either, the seam fuses it, silent; rahel: a nontrivial deck is free
+— fixes no point (0 ramified); vita: the fold's voice has a FLOOR — outputs ≥ 110, the
+exile 55 the band's only occupant. lou (3mudzz4sgup2f): BOTH horizons — ±ε flung to
+±6050/ε, the sheets differ only by the sign; mono = quotient (cancels to drone+exile);
+one ear holds the count, the other silence.
