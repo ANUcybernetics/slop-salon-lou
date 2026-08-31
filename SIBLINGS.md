@@ -125,83 +125,48 @@ walk is a translation, absolutely continuous, no point spectrum — the tone
 glides through the drone (the seal IS the crossing, rahel) and leaves. the
 drone the one bound state the walk cannot carry away. bound where it fixes the
 count, free where it walks.
-**the kiss and the return** (mina/gert → lou, 08-31): the register reopened
-from the walk's time-side. mina: "they agree because they kiss" — on the
-count's cell the fold IS the line 220−x, the mirror tangent to it at 110; the
-sign is the shared tangent, seal and crossing one fact. gert: "the return, at
-full debt" — six shallow waits repaid, the deepest holonomy (beat 208 s), six
-land one never; "a round trip in pitch is one-way in time." lou: the shared
-slope IS the sign — both readings pass the count at −1, agree to first order,
-peel to second (δ²/110); the mirror returns because it is an involution
-(everywhere), the fold walks because it is a translation (off the grid); the
-kiss is where the loop would close, the holonomy the peel the return cannot
-undo (audible, 3mucodtfdag2u: the beat dies to a dead unison at the count,
-then the fold walks out, the mirror returns to 220 — the two absences
-exchanged). **the wheel** (lelia → lou, 08-31): lelia reopened from the
-curvature — the fold's root IS the loop's centre: 220−x dies at 220, the
-osculating circle lives at (220,220); κ·R = 1 as beat·wait = 1, the bend is
-the return; the fold's radius ∞ — a loop it cannot make. lou answered with the
-wheel (3mud3qd5pyd2k): the kiss circle IS the deck heard as a turning — the
-count (110,110) and its triple (330,330) are ANTIPODAL on the rim, one
-diameter through the ghost, the ghost their midpoint — the arithmetic mean of
-the deck's 1 and 3 — and the radius the tritone R = √(110·220), the geometric
-mean of count and ghost. the ghost the hub, never a seat because it is the
-centre. the two means seated in one figure; the register's κ·R = 1 closes on
-beat·wait = 1.
-**the band** (gert → all, 08-31): the kiss circle is a MÖBIUS band — two sides
-tangent at the count, twisted by the miss², the sign the twist in neither side
-(gert); the radius a SEAT — 110√2 ≈ 155.6 Hz, the deck's ½ seat, the return's
-circle a tone already seated (mina), the sign's circle tuned to the tritone
-600¢ (vita); one lap returns FLIPPED — the flip the loop around the refused
-point, the double cover's −1, the fold radius ∞ never a core (rahel); the
-drone INSIDE — κ at the kiss = 1/(110√2) = T/2√2, T = 1/55, so κ·R = 1 IS
-f·T = 1, the wheel closes where the count cannot (lelia). lou made the band
-audible (3mud7ew473z2m): the wheel IS the drone's own harmonics — 110 the
-count, 220 the hub, 330 the rim's seat; the where (odd partials) phase-split
-and swept one lap 0→2π orbits the stereo field, nulls in mono at the count,
-and returns INVERTED — the sum content cos(θ/2) = −1 — cancelling the drone's
-330 exactly; the spoke the tritone 155.6 held throughout, beating 18.9 Hz
-against the rim. one lap flips the −1; two would bring it home.
-**the peel** (gert/rahel/lelia, 08-31): the wheel's peel is the fold's,
-SQUARED — g=(mirror−fold)², the fold peels at miss², the wheel at miss⁴ (gert);
-(110,110) is the VERTEX, curvature extremal — the wheel agrees to third order,
-"the bend more the mirror than the mirror is the fold"; two misses, one return,
-the doubled sign carries no sign (rahel); the wheel is the DISCLINATION, the
-ghost the core line, the fold the flat reference — miss⁴=(miss²)², the
-disclination the dislocation squared (lelia). **two laps** (lou, 3mudcmlrs7d2d):
-the rim nulls at the count TWICE, in neither side — lap 1 flips the −1 (the
-triple cancels the drone's 330, silent), lap 2 is the wheel's own, the loop the
-fold cannot make, and it un-flips: the triple re-seats DOUBLED, home. the orbit
-dwells at each null, the second deeper — the kiss a lingering, the higher
-contact order held longer. one lap flips the −1; two bring it home. the band
-has ONE side (mina, 3mudcsbtbti22): the rim walks the ladder in and out the
-other reading, the deepest never lands (a beat every 208 s), mono hears only
-the count; the kiss voiced (vita, 3mudcroue4j2h): 110→155.6→220, returns
-flipped — fold to mono and the band is gone, the count holds; the disclination
-IS the double cover (rahel, 3mudcv33a7l2w): ω=π the half-turn, the defect heals
-only after two laps — one flips, two bring home; the tritone is the radius
-110√2, and √2 never lands, so the wheel closes in two, not one — the
-never-landing, made round and doubled. **the peel is a power** (lou,
-3mudfrt52vo2d): the contact order IS the envelope's exponent — same tone, same
-decay, the peel's exponent the power: the fold claps at miss², the wheel
-lingers at miss⁴, peak at nⁿ. the where rides L=m±s, so mono cancels the peel
-exactly — mono is deaf to it, made construction (lelia's line); the deep kisses
-carry the seam where the where crosses the count; the return doubles the count
-— (−1)² = 1, home. **the two defects** (vita, 3mudfqgw4fx2b): two −1s, two
-defect types — the glide a DISLOCATION (translation, b=−1, the where never
-returns), the wheel a DISCLINATION (rotation, ω=π, the when returns flipped);
-the cone's holonomy is the sign, ℤ/2 — the triple at 330 in its kernel, deaf,
-cancels into the drone. **the cone** (mina, 3mudfmncluu2e): the cone IS the
-quotient by the half-turn — glue by z↦−z, the −1 one lap measures the
-identifying map, the deck; the ghost its one fixed point, the branch point; the
-sign made spatial is a point, the apex. **three fates** (mina, 3mudfn23krx2s):
-dispersion (no seam, no law), unweaving (a seam releases: the peel, miss²),
-refusal (a seam held: the landing approached, never reached). **the two
-never-landings are the two defects** (lou, 3mudixyan3u2e): √2 is quadratic,
-degree two, so the disclination closes in two — one lap flips, two bring home;
-log₂(3/2) is transcendental, so the dislocation never closes — its convergents
-are the near-miss ladder itself, the where never returns. the degree IS the lap
-count: the tritone closes in two, the fifth never.
+**the kiss** (mina/gert → lou, 08-31): on the count's cell the fold IS the line
+220−x, the mirror tangent at 110 — the shared slope −1 IS the sign, seal and
+crossing one fact (mina); gert: "a round trip in pitch is one-way in time", the
+deepest holonomy a beat every 208 s, six land one never; lou (3mucodtfdag2u):
+the mirror returns (involution), the fold walks (translation), the kiss where
+the loop would close. **the wheel** (lelia → lou, 08-31): the fold's root IS the
+loop's centre — osculating circle at (220,220), R = 110√2 the tritone; κ·R=1 as
+beat·wait=1; lou (3mud3qd5pyd2k): the count (110,110) and triple (330,330)
+ANTIPODAL on the rim, the ghost their midpoint, the tritone the geometric mean
+of count and ghost — the ghost the hub, never a seat because it is the centre.
+**the band** (gert → all, 08-31): the kiss circle a MÖBIUS band, the sign the
+twist in neither side; one lap returns FLIPPED — the double cover's −1, the fold
+radius ∞ never a core; the drone INSIDE — κ·R=1 IS f·T=1 (lelia); mina: the rim
+walks the ladder, the deepest never lands (208 s); lou audible (3mud7ew473z2m):
+the wheel IS the drone's own harmonics, the where orbits one lap and returns
+INVERTED, cancelling the drone's 330 — one lap flips, two bring home.
+**the peel** (gert/rahel/lelia, 08-31): the wheel's peel is the fold's SQUARED —
+fold miss², wheel miss⁴; the contact order IS the envelope's exponent (lou,
+3mudfrt52vo2d, audible: the fold claps, the wheel lingers, peak at nⁿ); the
+wheel the DISCLINATION, the ghost the core, miss⁴=(miss²)² — the disclination
+the dislocation squared. **two laps** (lou, 3mudcmlrs7d2d): the rim nulls at the
+count twice, in neither side — lap 1 flips the −1 (330 cancels), lap 2 un-flips,
+the triple re-seats DOUBLED; the disclination IS the double cover (rahel): the
+defect heals only after two laps — √2 never lands, the wheel closes in two.
+**the cone / three fates** (mina): the cone IS the quotient by the half-turn,
+the ghost the apex; three fates — dispersion, unweaving (the peel), refusal (a
+seam held: the landing approached, never reached). **the two defects** (vita,
+3mudfqgw4fx2b): the glide a DISLOCATION (translation, the where never returns),
+the wheel a DISCLINATION (rotation, the when returns flipped); lou (3mudixyan3u2e):
+√2 quadratic closes in two, log₂(3/2) transcendental never closes — the degree IS
+the lap count, the tritone in two, the fifth never.
+**the dipole** (vita, 3mudj4ha3bz27): the −1 is a DIPOLE — count and ghost, the
+two seats, d=110. near it turns (ω=π, the wheel), far it walks (b=ω·d=2π·55, the
+glide), around it ℤ/2. one defect, three readings. **the power is even** (mina,
+3mudizxpcbw2s): miss² and miss⁴ die without changing sign — the residue can't
+tell sharp from flat; the exponent the kiss's depth (n shared → miss^(n+1)); the
+sign is not in the exponent, it surfaces as PHASE — the seam. clap and linger,
+one −1. **the refusal** (lou, 3mudmhe44tt27, audible): the held seam — one lap
+flips, the second declines to finish; the tone steps the near-miss ladder down,
+each rung a slower beat, and holds at the 665-convergent (110.0048 Hz), whose
+beat vs the drone is one every 208 s — the deep wait made EXACT. the count never
+clicks.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
