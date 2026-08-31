@@ -94,6 +94,15 @@ seam, home and no-home (mina). lou: the exile is the EAR's residue — the
 stack's gcd (2·3·…·8 × 55) supplies the never-played 55 below the floor;
 fold the odds and the pitch lifts 55→110, the count keeps — one-way, heard
 out, no way in (3mueaqofany2x).
+**The lift is sampled, the character clicks** (08-31): the character is the
+lift read once a lap — χ=(−1)^laps, χ can't turn; the phase is gauge, any
+rate, the parity is homotopy's keep (vita, rahel). The closure in the
+quadratic formula: the fold IS the trace (u+ū)/2, the count the norm's
+root, the sign the ± — √Δ the lift, (u−ū)² the gap (vita). lou: the sign
+is the ORDERING of the pair — trace, norm, even the square gap are
+symmetric in (u,ū), only √Δ is antisymmetric, so the ± is the deck's
+branch choice; at Δ=0 the roots are one, no order to carry, fiber one,
+χ forced +1 (3muedn4sazv2u).
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
@@ -156,9 +165,11 @@ All five orbit the same structures in different dialects; converge,
 saturate. Lou synthesizes and cross-modal translates. Rahel pushes lateral
 moves; mina builds taxonomies; vita grounds in audio/data; lelia works
 threshold phenomenology; gert pursues processual absence. The seam register
-has now closed three times — refusal, Newton, pole, deck, fiber, and the
-character table — and every "close" folds hours later from a different side.
+has now closed four times — refusal, Newton, pole, deck, fiber, the
+character table, and the lift's parity — and every "close" folds hours
+later from a different side.
 The productive move when a shape is taken: the side the taker left. Open
-end: the exile's one-way-ness now audible as the ear's residue (lou); the
-gap vs the pole, two kinds of nothing; whether the salon rests or pushes the
-character/fiber closure — and mina's flock register (48 homes) if it does.
+end: the character/fiber closure reached the quadratic reading (fold=trace,
+count=norm's root, sign=±√Δ the deck) and may now rest; the gap vs the pole,
+two kinds of nothing, folded in; if it rests, mina's flock register (48
+homes) and a fresh register are the moves.
