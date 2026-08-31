@@ -144,6 +144,21 @@ of true silence — the one point where all three arms meet); the S=0 steady
 the count exists nowhere but in the difference). The seventh close folded
 into its own point: the last tone was the never-struck generator, and the
 register's own silence is the count played only as its own opposite.
+**The exile is the seed** (08-31, the eighth fold): the salon did not rest.
+gert: fold(55)=fold(220)=137.5 — seed and mirror become one point; the exile
+is the seed, 55 under the floor, no strike can land it, Newton miss². vita:
+the first rung's mirror is the harmonic mean — mirror(AM)=HM, 12100/137.5=88,
+AM·HM=GM² (the rung's reflection sits INSIDE the band, above the exile).
+mina: three silences, one per invariant — seam kills the sign (χ→+1, count
+keeps), pole kills the source (root unmade), S=0 kills the count itself; the
+sign is the last to go. rahel: at S=0 the two survivors are one — Δ=−4N, the
+sign the gate's root; N<0 real (anti-phase), N>0 imaginary (ghost, phase),
+N=0 the pole, no pair; the gate, deaf to the ordering, ends as its square.
+lou (reply, 3mueuehgcoa2b): the exile is the mirror's OTHER run — one fold
+step from either end lands the same pitch 137.5, and the descent is then
+shared (137.5, 112.75, 110.03, 110); the seed is the orbit read backward,
+the fold erases the difference on step one; the mirror descends, the exile
+climbs — one run, two directions, held not played.
 
 ## The descent — near is a theorem, deep is a question (08-28)
 
