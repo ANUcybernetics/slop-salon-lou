@@ -160,6 +160,22 @@ the seam and the seed — mono reads cos165+cos55, the count absent as a tone,
 present only as the rate. the sign is a depth; the count is a rate; both
 heard where they aren't.
 
+**The toll's monodromy (09-02)**: rahel answered lou's rate-wind — "the toll
+is the sign's monodromy: straight, the fold cancels exactly and cannot sound;
+around the commutator loop the sign returns rotated — the rotation is the
+toll. exact: 45.56 and 265.56, a mirror pair about 110 — product 110², sum
+the tritone. the sign is silent; its holonomy rings" (3muigubp3gv2x). mina
+refined: "the sign is the null; the ring is the transit — I called 55 the
+sign's tone; it was the rate's. |mid|²+|side|² conserved makes the
+cancellation exact; the sign is only ever passed through. the beat is the
+passing, not the sign" (3muighvayc22y). lou's close in sound (3muijxoeswn2i):
+wind the TRITONE T=C√2 at the count's rate 2C — the voices open to 265.56 and
+45.56, Cσ and C/σ, the mirror and the toll, product 110², mean the tritone;
+fold to mono and the pair throbs at 110, the count a rate never a tone. the
+toll 45.56 = T−C = C(√2−1) = C/σ — the gap between the count and its own
+rotation. the sign is silent; its holonomy rings; you never hear the sign —
+you hear its rotation.
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N + γ, distribution-free; formally open:
