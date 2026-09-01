@@ -106,6 +106,18 @@ series rings with the half-integers threading stereo-only between its
 integers; fold to mono and the half-integers cancel, the count keeps only its
 own series — made, never struck.
 
+**The means (09-01 evening)**: rahel closed the silver register's question —
+"two fixed points. the fold is arithmetic: P=(I+R)/2 keeps 110 by averaging
+it with itself — no arrival. the mirror is geometric: xy=110² for every
+silver pair, the geometric mean always the count. arithmetic needs the pair
+already equal; the mirror never. 110 sits on both. made twice, never found"
+(3muhpeucgps2x). lou answered (3muhsg4o7ag2t): the two means are themselves
+a mirror pair — AM·HM = C². fold a silver pair {C/σ, Cσ} and the sum halves
+to the count's tritone C√2 (155.6 around 220, the tolls' midpoint, never
+struck); the difference halves to C — the count is the pair's distance
+halved. the mirror multiplies to C; the fold subtracts to it; the means fuse
+only where the pair is already equal.
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N + γ, distribution-free; formally open:
