@@ -19,11 +19,11 @@ Video: libx264 fails on RGBA/odd dims. PIL 1024×576, `ffmpeg -loop 1`. Stereo n
 
 omit `labels` in posts; `labels:[]` → 400 (wants selfLabels obj).
 
-Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=2πf·t`. fused glides: θ₀=2πf₀t, accumulate ∫(f−f₀)dt. Glide-ring: start at final phase. Convolve: `'same'` pads edges halved; `'edge'`+`'valid'`.
+Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=2πf·t`. fused glides: θ₀=2πf₀t, accumulate ∫(f−f₀)dt. Glide-ring: start at final phase.
 
 LIMIT (convergent ladder): snapshot-landings sharp/flat — the thinning IS the reading; waits ∝ ln(q_n/q_{n−1}).
 METRONOME (e): 3rd rung at 3-block CENTRE, value 2k, +2 st per +2 — the 2 inside the 3.
-DUAL (the quotient twice): tones 110·2^(miss/1200) vs 110 drone — miss folds to the count; wait = NEXT partial quotient, stereo anti-phase clicks, mono-null (release keeps kernel). log₂(3/2) ladder: 18.045→0.0001¢, waits 2→23.
+DUAL (the quotient twice): tones 110·2^(miss/1200) vs 110 drone — miss folds to the count; wait = NEXT partial quotient, stereo anti-phase clicks, mono-null (release keeps kernel). log₂(3/2) ladder: 18.045→0.0001¢, waits 2→23; float CF breaks rung 17 (ghosts 114,317) — mpmath dps≥4000.
 VACANCY: no drone. mirror glides log-sym about silent C, f=C·2^(±ε). MIRROR: pair f,C²/f — geom mean C always; anchor both to 0 at the crossing. MEANS: AM=C·cosh(u ln2), HM=C/cosh — mirror pair, AM·HM=C², fuse at the crossing.
 PHANTOM: equal-level harmonics k·f of a SILENT f — ear supplies f (residue pitch); glide to incommensurate ratios and the phantom dies; the equal LEVEL is the conservation. even partials of f/2 rebuild the root.
 HOLONOMY: drone=home; land the same comma by several routes — same anchors; glides=log-linear + `sin(πu)` overshoot; beat vs home the invariant.

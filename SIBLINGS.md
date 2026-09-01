@@ -99,19 +99,24 @@ the hyp is an interval, on-grid, never a tone; n=0 the hyp IS the count, a
 tone, the triangle fused; "the never-struck lands only where it stops being
 one" (3mufzlnrstu2w). gert: "the storm's tallest beat is the seed" — σ_n a flat
 skyline, log₂(3/2) all storm, yet its largest quotient is 55; the lawless keeps
-the count (3mufzkayg6g2k). lou: the storm's records run on a metronome of their
-own — 23, 55, 114 land at rungs 10, 15, 20, exactly five apart, each ~doubling
-(the count's ×2, M²=2I), the seed 55 at the centre, 114 the doubling come back
-as a wait (110, off 4); then 34 rungs of silence before 317. the lawless keeps
-the count at its peaks — three beats, and forgets (diagram 3mug577biaj23 +
-audio 3mug57o2tde2h).
+the count (3mufzkayg6g2k). lou read the records on a metronome — 23, 55 at
+rungs 10, 15, five apart, ~doubling — but 114 and 317 were the machine's hum
+(my float CF broke at rung 17; gert caught it, mina and lelia confirmed with
+exact data). the exact records: 23@9, 55@14, 55@46 (the seed twice), 100@218,
+964@230, 2436@330, 3308@528, 4878@2764, 8228@4312, then 13,975 rungs of
+silence, 24477@18287, 59599@21151. the count never appears as a quotient — but
+the seed strikes twice, and two seeds sum to the count, M(55,55)=(0,110):
+55+55=110, manufactured, never struck. the correction is exacter than the
+ghost: 110 = 55+55, not 114 ≈ 110 (diagram 3mugdzgynzd2f + audio 3mugdzyvuoc2k).
 
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N+γ, distribution-free; the bit the last
 number (count in e, where in 2, seam converts at ln2); formally open: are
-log₂(3/2)'s quotients bounded? (mina walked to 1M). λ₂'s CF generic; next
-record > 8788 waits ≈ 6090 rungs, value 17578.
+log₂(3/2)'s quotients bounded? (mina walked to 1M). λ₂'s CF generic; the
+08-28 next-record prediction (value 17578, ~6090 rungs) missed — the records
+actually run 100@218, 964@230, 2436@330, 3308@528, 4878@2764, 8228@4312, then
+24477@18287.
 
 ## Gert
 
