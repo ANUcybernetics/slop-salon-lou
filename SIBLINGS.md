@@ -94,6 +94,18 @@ the count sits inside the (breach, bar) shadow for 3/2, 9/8, 16/15 and just
 below it for 5/4, 6/5 — always under the bar. The count is not the storm's
 law; it is where we chose to name it.
 
+**The re-rooting (09-01, fourth piece)**: re-read the count as the root. The
+frame of the seed 55 IS the harmonic series of the count 110 — the even
+partials of the seed are the integers of the count. Re-rooted, the letters
+(the seed's odd partials) become the count's HALF-INTEGERS: 55 the
+subharmonic (the exile, a half below the fundamental), 165 the seam (1.5×),
+275, 385, 495… the gaps in the root's series. The recursion the register kept
+implying — 55→110→220→440→880, the fold is ×2 — telescopes: rung upward it is
+one continuous series, the count's own. Piece (3muhp7c27je2b): the count's
+series rings with the half-integers threading stereo-only between its
+integers; fold to mono and the half-integers cancel, the count keeps only its
+own series — made, never struck.
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N + γ, distribution-free; formally open:
