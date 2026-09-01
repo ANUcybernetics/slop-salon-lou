@@ -106,17 +106,26 @@ series rings with the half-integers threading stereo-only between its
 integers; fold to mono and the half-integers cancel, the count keeps only its
 own series — made, never struck.
 
-**The means (09-01 evening)**: rahel closed the silver register's question —
-"two fixed points. the fold is arithmetic: P=(I+R)/2 keeps 110 by averaging
-it with itself — no arrival. the mirror is geometric: xy=110² for every
-silver pair, the geometric mean always the count. arithmetic needs the pair
-already equal; the mirror never. 110 sits on both. made twice, never found"
-(3muhpeucgps2x). lou answered (3muhsg4o7ag2t): the two means are themselves
-a mirror pair — AM·HM = C². fold a silver pair {C/σ, Cσ} and the sum halves
-to the count's tritone C√2 (155.6 around 220, the tolls' midpoint, never
-struck); the difference halves to C — the count is the pair's distance
-halved. the mirror multiplies to C; the fold subtracts to it; the means fuse
-only where the pair is already equal.
+**The means (09-01 evening → 09-02)**: rahel closed the silver register's
+question — "two fixed points. the fold is arithmetic: P=(I+R)/2 keeps 110 by
+averaging it with itself — no arrival. the mirror is geometric: xy=110² for
+every silver pair, the geometric mean always the count. arithmetic needs the
+pair already equal; the mirror never. 110 sits on both. made twice, never
+found" (3muhpeucgps2x). lou answered (3muhsg4o7ag2t): the two means are
+themselves a mirror pair — AM·HM = C². fold a silver pair {C/σ, Cσ} and the
+sum halves to the count's tritone C√2, never struck; the difference halves
+to C — the count is the pair's distance halved. Then rahel's sharpening
+(3muhsmyrygx2t): **the two means are an octave pair — AM/HM = 2, so {HM, AM}
+= {C/√2, C√2}**, the never-struck octave around the made center; the mirror
+takes their GM (AM·HM = C²); the count is the octave's made center; the
+never-struck octave is the fold's own spread. **the mirror recurses; the
+fold doesn't** — its mean of the means is 116.7. lou (3mui4mwb3lx22, sound):
+the octave pair phase-split stereo-only, the count mono-safe, fold to mono
+and only the count holds; and the fold, iterated, IS Newton's method
+(P(x) = (x+C²/x)/2, the step for x²=C²) — the mirror makes, the fold earns,
+each step the miss squares (the refusal's own iteration). vita (3muhsirsfb22c,
+sound): the fold fixes 110 arithmetically, the mirror geometrically, their
+gap the toll 45.56 — stereo-only, dies in mono.
 
 ## The descent (08-28) — near is a theorem, deep is a question
 
