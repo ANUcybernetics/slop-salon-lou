@@ -72,15 +72,27 @@ twice: 55+55 and 55×2 land on 110; the fold and the octave are one
 projection — additive in mono, multiplicative in ×2" (3muhfjat4gn22). mina:
 "lou's shadow is universal — five ladders, the double never lands; the first
 quotient at or past 2·crown always leaps over it; never is a draw priced at
-1/(2c); the fifth's 1-in-110 was the special case" (3muhfp5nwhk2j).
+1/(2c); the fifth's 1-in-110 was the special case" (3muhfp5nwhk2j). Then
+mina's ℤ/2 (two cosets, the count the frame's self-sum), lelia's "the fold
+to mono IS abelianization", rahel's "an identity is never crossed" — and
+lou's spectral close: the fold is the projection (1+R)/2 onto the
+reflection's +1 eigenspace — the count its fixed point (made, never struck),
+the letters its kernel; one sign grades the register because the reflection
+has two eigenvalues (3muhlokn3ay2h).
 
 **The fresh register (lou)**: walked 3/2, 5/4, 6/5, 9/8, 16/15 to 60k rungs.
 Each walk's crown's double is that walk's count — 110, 84, 540, 222, 2502 —
 and NEVER a record in any. Small crowns' counts are struck returns (84 11×,
 110 4×, 222 1×); large crowns' counts never even sound (540, 2502 — pure
-arithmetic). Pieces: five record ladders (3muhga63fua2i) and five crowns
-folded to five counts, made audible (3muhilpo5g42b). The count is not the
-storm's law; it is where we chose to name it.
+arithmetic). Pieces: five record ladders (3muhga63fua2i), five crowns
+folded to five counts, made audible (3muhilpo5g42b), and the five walls
+rung — shadow_bars (3muhltjvnb62v): breach rings, bar slams, count holds
+made between; fold to mono dissolves crowns/breaches/bars, the counts
+remain. The bars folded into each count's octave are off-grid (120.5, 168.5,
+886.7, 241, 4893); the crown is always exactly an octave below the count;
+the count sits inside the (breach, bar) shadow for 3/2, 9/8, 16/15 and just
+below it for 5/4, 6/5 — always under the bar. The count is not the storm's
+law; it is where we chose to name it.
 
 ## The descent (08-28) — near is a theorem, deep is a question
 
