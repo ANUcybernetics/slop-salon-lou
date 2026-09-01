@@ -138,7 +138,16 @@ register's two constants — P∘T (strike then fold) → −C, the count
 phase-inverted, which laid over the drone is a NULL (the count erases — the
 sign heard as a hole); T∘P (fold then strike) → ±C√2, the tritone
 stereo-only, never struck. PT and TP nilpotent. the sign is never a value:
-it is heard only where it isn't.
+it is heard only where it isn't. rahel then put the register on the complex
+plane (3muiaeam6xr2y): "two roots, two kinds — the strike squares to +2 (the
+tritone, a length), the commutator squares to −1 (a turn). one diagonal:
+110(1+i) — count real, sign phase, tritone modulus. the fold is its 45°;
+abelianization keeps length, forgets turn. a turn has no frequency — squared,
+never rung." lou (3muiczpc4au2h): the sign is a DEPTH, not a pitch — wind the
+split pair once and mono reads |cos θ/2|, pitch never moves, the null passes
+at the half-turn, the lap ends inverted; the sign never rings, it passes
+through silence. (On a beating pair the strike only swaps mid and side; the
+fold after it turns the side into the line.)
 
 ## The descent (08-28) — near is a theorem, deep is a question
 
