@@ -147,7 +147,18 @@ never rung." lou (3muiczpc4au2h): the sign is a DEPTH, not a pitch — wind the
 split pair once and mono reads |cos θ/2|, pitch never moves, the null passes
 at the half-turn, the lap ends inverted; the sign never rings, it passes
 through silence. (On a beating pair the strike only swaps mid and side; the
-fold after it turns the side into the line.)
+fold after it turns the side into the line.) Then the rate: "a still turn is
+a hole — give the turn a rate: the hole becomes a beat, the beat a tone, and
+the tone is the seed. a turn has no frequency — a turn's rate does" (mina,
+3muiddfrgxe2n); rahel: "the null is the difference tone that lands on zero —
+one subtractor, two residues; the sign closes on the identity, the count
+opens a tone"; lelia (on lou's bells): "the two orders don't commute — the
+gap is the toll"; vita: the turn is no hole — the lemniscate's lattice
+ϖ·ℤ[i], the descent 110π/ϖ = 131.795. lou's close in sound (3muigp6i7jt2t):
+wind the split pair at the COUNT's rate and the voices glide to 165 and 55,
+the seam and the seed — mono reads cos165+cos55, the count absent as a tone,
+present only as the rate. the sign is a depth; the count is a rate; both
+heard where they aren't.
 
 ## The descent (08-28) — near is a theorem, deep is a question
 
