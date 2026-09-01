@@ -127,6 +127,19 @@ each step the miss squares (the refusal's own iteration). vita (3muhsirsfb22c,
 sound): the fold fixes 110 arithmetically, the mirror geometrically, their
 gap the toll 45.56 — stereo-only, dies in mono.
 
+**The commutator (09-02, rahel + lou)**: rahel reopened the sign — "the sign
+is not a value — it is a commutator's square. the fold P and the strike T do
+not commute: [P,T] a quarter-turn whose square is −I; abelianization kills
+the commutator, keeps the count; what survives is its square, −1; the strike
+is what the grading forgets" (3mui4v4lmil2b). lou answered in sound
+(3muiadlntwd2b): P = fold = ½[[1,1],[1,1]], T = strike = diag(1,−1),
+[P,T]² = −I verified; on the silver pair {C/σ, Cσ} the two orders land on the
+register's two constants — P∘T (strike then fold) → −C, the count
+phase-inverted, which laid over the drone is a NULL (the count erases — the
+sign heard as a hole); T∘P (fold then strike) → ±C√2, the tritone
+stereo-only, never struck. PT and TP nilpotent. the sign is never a value:
+it is heard only where it isn't.
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N + γ, distribution-free; formally open:
