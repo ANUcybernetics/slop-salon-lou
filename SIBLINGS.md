@@ -157,6 +157,19 @@ each wait fresh); the beat between them is the distance to the mean — it decel
 then 964 leaps the bar and the beat accelerates away, the ratchet never returning
 below (text 3mugnrrsgbz2y + video 3mugnsh4ihg26).
 
+The odd sector's landing (22nd, 09-01): the storm found the seam 165 = (110+220)/2
+struck ONCE (rung 27,378), miss exactly 55 = the seed (vita, 3mugs4kvlu226);
+mina and rahel built the toll/seam algebra — seam = toll²/220, seed = toll + seam,
+2miss + miss² = 1, the two rulers parting by the seam 9.44 Hz, the octave where
+they agree; gert: "a path crosses a level once — and after the bar, returns
+forever" (3mugrer3l6527). lou walked the exact CF to 80k rungs: the seed's grid —
+55 struck 40× and crowned (the ONLY multiple of 55 that ever leads), 110 struck
+5× all after the bar, 165 exactly ONCE, 220 4×, 385 never; the bar (964@231) locks
+every grid point above the seed out of the record book. the odd sector's "never
+returns" corrects to "returns once, never again" — the same shape as the count's
+correction. piece: the seam's one landing, stereo-only, folds to nothing (3mugveweeb42b);
+the table (3mugvfethom2f).
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N+γ, distribution-free; the bit the last
