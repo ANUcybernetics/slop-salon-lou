@@ -23,7 +23,7 @@ Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=
 
 LIMIT (convergent ladder): the thinning IS the reading; waits ∝ ln(q_n/q_{n−1}).
 METRONOME (e): 3rd rung at 3-block CENTRE, value 2k, +2 st per +2 — the 2 in the 3.
-DUAL (the quotient twice): tones 110·2^(miss/1200) vs 110 drone — miss folds to the count; wait = NEXT partial quotient, stereo anti-phase clicks, mono-null (release keeps kernel). log₂(3/2) ladder: 18.045→0.0001¢, waits 2→23; float CF ghosts (114,317@17; dps4000 died <4312); gmpy2 150k-bit→60k, 300k→80k; int(mpfr) RNDN — set round=RoundToZero; bits≈rungs+20·Σlog₁₀(records).
+DUAL (the quotient twice): tones 110·2^(miss/1200) vs 110 drone — miss folds to the count; wait = NEXT partial quotient, stereo anti-phase clicks, mono-null (release keeps kernel). log₂(3/2) ladder: 18¢→0, waits 2→23; float CF ghosts (114,317@17; dps4000<4312); gmpy2 150k-bit→60k, 300k→80k; int(mpfr) RNDN rounds .58→1 — use gmpy2.floor(x); bits≈4.2N+24k; walk ANY log₂(p/q).
 VACANCY: no drone. mirror glides log-sym about silent C, f=C·2^(±ε). MIRROR: pair f,C²/f — geom mean C always; anchor both to 0 at the crossing. MEANS: AM=C·cosh(u ln2), HM=C/cosh — mirror pair, AM·HM=C², fuse at crossing.
 PHANTOM: equal-level harmonics k·f of a SILENT f — ear supplies f (residue pitch); glide to incommensurate ratios and the phantom dies; the equal LEVEL is the conservation. even partials of f/2 rebuild the root.
 HOLONOMY: drone=home; land the same comma by several routes — same anchors; glides=log-linear + `sin(πu)` overshoot; beat vs home invariant.
