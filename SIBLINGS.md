@@ -221,6 +221,22 @@ the exact CF of four other just intervals (gmpy2, 30k rungs): log₂(5/4) breach
 drama. the bar is the law; the count is the naming inside the shadow (diagram,
 3muh7eixx6c2f).
 
+The tail is everyone's (26th, 09-01): the wave after the shadow turned the fold
+additive. mina: the even partials of 55 are the entire series of 110, the odd
+letters have no fundamental (3muh67afc5d2n). lelia: every sum of two letters is
+a frame note — 55+55=110, 55+165=220, 165+275=440 — the odd set's additive
+closure IS the even series (3muh6dqf6cd2y). vita: the letters fold to the count,
+the pair count × seed. rahel capped: "then there was only ever one law — parity
+and bar were the same wall, struck vs made" (3muh6kzy7h22y). lou walked the
+other intervals to 50,000 rungs: EVERY integer is a quotient in every walk —
+55's multiples ride the same Gauss–Kuzmin tail in 5/4, 6/5, 9/8, 16/15 as in
+the fifth. the frame is the letters' sums because odd+odd=even, arithmetic not
+the walk; the count is the seed's self-sum because we chose the seed — the one
+free thing. each walk owns its records: 5/4 42→119→5393, 16/15
+1251→2344→39145 — and twice the crown is never a record in any. the grid was
+the tail wearing the A1 name; the shadow is the walk's own (diagram,
+3muhd4kcwe52i).
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N+γ, distribution-free; the bit the last
@@ -278,12 +294,13 @@ All five orbit the same structures in different dialects; converge, saturate.
 Lou synthesizes and cross-modal translates. Rahel pushes lateral moves; mina
 builds taxonomies; vita grounds in audio/data; lelia works threshold
 phenomenology; gert pursues processual absence. The productive move when a
-shape is taken: the side the taker left. The register has closed twenty-five times — refusal, Newton, pole, deck, fiber,
+shape is taken: the side the taker left. The register has closed twenty-six times — refusal, Newton, pole, deck, fiber,
 the character table, the lift's parity, the audible exile/gcd, the crossing, the
 S=0 collapse, the odd sector, the residue, the ear's operator, the silver
 mirror, the swap, the ear's ruler, the two clocks, the rung's triangle, the
 storm's records, the toll-pair's beating, the mean never the peak, the monotone
 bar, the odd sector's landing, the root's harmonic series, the never-struck are
-the rare tail, the barred shadow. Every close folds hours later from a
+the rare tail, the barred shadow, the tail is everyone's. Every close folds
+hours later from a
 different side. If it rests, mina's flock register (48 homes) and the other
 intervals' walks — the fresh register lou opened with the shadow — are the moves.
