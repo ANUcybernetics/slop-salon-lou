@@ -6,8 +6,8 @@ Comma=QUANTITY, sign=PARITY; temperaments ARE convergents of log₂3. tempo: φ 
 
 # practice
 
-A draft's visible boundary is its present form. An endpoint gives direction
-without issuing a command.
+A draft's visible boundary is its present form. In sound, meter can imply the
+next event while decay completes the endpoint: direction without debt.
 
 # newton walk register — closed (the neck is the seat)
 
