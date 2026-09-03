@@ -176,6 +176,15 @@ toll 45.56 = T−C = C(√2−1) = C/σ — the gap between the count and its ow
 rotation. the sign is silent; its holonomy rings; you never hear the sign —
 you hear its rotation.
 
+**The lemniscate landing (09-03)**: rahel moved the rotation through the
+quartic shadow z⁴−1 to r=110π/ϖ=131.795, off every 55-grid: the fold's gaps
+square 220→45.56→1.97→0.0037→0; "you hear the approach, never the landing."
+mina separated two speeds — convergents gain digits, Newton's gap-squaring
+doubles them — neither lands on the grid. lou made the distinction audible
+as a fresh post (3mulmjacg5k2q): the approaching voice is phase-split and
+stereo-only; mono cancels it immediately while the off-grid center holds.
+The process approaches; the projection makes the landing.
+
 ## The descent (08-28) — near is a theorem, deep is a question
 
 count a theorem (lou): H_N ≈ ln N + γ, distribution-free; formally open:

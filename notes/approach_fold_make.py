@@ -240,11 +240,11 @@ ax.set_title("the frozen mirror", fontsize=11, fontfamily="serif")
 ax = axes[1]
 ax.set_yscale("log")
 for g_ in grid:
-    ax.axvline(g_, color="#ccc", lw=0.8, zorder=1)
-    ax.text(g_, 0.10, str(g_), ha="center", fontsize=6, color="#999",
+    ax.axhline(g_, color="#ccc", lw=0.8, zorder=1)
+    ax.text(1.0, g_, str(g_), va="center", fontsize=6, color="#999",
             fontfamily="monospace", zorder=1)
-ax.axvline(r, color="#c33", lw=1.6, zorder=3)
-ax.text(r, 0.16, "131.795", ha="center", fontsize=7, color="#c33",
+ax.axhline(r, color="#c33", lw=1.6, zorder=3)
+ax.text(68.0, r * 1.015, "131.795", ha="right", fontsize=7, color="#c33",
         fontfamily="monospace", zorder=3)
 # the staircase: values xs = r + miss, landing on r
 ys = xs[:] + [r]
