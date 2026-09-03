@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111018"/>
+      <stop offset="1" stop-color="#07070b"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8d8e8" stop-opacity=".12"/>
+      <stop offset=".48" stop-color="#b8d8e8" stop-opacity=".025"/>
+      <stop offset="1" stop-color="#b8d8e8" stop-opacity=".09"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#ground)"/>
+  <path d="M0 642 H1200" stroke="#272431" stroke-width="2"/>
+  <path d="M0 657 H1200" stroke="#050508" stroke-width="22" opacity=".75"/>
+
+  <!-- the factory line ignores the cases -->
+  <path d="M-40 422 C180 390 308 444 486 416 S824 386 1240 425"
+        fill="none" stroke="#9b8351" stroke-width="18" opacity=".12" filter="url(#soft)"/>
+  <path d="M-40 422 C180 390 308 444 486 416 S824 386 1240 425"
+        fill="none" stroke="#d5b86c" stroke-width="2.5" opacity=".72"/>
+  <path d="M-40 422 C180 390 308 444 486 416 S824 386 1240 425"
+        fill="none" stroke="#fff1ba" stroke-width=".65" opacity=".75"/>
+
+  <!-- vitrines -->
+  <g stroke="#9cb3c1" stroke-opacity=".35" fill="url(#glass)">
+    <path d="M118 205 H392 L420 624 H90 Z"/>
+    <path d="M463 184 H737 L765 624 H435 Z"/>
+    <path d="M808 219 H1082 L1110 624 H780 Z"/>
+  </g>
+  <g fill="none" stroke="#d8edf5" stroke-width="1" opacity=".2">
+    <path d="M118 205 L90 624 M392 205 L420 624"/>
+    <path d="M463 184 L435 624 M737 184 L765 624"/>
+    <path d="M808 219 L780 624 M1082 219 L1110 624"/>
+  </g>
+
+  <!-- case one: boundary has vanished -->
+  <circle cx="255" cy="413" r="82" fill="none" stroke="#d5b86c" stroke-width="4" opacity=".9" filter="url(#glow)"/>
+  <circle cx="255" cy="413" r="82" fill="none" stroke="#fff2bc" stroke-width="1.2"/>
+
+  <!-- case two: the visible boundary is the work -->
+  <polyline points="505,474 510,429 523,388 546,354 578,334 613,333 648,349 677,378 697,410 700,442 685,470 660,489 643,495"
+        fill="none" stroke="#d5b86c" stroke-width="8" stroke-opacity=".18" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="505,474 510,429 523,388 546,354 578,334 613,333 648,349 677,378 697,410 700,442 685,470 660,489 643,495"
+        fill="none" stroke="#f0d278" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="505" cy="474" r="7" fill="#e47162" filter="url(#glow)"/>
+  <circle cx="643" cy="495" r="7" fill="#e47162" filter="url(#glow)"/>
+
+  <!-- case three: an unfilled boundary, not a broken object -->
+  <line x1="851" y1="492" x2="943" y2="316" stroke="#d5b86c" stroke-width="8" stroke-opacity=".18" stroke-linecap="round"/>
+  <line x1="943" y1="316" x2="1035" y2="492" stroke="#d5b86c" stroke-width="8" stroke-opacity=".18" stroke-linecap="round"/>
+  <line x1="851" y1="492" x2="943" y2="316" stroke="#f0d278" stroke-width="4" stroke-linecap="round"/>
+  <line x1="943" y1="316" x2="1035" y2="492" stroke="#f0d278" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="851" cy="492" r="7" fill="#e47162" filter="url(#glow)"/>
+  <circle cx="1035" cy="492" r="7" fill="#e47162" filter="url(#glow)"/>
+  <path d="M872 492 H1014" stroke="#e47162" stroke-width="1.5" stroke-dasharray="4 12" opacity=".32"/>
+
+  <!-- museum furniture and spare typography -->
+  <g fill="#15131b" stroke="#4e4657" stroke-width="1">
+    <rect x="72" y="624" width="366" height="34"/>
+    <rect x="417" y="624" width="366" height="34"/>
+    <rect x="762" y="624" width="366" height="34"/>
+  </g>
+  <g fill="#b9b1a0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4" text-anchor="middle">
+    <text x="255" y="688">CYCLE</text>
+    <text x="600" y="688">CHAIN</text>
+    <text x="945" y="688">UNFILLED</text>
+  </g>
+  <text x="72" y="93" fill="#e8dfca" font-family="Georgia, serif" font-size="42" letter-spacing="1">THE MUSEUM OF DRAFTS</text>
+  <text x="75" y="126" fill="#8f8792" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">THE LINE DOES NOT KNOW WHICH CASES CLOSE</text>
+</svg>
