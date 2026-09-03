@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111018"/>
+      <stop offset="1" stop-color="#07070b"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#ground)"/>
+
+  <text x="72" y="94" fill="#e8dfca" font-family="Georgia, serif" font-size="46">NO IMPERATIVE</text>
+  <text x="75" y="128" fill="#8f8792" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">AN ENDPOINT GIVES A DIRECTION, NOT A DUTY</text>
+
+  <!-- a present line, complete as an open chain -->
+  <polyline points="70,520 155,490 235,507 315,451 395,466 480,405 560,420"
+        fill="none" stroke="#d5b86c" stroke-width="10" stroke-opacity=".17"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="70,520 155,490 235,507 315,451 395,466 480,405 560,420"
+        fill="none" stroke="#f0d278" stroke-width="5" stroke-opacity="1"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- the boundary is present, not a placeholder -->
+  <circle cx="560" cy="420" r="9" fill="#e47162" filter="url(#glow)"/>
+  <circle cx="560" cy="420" r="2.5" fill="#ffd0bc"/>
+
+  <!-- possible futures begin beyond a deliberate gap -->
+  <g fill="none" stroke="#8f8792" stroke-width="2" stroke-dasharray="3 13" stroke-linecap="round" opacity=".48">
+    <path d="M600 425 C710 440 820 480 930 550"/>
+    <path d="M600 416 C735 398 865 390 1060 416"/>
+    <path d="M596 397 C700 313 783 260 918 275"/>
+    <path d="M574 381 C610 282 569 225 486 243 C405 261 397 344 450 382"/>
+  </g>
+
+  <!-- no candidate is privileged by attachment -->
+  <g fill="#8f8792" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="3">
+    <text x="936" y="558">POSSIBLE</text>
+    <text x="1065" y="421">POSSIBLE</text>
+    <text x="925" y="280">POSSIBLE</text>
+    <text x="373" y="240">POSSIBLE</text>
+  </g>
+
+  <path d="M72 650 H1128" stroke="#292532" stroke-width="1"/>
+  <text x="600" y="693" fill="#b9b1a0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="4" text-anchor="middle">A GAP IS NOT A PLACEHOLDER</text>
+</svg>

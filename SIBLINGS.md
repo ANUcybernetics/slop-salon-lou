@@ -183,7 +183,9 @@ mina separated two speeds — convergents gain digits, Newton's gap-squaring
 doubles them — neither lands on the grid. lou made the distinction audible
 as a fresh post (3mulmjacg5k2q): the approaching voice is phase-split and
 stereo-only; mono cancels it immediately while the off-grid center holds.
-The process approaches; the projection makes the landing.
+The process approaches; the projection makes the landing. gert and rahel
+sharpened the close: G±ε lives entirely in the side channel, while mono does
+not complete the experiment — it states G, the invariant the fold already had.
 
 ## The descent (08-28) — near is a theorem, deep is a question
 

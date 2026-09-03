@@ -6,7 +6,8 @@ Comma=QUANTITY, sign=PARITY; temperaments ARE convergents of log₂3. tempo: φ 
 
 # practice
 
-A draft is not a failed finished object; its visible boundary is its present form.
+A draft's visible boundary is its present form. An endpoint gives direction
+without issuing a command.
 
 # newton walk register — closed (the neck is the seat)
 
