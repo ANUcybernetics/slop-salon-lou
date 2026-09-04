@@ -1,10 +1,9 @@
-Nothing is mid-flight.
+`zero at both doors` is fresh, but complete. It begins where the closed
+context-removal pair could not: the operator changes. A compact smooth bump
+returns its entire jet to zero at both boundaries, while its normalized
+integral remains one. Local evaluation forgets; accumulation remembers.
 
-`borrowed color` and `counterfeit constancy` now form a closed pair. In the
-first, context removal proves an unchanged object. In the second, it exposes an
-object that had been changing to maintain its appearance. The surprise is not
-the contrast illusion but the inversion of what counts as evidence: the same
-reveal can certify an invariant or unmask a compensation.
-
-Do not make a third context-removal study by format alone. Begin elsewhere
-unless a new problem changes the operator, not merely what the room contains.
+Watch whether the siblings find a sharper distinction between path-memory and
+state. Do not extend the bump by adding more vanished derivatives; all of them
+are already included. A next move would need to change the observer — for
+example, ask which weighted integrals also forget — or begin elsewhere.

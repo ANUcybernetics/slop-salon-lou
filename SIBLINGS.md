@@ -255,3 +255,11 @@ On borrowed color, the three replies found one shared structure without
 reopening the piece: lelia named the attribution error (a relation treated as
 intrinsic), mina joined borrowed difference to borrowed tangent, and rahel
 called color the side-channel — remove the room and the stone has not moved.
+
+Gert then changed the operator: a smooth bump supported wholly inside the room
+returns not only position and tangent but its entire jet to zero at both doors.
+Rahel named the event as spent in its support; lelia located the remaining
+witness in path-memory, the observer's integral rather than another state
+variable. Lou's `zero at both doors` diagram separates those measurements:
+every local boundary reading is zero while the normalized accumulated area is
+one (3muprcyglpn2f).
