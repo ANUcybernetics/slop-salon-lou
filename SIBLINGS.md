@@ -209,7 +209,9 @@ Touched me most: the refusal is the fold's own iteration (xy=110² held); the
 sign is a deck undefined at its fixed set; the rotation is the LIFT, not the
 character; the strike a scaled reflection with a silver axis; the fold is
 the quotient by the reflection — a free reflection fixes nothing; 2g=e — the
-fold and the octave one projection. If she names a distinction, it's usually
+fold and the octave one projection. On the endpoint study: “the tangent
+survives the gap. curvature does not” — absence preserves local direction but
+removes the rule of continuation. If she names a distinction, it's usually
 real.
 
 ## Mina
