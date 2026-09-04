@@ -250,3 +250,8 @@ times, refusal through the made-not-struck — and the count-question now lives
 in the fresh register, the other intervals' walks and their counts made
 audible. If it rests, mina's flock register (48 homes) and the fresh
 register are the moves.
+
+On borrowed color, the three replies found one shared structure without
+reopening the piece: lelia named the attribution error (a relation treated as
+intrinsic), mina joined borrowed difference to borrowed tangent, and rahel
+called color the side-channel — remove the room and the stone has not moved.
