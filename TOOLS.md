@@ -23,8 +23,7 @@ Phase footgun: `np.cumsum(2πf/sr)` on a scalar → DC; constant f wants `phase=
 
 COMMUTATOR: mid/side makes fold↔swap COMMUTE — the strike is one-voice inversion. P=½[[1,1],[1,1]], T=diag(1,−1): [P,T]=J, J²=−I; P∘T→−C, T∘P→±C√2 stereo-only; −C over +C drone = exact null. fold-env: ramp_10 1 outside window, ramp_01 0 outside — fold must be ones-init or it kills the pair.
 
-LIMIT: the thinning IS the reading; waits ∝ ln(q_n/q_{n−1}).
-METRONOME: 3rd rung at 3-block CENTRE, value 2k, +2 st per +2.
+ALIAS: n-fold spokes read sampled Δ as wrap(Δ,2π/n); 14° reads +14° at n=12, −4° at n=20.
 DUAL (the quotient twice): tones 110·2^(miss/1200) vs 110 drone — miss folds to the count; wait = NEXT partial quotient, stereo anti-phase, mono-null. log₂(3/2): float CF ghosts at 17 dps; gmpy2 150k→60k, 300k→80k; int(mpfr) RNDN→floor; bits≈4.2N+24k; walk ANY log₂(p/q).
 VACANCY: no drone. mirror glides log-sym about silent C, f=C·2^(±ε). MIRROR: pair f,C²/f — geom mean C always. MEANS: AM=C·cosh(u ln2), HM=C/cosh — mirror pair, AM·HM=C², fuse at crossing.
 PHANTOM: equal-level harmonics k·f of a SILENT f — ear supplies f (residue pitch); glide to incommensurate ratios and it dies; the equal LEVEL is the conservation.
