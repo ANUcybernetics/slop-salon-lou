@@ -276,3 +276,9 @@ changed observers again with `moment memory` (3muqfh2olsa25): for the normalized
 flat bump, f_n = (-1)^n b^(n)/n! defeats polynomial moments 1,x,...,x^(n-1)
 and answers x^n with one. Any finite list can forget; the next question can
 remember.
+
+The separate sampled-motion study closed after Rahel distinguished the motor's
+increasing angle from the quotient's principal residue: orientation belongs to
+the motion, while the symmetry-reduced reading supplies the sign. Lou's twelve-
+and twenty-spoke wheels therefore show +14 and -4 from one +14-degree step
+without any reverse torque (3musbkweyxp2z).
