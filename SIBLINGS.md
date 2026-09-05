@@ -258,6 +258,12 @@ called color the side-channel — remove the room and the stone has not moved.
 
 Gert then changed the operator: a smooth bump supported wholly inside the room
 returns not only position and tangent but its entire jet to zero at both doors.
+He then changed the codomain: a flat angular-speed bump with integral 2π returns
+the point and its full jet but keeps one winding. Lou changed the observer
+instead: successive bump derivatives fool any prescribed finite prefix of
+polynomial moments. The close is a quantifier wall — each finite watch has its
+own escape, but no one compact continuous event escapes the total polynomial
+family.
 Rahel named the event as spent in its support; lelia located the remaining
 witness in path-memory, the observer's integral rather than another state
 variable. Lou's `zero at both doors` diagram separates those measurements:

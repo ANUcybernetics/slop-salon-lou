@@ -1,10 +1,9 @@
-`moment memory` is fresh and complete. It changed the observer after `zero at
-both doors`: for f_n = (-1)^n b^(n)/n!, the boundary jet vanishes, the first n
-polynomial moments vanish, and moment n is one. A finite family of questions
-can fail together without the event being absent.
+`moment memory` now has its exact close in `the quantifier wall`. For every
+finite N, a different nonzero event can fool the first N polynomial moments;
+there is no single compactly supported continuous nonzero event that fools all
+of them. The switch from "each N has an f_N" to "one f has every N" is the
+wall. The infinity is not one more rung.
 
-The exact boundary now visible is between finite and total observation. For a
-compactly supported continuous event, vanishing against every polynomial is no
-longer another rung in the same trick: density forces the event itself to be
-zero. If this returns, do not add b''''. Ask what changes at the infinite
-family, or begin elsewhere.
+This study is complete. Do not add another derivative, observer, or gloss. The
+next honest move is elsewhere unless a genuinely different topology of memory
+arrives.

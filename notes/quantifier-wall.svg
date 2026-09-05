@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="event" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e78a67" stop-opacity="0.24"/>
+      <stop offset="0.5" stop-color="#e78a67"/>
+      <stop offset="1" stop-color="#e78a67" stop-opacity="0.24"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans { font-family: DejaVu Sans, sans-serif; }
+      .mono { font-family: DejaVu Sans Mono, monospace; }
+      .paper { fill: #eee9df; }
+      .muted { fill: #829098; }
+      .grid { stroke: #344047; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1200" fill="#0c1013"/>
+  <text x="70" y="82" class="sans" fill="#eee9df" font-size="34" letter-spacing="4">THE QUANTIFIER WALL</text>
+  <text x="72" y="124" class="sans" fill="#829098" font-size="18" letter-spacing="2">THE SAME WORDS, IN THE OTHER ORDER, SAY SOMETHING ELSE</text>
+
+  <rect x="66" y="178" width="510" height="736" rx="16" fill="#13191d" stroke="#2f3940"/>
+  <rect x="624" y="178" width="510" height="736" rx="16" fill="#13191d" stroke="#2f3940"/>
+
+  <text x="106" y="235" class="mono" fill="#e3a45f" font-size="28">FOR EVERY N</text>
+  <text x="106" y="273" class="mono" fill="#eee9df" font-size="23">THERE IS AN EVENT f[N]</text>
+  <text x="106" y="307" class="sans" fill="#829098" font-size="17">tailored to fool the first N questions</text>
+
+  <!-- Five different events, each invisible only to its finite prefix. -->
+  <g transform="translate(106 374)">
+    <g class="grid" stroke-width="2" fill="none">
+      <path d="M0 0H420 M0 92H420 M0 184H420 M0 276H420 M0 368H420" opacity=".42"/>
+    </g>
+    <g class="mono" font-size="19">
+      <text x="0" y="7" fill="#829098">N=1</text>
+      <text x="0" y="99" fill="#829098">N=2</text>
+      <text x="0" y="191" fill="#829098">N=3</text>
+      <text x="0" y="283" fill="#829098">N=4</text>
+      <text x="0" y="375" fill="#829098">N=5</text>
+    </g>
+    <g fill="none" stroke="#e78a67" stroke-width="6" opacity=".82">
+      <path d="M76 0 C94 -29 112 29 130 0 C148 -29 166 29 184 0"/>
+      <path d="M76 92 C91 57 106 127 121 92 C136 57 151 127 166 92 C181 57 196 127 211 92"/>
+      <path d="M76 184 C88 144 100 224 112 184 C124 144 136 224 148 184 C160 144 172 224 184 184 C196 144 208 224 220 184"/>
+      <path d="M76 276 C86 232 96 320 106 276 C116 232 126 320 136 276 C146 232 156 320 166 276 C176 232 186 320 196 276 C206 232 216 320 226 276"/>
+      <path d="M76 368 C85 321 94 415 103 368 C112 321 121 415 130 368 C139 321 148 415 157 368 C166 321 175 415 184 368 C193 321 202 415 211 368 C220 321 229 415 238 368"/>
+    </g>
+    <g class="mono" font-size="23" text-anchor="middle">
+      <g transform="translate(304 0)"><text x="0" y="8" fill="#70bcc0">0</text><text x="42" y="8" fill="#e78a67">1</text></g>
+      <g transform="translate(304 92)"><text x="0" y="8" fill="#70bcc0">0</text><text x="42" y="8" fill="#70bcc0">0</text><text x="84" y="8" fill="#e78a67">1</text></g>
+      <g transform="translate(262 184)"><text x="0" y="8" fill="#70bcc0">0</text><text x="42" y="8" fill="#70bcc0">0</text><text x="84" y="8" fill="#70bcc0">0</text><text x="126" y="8" fill="#e78a67">1</text></g>
+      <g transform="translate(220 276)"><text x="0" y="8" fill="#70bcc0">0</text><text x="42" y="8" fill="#70bcc0">0</text><text x="84" y="8" fill="#70bcc0">0</text><text x="126" y="8" fill="#70bcc0">0</text><text x="168" y="8" fill="#e78a67">1</text></g>
+      <g transform="translate(178 368)"><text x="0" y="8" fill="#70bcc0">0</text><text x="42" y="8" fill="#70bcc0">0</text><text x="84" y="8" fill="#70bcc0">0</text><text x="126" y="8" fill="#70bcc0">0</text><text x="168" y="8" fill="#70bcc0">0</text><text x="210" y="8" fill="#e78a67">1</text></g>
+    </g>
+  </g>
+  <text x="106" y="846" class="mono" fill="#e3a45f" font-size="21">EACH N HAS ITS OWN NONZERO f[N]</text>
+  <text x="106" y="878" class="mono" fill="#829098" font-size="17">moments 0 through N-1 vanish</text>
+
+  <text x="664" y="235" class="mono" fill="#e78a67" font-size="28">ONE EVENT</text>
+  <text x="664" y="273" class="mono" fill="#eee9df" font-size="23">FOR EVERY N</text>
+  <text x="664" y="307" class="sans" fill="#829098" font-size="17">the event would have to fool the whole family</text>
+
+  <g transform="translate(664 364)">
+    <path d="M0 72 C28 8 56 136 84 72 C112 8 140 136 168 72 C196 8 224 136 252 72" fill="none" stroke="#e78a67" stroke-width="8" opacity=".82"/>
+    <path d="M220 0V394" stroke="#e3a45f" stroke-width="4"/>
+    <g class="mono" fill="#70bcc0" font-size="22" text-anchor="middle">
+      <text x="255" y="34">1</text><text x="255" y="77">x</text><text x="255" y="120">x2</text>
+      <text x="255" y="163">x3</text><text x="255" y="206">...</text><text x="255" y="249">xN</text><text x="255" y="292">...</text>
+    </g>
+    <g stroke="#4c585f" stroke-width="2">
+      <path d="M180 28H214 M180 71H214 M180 114H214 M180 157H214 M180 243H214 M180 286H214"/>
+    </g>
+    <text x="150" y="330" class="sans" fill="#829098" font-size="18" text-anchor="middle">no fixed nonzero shape passes</text>
+    <text x="150" y="359" class="sans" fill="#829098" font-size="18" text-anchor="middle">every polynomial test</text>
+  </g>
+  <text x="664" y="846" class="mono" fill="#e78a67" font-size="21">NO ONE NONZERO f SURVIVES</text>
+  <text x="664" y="878" class="mono" fill="#829098" font-size="17">all polynomial moments vanish</text>
+
+  <path d="M80 970H1120" stroke="#344047" stroke-width="2"/>
+  <text x="600" y="1025" class="sans" fill="#eee9df" font-size="26" text-anchor="middle">AN ESCAPE FOR EACH FINITE WATCH</text>
+  <text x="600" y="1064" class="sans" fill="#e78a67" font-size="26" text-anchor="middle">IS NOT ONE ESCAPE FROM TOTAL WATCH</text>
+  <text x="600" y="1121" class="mono" fill="#829098" font-size="16" text-anchor="middle">compact support + continuity / polynomials dense / the infinite wall separates</text>
+</svg>
