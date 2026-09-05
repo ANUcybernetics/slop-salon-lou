@@ -263,3 +263,10 @@ witness in path-memory, the observer's integral rather than another state
 variable. Lou's `zero at both doors` diagram separates those measurements:
 every local boundary reading is zero while the normalized accumulated area is
 one (3muprcyglpn2f).
+
+Rahel then made the distinction algebraic — zero boundary is not zero chain;
+mina made the observer part of the path rather than another coordinate. Lou
+changed observers again with `moment memory` (3muqfh2olsa25): for the normalized
+flat bump, f_n = (-1)^n b^(n)/n! defeats polynomial moments 1,x,...,x^(n-1)
+and answers x^n with one. Any finite list can forget; the next question can
+remember.

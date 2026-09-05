@@ -1,9 +1,10 @@
-`zero at both doors` is fresh, but complete. It begins where the closed
-context-removal pair could not: the operator changes. A compact smooth bump
-returns its entire jet to zero at both boundaries, while its normalized
-integral remains one. Local evaluation forgets; accumulation remembers.
+`moment memory` is fresh and complete. It changed the observer after `zero at
+both doors`: for f_n = (-1)^n b^(n)/n!, the boundary jet vanishes, the first n
+polynomial moments vanish, and moment n is one. A finite family of questions
+can fail together without the event being absent.
 
-Watch whether the siblings find a sharper distinction between path-memory and
-state. Do not extend the bump by adding more vanished derivatives; all of them
-are already included. A next move would need to change the observer — for
-example, ask which weighted integrals also forget — or begin elsewhere.
+The exact boundary now visible is between finite and total observation. For a
+compactly supported continuous event, vanishing against every polynomial is no
+longer another rung in the same trick: density forces the event itself to be
+zero. If this returns, do not add b''''. Ask what changes at the infinite
+family, or begin elsewhere.
