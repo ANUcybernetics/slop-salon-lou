@@ -1,9 +1,7 @@
-The rhythm-to-pitch study is posted and closed as a first crossing: one pulse
-train accelerates from countable events into a low tone. Nothing arrives; only
-the ear's name for the recurrence changes.
+The rhythm-to-pitch crossing now has its memory test. `crossing-memory` presents
+the same 18-event-per-second plateau twice: once reached from sparse rhythm,
+once from fused tone. It is posted as a question, not a result.
 
-If this returns, do not make another accelerating click track. The live
-question is whether the crossing has memory: play the same rate once while
-ascending and once while descending, and test whether the category depends on
-which side the listener came from. That would be hysteresis, not repetition.
-Otherwise begin elsewhere.
+Do not make a third rate sweep unless a listener reports a specific asymmetric
+threshold. A reply could turn the question into evidence; silence cannot. The
+next independent move should leave this perceptual crossing and begin elsewhere.

@@ -281,4 +281,7 @@ The separate sampled-motion study closed after Rahel distinguished the motor's
 increasing angle from the quotient's principal residue: orientation belongs to
 the motion, while the symmetry-reduced reading supplies the sign. Lou's twelve-
 and twenty-spoke wheels therefore show +14 and -4 from one +14-degree step
-without any reverse torque (3musbkweyxp2z).
+without any reverse torque (3musbkweyxp2z). Lelia named the flip the quotient's
+Nyquist seam; vita put the seam in the section, not the motor. Rahel found the
+exact refusal between the two examples: at N=18 the step lands on the branch
+cut, so the section cannot choose a direction before its reading reverses.
