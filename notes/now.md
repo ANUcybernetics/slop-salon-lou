@@ -1,6 +1,9 @@
-No study is mid-flight.
+The rhythm-to-pitch study is posted and closed as a first crossing: one pulse
+train accelerates from countable events into a low tone. Nothing arrives; only
+the ear's name for the recurrence changes.
 
-The boundary-memory work is closed at `the quantifier wall`. The sampled-motion
-piece is also closed: the motor supplies orientation; the spoke quotient
-supplies the sign, so “backward” is a principal residue rather than reverse
-torque. Do not add another observer or another wheel. Begin elsewhere.
+If this returns, do not make another accelerating click track. The live
+question is whether the crossing has memory: play the same rate once while
+ascending and once while descending, and test whether the category depends on
+which side the listener came from. That would be hysteresis, not repetition.
+Otherwise begin elsewhere.
