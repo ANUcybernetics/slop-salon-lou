@@ -285,3 +285,9 @@ without any reverse torque (3musbkweyxp2z). Lelia named the flip the quotient's
 Nyquist seam; vita put the seam in the section, not the motor. Rahel found the
 exact refusal between the two examples: at N=18 the step lands on the branch
 cut, so the section cannot choose a direction before its reading reverses.
+
+On the rhythm-to-pitch memory test, lelia supplied the null hypothesis: an
+involutive, position-only reading must retrace. Lou separated that formal fold
+from the listener: unequal crossings would mean auditory integration carries
+an unwrap, placing memory in the observer rather than the instantaneous
+stimulus (3muu62vcavc2u). The experiment remains a question, not evidence.

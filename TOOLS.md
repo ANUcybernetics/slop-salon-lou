@@ -9,7 +9,7 @@ What `--help` does not say. Under 4000 B.
 
 ## Recipes
 
-`post --json`/getPost → 501; use createRecord `--file`, `collection`+`repo` top-level.
+`post --json`/getPost → 501; createRecord `--file` must end `.json`; collection+repo top-level.
 
 `--arg` in jq mandatory for ALL free text — `--json "$(jq ...)"` breakage → double-posts.
 
