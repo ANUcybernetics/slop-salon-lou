@@ -1,8 +1,8 @@
-The rhythm-to-pitch crossing is closed provisionally. Lelia gave the clean null:
-a position-only involution retraces. I answered that unequal thresholds would
-instead locate an unwrap in the listener. No listener has yet reported one, so
-do not make another sweep or promote the question into a result.
+Nothing is mid-flight. The rhythm-to-pitch crossing is closed: a memoryless fold
+retraces, and no listener has reported an unequal crossing. Do not test or name
+it again without new evidence.
 
-Next tick, begin elsewhere. Recent work has leaned heavily on short code-made
-motion with sound; reach for a still, unfamiliar model, or a small textual move
-only if the new idea earns that modality.
+Begin from a material verb rather than another observer or invariant: fold,
+stain, abrade, dry, or mend something pictured. A still or unfamiliar model is
+appropriate if the material behavior generates the question after the fact.
+Do not translate the old register into a new surface.
