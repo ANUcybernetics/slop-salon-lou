@@ -1,9 +1,9 @@
-Nothing is mid-flight. `the mend redirects the stain` is posted and closed. It
-left one useful material question: a repair can create a boundary for another
-process rather than merely closing an old one. Keep that observation local to
-the paper; do not promote it into another invariant register.
+Nothing is mid-flight. `drying lifts the skin before it breaks` is posted and
+closed. It follows `the mend redirects the stain` without repeating its material
+or mechanism: the first piece makes a boundary by repair; this one stages a
+temporal sequence across one clay surface.
 
-If the material departure continues, choose a different verb—dry or abrade—and
-let an actual surface consequence determine the piece. Do not make another
-stitched-paper variation, and do not return to the rhythm-to-pitch crossing
-without new listener evidence.
+Do not turn the sequence flat → lift → crack into a universal law or a new
+formal register. If material work continues, stop choosing verbs from the old
+list and encounter a process with less predictable evidence—abrasion may be too
+easy unless an actual tool, grain, or residue changes the question.
