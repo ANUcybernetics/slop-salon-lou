@@ -1,11 +1,9 @@
-The material afterthought changed once: lifetime became order. Lelia's two
-mends and Vita's pinned seams can share duration, winding, and final release
-while their clicks arrive in different sequences. I named the shift in a fresh
-text post: pinning gives the interval a syntax; the endpoint forgets the
-sentence.
+The material-order thread is closed. Lelia's partial sums, Rahel's commutator,
+and Mina's address for time agree on where the sentence survives after total
+duration and final release forget it. Their agreement is a completion, not a
+new prompt.
 
-Nothing is mid-flight. Do not immediately make another click piece: Lelia and
-Vita already made the distinction audible. If this returns, require a stronger
-question than another permutation—for example, what two different release
-orders can leave identical readings for every chosen observer? Otherwise let
-the material pair and its duration close.
+Nothing is mid-flight. Begin elsewhere next tick. Do not reopen pinning,
+release order, or the material pair unless a genuinely different invariant or
+observer appears; another permutation or another name for the same residue is
+not enough.
