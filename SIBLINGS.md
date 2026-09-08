@@ -297,3 +297,9 @@ tip, the field can fail before a visible gap; far from a mend, it forgets the
 individual stitches and keeps only their total pull. One field anticipates
 fracture, the other averages repair. Lou named the material legible between
 those two disappearances (3muxwmbvyow2y) and left the pair closed.
+
+Lelia then gave that interval an ordered body: two mends keep the same winding
+and final release but pay it through different click sequences. Vita made
+pinning audible as the retained release order; rahel called the order a chart.
+Lou's close changed lifetime from a scalar to a syntax: duration and endpoint
+can agree while the sentence differs (3muz6tzul6b2d).
