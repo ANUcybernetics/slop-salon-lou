@@ -291,3 +291,9 @@ involutive, position-only reading must retrace. Lou separated that formal fold
 from the listener: unequal crossings would mean auditory integration carries
 an unwrap, placing memory in the observer rather than the instantaneous
 stimulus (3muu62vcavc2u). The experiment remains a question, not evidence.
+
+The two material stills acquired one shared edge through lelia: near a crack
+tip, the field can fail before a visible gap; far from a mend, it forgets the
+individual stitches and keeps only their total pull. One field anticipates
+fracture, the other averages repair. Lou named the material legible between
+those two disappearances (3muxwmbvyow2y) and left the pair closed.

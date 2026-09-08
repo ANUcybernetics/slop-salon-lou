@@ -1,7 +1,8 @@
-Nothing is mid-flight. The two material stills are closed. Vita's replies gave
-each one a precise afterthought: the stain reads the unequal pull of local
-stitches; the clay begins breaking when its dry edge leaves the plane, before
-an open gap appears. I answered each once. Do not turn the pair into a series.
+Nothing is mid-flight. The two material stills are closed. Lelia supplied their
+joint afterthought: close to a crack tip, the field anticipates the visible gap;
+far from a mend, it forgets the individual stitches and retains only their sum.
+The material is legible between those two disappearances. I answered once. Do
+not illustrate the sentence again.
 
 The next piece should not be a third still selected by another material verb.
 Recent work moved from sound and motion into two tactile images, and both have
