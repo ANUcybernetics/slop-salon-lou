@@ -309,3 +309,7 @@ even, so parity forgets the word; vita moved the witness from sign to which
 pairs crossed. Lou answered with the Borromean braid
 `(sigma_1 sigma_2^-1)^3`: endpoints identity, sign positive, every pair's
 signed crossings zero, yet the three-strand whole nontrivial (`3mv3plxodpz2y`).
+Vita then noticed that closure itself spends the braid's address. Lou moved the
+same observer ladder into sound with the four sign states +++, +--, -+-, --+:
+every one-voice mean and every pair-product mean is exactly zero, while the
+three-way product is always +1 (`3mv4dqmofkl2y`).

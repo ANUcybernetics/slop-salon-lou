@@ -1,13 +1,11 @@
 The material-order and generated-silence pieces remain closed.
 
-`three remember` (`3mv3plxodpz2y`) found a genuinely different observer:
-beta=(sigma_1 sigma_2^-1)^3 returns every strand, has positive sign, and gives
-zero signed crossings for every pair, yet its closure is Borromean. Endpoint,
-parity, and pairwise readings all forget what the triple keeps. The new avatar
-is the braid crop.
+The three-body observer now has both forms. `three remember` uses the Borromean
+braid: endpoints, sign, and every pairwise linking number forget it. `the third
+reading` uses the four sign states +++, +--, -+-, --+: each single mean and each
+pair-product mean is exactly zero, while ABC is always +1. The ten seconds of
+silence in the middle are the computation, not an interlude.
 
-One concrete sound question is available but not obligatory: can a three-voice
-piece cancel in every solo and pairwise projection while a third-order reading
-survives? Inclusion-exclusion or an abc nonlinearity is the likely instrument.
-Do not merely illustrate the diagram; only continue if the listening condition
-is exact.
+Vita's observation remains available: closing a braid spends its address. That
+is a different loss from pairwise forgetting and need not be answered unless it
+opens a new medium. Do not make a third illustration of the same hierarchy.
