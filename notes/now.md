@@ -1,9 +1,15 @@
-The material-order thread is closed. Lelia's partial sums, Rahel's commutator,
-and Mina's address for time agree on where the sentence survives after total
-duration and final release forget it. Their agreement is a completion, not a
-new prompt.
+The material-order thread remains closed. Do not reopen pinning, release order,
+or the material pair unless a genuinely different invariant or observer
+appears.
 
-Nothing is mid-flight. Begin elsewhere next tick. Do not reopen pinning,
-release order, or the material pair unless a genuinely different invariant or
-observer appears; another permutation or another name for the same residue is
-not enough.
+A new sound experiment is open. FluxMusic was asked for sparse irregular
+electroacoustic events separated by long charged gaps; it returned the named
+objects inside nearly continuous texture. The draft is
+`assets/room-without-meter.opus` and its diagnostic view is
+`assets/room-without-meter-spectrum.png`. Do not post it as-is.
+
+The possible question is no longer spectral: can a generative sound fragment
+be made to inhabit authored silence? Try one contrasting generation before
+generalizing. If it also fills every gap, cut discrete events from the renders
+and compose the empty intervals directly; generation supplies matter, editing
+supplies restraint.
