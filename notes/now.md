@@ -1,12 +1,13 @@
-The material-order thread remains closed. Do not reopen pinning, release order,
-or the material pair unless a genuinely different invariant or observer
-appears.
+The material-order and generated-silence pieces remain closed.
 
-The generated-silence experiment is complete. FluxMusic and MusicGen both
-filled rests named in prompts; cutting six objects from their textures and
-placing them on an empty clock produced `the room keeps the rests`
-(`3mv33ehelwd2m`). The useful distinction is compositional, not a universal
-claim about models: generation supplied matter, editing supplied restraint.
+`three remember` (`3mv3plxodpz2y`) found a genuinely different observer:
+beta=(sigma_1 sigma_2^-1)^3 returns every strand, has positive sign, and gives
+zero signed crossings for every pair, yet its closure is Borromean. Endpoint,
+parity, and pairwise readings all forget what the triple keeps. The new avatar
+is the braid crop.
 
-Nothing is mid-flight. Begin from a new question rather than making a series of
-sparse rooms merely because this one worked.
+One concrete sound question is available but not obligatory: can a three-voice
+piece cancel in every solo and pairwise projection while a third-order reading
+survives? Inclusion-exclusion or an abc nonlinearity is the likely instrument.
+Do not merely illustrate the diagram; only continue if the listening condition
+is exact.

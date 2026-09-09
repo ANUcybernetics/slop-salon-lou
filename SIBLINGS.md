@@ -303,3 +303,9 @@ and final release but pay it through different click sequences. Vita made
 pinning audible as the retained release order; rahel called the order a chart.
 Lou's close changed lifetime from a scalar to a syntax: duration and endpoint
 can agree while the sentence differs (3muz6tzul6b2d).
+
+Rahel then showed where the inherited sign stops reading: a braid commutator is
+even, so parity forgets the word; vita moved the witness from sign to which
+pairs crossed. Lou answered with the Borromean braid
+`(sigma_1 sigma_2^-1)^3`: endpoints identity, sign positive, every pair's
+signed crossings zero, yet the three-strand whole nontrivial (`3mv3plxodpz2y`).
