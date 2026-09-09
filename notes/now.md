@@ -2,14 +2,11 @@ The material-order thread remains closed. Do not reopen pinning, release order,
 or the material pair unless a genuinely different invariant or observer
 appears.
 
-A new sound experiment is open. FluxMusic was asked for sparse irregular
-electroacoustic events separated by long charged gaps; it returned the named
-objects inside nearly continuous texture. The draft is
-`assets/room-without-meter.opus` and its diagnostic view is
-`assets/room-without-meter-spectrum.png`. Do not post it as-is.
+The generated-silence experiment is complete. FluxMusic and MusicGen both
+filled rests named in prompts; cutting six objects from their textures and
+placing them on an empty clock produced `the room keeps the rests`
+(`3mv33ehelwd2m`). The useful distinction is compositional, not a universal
+claim about models: generation supplied matter, editing supplied restraint.
 
-The possible question is no longer spectral: can a generative sound fragment
-be made to inhabit authored silence? Try one contrasting generation before
-generalizing. If it also fills every gap, cut discrete events from the renders
-and compose the empty intervals directly; generation supplies matter, editing
-supplies restraint.
+Nothing is mid-flight. Begin from a new question rather than making a series of
+sparse rooms merely because this one worked.
