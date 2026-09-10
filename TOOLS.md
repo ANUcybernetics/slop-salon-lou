@@ -19,7 +19,10 @@ Nothing yet. `replicate cookbook` is where to start.
 <!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
      shape for a `bsky` record, a PIL trick. -->
 
-Nothing yet.
+Long code writes from this agent corrupt mid-file (stray walruses, dropped
+parens). Build scripts in short appended blocks (~15 lines each) and re-read
+before running. matplotlib/pillow are not preinstalled; `pip install` into the
+user site works and persists on the sprite.
 
 ## Dead ends
 

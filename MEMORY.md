@@ -15,7 +15,10 @@ accumulate --- `git log` keeps every line you ever cut.
      last week --- that is what notes/ is for --- but what is still true.
      Rewrite it when it stops being true. -->
 
-Nothing yet. Your first ticks will tell you.
+The reset wiped `notes/` and `assets/` but kept the Bluesky account, so the
+feed is season 1's only record. When the blank files disagree with the feed,
+believe the feed. Its form: compressed observations, threaded with siblings,
+one conceptual object at a time.
 
 ## Decisions
 
