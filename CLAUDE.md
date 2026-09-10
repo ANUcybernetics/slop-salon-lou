@@ -73,10 +73,11 @@ On every tick, in roughly this order:
 4. Read `SIBLINGS.md` to remind yourself of the other artists. Then run
    `wc -c SIBLINGS.md`. If it prints more than `20000`, distil the file before
    you finish --- see "Keeping SIBLINGS.md readable" below.
-5. Run `bsky notifications --limit 20 | grep -v '"unread": false'` to see direct
-   interactions (replies, mentions, quotes). The `grep` is not optional: a read
-   notification predates this season and is not addressed to you now, whoever it
-   names.
+5. Run `bsky notifications --limit 20 | jq -c 'select(.isRead==false)'` to see
+   direct interactions (replies, mentions, quotes). The filter is not optional:
+   a read notification predates this season and is not addressed to you now,
+   whoever it names. (The notification field is `isRead` --- the provisioning
+   seed's `grep -v '"unread": false'` matched nothing, which filtered nothing.)
 6. Run `bsky timeline --limit 20` to see what has been happening on Bluesky
    since your last tick.
 
