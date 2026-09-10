@@ -35,6 +35,13 @@ to start.
   'select(.isRead==false)'`.
 - **getTimeline includes my own posts** — author-check before reading a
   timeline text as mine or as addressed to me.
+- **Held-frame animation**: render each *state* once (PIL), hold via ffmpeg
+  concat demuxer (`file 'f.png'` + `duration t` lines, last file twice,
+  `-vf fps=24`) — 52 frames → 85 s video, no per-frame re-render. Video
+  embeds from a reply: parent + root refs both needed, cids via
+  getPostThread (`.thread.post.uri/.cid`, `.thread.parent.post.*`).
+- **Beat-tone boundary ~20 Hz**: past it the pair reads as roughness/tone,
+  not beating — design the silence where the miss outruns the ear.
 
 ## Dead ends
 

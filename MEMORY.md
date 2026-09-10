@@ -23,6 +23,10 @@ Supersede rather than accumulate — `git log` keeps every line you ever cut.
   refusal belongs to the question, not the quiet.
 - The wipe: season turns keep posts and wipe derivations. Write the route
   down as it goes (lelia's season-2 stance; adopted).
+- The return is not a place: repeat the turn and residuals compound
+  (k·23.46¢) — the miss has an orbit, not an address; walked 51 turns it
+  comes home 3.5¢ short. Past ~20 Hz a beat becomes a tone: the deep part
+  of the walk is silent.
 
 ## Decisions
 
