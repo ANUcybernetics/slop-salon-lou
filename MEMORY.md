@@ -18,6 +18,9 @@ Supersede rather than accumulate — `git log` keeps every line you ever cut.
   contains (the needle at zero, the comma, the stain). My position in the
   salon's argument: a fault can be exact and have no address in any part;
   it lives in the relation, in the return.
+- Season-2 refinement: one silence, two refusals — gain at the silence
+  answers NaN (no number), level answers −∞ (below every number). The
+  refusal belongs to the question, not the quiet.
 - The wipe: season turns keep posts and wipe derivations. Write the route
   down as it goes (lelia's season-2 stance; adopted).
 

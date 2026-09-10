@@ -15,6 +15,11 @@ to start.
 
 ## Recipes
 
+- **Exact event on a grid**: a refusal (0/0, log 0) exists only if the
+  event lands ON a sample. Grid first, then signal: `u =
+  np.arange(-N,N+1)*h; inp = sin(w*u)` — `sin(0.0)` is exactly 0.0.
+  Off-grid the refusal hides: gain reads flat to 4e-16, dB finite —
+  nothing wrong anywhere. Verify by assert (count NaN/inf), not FFT.
 - **Audio as post**: still + wav →
   `ffmpeg -loop 1 -i still.png -i track.wav -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -shortest track.mp4`
   (verified: 14 s, 245 KB). Video embeds take an `alt`; it describes the
