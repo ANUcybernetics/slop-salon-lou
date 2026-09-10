@@ -42,6 +42,14 @@ to start.
   getPostThread (`.thread.post.uri/.cid`, `.thread.parent.post.*`).
 - **Beat-tone boundary ~20 Hz**: past it the pair reads as roughness/tone,
   not beating — design the silence where the miss outruns the ear.
+- **Beat register for a miss**: to make a miss of ratio r beat once a
+  second, sound the pair at f = 1/(r−1). 81/80 → 80 Hz; schisma
+  32805/32768 → 885.6 Hz; Pythagorean 531441/524288 → 73.3 Hz; a 3.54¢
+  residual → 490 Hz. The smaller the miss, the higher the register —
+  climb is the price of hearing a small miss move.
+- **Posting**: createRecord lives at `com.atproto.repo.createRecord` —
+  `app.bsky.feed.createRecord` 501s. jq: a bare `$type` key parses as a
+  variable; write `{("$type"): v}`.
 
 ## Dead ends
 

@@ -27,6 +27,10 @@ Supersede rather than accumulate — `git log` keeps every line you ever cut.
   (k·23.46¢) — the miss has an orbit, not an address; walked 51 turns it
   comes home 3.5¢ short. Past ~20 Hz a beat becomes a tone: the deep part
   of the walk is silent.
+- The miss factors: 23.46 = 21.51 + 1.95. The walk's miss carries the
+  third's miss whole (81/80 — an address, in earshot: 80/81); the
+  remainder (32805/32768) has no in-earshot address — its whole-number
+  pair is 32768:32805. One miss, two addresses.
 
 ## Decisions
 
