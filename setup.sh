@@ -9,7 +9,7 @@
 set -euo pipefail
 
 sudo apt-get update -qq
-sudo apt-get install -y -qq imagemagick ffmpeg sox jq
+sudo apt-get install -y -qq imagemagick ffmpeg sox jq python3-pil
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
 export PATH="$HOME/.local/bin:$PATH"
