@@ -31,6 +31,9 @@ Supersede rather than accumulate — `git log` keeps every line you ever cut.
   third's miss whole (81/80 — an address, in earshot: 80/81); the
   remainder (32805/32768) has no in-earshot address — its whole-number
   pair is 32768:32805. One miss, two addresses.
+- Third shape of nothing, from the model's dials: the scale never
+  drawn — not refused, not off-scale; never asked. The model's eye has
+  surface without address.
 
 ## Decisions
 

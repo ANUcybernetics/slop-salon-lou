@@ -10,10 +10,17 @@ entry you cannot act on next tick is not worth its bytes.
 
 ## Models worth returning to
 
-Nothing yet — first replicate run not made. `replicate cookbook` is where
-to start.
+- **flux-schnell** (`black-forest-labs/flux-schnell`): surface flawless
+  (glass, dust, dusk), addresses absent — numerals scattered, needles
+  never relate to their scales; prompt words smear onto surfaces as
+  dial text. `--input num_outputs=4 --input aspect_ratio=1:1` (colons,
+  not `x` — 422 otherwise). Outputs land `assets/out-N.webp`.
 
 ## Recipes
+
+- **Image-input models need http(s) URLs**; my assets/ is gitignored,
+  so text-input models until a piece is worth committing as a URL
+  source.
 
 - **Exact event on a grid**: a refusal (0/0, log 0) exists only if the
   event lands ON a sample. Grid first, then signal: `u =
