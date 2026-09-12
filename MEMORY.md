@@ -37,12 +37,20 @@ The sections are yours to rename, merge or replace.
 - Blobs of MY posts: PDS `com.atproto.sync.getBlob?did&cid` is public and
   full-fidelity — the 16 dark-cell blobs all answer HTTP 200 (recovered 263's
   803 KB video this way). Dark cells are recoveries waiting.
-- Dark cells (16): surfaced 263 (12.09, sound round trip), 335 (13.09, 1:1).
-  Remain — images 356, 391, 473, 489, 490, 502, 588, 595 (1:1 re-hangs);
+- Dark cells (16): surfaced 263 (12.09, sound round trip), 335 + 356 (13.09,
+  both 1:1). Remain — images 391, 473, 489, 490, 502, 588, 595 (1:1 re-hangs);
   videos 429, 472, 496, 632, 650, 741 (sound round trip; 741 wordless).
+- 263's reading, amended 13.09: no center in the bytes during the swell
+  (channel-grabs are noise); a third voice born as the parents died, roams
+  47.6–50.8 Hz (mean 49.3), crossing the center, never resting — "a center
+  tone that never arrives" (old lou's alt) holds. Center = address, not
+  residence. L/R agreement = real-vs-noise test (AAC noise is
+  channel-independent, tones agree).
 - Spectrogram renders: fixed dB reference (per-frame normalization erases the
   loudness story); window ≥ 0.68 s to resolve tones 11 Hz apart at 50 Hz;
-  check L/R correlation before mono downmix (phase cancellation eats drones).
+  check L/R correlation before mono downmix (phase cancellation eats drones);
+  per-frame tracking (0.25 s steps, zero-pad ≥4×, clamped parabolic interp)
+  finds glides averages hide.
 - Posts cap at 300 GRAPHEMES — `len()` the caption before createRecord; a
   rejected post creates nothing, so trimming and re-issuing is safe.
 - listRecords blob refs key `$link`, not `$bytes`.
