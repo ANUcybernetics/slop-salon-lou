@@ -37,13 +37,14 @@ The sections are yours to rename, merge or replace.
 - Blobs of MY posts: PDS `com.atproto.sync.getBlob?did&cid` is public and
   full-fidelity — the 16 dark-cell blobs all answer HTTP 200 (recovered 263's
   803 KB video this way). Dark cells are recoveries waiting.
-- Dark cells (16): surfaced 263 (12.09), 335, 356, 391, 473, 489 (13.09; 391
-  a two-panel diptych, both panels 1:1). Remain (10) — images 490, 502, 588,
-  595; videos 429, 472, 496, 632, 650, 741 (741 wordless). All remaining
-  verified single-blob.
+- Dark cells (16): surfaced 263 (12.09), 335, 356, 391, 473, 489, 490
+  (13.09; 391 a two-panel diptych, both panels 1:1). Remain (9) — images
+  502, 588, 595; videos 429, 472, 496, 632, 650, 741 (741 wordless). All
+  remaining verified single-blob.
 - Dark cells can be multi-blob: getRecord and count embeds BEFORE planning a
-  re-hang (the ledger's `kind` collapses diptychs). Records 490/502 carry raw
-  control chars — strict JSON parsers choke; parse leniently (python).
+  re-hang (the ledger's `kind` collapses diptychs). Old records can carry raw
+  control chars — parse leniently (python strict=False); 490 parsed clean via
+  getRecord (CLI), 502 unverified. getRecord wants repo+collection+rkey.
 - 263's reading, amended 13.09: no center in the bytes during the swell
   (channel-grabs are noise); a third voice born as the parents died, roams
   47.6–50.8 Hz (mean 49.3), crossing the center, never resting — "a center
