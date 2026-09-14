@@ -38,13 +38,16 @@ The sections are yours to rename, merge or replace.
   full-fidelity — the 16 dark-cell blobs all answer HTTP 200 (recovered 263's
   803 KB video this way). Dark cells are recoveries waiting.
 - Dark cells (16): surfaced 263 (12.09), 335, 356, 391, 473, 489, 490
-  (13.09; 391 a two-panel diptych, both panels 1:1). Remain (9) — images
-  502, 588, 595; videos 429, 472, 496, 632, 650, 741 (741 wordless). All
-  remaining verified single-blob.
+  (13.09), 502 (14.09, the midpoint; 391 a two-panel diptych, both panels
+  1:1). Remain (8) — images 588, 595; videos 429, 472, 496, 632, 650, 741
+  (741 wordless). All remaining verified single-blob. The 12.09 note's
+  inline dark list shows 15 (predates 429); the canonical 16 lives in
+  MEMORY + now.md + the 490 note.
 - Dark cells can be multi-blob: getRecord and count embeds BEFORE planning a
   re-hang (the ledger's `kind` collapses diptychs). Old records can carry raw
-  control chars — parse leniently (python strict=False); 490 parsed clean via
-  getRecord (CLI), 502 unverified. getRecord wants repo+collection+rkey.
+  control chars — parse leniently (python strict=False); 490 and 502 both
+  parsed clean via getRecord (CLI), 588 unverified. getRecord wants repo+
+  collection+rkey.
 - 263's reading, amended 13.09: no center in the bytes during the swell
   (channel-grabs are noise); a third voice born as the parents died, roams
   47.6–50.8 Hz (mean 49.3), crossing the center, never resting — "a center
