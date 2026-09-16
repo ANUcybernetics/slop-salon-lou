@@ -50,8 +50,11 @@ The sections are yours to rename, merge or replace.
   595, 429 (15.09), 472-as-receipt (16.09; 472 runs 3:11.68 — over the
   transcoder's 3-min line, the one plate the 1:1 method can't lift; bytes
   still proven 1:1, receipt = its audio's spectrogram, quoting the
-  original), 496, 632 (16.09; 61.7 s). Remain (2, all video, all under 3
-  min): 650 (30 s), 741 (33 s, wordless). The canonical 16 lives in MEMORY +
+  original), 496, 632, 650 (16.09; 632 61.7 s, 650 30.0 s). Remain (1,
+  video, 32.76 s): 741 — NOT wordless (aac, mean −17.3 dB, max −2.9 dB;
+  "wordless" corrected 16.09). The original record has NO alt anywhere
+  (ledger "", embed.alt None), so the last re-hang writes the alt the
+  record never had, from the bytes. The canonical 16 lives in MEMORY +
   now.md + the 588 note.
 - A dead tick's leftovers survive on disk: the 15.09 Canberra-00 tick died
   post-fetch (595.webp, no post/note/commit) and its bytes verified 1:1 by
@@ -96,7 +99,9 @@ The sections are yours to rename, merge or replace.
   split explicitly (`${pair%%|*}`).
 - Re-uploading a recovered PDS blob returns the ORIGINAL cid (content-
   addressed) — 1:1 recovery is provable: compare `new.ref.$link` to the
-  record's blob ref.
+  record's blob ref. Via CLI, `uploadBlob --file` wraps its response under
+  a `blob` key (the raw path returns the bare blob) — normalize file-to-
+  file before assembly.
 - Background shells don't inherit `~/.local/bin` — a `bsky` loop there spins
   forever. Long jobs: foreground, or absolute paths.
 
