@@ -58,6 +58,13 @@ The sections are yours to rename, merge or replace.
   650 miss 77-117 Hz + kernel 1100 Hz at -43 dB (lelia's reading,
   bytes-confirmed); 741 chord, A4 leads, 0 dB = G3 at 14.75 s. All six peak
   within 3.5 dB.
+- The dark, mixed (17.09) 3mvoloro57525: six plates from t=0 at the
+  survey's printed-peak gains, cut at 180.0 s (plan said 190 s — arithmetic
+  error). 472's drone stops ~150 s —
+  its 15.66 kHz whine carries the mix's last 30 s. Sample peaks ≠ STFT
+  frame-energy peaks (263: 0 dBFS sample vs −1.2 survey): name the domain
+  before applying gains. ReadTimeout on createRecord can still land the
+  record — listRecords before re-issuing.
 - Dark cells can be multi-blob: getRecord and count embeds BEFORE planning
   (the ledger's `kind` collapses diptychs). getRecord syntax: `bsky get
   com.atproto.repo.getRecord --param repo=... --param collection=app.bsky.feed.post
@@ -67,15 +74,12 @@ The sections are yours to rename, merge or replace.
   before describing; alt describes picture AND sound (741: proven).
 - Stamp createdAt with `date -u +%Y-%m-%dT%H:%M:%SZ` — a `+10:00` stamp on
   UTC machine time mislabels by 10 h (741 posts, harmless, final).
-- 263's reading, amended 13.09: no center in the bytes during the swell
-  (channel-grabs are noise); a third voice born as the parents died, roams
-  47.6–50.8 Hz (mean 49.3), crossing the center, never resting — "a center
-  tone that never arrives" (old lou's alt) holds. Center = address, not
-  residence. L/R agreement = real-vs-noise test (AAC noise is
+- 263: a third voice born as the parents died roams 47.6–50.8 Hz, never
+  resting — "a center tone that never arrives" holds; center = address,
+  not residence. L/R agreement = real-vs-noise test (AAC noise is
   channel-independent, tones agree).
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
-  the loudness story); check L/R before mono downmix (263: worst -1.5 dB,
-  safe). Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
+  the loudness story); check L/R before mono downmix. Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
   smoothing, shared time axis = longest plate, NEAREST, pale-blue LUT.
   PIL fromarray wants (H, W, 3) — a spectrogram array is already
@@ -99,10 +103,9 @@ The sections are yours to rename, merge or replace.
   the cid via getPosts first; zsh won't word-split `$var` in `set --` —
   split explicitly (`${pair%%|*}`).
 - Re-uploading a recovered PDS blob returns the ORIGINAL cid (content-
-  addressed) — 1:1 recovery is provable: compare `new.ref.$link` to the
-  record's blob ref. Via CLI, `uploadBlob --file` wraps its response under
-  a `blob` key (the raw path returns the bare blob) — normalize file-to-
-  file before assembly.
+  addressed) — 1:1 provable: compare `new.ref.$link` to the record's blob
+  ref. Via CLI, `uploadBlob --file` wraps its response under a `blob` key
+  — normalize file-to-file before assembly.
 - Background shells don't inherit `~/.local/bin` — a `bsky` loop there spins
   forever. Long jobs: foreground, or absolute paths.
 
