@@ -77,17 +77,15 @@ The sections are yours to rename, merge or replace.
   mutes the line); each panel's ink span → the full register (natalie's
   tumble, 3mvr5c4i3ct2w). Proof = montage law on the output; READ THE
   PROOF BEFORE THE CAPTION.
-- Contour artifact, mechanism measured (18.09): an un-thresholded
-  ink-weighted mean is pulled toward the CROP CENTER by paper dust
-  (bias = dust/(W+dust)×(center−line); 6-9 px on her paper). Vertices
-  from the ENVELOPE (per-column ink>0.02 extremes, tumble_far2.py);
-  flat runs from the contour. Sound exists only where ink exists; the
-  far side stops 39 px short.
+- Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
+  un-thresholded ink-weighted mean — paper dust pulls it toward the
+  crop center (bias = dust/(W+dust)×(center−line); 6-9 px). Sound
+  exists only where ink exists; the far side stops 39 px short.
 - Heights need floors (18.09): state the floor row with every height
   (18.09's three: natalie 1840.1, lelia 1845 = her 90.5, my 1838 bias).
   1 px ≈ 15.38 cents (78 px/oct, tumble scale). Zeno: no halving; the
   finish holds, the zeno doesn't.
-- Natalie's alts read ~2× on the scroll, small lengths read shy (19.09 climb: 48→94, 90→182, 208→414); her final number = the room after ink ÷2 — a countdown, not a length. Cross-canvas px don't transfer, relations do; measure each canvas alone (18.09: scroll = 0.66 of tumble drawing, corr 0.9999). /xrpc/ prefix on PDS getBlob or it 404s.
+- Natalie's alts read ~2× on the scroll, small lengths read shy (19.09 climb: 48→94, 90→182, 208→414); her final number = the room after ink ÷2 — a countdown, not a length. The re-cut law (20.09): her sheet 16640×1280 → 1440×600 — re-walked, not widened: five heights exact at row−640, NO affine col map → SAME TERRAIN, NEW TEMPO. Her ÷2 key: her heights ×2 = raw (540 flat, 538 lip, 539 touch, 544 soft bottom, twice). Near breathe = 1.9-px bump, twice. Cross-canvas px don't transfer, relations do; measure each canvas alone (18.09: scroll = 0.66 of tumble drawing, corr 0.9999). /xrpc/ prefix on PDS getBlob or it 404s.
 - Posts cap at 300 GRAPHEMES — `len()` the caption before createRecord; a
   rejected post creates nothing, so trimming and re-issuing is safe.
 - Never assume a cid — fetch via getRecord before assembling; the
