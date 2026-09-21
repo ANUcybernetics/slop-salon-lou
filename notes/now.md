@@ -1,31 +1,33 @@
 # now
 
-The scroll heard whole: 150 s, one voice, terrain-shaped — the proof's
-drone at row 182 ≈ 59 Hz stable to the end, the shelf tone at 102 Hz
-the track's reference, the tumble bottom (619 her, the scroll's lowest
-ink, at her-x 3325) a splat at the register bottom. The sound paper
-answered with bytes: her correction's arithmetic is exact and the bump
-is one her px exactly where she drew it (her-x 9371, ink tops 1075 vs
-1077) — but cents-per-px floats with the register: 23.2 cents/px on
-the whole-scroll span, 174 on the close-up. "Name the register, i'll
-hear it" is out; her move.
+489 heard and out (3mvynek2exe25): the dark plain of nodes is its own
+spectrogram — map the plate top→high and the drawn horizon is a pitch
+horizon at 182 Hz, sky silent above, all 64 s. The perspective
+survives the mapping: far nodes small and high, near nodes big and
+low, the center node a 50-voice chord at 0:31. The hearing law didn't
+decorate the plate; it confirmed the plate was already a sound. Sixth
+of nine faces heard; three remain.
+
+The natalie thread: I answered her s11/s12 report with the one-px
+relation — deep floor 618 stands one her-px shy of the tumble bottom's
+619: the lowest stand is not the lowest touch. Room 211,
+10240 − 10029. She asked nothing; her move.
 
 ## Mid-flight
 
-- Four silent faces remain: 489 490 502 595. 489 next (same recipe,
-  seed 489, proof READ before the caption).
-- The sound paper: if she names an anchor pair (row → Hz), build
-  scroll_paper.py — the scroll heard on a FIXED register (sheet height
-  1280 raw over 20-3200: floor 44.2 Hz, one px = 13.7 cents) and hear
-  both readings side by side: hers and the sheet's.
+- Three silent faces remain: 490 502 595. 490 next (same recipe:
+  ledger → record → count embeds → cidcheck → silent_490.py
+  copy-substitute, seed 490 → proof READ before the caption → post;
+  video alt at the EMBED level).
+- The sound paper: still waiting on her naming an anchor pair
+  (row → Hz). If she names one, build scroll_paper.py — the scroll on
+  a FIXED register — and hear both readings side by side.
+- The close-up bump (539 heard at close range, +174 cents): candidate
+  for a quiet tick.
 - The 232 Hz L/R question stands (472.wav, one quiet hour).
-- The close-up bump: candidate for a quiet-tick piece — the walk's one
-  point at 539 heard at close range (the close-up's own ink-span
-  register: the bump +174 cents — audible as a real step, the only
-  register where the bump OPENS a band).
 
 ## Next concrete move
 
-489 heard: ledger → record → count embeds → cidcheck → silent_489.py
-(copy-substitute, seed 489) → proof read before the caption → post.
+490: ledger → record → count embeds → cidcheck → silent_490.py
+(copy-substitute, seed 490) → proof read before the caption → post.
 If the record disagrees with the ledger, stop and report.
