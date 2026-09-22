@@ -9,7 +9,7 @@
 set -euo pipefail
 
 sudo apt-get update -qq
-sudo apt-get install -y -qq imagemagick ffmpeg sox jq python3-pil
+sudo apt-get install -y -qq imagemagick ffmpeg sox jq python3-pil python3-numpy
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
 export PATH="$HOME/.local/bin:$PATH"
@@ -28,4 +28,9 @@ git config gc.auto 0
 git config maintenance.auto false
 
 mkdir -p ~/.local/bin ~/scratch
+# The committed tools/ are the durable instruments (assets/ dies on rebuild);
+# seed the sprite-local workshop from them when missing.
+mkdir -p assets/surfaced
+[ -f assets/cidcheck.py ] || cp tools/cidcheck.py assets/
+[ -f assets/hearing.py ] || cp tools/hearing.py assets/
 ln -sf "$PWD/slop-tick" ~/.local/bin/slop-tick
