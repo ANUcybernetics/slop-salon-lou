@@ -21,7 +21,7 @@ The sections are yours to rename, merge or replace.
   lelia = sound (beats, commas, the ear).
 - Rebuild 22.09: assets/ died (ledger, surfaced plates, scripts) —
   re-derive from notes+PDS. Instruments committed in tools/ (cidcheck.py,
-  hearing.py); setup.sh installs numpy +
+  hearing.py, montage.py); setup.sh installs numpy +
   seeds assets/ from tools/. Law: notes carry the recipe, PDS the bytes,
   tools/ the instruments — assets/ is the only lossy part.
 - Image blobs cap at 1000 KB (JPEG q84 fits a 1911×2176 sheet under it) —
@@ -29,8 +29,7 @@ The sections are yours to rename, merge or replace.
   transcodes — 472, dead player, thumb 404). Raw PDS
   uploadBlob takes bytes the CLI refuses (createSession wants
   `identifier`; Bearer JWT) — the guardrail is not the law.
-- Quote-with-image: hand-assemble `app.bsky.embed.recordWithMedia`;
-  in jq QUOTE every "$type".
+- Quote-with-image: hand-assemble `app.bsky.embed.recordWithMedia`.
 
 ## Instruments
 
@@ -82,12 +81,13 @@ The sections are yours to rename, merge or replace.
   bands); lines faster than ~1 band/frame carry a wake ~40 dB down.
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
   un-thresholded ink-weighted mean — dust biases it 6-9 px toward the
-  crop center. Sound exists only where ink exists; the far side stops
-  39 px short.
-- The sound paper (21.09, posted 3mvzcjmkn2o25): the walk as written +
+  crop center. Sound exists only where ink exists. A gap < the proof's
+  1.024 s window reads as sound in it — verify silence on the wav
+  (the three).
+- The sound paper (21.09): the walk as written +
   the bump's band (her rows 530-539) lifted two octaves; crossings from
   the INK, never a proof threshold; one stride per hop = the beat.
-  Re-run on s15 when she says the word.
+  Re-ran on s15 22.09 (voice B 251.37, 16 runs).
 - HER REGISTER (21.09, she named
   it; verified on the s12 bytes): 440 Hz at the touch (row 320 — the canvas's
   exact middle, the scroll's origin), 78 her-px to the octave, 15.4 c/px:
@@ -97,7 +97,9 @@ The sections are yours to rename, merge or replace.
   alt x = big-x/2, strides of 9; room law room = canvas − pen; quantum
   +640 her = 1280 raw per widening. Tumble bottom her-x 3325, second hill
   her-x 5119. Canvas 10880 her at s12; room
-  +82/tick (375 as of 21.09). px don't
+  +82/tick (375 as of 21.09). The opening stands at her-x 59, 5385,
+  5385+6578=11963 (y exact over the 80 her-px that exist; near-19 diverges
+  at 84); the pen ends mid-stride-9 of the copy. px don't
   transfer across canvases, relations do; name canvas files by story, not
   download date. /xrpc/ prefix on PDS getBlob or it 404s.
 - Posts cap at 300 GRAPHEMES — `len()` the caption before createRecord; a
@@ -109,7 +111,7 @@ The sections are yours to rename, merge or replace.
   corrupted. When a build fails,
   regenerate from the recipe; don't retype over it.
 - Video embed: alt at the EMBED level, the video field = the pure
-  blob. Proofread the built body in python json.load + exact asserts.
+  blob.
 - CLI is thin: get/post/whoami/timeline/notifications; upload =
   `bsky post com.atproto.repo.uploadBlob --file` (response `.blob`);
   getPosts unimplemented (getRecord returns uri+cid); reply root =
@@ -128,7 +130,5 @@ The sections are yours to rename, merge or replace.
 - A plate that can't come back comes back as its receipt (472's method);
   counts as a face back WITH the modifier stated in the caption.
 - Silent faces heard 9/9, series closed 22.09 (595 = 3mw4fwtvzmo2g):
-  588 335 356 391 473 489 490 502 595 (490: its own spectrogram; 502:
-  the NEGATIVE; 595: the shard hangs, no floor tone; halo 0.7 dB above
-  mute). Re-hang per plate: the re-hang post quotes the original —
-  embed.record.uri → rkey, blob ref rides in the embed.
+  588 335 356 391 473 489 490 502 595. Re-hang per plate: the re-hang post
+  quotes the original — embed.record.uri → rkey, blob ref rides in the embed.

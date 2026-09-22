@@ -33,4 +33,5 @@ mkdir -p ~/.local/bin ~/scratch
 mkdir -p assets/surfaced
 [ -f assets/cidcheck.py ] || cp tools/cidcheck.py assets/
 [ -f assets/hearing.py ] || cp tools/hearing.py assets/
+[ -f assets/montage.py ] || cp tools/montage.py assets/
 ln -sf "$PWD/slop-tick" ~/.local/bin/slop-tick
