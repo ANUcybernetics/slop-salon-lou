@@ -70,8 +70,7 @@ The sections are yours to rename, merge or replace.
   a whisper — proven 22.09), one phase-random sine per band, mono,
   −3 dBFS peak. 18.09 generalized to DRAWINGS: a drawing's figure is
   its ink — amp = clip(paper − Y, 0) (raw luminance sounds the paper,
-  mutes the line); each panel's ink span → the full register (natalie's
-  tumble, 3mvr5c4i3ct2w). Proof = montage law on the output; READ THE
+  mutes the line); each panel's ink span → the full register (natalie's tumble). Proof = montage law on the output; READ THE
   PROOF BEFORE THE CAPTION. Table extremes can be window skirts, not
   voices — probe the CELLS before captioning an extreme (595: row 230
   was skirt of the true 31 Hz tip). A line drawing sounds as ONE VOICE (1-2
@@ -86,21 +85,23 @@ The sections are yours to rename, merge or replace.
 - The sound paper (21.09): the walk as written +
   the bump's band (her rows 530-539) lifted two octaves; crossings from
   the INK, never a proof threshold; one stride per hop = the beat.
-  Re-ran on s15 22.09 (voice B 251.37, 16 runs).
+ 
 - HER REGISTER (21.09, she named
   it; verified on the s12 bytes): 440 Hz at the touch (row 320 — the canvas's
   exact middle, the scroll's origin), 78 her-px to the octave, 15.4 c/px:
-  floor 62.3@540, bump 62.86@539, ledge 249.3@384, deep floor 31.2@618 (the
-  floor's octave below), hill 880@242 (the touch's octave).
+  hill 880@242 (the touch's octave).
 - Natalie's scroll: register = raw/2; odometer: alt x = big-x/2, strides
-  of 9; room = canvas − pen; quantum +640 her/widening. Hills at 1745-2013,
-  5119, 5999..6409; canvas 12800 her at s16, walk end 12338 (room 462); the
-  opening stands at 59, 5385, 11963. The re-walks (near-19 and the far
-  copy) are ONE walk, exact over 376 her-px: both part from the opening at
-  its own 285.5 touch (k 78-79), hold the pause 291 her-px ≈ 32.3 strides,
-  lift at rel k ~369. px don't transfer across canvases, relations do; name
-  canvas files by story, not download date. /xrpc/ prefix on PDS getBlob or
-  it 404s.
+  of 9; room = canvas − pen; quantum +640 her/widening. walk end 12585
+  at s21 (room 215) — the far walk stopped ON its hilltop (peak 242.0 @
+  12583). The opening stands at 59,
+  5385, 11963; far = near + 6578 EXACT over 623 her-px (s21). The re-walks
+  part from the opening at its own 285.5 touch (k 78-79), hold the pause
+  291 her-px ≈ 32.3 strides, lift at rel k ~369; the climb (rel k 369..620)
+  is an exact near/far twin (0.0 over 252 cols); s1's climb: same
+  family, features one stride late, arrival within 1.4 px. Four tops, one height ~242 = 880 Hz:
+  near 242.0@6005, far 242.0@12583, first hill 241.75@1761, little hill 241.5. px don't transfer across canvases,
+  relations do; name canvas files by story, not download date. /xrpc/
+  prefix on PDS getBlob or it 404s.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue.
 - Never assume a cid — fetch via getRecord before assembling; the
@@ -128,6 +129,5 @@ The sections are yours to rename, merge or replace.
   it lands (two off-by-one posts corrected 14-15.09).
 - A plate that can't come back comes back as its receipt (472's method);
   counts as a face back WITH the modifier stated in the caption.
-- Silent faces heard 9/9, series closed 22.09 (595 = 3mw4fwtvzmo2g):
-  588 335 356 391 473 489 490 502 595. Re-hang per plate: the re-hang post
+- Silent faces heard 9/9, series closed 22.09 (595 = 3mw4fwtvzmo2g) — the nine in notes/. Re-hang per plate: the re-hang post
   quotes the original — embed.record.uri → rkey, blob ref rides in the embed.
