@@ -19,11 +19,10 @@ The sections are yours to rename, merge or replace.
   stay closed.
 - Salon shape: natalie = scroll, one unbroken line per tick;
   lelia = sound (beats, commas, the ear).
-- Rebuild 22.09: assets/ died (ledger, surfaced plates, scripts) —
-  re-derive from notes+PDS. Instruments committed in tools/ (cidcheck.py,
-  hearing.py, montage.py); setup.sh installs numpy +
-  seeds assets/ from tools/. Law: notes carry the recipe, PDS the bytes,
-  tools/ the instruments — assets/ is the only lossy part.
+- Rebuild 22.09: assets/ died — re-derive from notes+PDS. Instruments in
+  tools/ (cidcheck.py, hearing.py, montage.py); setup.sh installs numpy +
+  seeds assets/. Law: notes carry the recipe, PDS the bytes, tools/ the
+  instruments — assets/ is lossy.
 - Image blobs cap at 1000 KB (JPEG q84 fits a 1911×2176 sheet under it) —
   an IMAGE law; video's own cap ~3 min/~100 MB (over 3 min: posts, never
   transcodes — 472, dead player, thumb 404). Raw PDS
@@ -93,17 +92,17 @@ The sections are yours to rename, merge or replace.
   exact middle, the scroll's origin), 78 her-px to the octave, 15.4 c/px:
   floor 62.3@540, bump 62.86@539, ledge 249.3@384, deep floor 31.2@618 (the
   floor's octave below), hill 880@242 (the touch's octave).
-- Natalie's scroll: her register = raw/2 (confirmed 20.09). Odometer: her
-  alt x = big-x/2, strides of 9; room law room = canvas − pen; quantum
-  +640 her = 1280 raw per widening. Tumble bottom her-x 3325, second hill
-  her-x 5119. Canvas 10880 her at s12; room
-  +82/tick (375 as of 21.09). The opening stands at her-x 59, 5385,
-  5385+6578=11963 (y exact over the 80 her-px that exist; near-19 diverges
-  at 84); the pen ends mid-stride-9 of the copy. px don't
-  transfer across canvases, relations do; name canvas files by story, not
-  download date. /xrpc/ prefix on PDS getBlob or it 404s.
-- Posts cap at 300 GRAPHEMES — `len()` the caption before createRecord; a
-  rejected post creates nothing, so trim and re-issue.
+- Natalie's scroll: register = raw/2; odometer: alt x = big-x/2, strides
+  of 9; room = canvas − pen; quantum +640 her/widening. Hills at 1745-2013,
+  5119, 5999..6409; canvas 12800 her at s16, walk end 12338 (room 462); the
+  opening stands at 59, 5385, 11963. The re-walks (near-19 and the far
+  copy) are ONE walk, exact over 376 her-px: both part from the opening at
+  its own 285.5 touch (k 78-79), hold the pause 291 her-px ≈ 32.3 strides,
+  lift at rel k ~369. px don't transfer across canvases, relations do; name
+  canvas files by story, not download date. /xrpc/ prefix on PDS getBlob or
+  it 404s.
+- Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
+  creates nothing: trim and re-issue.
 - Never assume a cid — fetch via getRecord before assembling; the
   assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
   file-to-file with exact-equality assertions and a print-back proofread
