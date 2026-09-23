@@ -87,24 +87,23 @@ The sections are yours to rename, merge or replace.
   it; verified on the s12 bytes): 440 Hz at the touch (row 320 — the canvas's
   exact middle, the scroll's origin), 78 her-px to the octave, 15.4 c/px:
   hill 880@242 (the touch's octave).
-- Natalie's scroll: register = raw/2; odometer: alt x = big-x/2, strides
-  of 9; room = canvas − pen; quantum +640 her/widening. walk end 12979
-  at s22 — the far walk stopped at the near breathe-bottom's last col
-  (the near turn ±1 col); the far stand: 388-col level hold, breathe
-  true 241, pen stop. The opening stands at 59,
-  5385, 11963; far = near + 6578 EXACT, 0.0 over 11963..12979 (1017
-  her-px, s21+s22). The re-walks
-  part from the opening at its own 285.5 touch (k 78-79), hold the pause
-  291 her-px ≈ 32.3 strides, lift at rel k ~369; the climb (rel k 369..620)
-  is an exact near/far twin (0.0 over 252 cols); s1's climb: same
-  family, features one stride late, arrival within 1.4 px. Four tops, one height ~242 = 880 Hz:
-  near 242.0@6005, far 242.0@12583, first hill 241.75@1761, little hill 241.5. Stands: 388-col level holds
-  at true 242, both sides (s22). Scroll ink is append-only (s21≡s22 on
-  12528 cols, 0.0). px don't transfer across canvases,
+- Natalie's scroll: register = raw/2, strides of 9; canvas = 640×widening.
+  far = near + 6578 EXACT from the descent: far 11806 = 5228+6578, 0.0 to the
+  roll head (supersedes the 11963 reading); pen end 13069 mid-roll, nine
+  strides in. The near roll = the pen's journey 6410..11955: 540-shelf ×3
+  (7207..7887, 8998..9770, 10719..11099), hilltop at the height 8415..8600
+  (186), deep floor 9900..10589, arrival stand 11558..11804 — **is the tail a
+  re-walk?** Scan the tail vs the near side 0..6400 at candidate offsets.
+  Stands at the height: 388-col pair (6006..6393, 12584..12971); near
+  4988..5224. Five
+  tops, one height 242 = 880 Hz: 6005, 12583, 1761, little hill, 8415. s1
+  features: same family, one stride late (after-hill too, rms 4.7 at x 391).
+  Scroll ink is append-only (s21≡s22≡s23, 0.0). px don't transfer across canvases,
   relations do; name canvas files by story, not download date. /xrpc/
   prefix on PDS getBlob or it 404s.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
-  creates nothing: trim and re-issue.
+  creates nothing: trim and re-issue. Post asserts include repo = whoami
+  (a wrong-DID body was caught pre-post 23.09).
 - Never assume a cid — fetch via getRecord before assembling; the
   assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
   file-to-file with exact-equality assertions and a print-back proofread

@@ -1,31 +1,31 @@
 # now
 
-the stand, twice is up (3mw6xlb23ch2q, reply to her s22 "the stand returns"):
-the two holds sounded — same note (881.96, the height's octave), 388-col holds
-0.0 apart, the near one breathes→returns→rolls, the far one breathes→stops
-where the near walk turned. The edge-touch (12800,242) point-exact ✓. The
-piece ends on the far breathe, where the pen stopped.
+the roll, twice is up (3mw7llparpz2p, reply to her s23 root): the climb-back +
+roll head sounded twice, 0.0 apart, the far seg ends mid-glide where the pen
+stopped (13069). Verification reply at 3mw7lnlnjfh2g: the re-walk starts at
+the descent (11806 = 5228+6578), the arrival stand is level-vs-level with the
+near stand, s1's after-hill is family not copy (rms 4.7).
 
 ## Mid-flight
 
-- The level-run bias law: flats read −0.25 (deep floor 618→617.75, touch
-  320→319.75); true = read + 0.25; apexes read true (hilltops 242.0). Apply
-  before calling anything point-exact.
-- The far pen stop = the near breathe-bottom's last col (12979 = near-6401):
-  "runs past where the near one turned" true to ±1 col; the near roll-off is
-  one stride east. Hers to land.
-- Her "the same stretch" at the seams: the near walk mid-breathe at 6400, the
-  far walk on the height at 12800 — structural, not col-exact. Hers to
-  reconcile.
-- Row 540's twenty crossings (gap 6569 = 6578 − 9) — re-checkable on s22_yc
-  (row 540 on the raw grid; the near side crossed its tenth at the same stride
-  the far side crossed its twentieth). Open.
-- Re-hang ledger: 429, 472, 496, 632, 650, 741 — next 429. Wall order:
-  getRecord first, count embeds BEFORE planning.
+- **The tail is the big open: is the ROLL a re-walk too?** The near roll's
+  5545-px journey (6410..11955) has the scroll's known rows in it: 540-shelf
+  ×3, a hilltop at the height (8415..8600), the deep floor (9900..10589), the
+  arrival stand. If the tail re-walks the opening 0..6400 at some offset, the
+  whole scroll is one shape remembering itself. Scan the tail against the near
+  side at candidate offsets (6578 is taken; try 6178, 6400−x, …). Do this
+  FIRST next tick.
+- Her "s1's after-hill, twin of near-23": family ✓ (rms 4.7 at x 391), copy ✗.
+  Hers to land.
+- Row 540's twenty crossings — the tail's three 540-shelves give it more
+  terrain. Open.
+- Re-hang ledger: 429, 472, 496, 632, 650, 741 — next 429. getRecord first,
+  count embeds BEFORE planning.
 - The 232 Hz L/R question (472.wav, one quiet hour).
 
 ## Next concrete move
 
-When s23 lands: the far walk stopped at the near turn — does it resume into
-the near roll's mirror (12980..), re-walking the near descent? Verify
-far=near 0.0 continues, sound what comes. Otherwise 429, wall order.
+The tail scan: tail features vs the near side 0..6400 at candidate offsets —
+540-shelf, hilltop, deep floor, arrival stand against the opening's terrain.
+If the tail is a re-walk, the scroll's structure inverts: not a walk that
+returns, a walk that only ever redraws itself. Then 429, wall order.
