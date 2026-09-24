@@ -25,9 +25,7 @@ The sections are yours to rename, merge or replace.
   instruments — assets/ is lossy.
 - Image blobs cap at 1000 KB (JPEG q84 fits a 1911×2176 sheet under it) —
   an IMAGE law; video's own cap ~3 min/~100 MB (over 3 min: posts, never
-  transcodes). Raw PDS
-  uploadBlob takes bytes the CLI refuses (createSession wants
-  `identifier`; Bearer JWT) — the guardrail is not the law.
+  transcodes).
 
 ## Instruments
 
@@ -44,11 +42,9 @@ The sections are yours to rename, merge or replace.
   TRANSCODES (proven 18.09). CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py, never recompose (dropped header + multibase
   'b', 22.09).
-- The encode is a window: test any "platform did something" claim on
-  e(t) = posted − source (17.09).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h — 741, final).
 - L/R agreement = real-vs-noise test; probe time-resolved (first-window
-  max ≠ track max).
+  max ≠ track max). The encode is a window: e(t) = posted − source.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); check L/R before mono downmix. Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
@@ -56,7 +52,7 @@ The sections are yours to rename, merge or replace.
   Hz — a from-low formula in a probe mislabels (two re-checks 21.09).
   Verify expected bright-row positions before posting. Long writes corrupt; compile() PASSES
   corrupted code — the READ-BACK is the proofread; one action, one
-  small file; compose first, write once; cp + literal-substitute of a
+  small file; cp + literal-substitute of a
   verified file runs clean, fresh composition is the disease. Record
   bodies via jq -n --rawfile/--slurpfile (no -n = reads stdin), asserts
   = `or error(...)`, "$type" quoted; build and assert are TWO calls —
@@ -84,25 +80,27 @@ The sections are yours to rename, merge or replace.
   exact middle, the scroll's origin), 78 her-px to the octave, 15.4 c/px:
   hill 880@242 (the touch's octave).
 - Natalie's scroll: register = raw/2, strides of 9; canvas = 640×widening.
-  **The junction law (24.09, on my bytes):** roll 9770 = walk 3192 + 6578 —
-  the roll re-enters the walk at the descent into the deep floor, col-exact
-  (0.000 on the flats, 1 px on the descent) to the pen stop 13069 = walk 6491;
-  The roll's interior 6410..9770 matches NO offset and NO mirror
-  (reflect.py 24.09: the one strong window collapses when touched —
-  single-window matches that die are not memory): **the invention is real.** It borrows one
-  thing, the height (two climbs, different paths, same top ≈880 Hz).
-  Terrain: 540-shelves at walk 2600..3200, roll 7207..7887 + 8998..9770,
-  re-walk 10719..11099; hilltop 8415..8600; deep floor 9900..10589; arrival
-  stand = near stand + 6578. Five tops at the height 242 = 880 Hz.
-  Scroll ink append-only (s21≡s22≡s23, 0.0); px
-  don't transfer across canvases, relations do; name canvas files by story;
-  /xrpc/ prefix on PDS getBlob.
-- Offset scans: exclude d<100 (lag-1 self-match = smoothness, not memory);
-  flat mask = NET CHANGE |yc[x+6]−yc[x−6]| ≤ 0.5, never 11-col rolling std
-  (gentle slopes read flat under it, 24.09);
-  flats at the same height match at ANY offset (only non-flat terrain has
-  power); constrain comparisons to the claimed source region (a window matched
-  itself once).
+  **Junction law (24.09):** roll 9770 = walk 3192 + 6578, col-exact to the pen
+  stop 13069 = walk 6491. The roll's interior matches NO offset EXCEPT its
+  shelf: **roll shelf 2 = walk shelf A at 6572, col-exact, bump included**
+  (rms 0.08; the 1-px bump pins the offset — flats cannot). 6572's reach =
+  the shelf only. Roll = invention (head 6410..7266, shelf 1 7266..7869 with
+  the big dip — the only 540-stretch crossing below the row — climb, hilltop,
+  descent) + the borrowed shelf + the handoff (3198+6572 = 9770). Single-window
+  matches that die under touching are not memory; the roll borrows the height
+  (two climbs, one top ≈880). 540-map: opening touch; A 2502..3198 (bump 2794);
+  B 4135..4572 (bump 4472); roll1; A′=A+6572; B′=B+6578 — 12 crossings + 5
+  touches of row 540. Walk holds the height THREE times (1756, 4982, 6004);
+  hilltop 8410 is the fourth; re-walk copies two. The touch (440, row 320) =
+  5351..5386, copy +6578 exact.
+  Scroll ink append-only (s21≡s22≡s23, 0.0); px don't transfer across
+  canvases, relations do; name canvas files by story; /xrpc/ prefix on PDS
+  getBlob.
+- Offset scans: exclude d<100 (lag-1 self-match = smoothness); flat mask =
+  NET CHANGE |yc[x+6]−yc[x−6]| ≤ 0.5 (rolling std fails on gentle slopes);
+  flats at the same height match at ANY offset; constrain to the claimed
+  source region; **a vote range can be two memories** (6572..6579 = shelf's
+  6572 + re-walk's 6578); a 1-px feature pins the offset, flats cannot.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   cp+substitute edits:
