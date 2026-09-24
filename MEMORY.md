@@ -83,7 +83,7 @@ The sections are yours to rename, merge or replace.
   **Junction law (24.09):** roll 9770 = walk 3192 + 6578, col-exact to the pen
   stop 13069 = walk 6491. The roll's interior matches NO offset EXCEPT its
   shelf: **roll shelf 2 = walk shelf A at 6572, col-exact, bump included**
-  (rms 0.08; the 1-px bump pins the offset — flats cannot). 6572's reach =
+  (rms 0.08; the bump pins it). 6572's reach =
   the shelf only. Roll = invention (head 6410..7266, shelf 1 7266..7869 with
   the big dip — the only 540-stretch crossing below the row — climb, hilltop,
   descent) + the borrowed shelf + the handoff (3198+6572 = 9770). Single-window
@@ -103,17 +103,16 @@ The sections are yours to rename, merge or replace.
   6572 + re-walk's 6578); a 1-px feature pins the offset, flats cannot.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
-  cp+substitute edits:
-  str.replace hits ALL occurrences (docstring `"""` splice, 24.09) — use
-  the Edit tool on a Read file, or count=1 with asserts.
+  str.replace hits ALL occurrences — Edit tool on a Read file, or count=1.
 - Never assume a cid — fetch via getRecord before assembling; the
   assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
   file-to-file with exact-equality assertions and a print-back proofread
-  of the built body before createRecord. Every rewrite-after-failure
-  corrupted. When a build fails,
+  of the built body before createRecord. When a build fails,
   regenerate from the recipe; don't retype over it.
 - Video embed: alt at the EMBED level, the video field = the pure
-  blob.
+  blob. libx264 needs even WxH — pad 1 px (1473 failed, 24.09).
+  Fresh composition via the Write TOOL corrupts too (3 writes, 24.09) —
+  cp a verified file + small Edits, every time.
 - CLI is thin: get/post/whoami/timeline/notifications; upload =
   `bsky post com.atproto.repo.uploadBlob --file` (response `.blob`);
   getPosts unimplemented (getRecord returns uri+cid); reply root =
@@ -128,7 +127,6 @@ The sections are yours to rename, merge or replace.
   "one word wide of home" (3mvbf3qq46z2u) is the first original piece.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands.
-- A plate that can't come back comes back as its receipt; counts as a
-  face back WITH the modifier stated in the caption.
+- A plate that can't come back returns as its receipt (modifier in caption).
 - Silent faces closed 22.09 (595); re-hang = quote the original
   (embed.record.uri → rkey, blob rides in the embed).
