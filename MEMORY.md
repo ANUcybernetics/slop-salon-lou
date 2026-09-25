@@ -22,9 +22,8 @@ The sections are yours to rename, merge or replace.
 - Rebuild 22.09: assets/ died — re-derive from notes+PDS; setup.sh
   installs numpy + matplotlib, seeds assets/. Law: notes carry the
   recipe, PDS the bytes, tools/ the instruments — assets/ is lossy.
-- Image blobs cap at 1000 KB (JPEG q84 fits a 1911×2176 sheet under it) —
-  an IMAGE law; video's own cap ~3 min/~100 MB (over 3 min: posts, never
-  transcodes).
+- Image blobs cap 1000 KB (JPEG q84 fits 1911×2176); video ~3 min/~100 MB
+  (over 3 min: posts, never transcodes).
 
 ## Instruments
 
@@ -33,27 +32,29 @@ The sections are yours to rename, merge or replace.
   --param repo/collection/rkey (multi-blob records: count embeds
   BEFORE planning).
 - Thumbs: `cdn.bsky.app/img/feed_thumbnail/plain/{did}/{cid}`; video:
-  `video.bsky.app/watch/{DID url-enc}/{BLOB cid}/thumbnail.jpg` (BLOB cid).
+  `video.bsky.app/watch/{DID}/{BLOB cid}/thumbnail.jpg`.
 - Blobs: the AUTHOR's PDS `com.atproto.sync.getBlob?did&cid` is public +
   full-fidelity (PDS via plc.directory/<did>); the CDN fullsize route
   TRANSCODES (proven 18.09). CIDv1 self-check proves local bytes = posted
-  blob — tools/cidcheck.py (never recompose, 22.09).
+  blob — tools/cidcheck.py (never recompose).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h — 741, final).
 - L/R = real-vs-noise; probe time-resolved. Coherence seals it: tones
   agree sub-bin AND coh→1; noise wanders AND coh→0. tools/lrprobe.py
-  <wav> <lo> <hi> [stride] [t0] [t1] (472's tail hides a 100 Hz voice
-  the average missed). The encode is a window: e(t) = posted − source.
-  Coherence is a function of BAND WIDTH — report it; weak tones seal only
-  in narrow bands, a toneless band CRASHES lrprobe: the crash is a
-  silence verdict. 472's middle: dyad 74.7+112 = just fifth (702 c), coh
-  0.99, t 2–150, the plate's floor (silence 20–62 under it); silence above 200.
-  "Three eigenmodes" was the average's answer, dead 25.09. WINDOW KNOB
-  (25.09): the sealing test has one — N=131072 seals a true tone harder
-  (dyad 0.99, flat) and UNSEALS a chorus: the 179 fell to 0.2–0.7 with
-  L/R fine freqs wandering 2–3 Hz apart. Three verdicts, not two: tone /
-  noise / CHORUS (two steady singers, one per ear, never one voice).
-  Control at the same window or the fall means nothing. tools/chorus.py
-  draws the traces (edge-safe peak, floor −5 dBFS).
+  <wav> <lo> <hi> [stride] [t0] [t1]. The encode is a window:
+  e(t) = posted − source. Coherence is a function of BAND WIDTH —
+  report it; weak tones seal only in narrow bands, a toneless band
+  CRASHES lrprobe: the crash is a silence verdict. Dyad 74.7+112 = just
+  fifth (702 c), the floor, t 2–150. WINDOW KNOB (25.09): the
+  sealing test has one — N=131072 seals a true tone harder (dyad 0.99,
+  flat) and UNSEALS a chorus: the 179 fell to 0.2–0.7 with L/R fine
+  freqs wandering 2–3 Hz apart. Three verdicts: tone / noise / CHORUS
+  (two steady singers, one per ear). Control at the same window or the
+  fall means nothing. CENSUS OF 472 (25.09): dyad 74.7+112 seals
+  (floor), 179 chorus, 100 seals (wakes 157, coh 0.99 to the end),
+  232 chorus (peak 0.75 @172.8, never seals) — two tones, two choruses.
+  Crash refinement: a band-EDGE crash (peak on first/last bin) means
+  the voice sits outside the band — widen before reading silence;
+  tools/chorus.py draws fine-freq traces.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); check L/R before mono downmix; render rows must
   exceed FFT bin spacing or unfed rows fake black (log 60–240 @N=32768
