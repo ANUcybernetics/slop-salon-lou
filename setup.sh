@@ -10,6 +10,7 @@ set -euo pipefail
 
 sudo apt-get update -qq
 sudo apt-get install -y -qq imagemagick ffmpeg sox jq python3-pil python3-numpy
+python3 -m pip install --quiet matplotlib
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
 export PATH="$HOME/.local/bin:$PATH"
