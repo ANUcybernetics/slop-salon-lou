@@ -1,0 +1,75 @@
+#!/usr/bin/env python3
+"""472 tail render: the lock. Log 30 Hz-20 kHz, top=high, one shared 0 dB,
+floor -90 dB, 3-frame smoothing, N=32768, hop 0.25 s, pale-blue LUT on
+near-black. Recipe: notes/2026-09-17-the-correction.md (472_tail.py, lost
+in the 22.09 rebuild, re-derived from montage.py). In tools/ 25.09."""
+import numpy as np
+import wave
+import sys
+from PIL import Image
+
+wav, out = sys.argv[1], sys.argv[2]
+w = wave.open(wav, "rb")
+sr = w.getframerate()
+n = w.getnframes()
+w.close()
+print("wav", wav, sr, "Hz", n, "samples", round(n / sr, 2), "s")
+x = np.frombuffer(wave.open(wav, "rb").readframes(n), dtype="<i2").astype(np.float64).reshape(-1, 2)
+x = x.mean(axis=1) / 32768.0
+
+SR, N, HOP, NR = 32000, 32768, 8000, 157
+nwin = (n - N) // HOP + 1
+win = np.hanning(N)
+fk = np.fft.rfftfreq(N, 1.0 / SR)
+
+assign = np.full(len(fk), -1, dtype=int)
+for k in range(len(fk)):
+    f = fk[k]
+    if f < 30.0:
+        continue
+    i = int(round(156.0 * np.log(20000.0 / f) / np.log(20000.0 / 30.0)))
+    if i > 156:
+        i = 156
+    A = assign
+    A[k] = i
+
+spec = np.zeros((NR, nwin))
+for t in range(nwin):
+    m = A >= 0
+    xx = x[t * HOP: t * HOP + N]
+    mm = np.abs(np.fft.rfft(xx * win))
+    np.maximum.at(spec, (A[m], t), mm[m])
+
+spec_db = 20.0 * np.log10(np.maximum(spec / spec.max(), 1e-12))
+spec_db = np.maximum(spec_db, -90.0)
+sm = spec_db.copy()
+sm[:, 1:-1] = np.maximum(spec_db[:, 1:-1], np.maximum(spec_db[:, :-2], spec_db[:, 2:]))
+spec_db = sm
+
+np.save(out.replace(".png", ".npy"), spec_db)
+
+row_of = lambda f: 156.0 * np.log(20000.0 / f) / np.log(20000.0 / 30.0)
+print("anchor rows: tone 232 ->", round(row_of(232.0), 1),
+      " rise 4706 ->", round(row_of(4706.0), 1),
+      " mode 178.99 ->", round(row_of(178.99), 1),
+      " mode 111.7 ->", round(row_of(111.7), 1),
+      " mode 75.37 ->", round(row_of(75.37), 1))
+
+print("t_s  min_row max_row loudest_row  lum232")
+r232 = int(round(row_of(232.0)))
+for c in range(0, nwin, max(1, nwin // 20)):
+    col = spec_db[:, c]
+    rows = np.where(col > -80.0)[0]
+    l232 = round(float(col[r232]), 1)
+    if len(rows) == 0:
+        print(round(c * 0.25, 2), "silent", l232)
+    else:
+        print(round(c * 0.25, 2), int(rows.min()), int(rows.max()), int(np.argmax(col)), l232)
+img = np.clip((spec_db + 90.0) / 90.0, 0.0, 1.0)
+lut_r = img ** 3.0 * 255.0 * 0.55
+lut_g = img ** 1.6 * 255.0 * 0.72
+lut_b = img * 255.0
+rgb = np.dstack([lut_r, lut_g, lut_b]).astype(np.uint8)
+im = Image.fromarray(rgb).resize((min(2048, nwin * 32), 928), Image.NEAREST)
+im.save(out)
+print("wrote", out)
