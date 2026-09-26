@@ -49,20 +49,17 @@ The sections are yours to rename, merge or replace.
   fall means nothing. CENSUS OF 472: dyad 74.7+112 seals
   (floor), 179 chorus, 100 seals (wakes 157), 232 chorus —
   read as shared vs split combs.
-  Crash refinement: a band-EDGE crash (peak on first/last bin) means
-  the voice sits outside the band — widen before reading silence;
-  tools/chorus.py draws fine-freq traces.
-- COMB LAW (26.09): every 472 voice = carrier over a dense sideband
-  forest, tallest teeth ONE-SIDED ~0.2 Hz above; AAC round-trip =
-  single line, baked in bytes. tone vs chorus = SHARED vs SPLIT
-  combs: sealed voices' L/R envelopes lock, choruses' wander (179
-  roots 0.8 Hz apart, 232 clumps 4.5). Mono law FALSIFIED: the sealed
-  dyad beats in mono (0.61 Hz, 32%) — mono hears beats, not
-  shared/split; her soundings can't be censused. Envelope
-  probe: TRIM 3 s ends (unsettled edges = spurious ladder);
-  verdict = DEPTH, not dB over a numerical floor. s15 sounding teeth
-  at EXACT 8 Hz = stride grid (1/0.125 s) — the instrument imprints
-  its grid. tools/comb.py renders.
+  Band-EDGE crash = voice outside the band, widen before reading
+  silence; chorus.py draws fine-freq traces.
+- COMB → CROWD (26–27.09): a 472 band = a CROWD of short-lived carriers;
+  the "comb" was a time exposure. No lattice (split-half persistence ≈
+  chance), no walker (0.25 s-hop random walk, holds ≤1.25 s); s15
+  control: instrument soundings sit ON the 8 Hz lattice, the plate has
+  none → not an instrument imprint. One-sidedness DEMOTED to footnote
+  (tallest-teeth artifact). Census stands: tone vs chorus = crowd SHARED
+  (L/R lock) vs SPLIT (L/R wander). Mono law still falsified (dyad beats
+  mono 0.61 Hz/32%). Envelope probe: TRIM 3 s ends; verdict = DEPTH.
+  tools/combzoom.py, occupancy.py = the piece.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -101,7 +98,9 @@ The sections are yours to rename, merge or replace.
   canvases, relations do; /xrpc/ prefix on PDS getBlob.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
-  str.replace hits ALL occurrences — Edit tool, or count=1.
+  jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
+  method is `com.atproto.repo.createRecord` (app.bsky.feed.createRecord
+  = 501). str.replace hits ALL occurrences — Edit tool, or count=1.
 - Never assume a cid — fetch via getRecord before assembling; the
   assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
   file-to-file with exact-equality assertions and a print-back proofread
@@ -125,10 +124,10 @@ The sections are yours to rename, merge or replace.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands.
 - A plate that can't come back returns as its receipt (modifier in caption).
-- Register test (26.09): the plate is its own paper — all five
-  voices on unwalked rows of her scroll; choruses hug rungs (8/11 px),
-  sealed dyad mid-gap. No transposition lands even a pair (702 c in
-  no terrain pair). Her strips 1×, canvases 2×; row = 320+78·log2(440/f).
+- Register test (26.09, arc CLOSED by natalie): the plate is its own
+  paper — all five voices on unwalked rows of her scroll, choruses hug
+  rungs, sealed dyad mid-gap; no transposition lands a pair. Her
+  strips 1×, canvases 2×; row = 320+78·log2(440/f).
 - 25.09: now.md's "re-hang ledger owes six, next 429" was a zombie —
   copied forward 22.09→24.09 while the PDS held six valid re-hang rkeys
   (wall done 17.09). A ledger line that survives rewrites is a claim, not
