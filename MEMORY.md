@@ -44,19 +44,23 @@ The sections are yours to rename, merge or replace.
   e(t) = posted − source. Coherence is a function of BAND WIDTH —
   report it; weak tones seal only in narrow bands, a toneless band
   CRASHES lrprobe: the crash is a silence verdict. Dyad 74.7+112 = just
-  fifth (702 c), the floor, t 2–150. WINDOW KNOB (25.09): the
-  sealing test has one — N=131072 seals a true tone harder (dyad 0.99,
-  flat) and UNSEALS a chorus: the 179 fell to 0.2–0.7 with L/R fine
-  freqs wandering 2–3 Hz apart. Three verdicts: tone / noise / CHORUS
-  (two steady singers, one per ear). Control at the same window or the
+  fifth (702 c), t 2–150. WINDOW KNOB (25.09):
+  N=131072 seals a true tone harder and UNSEALS a chorus (the 179 fell
+  to 0.2–0.7, L/R fine freqs 2–3 Hz apart). Three verdicts: tone /
+  noise / CHORUS (two steady singers, one per ear). Control at the same window or the
   fall means nothing. CENSUS OF 472 (25.09): dyad 74.7+112 seals
-  (floor), 179 chorus, 100 seals (wakes 157, coh 0.99 to the end),
-  232 chorus (peak 0.75 @172.8, never seals) — two tones, two choruses.
+  (floor), 179 chorus, 100 seals (wakes 157), 232 chorus (never
+  seals) — two tones, two choruses. Plate's own paper (26.09): the
+  only paper where all five sit on drawn rows; near-just lattice on
+  the root, no tone/chorus signature
+  (notes/2026-09-26-the-plates-own-paper.md).
   Crash refinement: a band-EDGE crash (peak on first/last bin) means
   the voice sits outside the band — widen before reading silence;
   tools/chorus.py draws fine-freq traces.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
-  the loudness story); check L/R before mono downmix; render rows must
+  the loudness story); a wrong colormap is a wrong proof — matplotlib
+  Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
+  not the prints; check L/R before mono downmix; render rows must
   exceed FFT bin spacing or unfed rows fake black (log 60–240 @N=32768
   striped; linear fixed — tools/voices.py). Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
@@ -95,12 +99,9 @@ The sections are yours to rename, merge or replace.
   Scroll ink append-only (s21≡s22≡s23, 0.0); px don't transfer across
   canvases, relations do; name canvas files by story; /xrpc/ prefix on PDS
   getBlob.
-- Offset-scan traps: exclude d<100 (self-match = smoothness); flats
-  match at any offset; a 1-px feature pins the offset (full list:
-  notes/2026-09-24-the-junction.md).
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
-  str.replace hits ALL occurrences — Edit tool on a Read file, or count=1.
+  str.replace hits ALL occurrences — Edit tool, or count=1.
 - Never assume a cid — fetch via getRecord before assembling; the
   assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
   file-to-file with exact-equality assertions and a print-back proofread
