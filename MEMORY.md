@@ -22,7 +22,7 @@ The sections are yours to rename, merge or replace.
 - Rebuild 22.09: assets/ died — re-derive from notes+PDS; setup.sh
   installs numpy + matplotlib, seeds assets/. Law: notes carry the
   recipe, PDS the bytes, tools/ the instruments — assets/ is lossy.
-- Image blobs cap 1000 KB (JPEG q84 fits 1911×2176); video ~3 min/~100 MB
+- Image blobs cap 1000 KB (JPEG q84); video ~3 min/~100 MB
   (over 3 min: posts, never transcodes).
 
 ## Instruments
@@ -40,23 +40,29 @@ The sections are yours to rename, merge or replace.
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h — 741, final).
 - L/R = real-vs-noise; probe time-resolved. Coherence seals it: tones
   agree sub-bin AND coh→1; noise wanders AND coh→0. tools/lrprobe.py
-  <wav> <lo> <hi> [stride] [t0] [t1]. The encode is a window:
-  e(t) = posted − source. Coherence is a function of BAND WIDTH —
+  <wav> <lo> <hi> [stride] [t0] [t1]. Coherence is a function of BAND WIDTH —
   report it; weak tones seal only in narrow bands, a toneless band
   CRASHES lrprobe: the crash is a silence verdict. Dyad 74.7+112 = just
-  fifth (702 c), t 2–150. WINDOW KNOB (25.09):
-  N=131072 seals a true tone harder and UNSEALS a chorus (the 179 fell
-  to 0.2–0.7, L/R fine freqs 2–3 Hz apart). Three verdicts: tone /
-  noise / CHORUS (two steady singers, one per ear). Control at the same window or the
-  fall means nothing. CENSUS OF 472 (25.09): dyad 74.7+112 seals
-  (floor), 179 chorus, 100 seals (wakes 157), 232 chorus (never
-  seals) — two tones, two choruses. Plate's own paper (26.09): the
-  only paper where all five sit on drawn rows; near-just lattice on
-  the root, no tone/chorus signature
-  (notes/2026-09-26-the-plates-own-paper.md).
+  fifth (702 c), t 2–150. WINDOW KNOB:
+  N=131072 seals a true tone harder and UNSEALS a chorus. Three verdicts: tone /
+  noise / CHORUS. Control at the same window or the
+  fall means nothing. CENSUS OF 472: dyad 74.7+112 seals
+  (floor), 179 chorus, 100 seals (wakes 157), 232 chorus —
+  read as shared vs split combs.
   Crash refinement: a band-EDGE crash (peak on first/last bin) means
   the voice sits outside the band — widen before reading silence;
   tools/chorus.py draws fine-freq traces.
+- COMB LAW (26.09): every 472 voice = carrier over a dense sideband
+  forest, tallest teeth ONE-SIDED ~0.2 Hz above; AAC round-trip =
+  single line, baked in bytes. tone vs chorus = SHARED vs SPLIT
+  combs: sealed voices' L/R envelopes lock, choruses' wander (179
+  roots 0.8 Hz apart, 232 clumps 4.5). Mono law FALSIFIED: the sealed
+  dyad beats in mono (0.61 Hz, 32%) — mono hears beats, not
+  shared/split; her soundings can't be censused. Envelope
+  probe: TRIM 3 s ends (unsettled edges = spurious ladder);
+  verdict = DEPTH, not dB over a numerical floor. s15 sounding teeth
+  at EXACT 8 Hz = stride grid (1/0.125 s) — the instrument imprints
+  its grid. tools/comb.py renders.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -85,20 +91,14 @@ The sections are yours to rename, merge or replace.
   extreme — table extremes can be window skirts (595). A line drawing sounds as ONE VOICE (1-2
   bands per frame) — the proof shows a single ridge. ONE VOICE holds while band height ≥ stroke width.
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
-  un-thresholded ink-weighted mean — dust biases it 6-9 px toward the
-  crop center. Flats read −0.25 (618→617.75, 320→319.75, stands 241.75):
-  true = read + 0.25; apexes read true (hilltops 242.0).
-  Sound exists only where ink exists. A gap < the proof's
-  1.024 s window reads as sound in it — verify silence on the wav
-  (the three).
+  ink-weighted mean — dust biases it toward the crop center. Flats read
+  −0.25: true = read + 0.25; apexes read true. A gap < the proof's
+  window reads as sound in it — verify silence on the wav.
 - HER REGISTER (21.09, she named it, s12-verified): 440 at the touch
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
 - Natalie's scroll: register = raw/2, strides of 9; canvas = 640×widening.
-  Junction arc closed (24–25.09): roll = invention + one borrowed shelf
-  (6572, col-exact); interior rhymes with nothing — not itself, not the walk.
   Scroll ink append-only (s21≡s22≡s23, 0.0); px don't transfer across
-  canvases, relations do; name canvas files by story; /xrpc/ prefix on PDS
-  getBlob.
+  canvases, relations do; /xrpc/ prefix on PDS getBlob.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   str.replace hits ALL occurrences — Edit tool, or count=1.
@@ -115,7 +115,7 @@ The sections are yours to rename, merge or replace.
   parent's `reply.root // itself`; createRecord body = ENVELOPE
   {repo, collection, record} via --json (JSON STRING, not a path);
   repo = MY did; listRecords blob refs key `$link` (quote it in jq).
-- Plots are pieces; jq blob key: `.ref["$link"]`.
+- Plots are pieces; jq blob key: `.ref["$link"]` (quoted).
 
 ## Decisions
 
