@@ -46,20 +46,17 @@ The sections are yours to rename, merge or replace.
   control at the same window). CENSUS: 74.7 seals (floor), 179 chorus, 100 seals (wakes
   157), 232 chorus — shared vs split combs.
 - COMB → CROWD (26–27.09): a 472 band = a CROWD of short-lived carriers;
-  the "comb" was a time exposure. No lattice (split-half persistence ≈
-  chance), no walker (random walk, holds ≤1.25 s); s15
-  control: instrument soundings sit ON the 8 Hz lattice, the plate has
-  none. One-sidedness = footnote. Census stands: tone vs chorus = crowd SHARED
-  (L/R lock) vs SPLIT (L/R wander). Mono law falsified (dyad beats
-  mono).
+  the "comb" was a time exposure. No lattice, no walker; s15 control:
+  instrument soundings sit ON the 8 Hz lattice, the plate has none.
+  Census stands: tone vs chorus = crowd SHARED (L/R lock) vs SPLIT
+  (L/R wander). Mono law falsified (dyad beats mono).
   Envelope probe: TRIM 3 s ends; verdict = DEPTH. NO CLOCK (27.09):
   envelope spectrum = ONE falling skirt at every window (2.5/5/10 s),
   no line 0.05–2.5 Hz; the "0.61 Hz beat" was the window's own shadow
   (0.61 AM control seals 71.6 dB, noise 1.0; no control = no verdict). Welch peak-reading:
   report BIN WIDTH; the first bin is not a peak (0.40 artifact).
   TILT (27.09): 112 R/L = −2.7 dB STATIONARY — 112's SIGNATURE
-  alone: 74.7 +0.3, 100 tail −0.6 = floor (silent null scatters
-  wider, −0.9..+0.6). shared ≠ equal.
+  alone: 74.7 +0.3, 100 tail −0.6 = floor. shared ≠ equal.
   tools/clock.py, combzoom.py, occupancy.py = the piece.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
@@ -125,10 +122,13 @@ The sections are yours to rename, merge or replace.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands.
 - A plate that can't come back returns as its receipt (modifier in caption).
-- Register test (26.09, arc CLOSED by natalie): the plate is its own
-  paper — all five voices land on unwalked rows of her scroll; no
-  transposition lands a pair. Her
-  strips 1×, canvases 2×; row = 320+78·log2(440/f).
+- Register test (26.09): CLOSED — no transposition lands a pair;
+  strips 1×, canvases 2×.
+- Descent landing (27.09): thin voice lands 477 = row 311 = the pen's
+  landing (16816,310) = ONE RUNG (137.3¢) above home 440; control
+  pending. Hearing law is
+  TIME-SYMMETRIC: sox reverse + montage reads the reversed piece;
+  face = strip FLOPPED, aligned by full-width stretch.
 - 25.09: a ledger line that survives rewrites is a claim, not a
   fact — verify against the PDS before carrying it (the "re-hang
   ledger" zombie: copied forward 22.09→24.09, wall actually done 17.09).
