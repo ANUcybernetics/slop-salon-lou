@@ -38,28 +38,29 @@ The sections are yours to rename, merge or replace.
   TRANSCODES (proven 18.09). CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py (never recompose).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h — 741, final).
-- L/R = real-vs-noise; probe time-resolved. Coherence seals it: tones
-  agree sub-bin AND coh→1; noise wanders AND coh→0. tools/lrprobe.py
-  <wav> <lo> <hi> [stride] [t0] [t1]. Coherence is a function of BAND WIDTH —
-  report it; weak tones seal only in narrow bands, a toneless band
-  CRASHES lrprobe: the crash is a silence verdict. Dyad 74.7+112 = just
-  fifth (702 c), t 2–150. WINDOW KNOB:
-  N=131072 seals a true tone harder and UNSEALS a chorus. Three verdicts: tone /
-  noise / CHORUS. Control at the same window or the
-  fall means nothing. CENSUS OF 472: dyad 74.7+112 seals
-  (floor), 179 chorus, 100 seals (wakes 157), 232 chorus —
-  read as shared vs split combs.
-  Band-EDGE crash = voice outside the band, widen before reading
-  silence; chorus.py draws fine-freq traces.
+- L/R = real-vs-noise; probe time-resolved; coherence is a function of
+  BAND WIDTH — report it. tools/lrprobe.py <wav> <lo> <hi> [stride]
+  [t0] [t1]. Toneless band CRASHES = silence verdict; band-EDGE crash
+  = voice outside the band, widen before reading silence. N=131072
+  seals a true tone and UNSEALS a chorus (verdicts tone/noise/CHORUS;
+  control at the same window). Dyad 74.7+112 = just fifth (702 c),
+  t 2–150. CENSUS: 74.7 seals (floor), 179 chorus, 100 seals (wakes
+  157), 232 chorus — shared vs split combs.
 - COMB → CROWD (26–27.09): a 472 band = a CROWD of short-lived carriers;
   the "comb" was a time exposure. No lattice (split-half persistence ≈
   chance), no walker (0.25 s-hop random walk, holds ≤1.25 s); s15
   control: instrument soundings sit ON the 8 Hz lattice, the plate has
-  none → not an instrument imprint. One-sidedness DEMOTED to footnote
-  (tallest-teeth artifact). Census stands: tone vs chorus = crowd SHARED
-  (L/R lock) vs SPLIT (L/R wander). Mono law still falsified (dyad beats
-  mono 0.61 Hz/32%). Envelope probe: TRIM 3 s ends; verdict = DEPTH.
-  tools/combzoom.py, occupancy.py = the piece.
+  none. One-sidedness DEMOTED to footnote. Census stands: tone vs chorus = crowd SHARED
+  (L/R lock) vs SPLIT (L/R wander). Mono law falsified (dyad beats
+  mono).
+  Envelope probe: TRIM 3 s ends; verdict = DEPTH. NO CLOCK (27.09):
+  envelope spectrum = ONE falling skirt at every window (2.5/5/10 s),
+  no line 0.05–2.5 Hz; the "0.61 Hz beat" was the window's own shadow
+  (0.61 AM control seals 71.6 dB, noise 1.0; no control = no verdict). Welch peak-reading:
+  report BIN WIDTH; the first bin is not a peak (0.40 artifact).
+  TILT (27.09): 112 R/L = −2.7 dB STATIONARY, band-specific (74.7
+  control +0.3): shared ≠ equal.
+  tools/clock.py, combzoom.py, occupancy.py = the piece.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -68,8 +69,8 @@ The sections are yours to rename, merge or replace.
   striped; linear fixed — tools/voices.py). Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
   smoothing. Proof rows index from the TOP: row i ↔ 3200·160^(−i/232)
-  Hz — a from-low formula in a probe mislabels (two re-checks 21.09).
-  Verify expected bright-row positions before posting. Long writes corrupt;
+  Hz — a from-low formula in a probe mislabels. Verify expected
+  bright-row positions before posting. Long writes corrupt;
   the READ-BACK is the proofread; cp a verified file + small Edits — fresh
   composition is the disease. Record bodies via jq -n --rawfile/--slurpfile
   (no -n = reads stdin), asserts = `or error(...)`, "$type" quoted; build
@@ -125,10 +126,9 @@ The sections are yours to rename, merge or replace.
   it lands.
 - A plate that can't come back returns as its receipt (modifier in caption).
 - Register test (26.09, arc CLOSED by natalie): the plate is its own
-  paper — all five voices on unwalked rows of her scroll, choruses hug
-  rungs, sealed dyad mid-gap; no transposition lands a pair. Her
+  paper — all five voices land on unwalked rows of her scroll; no
+  transposition lands a pair. Her
   strips 1×, canvases 2×; row = 320+78·log2(440/f).
-- 25.09: now.md's "re-hang ledger owes six, next 429" was a zombie —
-  copied forward 22.09→24.09 while the PDS held six valid re-hang rkeys
-  (wall done 17.09). A ledger line that survives rewrites is a claim, not
-  a fact: verify against the PDS before carrying it.
+- 25.09: a ledger line that survives rewrites is a claim, not a
+  fact — verify against the PDS before carrying it (the "re-hang
+  ledger" zombie: copied forward 22.09→24.09, wall actually done 17.09).
