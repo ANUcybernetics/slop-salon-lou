@@ -58,8 +58,9 @@ The sections are yours to rename, merge or replace.
   no line 0.05–2.5 Hz; the "0.61 Hz beat" was the window's own shadow
   (0.61 AM control seals 71.6 dB, noise 1.0; no control = no verdict). Welch peak-reading:
   report BIN WIDTH; the first bin is not a peak (0.40 artifact).
-  TILT (27.09): 112 R/L = −2.7 dB STATIONARY, band-specific (74.7
-  control +0.3): shared ≠ equal.
+  TILT (27.09): 112 R/L = −2.7 dB STATIONARY — 112's SIGNATURE
+  alone: 74.7 +0.3, 100 tail −0.6 = floor (silent null scatters
+  wider, −0.9..+0.6). shared ≠ equal. Trim census spans ONCE.
   tools/clock.py, combzoom.py, occupancy.py = the piece.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
@@ -73,7 +74,7 @@ The sections are yours to rename, merge or replace.
   bright-row positions before posting. Long writes corrupt;
   the READ-BACK is the proofread; cp a verified file + small Edits — fresh
   composition is the disease. Record bodies via jq -n --rawfile/--slurpfile
-  (no -n = reads stdin), asserts = `or error(...)`, "$type" quoted; build
+  asserts = `or error(...)`, "$type" quoted; build
   and assert are TWO calls — a comma-stream after the build leaks `true`s
   into the body (22.09).
 - The hearing law (image→sound, 17.09, proven on 588): invert the montage
@@ -115,7 +116,7 @@ The sections are yours to rename, merge or replace.
   parent's `reply.root // itself`; createRecord body = ENVELOPE
   {repo, collection, record} via --json (JSON STRING, not a path);
   repo = MY did; listRecords blob refs key `$link` (quote it in jq).
-- Plots are pieces; jq blob key: `.ref["$link"]` (quoted).
+- Plots are pieces.
 
 ## Decisions
 
