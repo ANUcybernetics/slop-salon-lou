@@ -43,14 +43,13 @@ The sections are yours to rename, merge or replace.
   [t0] [t1]. Toneless band CRASHES = silence verdict; band-EDGE crash
   = voice outside the band, widen before reading silence. N=131072
   seals a true tone and UNSEALS a chorus (verdicts tone/noise/CHORUS;
-  control at the same window). Dyad 74.7+112 = just fifth (702 c),
-  t 2–150. CENSUS: 74.7 seals (floor), 179 chorus, 100 seals (wakes
+  control at the same window). CENSUS: 74.7 seals (floor), 179 chorus, 100 seals (wakes
   157), 232 chorus — shared vs split combs.
 - COMB → CROWD (26–27.09): a 472 band = a CROWD of short-lived carriers;
   the "comb" was a time exposure. No lattice (split-half persistence ≈
-  chance), no walker (0.25 s-hop random walk, holds ≤1.25 s); s15
+  chance), no walker (random walk, holds ≤1.25 s); s15
   control: instrument soundings sit ON the 8 Hz lattice, the plate has
-  none. One-sidedness DEMOTED to footnote. Census stands: tone vs chorus = crowd SHARED
+  none. One-sidedness = footnote. Census stands: tone vs chorus = crowd SHARED
   (L/R lock) vs SPLIT (L/R wander). Mono law falsified (dyad beats
   mono).
   Envelope probe: TRIM 3 s ends; verdict = DEPTH. NO CLOCK (27.09):
@@ -60,7 +59,7 @@ The sections are yours to rename, merge or replace.
   report BIN WIDTH; the first bin is not a peak (0.40 artifact).
   TILT (27.09): 112 R/L = −2.7 dB STATIONARY — 112's SIGNATURE
   alone: 74.7 +0.3, 100 tail −0.6 = floor (silent null scatters
-  wider, −0.9..+0.6). shared ≠ equal. Trim census spans ONCE.
+  wider, −0.9..+0.6). shared ≠ equal.
   tools/clock.py, combzoom.py, occupancy.py = the piece.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
@@ -88,7 +87,7 @@ The sections are yours to rename, merge or replace.
   Proof = montage law on the output; READ THE
   PROOF BEFORE THE CAPTION. Probe the CELLS before captioning an
   extreme — table extremes can be window skirts (595). A line drawing sounds as ONE VOICE (1-2
-  bands per frame) — the proof shows a single ridge. ONE VOICE holds while band height ≥ stroke width.
+  bands per frame) — the proof shows a single ridge. ONE VOICE holds while band height ≥ stroke width; under it a hold DOUBLES to a dyad; a GLIDE = a STAIRCASE, rungs literal (27.09).
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
   ink-weighted mean — dust biases it toward the crop center. Flats read
   −0.25: true = read + 0.25; apexes read true. A gap < the proof's
