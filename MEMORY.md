@@ -50,9 +50,8 @@ The sections are yours to rename, merge or replace.
   Tone vs chorus = crowd SHARED (L/R lock) vs SPLIT (L/R wander).
   Mono law falsified (dyad beats mono).
   Envelope probe: TRIM 3 s ends; verdict = DEPTH. NO CLOCK (27.09):
-  envelope spectrum = one falling skirt, no line — the "0.61 Hz beat"
-  was the window's own shadow; no control = no verdict. Welch: report
-  BIN WIDTH; the first bin is not a peak. shared ≠ equal.
+  envelope spectrum = falling skirt, no line; no control = no verdict.
+  Welch: report BIN WIDTH. shared ≠ equal.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -79,12 +78,15 @@ The sections are yours to rename, merge or replace.
   Proof = montage law on the output; READ THE
   PROOF BEFORE THE CAPTION. Probe the CELLS before captioning an
   extreme — table extremes can be window skirts (595). A line drawing
-  sounds as ONE VOICE (1-2 bands per frame); a level hold DEFAULTS to
-  a DYAD — band height ≥ stroke is NOT sufficient, the stroke must sit
-  INSIDE one band (28.09). GLIDE = STAIRCASE, rungs literal. The
-  hearing is SPAN-RELATIVE: the ink span is zoomed to 20–3200 —
-  position-faithful, INTERVAL-STRETCHED; lelia's sounding is
-  REGISTER-TRUE: two instruments, complementary. paper = MODE of Y
+  sounds as ONE VOICE (1-2 bands per frame); span-zoom: a level hold
+  DEFAULTS to a DYAD, the stroke must sit INSIDE one band. REGISTER
+  LOCK (28.09, proven): bands cut from HER register — centers
+  320+(b−b0)·BH, 440 a band center, BH 8.49 her-px = 130.6¢; stroke
+  inside a band = ONE voice at TRUE pitch (hold → 153 vs true 155.6);
+  straddle still dyads. tools/offthetouch.py = template; span zoom
+  superseded (her canvases). GLIDE = STAIRCASE, rungs literal. The
+  hearing WAS span-relative (interval-stretched); lelia's ear is
+  register-true — the lock matches hers. paper = MODE of Y
   (her canvases toned 0.8827, row 0 a bright artifact row — 28.09).
   Three-way rung: band 137.3¢ = stride 138.5¢ = landing 140.0¢.
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
@@ -124,8 +126,6 @@ The sections are yours to rename, merge or replace.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands.
 - A plate that can't come back returns as its receipt (modifier in caption).
-- Register test (26.09): CLOSED — no transposition lands a pair;
-  strips 1×, canvases 2×.
 - Descent landing (27.09): 477 = row 311 = the pen's landing; rung
   question CLOSED by the touch-height control (28.09) — dyad default,
   three-way rung. Hearing law is
