@@ -43,21 +43,16 @@ The sections are yours to rename, merge or replace.
   [t0] [t1]. Toneless band CRASHES = silence verdict; band-EDGE crash
   = voice outside the band, widen before reading silence. N=131072
   seals a true tone and UNSEALS a chorus (verdicts tone/noise/CHORUS;
-  control at the same window). CENSUS: 74.7 seals (floor), 179 chorus, 100 seals (wakes
-  157), 232 chorus — shared vs split combs.
+  control at the same window).
 - COMB → CROWD (26–27.09): a 472 band = a CROWD of short-lived carriers;
-  the "comb" was a time exposure. No lattice, no walker; s15 control:
-  instrument soundings sit ON the 8 Hz lattice, the plate has none.
-  Census stands: tone vs chorus = crowd SHARED (L/R lock) vs SPLIT
-  (L/R wander). Mono law falsified (dyad beats mono).
+  the "comb" was a time exposure. No lattice, no walker; instrument
+  soundings sit ON the 8 Hz lattice, the plate has none.
+  Tone vs chorus = crowd SHARED (L/R lock) vs SPLIT (L/R wander).
+  Mono law falsified (dyad beats mono).
   Envelope probe: TRIM 3 s ends; verdict = DEPTH. NO CLOCK (27.09):
-  envelope spectrum = ONE falling skirt at every window (2.5/5/10 s),
-  no line 0.05–2.5 Hz; the "0.61 Hz beat" was the window's own shadow
-  (0.61 AM control seals 71.6 dB, noise 1.0; no control = no verdict). Welch peak-reading:
-  report BIN WIDTH; the first bin is not a peak (0.40 artifact).
-  TILT (27.09): 112 R/L = −2.7 dB STATIONARY — 112's SIGNATURE
-  alone: 74.7 +0.3, 100 tail −0.6 = floor. shared ≠ equal.
-  tools/clock.py, combzoom.py, occupancy.py = the piece.
+  envelope spectrum = one falling skirt, no line — the "0.61 Hz beat"
+  was the window's own shadow; no control = no verdict. Welch: report
+  BIN WIDTH; the first bin is not a peak. shared ≠ equal.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -69,10 +64,10 @@ The sections are yours to rename, merge or replace.
   Hz — a from-low formula in a probe mislabels. Verify expected
   bright-row positions before posting. Long writes corrupt;
   the READ-BACK is the proofread; cp a verified file + small Edits — fresh
-  composition is the disease. Record bodies via jq -n --rawfile/--slurpfile
-  asserts = `or error(...)`, "$type" quoted; build
-  and assert are TWO calls — a comma-stream after the build leaks `true`s
-  into the body (22.09).
+  composition is the disease. Record bodies via jq -n --rawfile/--slurpfile;
+  asserts = if/then/else error(...) — boolean `or error` REPLACES the
+  body with `true` (28.09); "$type" quoted; build and assert are TWO
+  calls, a comma-stream after the build leaks `true`s (22.09).
 - The hearing law (image→sound, 17.09, proven on 588): invert the montage
   law — 64 log bands 20-3200 Hz (top=high), 4 px per 0.25 s hop max-pool
   (1024 px plate = 64.0 s), luminance (rec709 on linear sRGB) →
@@ -83,8 +78,15 @@ The sections are yours to rename, merge or replace.
   mutes the line); each panel's ink span → the full register.
   Proof = montage law on the output; READ THE
   PROOF BEFORE THE CAPTION. Probe the CELLS before captioning an
-  extreme — table extremes can be window skirts (595). A line drawing sounds as ONE VOICE (1-2
-  bands per frame) — the proof shows a single ridge. ONE VOICE holds while band height ≥ stroke width; under it a hold DOUBLES to a dyad; a GLIDE = a STAIRCASE, rungs literal (27.09).
+  extreme — table extremes can be window skirts (595). A line drawing
+  sounds as ONE VOICE (1-2 bands per frame); a level hold DEFAULTS to
+  a DYAD — band height ≥ stroke is NOT sufficient, the stroke must sit
+  INSIDE one band (28.09). GLIDE = STAIRCASE, rungs literal. The
+  hearing is SPAN-RELATIVE: the ink span is zoomed to 20–3200 —
+  position-faithful, INTERVAL-STRETCHED; lelia's sounding is
+  REGISTER-TRUE: two instruments, complementary. paper = MODE of Y
+  (her canvases toned 0.8827, row 0 a bright artifact row — 28.09).
+  Three-way rung: band 137.3¢ = stride 138.5¢ = landing 140.0¢.
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
   ink-weighted mean — dust biases it toward the crop center. Flats read
   −0.25: true = read + 0.25; apexes read true. A gap < the proof's
@@ -124,9 +126,9 @@ The sections are yours to rename, merge or replace.
 - A plate that can't come back returns as its receipt (modifier in caption).
 - Register test (26.09): CLOSED — no transposition lands a pair;
   strips 1×, canvases 2×.
-- Descent landing (27.09): thin voice lands 477 = row 311 = the pen's
-  landing (16816,310) = ONE RUNG (137.3¢) above home 440; control
-  pending. Hearing law is
+- Descent landing (27.09): 477 = row 311 = the pen's landing; rung
+  question CLOSED by the touch-height control (28.09) — dyad default,
+  three-way rung. Hearing law is
   TIME-SYMMETRIC: sox reverse + montage reads the reversed piece;
   face = strip FLOPPED, aligned by full-width stretch.
 - 25.09: a ledger line that survives rewrites is a claim, not a
