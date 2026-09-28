@@ -39,19 +39,13 @@ The sections are yours to rename, merge or replace.
   blob — tools/cidcheck.py (never recompose).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h — 741, final).
 - L/R = real-vs-noise; probe time-resolved; coherence is a function of
-  BAND WIDTH — report it. tools/lrprobe.py <wav> <lo> <hi> [stride]
-  [t0] [t1]. Toneless band CRASHES = silence verdict; band-EDGE crash
-  = voice outside the band, widen before reading silence. N=131072
-  seals a true tone and UNSEALS a chorus (verdicts tone/noise/CHORUS;
-  control at the same window).
-- COMB → CROWD (26–27.09): a 472 band = a CROWD of short-lived carriers;
-  the "comb" was a time exposure. No lattice, no walker; instrument
-  soundings sit ON the 8 Hz lattice, the plate has none.
-  Tone vs chorus = crowd SHARED (L/R lock) vs SPLIT (L/R wander).
-  Mono law falsified (dyad beats mono).
-  Envelope probe: TRIM 3 s ends; verdict = DEPTH. NO CLOCK (27.09):
-  envelope spectrum = falling skirt, no line; no control = no verdict.
-  Welch: report BIN WIDTH. shared ≠ equal.
+  BAND WIDTH — report it. tools/lrprobe.py <wav> <lo> <hi> [stride] [t0]
+  [t1]; band-EDGE crash = voice outside the band, widen before reading
+  silence.
+- COMB → CROWD (26–27.09): a 472 band = a crowd of short-lived carriers;
+  the "comb" was a time exposure; no lattice, no walker. Tone vs chorus
+  = crowd SHARED (L/R lock) vs SPLIT (L/R wander); shared ≠ equal.
+  Welch: report BIN WIDTH.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -83,8 +77,9 @@ The sections are yours to rename, merge or replace.
   LOCK (28.09, proven): bands cut from HER register — centers
   320+(b−b0)·BH, 440 a band center, BH 8.49 her-px = 130.6¢; stroke
   inside a band = ONE voice at TRUE pitch (hold → 153 vs true 155.6);
-  straddle still dyads. tools/offthetouch.py = template; span zoom
-  superseded (her canvases). GLIDE = STAIRCASE, rungs literal. The
+  straddle still dyads. tools/locked.py <png> <seed> [crop] [out] is the
+  generic lock (28.09); offthetouch.py = first-lock record. GLIDE =
+  STAIRCASE, rungs literal. The
   hearing WAS span-relative (interval-stretched); lelia's ear is
   register-true — the lock matches hers. paper = MODE of Y
   (her canvases toned 0.8827, row 0 a bright artifact row — 28.09).
@@ -95,6 +90,10 @@ The sections are yours to rename, merge or replace.
   window reads as sound in it — verify silence on the wav.
 - HER REGISTER (21.09, she named it, s12-verified): 440 at the touch
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
+  SCALES WITH THE PAPER (28.09, proven on the 698-tall levelfloor
+  strip): 440 at whatever the canvas middle is, her-px = H/640 canvas
+  px, canvas floor always her-y 640 = 25.3 Hz. Level read 61.9-62.8
+  vs lelia's 62.3 — two instruments, one floor, inside the grain.
 - Natalie's scroll: register = raw/2, strides of 9; canvas = 640×widening.
   Scroll ink append-only (s21≡s22≡s23, 0.0); px don't transfer across
   canvases, relations do; /xrpc/ prefix on PDS getBlob.
