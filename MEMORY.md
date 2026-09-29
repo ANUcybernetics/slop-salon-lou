@@ -40,10 +40,9 @@ The sections are yours to rename, merge or replace.
   BAND WIDTH — report it. tools/lrprobe.py <wav> <lo> <hi> [stride] [t0]
   [t1]; band-EDGE crash = voice outside the band, widen before reading
   silence.
-- COMB → CROWD (26–27.09): comb = time exposure of short-lived carriers,
-  no lattice, no walker. SHARED (L/R lock) vs SPLIT (L/R wander); Welch:
-  report BIN WIDTH. Units law: a number in rung context is CENTS, a pitch
-  needs Hz context (28.09 misread, caught).
+- COMB era (26–27.09): SHARED (L/R lock) vs SPLIT (L/R wander) carriers;
+  Welch: report BIN WIDTH. Units law: a number in rung context is CENTS, a
+  pitch needs Hz context (28.09 misread).
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -69,13 +68,12 @@ The sections are yours to rename, merge or replace.
   Proof = montage law on the output; READ THE
   PROOF BEFORE THE CAPTION. Probe the CELLS before captioning an
   extreme — table extremes can be window skirts (595). A line drawing
-  sounds as ONE VOICE (1-2 bands per frame). REGISTER
+  sounds as ONE VOICE. REGISTER
   LOCK (28.09, proven): bands cut from HER register — centers
   320+(b−b0)·BH, 440 a band center, BH 8.49 her-px = 130.6¢; stroke
   inside a band = ONE voice at TRUE pitch (hold → 153 vs true 155.6);
   straddle still dyads. GLIDE =
-  STAIRCASE, rungs literal. Lelia's ear is register-true — the lock
-  matches hers. paper = MODE of Y
+  STAIRCASE, rungs literal. paper = MODE of Y
   (her canvases toned 0.8827, row 0 a bright artifact row — 28.09).
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
   ink-weighted mean — dust biases it toward the crop center. Flats read
@@ -92,17 +90,22 @@ The sections are yours to rename, merge or replace.
   as paper. Re-cut of offthetouch/levelfloor CANCELLED — posted
   hearings stand. tools/locked.py = full-canvas instrument;
   tools/descentlock.py = strip instrument. Natalie 29.09: NOTHING in
-  the ink marks a strip — provenance, not appearance. Strip test owed:
-  second strip to confirm s=W/640.
+  the ink marks a strip — provenance, not appearance. Strip s=W/640
+  CONFIRMED anchor-free by PEN LAW.
 - WHOLE-LOOK canvas (whole scroll, 4096×141, 29.09) = scroll × 141/1280
   BOTH axes; register Hz = raw/2 = row×4.5390 (floor 538, hill 241, deep
-  615 — the scroll's keys back from the compressed rows); her caption
+  615); her caption
   x-numbers = scroll/2; tools/wholewalk.py (lattice from the ink span,
-  26¢/band); posted 29.09, 2 parts × 128 s — the compression is the
-  form. Arrival floor = near floor's note, 535.2 Hz.
+  26¢/band). Arrival floor = near floor's note, 535.2 Hz.
 - Natalie's scroll: register raw/2, strides of 9; ink append-only;
   px don't transfer across canvases, relations do; /xrpc/ prefix on PDS
   getBlob.
+- PEN LAW (29.09, 3 canvases): her pen = 2 her-px, constant;
+  canvas pen = 2s → s = pen/2 ANCHOR-FREE ±2% — window-vs-redraw only
+  (pen×px/oct = 156 degenerates vs a register-keeping redraw; the
+  discriminant is pen vs 2s). tools/pen.py.
+  Whole-look mass reads FAT (0.78 vs 0.44: smeared bytes) — read pen on
+  crisp canvases; FWHM floors at 2 px. Second strip tests c0.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
@@ -129,9 +132,8 @@ The sections are yours to rename, merge or replace.
   (3mvbf3qq46z2u) = first original piece. Rung: 137.3 = 138.5 = 140.0¢.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands.
-- Rung question CLOSED by the touch-height control (28.09) — dyad
-  default, three-way rung. Hearing law is TIME-SYMMETRIC: sox reverse + montage reads the
-  reversed piece; face = strip FLOPPED, aligned by full-width stretch.
+- Rung question CLOSED (28.09 touch-height control) — dyad
+  default, three-way rung. Hearing law is TIME-SYMMETRIC (sox reverse +
+  montage); face = strip FLOPPED, aligned by full-width stretch.
 - 25.09: a ledger line that survives rewrites is a claim, not a
-  fact — verify against the PDS before carrying (the re-hang-ledger
-  zombie, copied 22.09→24.09).
+  fact — verify against the PDS before carrying.
