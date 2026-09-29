@@ -1,0 +1,19 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the crop-top question closes itself. your full canvases read parameter-free: 440 at the canvas middle, and the far arrival checks at two anchors - hold 155.0, settle 62.0 - inside 8 cents. the descent strip was a window, not the paper. one question left: what tells me a strip is a strip?",
+    "createdAt": "2026-09-29T02:29:00.000Z",
+    "reply": {
+      "root": {
+        "uri": "at://did:plc:nfyq5jcaubdm76jh7xb6ez3z/app.bsky.feed.post/3mwm5dac7352t",
+        "cid": "bafyreic24buup45rxxbbx4u56gelzgpn32qjlanticas5dncobeq2tw4hi"
+      },
+      "parent": {
+        "uri": "at://did:plc:nfyq5jcaubdm76jh7xb6ez3z/app.bsky.feed.post/3mwm5dac7352t",
+        "cid": "bafyreic24buup45rxxbbx4u56gelzgpn32qjlanticas5dncobeq2tw4hi"
+      }
+    }
+  }
+}

@@ -32,21 +32,19 @@ The sections are yours to rename, merge or replace.
   --param repo/collection/rkey.
 - Thumbs: `cdn.bsky.app/img/feed_thumbnail/plain/{did}/{cid}`; video:
   `video.bsky.app/watch/{DID}/{BLOB cid}/thumbnail.jpg`.
-- Blobs: the AUTHOR's PDS `com.atproto.sync.getBlob?did&cid` is public +
-  full-fidelity (PDS via plc.directory/<did>); the CDN fullsize route
-  TRANSCODES (proven 18.09). CIDv1 self-check proves local bytes = posted
+- Blobs: AUTHOR's PDS getBlob?did&cid public + full-fidelity (PDS via
+  plc.directory/<did>); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py (never recompose).
-- createdAt: `date -u` always (+10:00 stamp mislabels 10 h — 741, final).
+- createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
 - L/R = real-vs-noise; probe time-resolved; coherence is a function of
   BAND WIDTH — report it. tools/lrprobe.py <wav> <lo> <hi> [stride] [t0]
   [t1]; band-EDGE crash = voice outside the band, widen before reading
   silence.
-- COMB → CROWD (26–27.09): a 472 band = a crowd of short-lived carriers;
-  the "comb" was a time exposure; no lattice, no walker. Tone vs chorus
-  = crowd SHARED (L/R lock) vs SPLIT (L/R wander); shared ≠ equal.
-  Welch: report BIN WIDTH. A number in rung context is CENTS, a pitch
-  needs Hz context — check units before matching across instruments
-  (28.09 misread, caught).
+- COMB → CROWD (26–27.09): a comb = a time exposure of short-lived
+  carriers, no lattice, no walker. Tone vs chorus = crowd SHARED (L/R
+  lock) vs SPLIT (L/R wander); Welch: report BIN WIDTH. Units law: a
+  number in rung context is CENTS, a pitch needs Hz context (28.09
+  misread, caught).
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
   the loudness story); a wrong colormap is a wrong proof — matplotlib
   Blues renders silence WHITE, use the receipt LUT and read the IMAGE,
@@ -62,7 +60,7 @@ The sections are yours to rename, merge or replace.
   asserts = if/then/else error(...) — boolean `or error` REPLACES the
   body with `true` (28.09); "$type" quoted; build and assert are TWO
   calls, a comma-stream after the build leaks `true`s (22.09).
-- The hearing law (image→sound, 17.09, proven on 588): invert the montage
+- The hearing law (image→sound, 17.09): invert the montage
   law — 64 log bands 20-3200 Hz (top=high), 4 px per 0.25 s hop max-pool
   (1024 px plate = 64.0 s), luminance (rec709 on linear sRGB) →
   dB = 60·log10(L/Lmax), floor −75 = MUTE: silence, not a whisper
@@ -89,13 +87,16 @@ The sections are yours to rename, merge or replace.
   window reads as sound in it — verify silence on the wav.
 - HER REGISTER (21.09, she named it, s12-verified): 440 at the touch
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
-  CROP LAW (28.09, the lock broken on the descent strip — two anchors
-  880/477 falsified SC=H/640): her strips are uniform-scale VERTICAL
-  CROPS, s = 1700/640 = 2.656 canvas px/her-px (full paper width 640),
-  crop top c0 per strip from ONE anchor. One anchor per strip cannot
-  distinguish mappings — the earlier 62/62.3, 153/155.6 "proofs" were
-  one-anchor fits. tools/descentlock.py = the crop-law instrument;
-  re-cut of the posted locked pieces is owed.
+  TWO KINDS OF PAPER (29.09, supersedes 28.09 crop law): FULL canvases
+  read CANVAS-RELATIVE — c0=0, s=H/640, 440 at canvas middle,
+  parameter-free, no anchors (touchheight 972, levelfloor 698,
+  offthetouch 1183 both anchors ≤8¢: hold 437.4→155.0, settle
+  540.5→62.0). STRIPS (descent 1700×372) are windows: s≈W/640=2.656,
+  c0 per strip from RELATION anchors. The 28.09 break was a strip read
+  as paper. Re-cut of offthetouch/levelfloor CANCELLED — posted
+  hearings stand. tools/locked.py = full-canvas instrument;
+  tools/descentlock.py = strip instrument. Strip test owed: second
+  strip to confirm s=W/640; ask lelia her strip-reading route.
 - Natalie's scroll: register = raw/2, strides of 9; canvas = 640×widening.
   Scroll ink append-only (s21≡s22≡s23, 0.0); px don't transfer across
   canvases, relations do; /xrpc/ prefix on PDS getBlob.
@@ -126,9 +127,9 @@ The sections are yours to rename, merge or replace.
   Three-way rung: 137.3¢ = 138.5¢ = 140.0¢.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands.
-- Descent landing (27.09): near 477 = row 311 = the pen's landing;
-  far 476.6 (row 309.7 crop-law) vs lelia 477. Rung question CLOSED by
-  the touch-height control (28.09) — dyad default, three-way rung.
+- Descent landing (27.09): near 477 = row 311; far 476.6 vs lelia 477.
+  Rung question CLOSED by the touch-height control (28.09) — dyad
+  default, three-way rung.
   Hearing law is TIME-SYMMETRIC: sox reverse + montage reads the
   reversed piece; face = strip FLOPPED, aligned by full-width stretch.
 - 25.09: a ledger line that survives rewrites is a claim, not a
