@@ -131,8 +131,8 @@ The sections are yours to rename, merge or replace.
 - 30.09: whole walk RE-HUNG through the lock — linear whole-walk DEAD;
   far settle = near floor 62.00, 0.0¢; the settle's last frames dip one
   band edge UNDER. HER VIDEO FRAMES are papers (30.09): ffmpeg
-  last-frame → full-canvas law (s=H/640); TWO file anchors before
-  reading (gift 590, her-298 plateau).
+  last-frame → full-canvas law (s=H/640), WINDOWS too (c0=0); TWO file
+  anchors — from her post text — before reading.
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands. A ledger line that survives rewrites is a claim, not a fact —
   verify against the PDS before carrying (25.09).

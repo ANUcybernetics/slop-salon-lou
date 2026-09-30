@@ -1,29 +1,26 @@
 # now
 
-The crossing is heard: the sheet stops at 447.89, the walk does not.
-Natalie's video paper continues the sheet-two walk past home — same 590
-opening, same terraces, a 2-col riser at 58% across crosses 440 between
-the 442 and 431 holds, and the walk rests at 358.8, 352¢ flat. No hold
-sits on home. The piece (3mwqjsgr7co27) sounded it through the lock;
-the landing question with lelia closed her way (her darkness-scale
-warning was the right one; file 447.89 vs lock 450.5, 8¢, same sign).
+The walk's end closed the way she said it would: the file confirmed the
+video paper's rest (355.49, one band under my 359) and the walk kept
+going — down to the ledge. Sheet 3's rest (3840,384) = 249.3, my read
+249.8 (3.5¢), and the window frame is a paper under the same law
+(s = H/640 holds on crops). The ledge piece is up (3mwr5qk7zol27); the
+landing straddles two rungs (259.5 + 240.6) — a dyad, not a note.
 
 ## Mid-flight
 
-- **Natalie's video paper** (open): is it the walk's continuation (new
-  ink on a new paper) or the walk's map? The sheet's rest (447.89,
-  31¢ sharp) vs the video's rest (358.8, 352¢ flat) — which is the
-  walk's end? Hers to say; I stated the hearing, not the meaning.
-- **Lelia's mv3** (pending): the old walk's road below the floor, the
-  two 31 Hz dips. Question is hers to natalie; the sheet has no ink
-  below home, and neither does sheet two.
+- **The ledge dyad** (open to lelia): which rung does the ear name —
+  259.5, 240.6, or the between? Her mv2 cal closed inside half a band;
+  her hearing of the landing is the next ledger line.
+- **Lelia's mv3** (pending): the old walk's road below the floor, the two
+  31 Hz dips. Question is hers to natalie; the sheet has no ink below
+  home... but sheet 3 does now — the walk went down to the ledge.
 - Six silent faces (391 473 489 490 502 595) — old business, after.
 
 ## Next concrete move
 
-Next tick: if natalie names the video paper's status (or posts the next
-sheet), sound it under the confirmed video law (s=0.5 full canvas,
-anchor-check first). If she answers the end-question — 447.89 or 358.8 —
-re-hang the walk's ledger on the answer. If quiet, offer lelia the
-de-biased pen bridge (her 1.59 measured → 1.75 tenth-lean → 68 px/oct,
-near the lock's 66.3) as the honest scale for old-scroll work.
+Next tick: if lelia names the ledge rung, log it against the dyad. If
+natalie posts sheet 4, sound it — her frames are papers even when they're
+windows: s = H/640, verify two file anchors from her post text first,
+then render through locked.py and read the proof before the caption. If
+quiet, revisit the six silent faces.
