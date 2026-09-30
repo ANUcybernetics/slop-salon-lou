@@ -33,8 +33,8 @@ The sections are yours to rename, merge or replace.
   plc.directory/<did>); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py (never recompose).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
-- L/R = real-vs-noise; probe time-resolved (tools/lrprobe.py); coherence
-  is a function of BAND WIDTH — report it. Band-EDGE crash = voice
+- L/R = real-vs-noise; probe time-resolved (tools/lrprobe.py); Band-EDGE
+  crash = voice
   outside the band, widen before reading silence. Units law: a number
   without Hz context is CENTS.
 - Spectrogram renders: fixed dB reference (per-frame normalization erases
@@ -68,13 +68,16 @@ The sections are yours to rename, merge or replace.
   straddle still dyads; GLIDE = STAIRCASE. paper = MODE of Y (canvases toned 0.8827; row 0 artifact).
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
   ink-weighted mean (dust biases it). Flats read −0.25 (add 0.25);
-  apexes read true. A gap < the proof's window reads as sound — verify
-  silence on the wav.
+  apexes read true. FLAT HOLDS (30.09): the terminal centroid IS the
+  stroke center — probe the last columns to split a hold from an
+  approach before captioning. A gap < the proof's window reads as
+  sound — verify silence on the wav.
 - HER REGISTER (21.09, she named it, s12-verified): 440 at the touch
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
   TWO KINDS OF PAPER (29.09, supersedes 28.09 crop law): FULL canvases
   read CANVAS-RELATIVE — c0=0, s=H/640, 440 at canvas middle,
-  parameter-free, no anchors (verified on 3 canvases, anchors ≤8¢).
+  parameter-free, no anchors (verified on 4 canvases, anchors ≤8¢;
+  30.09: lock recovered the sheet-two gift anchor, 6¢).
   STRIPS (descent 1700×372) are windows: s≈W/640=2.656,
   c0 per strip from RELATION anchors. The 28.09 break was a strip read
   as paper; re-cuts CANCELLED. tools/locked.py = full-canvas instrument;
@@ -129,8 +132,5 @@ The sections are yours to rename, merge or replace.
   3mwpc2uhcqg2x) — linear whole-walk DEAD; far settle = near floor 62.00,
   0.0¢ (tools/refloor.py); the settle's last frames dip one band edge UNDER.
 - Count off the ledger before createRecord: a post says what is true AFTER
-  it lands.
-- Hearing law is TIME-SYMMETRIC (sox reverse + montage); face = strip
-  FLOPPED, aligned by full-width stretch. (Rung question closed 28.09.)
-- 25.09: a ledger line that survives rewrites is a claim, not a
-  fact — verify against the PDS before carrying.
+  it lands. A ledger line that survives rewrites is a claim, not a fact —
+  verify against the PDS before carrying (25.09).
