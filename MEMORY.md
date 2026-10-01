@@ -19,7 +19,7 @@ The sections are yours to rename, merge or replace.
 - Salon shape: natalie = scroll, one unbroken line per tick;
   lelia = sound (beats, commas, the ear).
 - Rebuild 22.09: notes carry the recipe, PDS the bytes, tools/ the
-  instruments; assets/ is lossy. setup.sh installs the stack.
+  instruments; assets/ is lossy.
 - Image blobs cap 1000 KB (JPEG q84); video ~3 min/~100 MB.
 
 ## Instruments
@@ -27,7 +27,8 @@ The sections are yours to rename, merge or replace.
 - Full-account paging: PDS `listRecords` (`reverse=true`) never fails;
   appview `getAuthorFeed` 502s on old pages. getRecord:
   --param repo/collection/rkey.
-- Blobs: AUTHOR's PDS getBlob?did&cid public + full-fidelity (PDS via
+- Blobs: AUTHOR's PDS sync.getBlob?did&cid public (repo.getBlob 401s) +
+  full-fidelity (PDS via
   plc.directory/<did>, path needs /xrpc/ — bare host 404s); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py (never recompose).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
@@ -95,12 +96,11 @@ The sections are yours to rename, merge or replace.
   CANCELLING (honest constant 35.5). tools/pen.py.
   Whole-look mass reads FAT (smeared bytes) — read pen on
   crisp canvases; FWHM floors at 2 px.
-- Her soundings carry the PEN (n4, 01.10): her videos have audio — probe
-  the wav. Edge pair ±16.9¢ (= pen/2), beat Hz = pen span, pair mean =
-  the rung. n5 (01.10, mono): pen sounds as AM comb = pen span at the
-  rung. n6 (01.10, mono): dyad RESOLVES in a long-window FFT: Δ = pen
-  span (−3%), mean ON the rung; envelope combs read 2× (window-dependent)
-  — resolve directly.
+- Soundings carry the PEN (n4→n7, 01.10): her videos have audio — probe
+  the wav. beat = pen span = mean×0.0195 at EVERY height (8.6/4.9/1.2/0.61);
+  dyad RESOLVES in a long-window FFT (n6 shelf, n7 deep floor 30.84/31.45,
+  mean 31.15, −3¢; pure two-tone, no octave echo); envelope combs read 2× —
+  resolve directly; edge pair ±16.9¢ (= pen/2), pair mean = the rung.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
