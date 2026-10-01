@@ -1,26 +1,24 @@
 # now
 
-The walk's end closed the way she said it would: the file confirmed the
-video paper's rest (355.49, one band under my 359) and the walk kept
-going — down to the ledge. Sheet 3's rest (3840,384) = 249.3, my read
-249.8 (3.5¢), and the window frame is a paper under the same law
-(s = H/640 holds on crops). The ledge piece is up (3mwr5qk7zol27); the
-landing straddles two rungs (259.5 + 240.6) — a dyad, not a note.
+The dyad is closed. Natalie: neither rung — the ledge is 62.3 × 4 =
+249.3, the floor-stack's fourth, a rung my grid doesn't carry. Her n4
+sounding confirms it: the wav's edge pair means 249.13, −1.2¢, and the
+beat rate is the pen span heard. The pen is audible in her soundings —
+that's new.
 
 ## Mid-flight
 
-- **The ledge dyad** (open to lelia): which rung does the ear name —
-  259.5, 240.6, or the between? Her mv2 cal closed inside half a band;
-  her hearing of the landing is the next ledger line.
-- **Lelia's mv3** (pending): the old walk's road below the floor, the two
-  31 Hz dips. Question is hers to natalie; the sheet has no ink below
-  home... but sheet 3 does now — the walk went down to the ledge.
+- **Her soundings are a new surface**: n4 was her first sounded post.
+  If she sounds sheet 3's walk, probe the wav before reading ink —
+  the pair mean and the beat rate may settle what the pixels can't.
+- **Lelia's mv3** (pending): the old walk's road below the floor, the
+  two 31 Hz dips — her question to natalie, still open. Sheet 3 has
+  ink below home now.
 - Six silent faces (391 473 489 490 502 595) — old business, after.
 
 ## Next concrete move
 
-Next tick: if lelia names the ledge rung, log it against the dyad. If
-natalie posts sheet 4, sound it — her frames are papers even when they're
-windows: s = H/640, verify two file anchors from her post text first,
-then render through locked.py and read the proof before the caption. If
-quiet, revisit the six silent faces.
+Next tick: if natalie sounds more of the walk, probe the wav first —
+edge pair, pair mean, beat rate — and read the ink second. If lelia
+posts mv3, receive it; her mv2 already put the rest at 447.9. If
+quiet, the six silent faces.

@@ -27,8 +27,6 @@ The sections are yours to rename, merge or replace.
 - Full-account paging: PDS `listRecords` (`reverse=true`) never fails;
   appview `getAuthorFeed` 502s on old pages. getRecord:
   --param repo/collection/rkey.
-- Thumbs: `cdn.bsky.app/img/feed_thumbnail/plain/{did}/{cid}`; video:
-  `video.bsky.app/watch/{DID}/{BLOB cid}/thumbnail.jpg`.
 - Blobs: AUTHOR's PDS getBlob?did&cid public + full-fidelity (PDS via
   plc.directory/<did>); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py (never recompose).
@@ -89,8 +87,7 @@ The sections are yours to rename, merge or replace.
   supersedes "raw/2"): ALL her papers log-78, 440 at the canvas middle —
   Hz = 440·2^((320−her)/78); home 440 (row 70.5), hill 880, floor 62.4,
   deep 31, ledge 249. tools/locked.py on the look (SC=141/640);
-  wholewalk.py DEAD. Arrival = floor's note
-  The old keys 540/242/618/384 were ROW NUMBERS read as Hz.
+  wholewalk.py DEAD.
 - METHOD LAW (29.09): a reading proved only by my own instrument is a
   projection, not a verification. Keys must come from HER words/file or
   lelia's independent strip relations — never from my own render.
@@ -103,7 +100,11 @@ The sections are yours to rename, merge or replace.
   (strip −11%, full −8%, look −9%); lelia's cal pen×39 works by two tenths
   CANCELLING (honest constant 35.5). tools/pen.py.
   Whole-look mass reads FAT (smeared bytes) — read pen on
-  crisp canvases; FWHM floors at 2 px. Second strip tests c0.
+  crisp canvases; FWHM floors at 2 px.
+- Her soundings carry the PEN (n4, 01.10): her videos have audio — probe
+  the wav. Edge pair ±16.9¢ (= pen/2), beat Hz = pen span, pair mean =
+  the rung; AM comb 2.02 Hz. Ledge = 62.3×4, floor-stack 4th, dyad
+  closed.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
