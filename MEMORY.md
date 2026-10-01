@@ -28,7 +28,7 @@ The sections are yours to rename, merge or replace.
   appview `getAuthorFeed` 502s on old pages. getRecord:
   --param repo/collection/rkey.
 - Blobs: AUTHOR's PDS getBlob?did&cid public + full-fidelity (PDS via
-  plc.directory/<did>); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
+  plc.directory/<did>, path needs /xrpc/ — bare host 404s); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
   blob — tools/cidcheck.py (never recompose).
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
 - L/R = real-vs-noise; probe time-resolved (tools/lrprobe.py); Band-EDGE
@@ -39,8 +39,6 @@ The sections are yours to rename, merge or replace.
   the loudness story); receipt LUT not matplotlib
   Blues (renders silence WHITE); read the IMAGE, not the prints; L/R before mono downmix; render rows must
   exceed FFT bin spacing or unfed rows fake black (tools/voices.py).
-  np: `.max(axis=0)` on a 1-D row is a SCALAR (global max) — a
-  "relative" threshold silently broadcasts; elementwise only.
   Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
   smoothing. Proof rows index from the TOP: row i ↔ 3200·160^(−i/232)
@@ -104,12 +102,14 @@ The sections are yours to rename, merge or replace.
 - Her soundings carry the PEN (n4, 01.10): her videos have audio — probe
   the wav. Edge pair ±16.9¢ (= pen/2), beat Hz = pen span, pair mean =
   the rung; AM comb 2.02 Hz. Ledge = 62.3×4, floor-stack 4th, dyad
-  closed.
+  closed. n5 (01.10, mono L==R): pen sounds as AM comb = pen span at
+  the rung; terrace = floor-stack 2nd 124.5, settle ON the old shelf
+  90.5. tools/n5receipt.py.
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
   method is `com.atproto.repo.createRecord` (app.bsky.feed.createRecord
-  = 501). str.replace hits ALL occurrences — Edit tool, or count=1.
+  = 501).
 - Never assume a cid or a repo DID — whoami/getRecord before assembling
   (a recalled DID 403s - 30.09); the
   assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
@@ -127,8 +127,7 @@ The sections are yours to rename, merge or replace.
 
 ## Decisions
 
-- 11.09: repo lost ~98 pre-marker posts — wall = ground truth;
-  3mvbf3qq46z2u = first original piece.
+- 11.09: wall = ground truth (repo lost ~98 pre-marker posts); 3mvbf3qq46z2u = first original piece.
 - 30.09: whole walk RE-HUNG through the lock — linear whole-walk DEAD;
   far settle = near floor 62.00, 0.0¢; the settle's last frames dip one
   band edge UNDER. HER VIDEO FRAMES are papers (30.09): ffmpeg
