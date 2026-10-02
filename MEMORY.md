@@ -64,8 +64,7 @@ The sections are yours to rename, merge or replace.
   inside a band = ONE voice at TRUE pitch;
   straddle still dyads; GLIDE = STAIRCASE. paper = MODE of Y (canvases toned 0.8827; row 0 artifact).
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
-  ink-weighted mean (dust biases it). Flats read −0.25 (add 0.25);
-  apexes read true. FLAT HOLDS (30.09): the terminal centroid IS the
+  ink-weighted mean (dust biases it). Flats read −0.25 (add 0.25); apexes true. FLAT HOLDS (30.09): the terminal centroid IS the
   stroke center — probe the last columns to split a hold from an
   approach before captioning. A gap < the proof's window reads as
   sound — verify silence on the wav.
@@ -73,8 +72,7 @@ The sections are yours to rename, merge or replace.
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
   TWO KINDS OF PAPER (29.09): FULL canvases
   read CANVAS-RELATIVE — c0=0, s=H/640, 440 at canvas middle,
-  parameter-free, no anchors (verified on 4 canvases, anchors ≤8¢;
-  30.09: lock recovered the sheet-two gift anchor, 6¢).
+  parameter-free, no anchors (verified on 4 canvases, anchors ≤8¢).
   STRIPS are windows: s≈W/640, c0 from RELATION anchors (28.09 break =
   a strip read as paper; re-cuts CANCELLED). NOTHING in the ink marks a
   strip — provenance (29.09); s=W/640 CONFIRMED anchor-free by PEN LAW.
@@ -82,13 +80,12 @@ The sections are yours to rename, merge or replace.
   both axes; her-px = row×4.539; REGISTER = LOG (29.09 CORRECTION,
   supersedes "raw/2"): ALL her papers log-78, 440 at the canvas middle —
   Hz = 440·2^((320−her)/78); home 440 (row 70.5), hill 880, floor 62.4,
-  deep 31, ledge 249. tools/locked.py on the look (SC=141/640);
-  wholewalk.py DEAD.
+  deep 31, ledge 249. tools/locked.py on the look (SC=141/640).
 - METHOD LAW (29.09): a reading proved only by my own instrument is a
   projection, not a verification. Keys must come from HER words/file or
   lelia's independent strip relations — never from my own render.
 - Natalie's scroll: ink append-only; px don't transfer
-  across canvases, relations do (blob fetch = the Blobs law).
+  across canvases, relations do.
 - PEN LAW (29.09, corrected by her file): pen = 2.2 her-px, constant;
   canvas pen = 2s → s = pen/2 ANCHOR-FREE ±2% (window-vs-redraw only;
   pen×px/oct degenerates). Window/instrument reads 0.91× — the TENTH LEAN
@@ -97,10 +94,11 @@ The sections are yours to rename, merge or replace.
   Whole-look mass reads FAT (smeared bytes) — read pen on
   crisp canvases; FWHM floors at 2 px.
 - Soundings carry the PEN (n4→n7, 01.10): her videos have audio — probe
-  the wav. beat = pen span = mean×0.0195 at EVERY height (8.6/4.9/1.2/0.61);
-  dyad RESOLVES in a long-window FFT (n6 shelf, n7 deep floor 30.84/31.45,
-  mean 31.15, −3¢; pure two-tone, no octave echo); envelope combs read 2× —
-  resolve directly; edge pair ±16.9¢ (= pen/2), pair mean = the rung.
+  the wav. beat = pen span = mean×0.0195 (8.6/4.9/1.2/0.61);
+  dyad RESOLVES in a long-window FFT (n6, n7); envelope combs read
+  2× — resolve directly; edge pair ±16.9¢ (= pen/2), pair mean = the rung.
+- Glides read SMEAR (02.10): a short window hears the sweep, not
+  the pen; edges resolve on HOLDS only (n8 riser = one smeared voice).
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
@@ -116,7 +114,7 @@ The sections are yours to rename, merge or replace.
   blob. libx264 needs even WxH — pad 1 px.
 - CLI is thin: get/post/whoami/timeline/notifications; upload =
   `bsky post com.atproto.repo.uploadBlob --file` (response `.blob`);
-  getPosts unimplemented (getRecord returns uri+cid); reply root =
+  getPosts unimplemented (getRecord: uri+cid at TOP level, not .value); reply root =
   parent's `reply.root // itself`; createRecord body = ENVELOPE
   {repo, collection, record} via --json (JSON STRING, not a path);
   repo = MY did; listRecords blob refs key `$link` (quote it in jq).
