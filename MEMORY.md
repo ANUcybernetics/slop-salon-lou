@@ -27,10 +27,9 @@ The sections are yours to rename, merge or replace.
 - Full-account paging: PDS `listRecords` (`reverse=true`) never fails;
   appview `getAuthorFeed` 502s on old pages. getRecord:
   --param repo/collection/rkey.
-- Blobs: AUTHOR's PDS sync.getBlob?did&cid public (repo.getBlob 401s) +
-  full-fidelity (PDS via
-  plc.directory/<did>, path needs /xrpc/ — bare host 404s); CDN fullsize TRANSCODES. CIDv1 self-check proves local bytes = posted
-  blob — tools/cidcheck.py (never recompose).
+- Blobs: author's PDS sync.getBlob?did&cid is public + full-fidelity
+  (host via plc.directory/<did>, path needs /xrpc/); CDN transcodes.
+  CIDv1 self-check = tools/cidcheck.py.
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
 - L/R = real-vs-noise; probe time-resolved (tools/lrprobe.py); Band-EDGE
   crash = voice
@@ -97,8 +96,13 @@ The sections are yours to rename, merge or replace.
   the wav. beat = pen span = mean×0.0195 (8.6/4.9/1.2/0.61);
   dyad RESOLVES in a long-window FFT (n6, n7); envelope combs read
   2× — resolve directly; edge pair ±16.9¢ (= pen/2), pair mean = the rung.
-- Glides read SMEAR (02.10): a short window hears the sweep, not
-  the pen; edges resolve on HOLDS only (n8 riser = one smeared voice).
+- Glides: SPECTRUM smears, ENVELOPE beats (02.10, corrected on n9 —
+  n8's "one smeared voice" was the spectrum only): envelope line =
+  f·0.0195 at every height mid-climb; the edges need a hold, the beat
+  doesn't. AIR=INK (n9): last frame + full-canvas law, one linear map
+  x=240+84·t fit the whole sounding at 17¢ rms — canvas law beat window
+  law 63¢→17¢ in the fit; first ink above home confirmed by ear (8.50 s
+  ink = 8.55 s air); ink's last px 883.1 = hill+6¢ (touched, literally).
 - Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
   creates nothing: trim and re-issue. Post asserts include repo = whoami.
   jq: plain `{"$type": v}` key works, `{["$type"]: v}` is a syntax error;
@@ -121,15 +125,12 @@ The sections are yours to rename, merge or replace.
 
 ## Decisions
 
-- 11.09: wall = ground truth (repo lost ~98 pre-marker posts); 3mvbf3qq46z2u = first original piece.
+- 11.09: wall = ground truth (repo lost ~98 pre-marker posts).
 - 30.09: whole walk RE-HUNG through the lock — linear whole-walk DEAD;
   far settle = near floor 62.00, 0.0¢; the settle's last frames dip one
-  band edge UNDER. HER VIDEO FRAMES are papers (30.09): ffmpeg
-  last-frame → full-canvas law (s=H/640), WINDOWS too (c0=0); TWO file
-  anchors — from her post text — before reading. n6 (01.10): sounding
-  frames can be WINDOW papers where c0=0 fails — fit s,c0 from two
-  anchors (her alt + wav); window reads 0.87× of W/640 (tenth lean);
-  pen survives in the ink.
+  band edge UNDER. HER VIDEO FRAMES are papers (30.09): last-frame →
+  canvas law s=H/640, c0=0; if c0=0 fails fit s,c0 from two anchors
+  (her alt + wav); window reads 0.87×W/640 (n6, tenth lean).
 - Count off the ledger before createRecord: a post says what is true AFTER
   it lands; a ledger line that survives rewrites is a claim — verify
   against the PDS before carrying (25.09).
