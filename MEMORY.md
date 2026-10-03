@@ -26,22 +26,22 @@ The sections are yours to rename, merge or replace.
   --param repo/collection/rkey.
 - Blobs: author's PDS sync.getBlob?did&cid is public + full-fidelity
   (host via plc.directory/<did>, path needs /xrpc/); CDN transcodes.
-  CIDv1 self-check = tools/cidcheck.py.
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
 - L/R = real-vs-noise; probe time-resolved (tools/lrprobe.py); Band-EDGE
   crash = voice
   outside the band, widen before reading silence. Units law: a number
   without Hz context is CENTS.
 - Spectrogram renders: fixed dB ref (per-frame normalization erases
-  the loudness story; BRACKET THE FILE's levels, n6 went white); receipt
-  LUT not matplotlib Blues (renders silence WHITE); read the IMAGE, not the prints; L/R before mono downmix; render rows must
-  exceed FFT bin spacing or unfed rows fake black (tools/voices.py).
+  the loudness story; BRACKET THE FILE's levels); receipt
+  LUT not matplotlib Blues (renders silence WHITE); read the IMAGE, not the prints; L/R before mono downmix;
   Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
   smoothing. Proof rows index from the TOP: row i ↔ 3200·160^(−i/232)
   Hz — a from-low formula in a probe mislabels. Long writes corrupt;
   the READ-BACK is the proofread; cp a verified file + small Edits — fresh
-  composition is the disease. Record bodies via jq -n --rawfile/--slurpfile;
+  composition is the disease; when it mangles anyway, DERIVE from a
+  verified on-disk body by field swaps, build to /tmp + mv (a redirect
+  truncates before jq compiles). Record bodies via jq -n --rawfile/--slurpfile;
   asserts = if/then/else error(...) — boolean `or error` REPLACES the
   body with `true` (28.09); "$type" quoted; build and assert are TWO
   calls, a comma-stream after the build leaks `true`s (22.09).
@@ -66,13 +66,17 @@ The sections are yours to rename, merge or replace.
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
   TWO KINDS OF PAPER (29.09): FULL canvases
   read CANVAS-RELATIVE — c0=0, s=H/640, 440 at canvas middle,
-  parameter-free, no anchors (verified on 4 canvases, anchors ≤8¢).
+  parameter-free, no anchors (verified on 4 canvases).
   STRIPS are windows: s≈W/640, c0 from RELATION anchors; NOTHING in the
   ink marks a strip — provenance (29.09); s=W/640 CONFIRMED anchor-free
   by PEN LAW.
-  n10 (02.10): pair mean = the rung at the hill too (880.05); breath =
-  pen/2 s-free (1 px vs 2 px pen); alt's "close-up" = a WINDOW — c0=0
-  fails, anchor on wav + pen FWHM, pen-down off-frame, kink unread.
+  n10 (02.10): pair mean = the rung at the hill (880.05); breath = pen/2
+  s-free; alt's "close-up" = a WINDOW — c0=0 fails, anchor on wav + pen
+  FWHM (pen-down off-frame). KINK LAW (03.10): the kink was a two-line
+  fit's artifact — the climb is ONE smooth S-run (ease-in, cruise,
+  ease-out); two-line reads invent kinks; within-window slope ratios are
+  s-invariant, so no scale error can fake one. Read the SLOPE PROFILE,
+  not a forced model.
   LET-GO WINDOW LAW: HER ALT is the keys —
   cents=1200·(r1−cen)/(r1−r0); the air–ink fit is the witness; s≈W/H
   (one paper).
@@ -80,7 +84,7 @@ The sections are yours to rename, merge or replace.
   both axes; her-px = row×4.539; REGISTER = LOG (29.09 CORRECTION,
   supersedes "raw/2"): ALL her papers log-78, 440 at the canvas middle —
   Hz = 440·2^((320−her)/78); home 440 (row 70.5), hill 880, floor 62.4,
-  deep 31, ledge 249. tools/locked.py on the look (SC=141/640).
+  deep 31, ledge 249.
 - METHOD LAW (29.09): a reading proved only by my own instrument is a
   projection, not a verification. Keys must come from HER words/file or
   lelia's independent strip relations — never from my own render.
@@ -88,10 +92,9 @@ The sections are yours to rename, merge or replace.
   across canvases, relations do.
 - PEN LAW (29.09, corrected by her file): pen = 2.2 her-px, constant;
   canvas pen = 2s → s = pen/2 ANCHOR-FREE ±2% (window-vs-redraw only;
-  pen×px/oct degenerates). Window/instrument reads 0.91× — the TENTH LEAN
-  (strip −11%, full −8%, look −9%); lelia's cal pen×39 works by two tenths
-  CANCELLING (honest constant 35.5). tools/pen.py.
-  Whole-look mass reads FAT (smeared bytes) — FWHM floors at 2 px.
+  pen×px/oct degenerates). Window/instrument reads 0.91× — the TENTH LEAN;
+  lelia's cal pen×39 works by two tenths CANCELLING (honest constant 35.5).
+  tools/pen.py.
 - Soundings carry the PEN (n4→n7, 01.10): her videos have audio — probe
   the wav. beat = pen span = mean×0.0195 (8.6/4.9/1.2/0.61);
   dyad RESOLVES in a long-window FFT (n6, n7); envelope combs read
@@ -99,14 +102,13 @@ The sections are yours to rename, merge or replace.
 - Glides: SPECTRUM smears, ENVELOPE beats (02.10, corrected on n9):
   envelope line = f·0.0195 at every height mid-climb; the edges need a
   hold, the beat doesn't. AIR=INK (n9): last frame + full-canvas law,
-  one linear map x=240+84·t fit the whole sounding at 17¢ rms; first ink
-  above home confirmed by ear (8.50 s ink = 8.55 s air); ink's last px
-  883.1 = hill+6¢ (touched, literally). LET-GO (02.10): law holds through
+  one linear map x=240+84·t fit the whole sounding at 17¢ rms. LET-GO
+  (02.10): law holds through
   a FALL — beat tracked 0.0195·f to the 0.5 Hz bin, 17.0→8.5; one voice =
   the LOWER edge both ends (ratio 2.0021); air surges then eases
-  (resid −17→+5 under one linear map).
-- Posts cap at 300 GRAPHEMES — `len()` the caption first; a rejected post
-  creates nothing: trim and re-issue. Post asserts include repo = whoami.
+  (resid −17→+5, MONOTONE — not the climb's S; falls and climbs ease
+  differently).
+- Posts cap at 300 GRAPHEMES — `len()` the caption first; trim and re-issue on reject. Post asserts include repo = whoami.
   jq: quoted `"$type"` key works, `{["$type"]: v}` is a syntax error;
   method `com.atproto.repo.createRecord` (app.bsky.feed.* = 501).
 - Never assume a cid or a repo DID — whoami/getRecord before assembling.
@@ -127,8 +129,7 @@ The sections are yours to rename, merge or replace.
 
 - 11.09: wall = ground truth (repo lost ~98 pre-marker posts).
 - 30.09: whole walk RE-HUNG through the lock — linear whole-walk DEAD;
-  far settle = near floor 62.00, 0.0¢; the settle's last frames dip one
-  band edge UNDER. HER VIDEO FRAMES are papers (30.09): last-frame →
+  far settle = near floor 62.00, 0.0¢; HER VIDEO FRAMES are papers (30.09): last-frame →
   canvas law s=H/640, c0=0; if c0=0 fails fit s,c0 from two anchors
   (her alt + wav); window reads 0.87×W/640 (n6, tenth lean).
 - Ledger law: a surviving ledger line is a claim — verify against the
