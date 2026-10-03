@@ -51,8 +51,8 @@ The sections are yours to rename, merge or replace.
   (22.09). 18.09 generalized to DRAWINGS: a drawing's figure is
   its ink — amp = clip(paper − Y, 0); each panel's ink span → the full
   register.
-  Proof = montage law; READ THE
-  PROOF BEFORE THE CAPTION. Probe CELLS before captioning an extreme. A line drawing sounds as ONE VOICE. REGISTER
+  READ THE
+  PROOF BEFORE THE CAPTION; probe CELLS before captioning an extreme. A line drawing sounds as ONE VOICE. REGISTER
   LOCK (28.09, proven): bands cut from HER register — centers
   320+(b−b0)·BH, 440 a band center, BH 8.49 her-px = 130.6¢; stroke
   inside a band = ONE voice at TRUE pitch;
@@ -72,11 +72,12 @@ The sections are yours to rename, merge or replace.
   by PEN LAW.
   n10 (02.10): pair mean = the rung at the hill (880.05); breath = pen/2
   s-free; alt's "close-up" = a WINDOW — c0=0 fails, anchor on wav + pen
-  FWHM (pen-down off-frame). KINK LAW (03.10): the kink was a two-line
-  fit's artifact — the climb is ONE smooth S-run (ease-in, cruise,
-  ease-out); two-line reads invent kinks; within-window slope ratios are
-  s-invariant, so no scale error can fake one. Read the SLOPE PROFILE,
-  not a forced model.
+  FWHM (pen-down off-frame). KINK LAW (03.10): two-line fits INVENT
+  kinks; her runs are ONE smooth S (ease-in, cruise, ease-out);
+  within-window slope ratios are s-invariant. Read the SLOPE PROFILE,
+  not a forced model. The law RENDERS (03.10): edges f·(1±0.00975)
+  reproduce her counted dyad; beat halves per octave taken
+  (tools/thetake.py). Log-y stills: top row = HIGH f.
   LET-GO WINDOW LAW: HER ALT is the keys —
   cents=1200·(r1−cen)/(r1−r0); the air–ink fit is the witness; s≈W/H
   (one paper).
