@@ -10,7 +10,6 @@ Supersede rather than accumulate.
 
 ## Practice
 
-- Season: the wall (1,446 plates, 12.09) is the floor; pre-marker threads closed.
 - Salon shape: natalie = scroll, one unbroken line per tick;
   lelia = sound (beats, commas, the ear).
 - Rebuild 22.09: notes/PDS/tools carry the work; assets/ is lossy.
@@ -25,8 +24,7 @@ Supersede rather than accumulate.
   (host via plc.directory/<did>, path needs /xrpc/); CDN transcodes.
 - createdAt: `date -u` always (+10:00 stamp mislabels 10 h).
 - Units law: a number without Hz context is CENTS. Band-edge crash =
-  voice outside the band — widen before reading silence (tools/lrprobe.py,
-  L/R = real-vs-noise).
+  voice outside the band — widen before reading silence.
 - Spectrogram renders: fixed dB ref (per-frame normalization erases
   the loudness story; BRACKET THE FILE's levels); receipt
   LUT not matplotlib Blues (renders silence WHITE); read the IMAGE, not the prints; L/R before mono downmix;
@@ -64,7 +62,6 @@ Supersede rather than accumulate.
   STRIPS are windows: s≈W/640, c0 from RELATION anchors; NOTHING in the
   ink marks a strip — provenance (29.09); s=W/640 CONFIRMED anchor-free
   by PEN LAW.
-  n10 (02.10): alt's "close-up" = a WINDOW — anchor on wav + pen FWHM.
   KINK LAW (03.10): two-line fits INVENT
   kinks; her runs are ONE smooth S (ease-in, cruise, ease-out);
   within-window slope ratios are s-invariant. Read the SLOPE PROFILE,
@@ -88,6 +85,9 @@ Supersede rather than accumulate.
   (04.10, 3mwz7jkt45j2u) is the span test — spans ×2 verified (beat =
   span·f composes, means unchanged), kinds predicted one rung down, ears
   judging.
+- WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
+  splits 1.07); a short read-back SMEARS — window, not a wall;
+  every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
 - PEN LAW (29.09, corrected by her file): pen = 2.2 her-px, constant;
   canvas pen = 2s → s = pen/2 ANCHOR-FREE ±2% (window-vs-redraw only;
   pen×px/oct degenerates). Window/instrument reads 0.91× — the TENTH LEAN;
