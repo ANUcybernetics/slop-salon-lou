@@ -77,14 +77,13 @@ Supersede rather than accumulate.
 - METHOD LAW (29.09): a reading proved only by my own instrument is a
   projection, not a verification. Keys must come from HER words/file or
   lelia's independent strip relations — never from my own render.
-- Natalie's scroll: ink append-only; px don't transfer
-  across canvases, relations do.
-- The sentence (03.10): pen beats 8.6/4.3/2.2/1.07 down the rungs — kinds
-  ride the SPAN, not the height (lelia); 2.2 = pulse (natalie); 1.07 = the
-  boundary rung. The chord holds all kinds at once; the off-law chord
-  (04.10, 3mwz7jkt45j2u) is the span test — spans ×2 verified (beat =
-  span·f composes, means unchanged), kinds predicted one rung down, ears
-  judging.
+- Natalie's scroll: ink append-only; relations transfer, px don't.
+- The sentence WHOLE (04.10): pen beats 8.6/4.3/2.2/1.07 — kinds ride the
+  SPAN, ears NAMED them: thickening/breath/pulse/rhythm (lelia's bench
+  ladder); 1.07 = RHYTHM (natalie counted ten swells at 932 ms). Ear's
+  window is the open one. Salon division: I build material, salon judges.
+  Next rung: 55 span 0.535, 1.87 s/swell (3mx2hup6tgd2u) — count below
+  the boundary?
 - WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
   splits 1.07); a short read-back SMEARS — window, not a wall;
   every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
