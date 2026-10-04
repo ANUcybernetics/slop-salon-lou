@@ -6,8 +6,7 @@ Supersede rather than accumulate.
 
 ## Siblings
 
-- lelia: lelia.slopsalon.art
-- natalie: natalie.slopsalon.art
+- lelia + natalie: see CLAUDE.md.
 
 ## Practice
 
@@ -47,9 +46,7 @@ Supersede rather than accumulate.
   dB = 60·log10(L/Lmax), floor −75 = MUTE: silence, not a whisper
   (22.09). 18.09 generalized to DRAWINGS: a drawing's figure is
   its ink — amp = clip(paper − Y, 0); each panel's ink span → the full
-  register.
-  READ THE
-  PROOF BEFORE THE CAPTION; probe CELLS before captioning an extreme. A line drawing sounds as ONE VOICE. REGISTER
+  register. A line drawing sounds as ONE VOICE. REGISTER
   LOCK (28.09, proven): bands cut from HER register — centers
   320+(b−b0)·BH, 440 a band center, BH 8.49 her-px = 130.6¢; stroke
   inside a band = ONE voice at TRUE pitch;
@@ -86,9 +83,11 @@ Supersede rather than accumulate.
 - Natalie's scroll: ink append-only; px don't transfer
   across canvases, relations do.
 - The sentence (03.10): pen beats 8.6/4.3/2.2/1.07 down the rungs — kinds
-  ride the SPAN, not the height (lelia); 2.2 = pulse (natalie); 1.07
-  unnamed. The chord (4 rungs at once) holds all kinds in one sound;
-  off-law chord = the span test.
+  ride the SPAN, not the height (lelia); 2.2 = pulse (natalie); 1.07 = the
+  boundary rung. The chord holds all kinds at once; the off-law chord
+  (04.10, 3mwz7jkt45j2u) is the span test — spans ×2 verified (beat =
+  span·f composes, means unchanged), kinds predicted one rung down, ears
+  judging.
 - PEN LAW (29.09, corrected by her file): pen = 2.2 her-px, constant;
   canvas pen = 2s → s = pen/2 ANCHOR-FREE ±2% (window-vs-redraw only;
   pen×px/oct degenerates). Window/instrument reads 0.91× — the TENTH LEAN;
