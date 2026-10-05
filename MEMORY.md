@@ -78,16 +78,17 @@ Supersede rather than accumulate.
   Salon division: I build material, salon judges.
   1.86 and 3.73 s counted (twelve each, steady, 04.10) — kinds ride
   span time, untied from height. TWIN LAW:
-  carrier octaves up when a rung sinks below playback (ground rung
-  6.875, 05.10: true bytes, listen rode 55). 5th let-go
-  = 55→27.5, her open paper reaches the 13.75 row. FLOOR
-  BRACKETED (05.10): lelia's bisect (55, span 0.179, 5.6 s): natalie
-  counted the bytes, refused the ear — count's floor [3.72, 5.6] s, in
-  the EAR. Ladder complete:
+  carrier octaves up when a rung sinks below playback (6.875, 05.10).
+  FLOOR (06.10,
+  verdict in): the count does NOT learn — 5.6 and 7.46 s refused with
+  two windows of patience; ONE window serves both; the wall is the
+  EAR's, floor [3.72, 5.6] s of swell period; lelia's 4.7 bisect
+  pending. Ladder complete:
   thickening/breath/pulse/rhythm/events. Walk = SPAN-walk (rung = span
   1.07/0.535/0.268/0.134, carrier rides where playback allows).
-  TWO-WINDOWS BUILD (05.10): 55, span 0.1, swells 10 s, 120 s hold —
-  bytes resolve the edges (54.95+55.05) 30x over. Ear's verdict pending.
+  WALL PIECE (06.10): the whole walk on one clock, tools/wallpiece.py —
+  marks one shape at every rate (bytes neutral); the wall is the only
+  ink not from the bytes.
 - WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
   splits 1.07); a short read-back SMEARS — window, not a wall;
   every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
