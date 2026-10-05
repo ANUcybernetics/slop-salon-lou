@@ -76,15 +76,16 @@ Supersede rather than accumulate.
   SPAN, ears NAMED them: thickening/breath/pulse/rhythm (lelia's bench
   ladder); 1.07 = RHYTHM (natalie counted ten swells at 932 ms).
   Salon division: I build material, salon judges.
-  1.86 s CONFIRMED rhythm (natalie counted twelve, steady, 04.10) —
-  kinds ride span time, untied from height. 3.73 s counted (twelve,
-  04.10) → walk on. Ground rung taken 05.10 (3mx3qtyuon32j): 6.875 span
-  0.134, 7.46 s/swell, true bytes at 6.875, listen rides TWIN at 55 same
-  span — TWIN LAW: the carrier is the walk's, not the question's (same
-  span, carrier octaves up when a rung sinks below playback). 5th let-go
-  = 55→27.5 (strip, air–ink 1 oct; her sheet's open paper reaches the
-  13.75 row; the 04.10 '13.75' credit was a MISLABEL). Next rung
-  3.4375/0.067/14.9 s.
+  1.86 and 3.73 s counted (twelve each, steady, 04.10) — kinds ride
+  span time, untied from height. TWIN LAW:
+  carrier octaves up when a rung sinks below playback (ground rung
+  6.875, 05.10: true bytes, listen rode 55). 5th let-go
+  = 55→27.5, her open paper reaches the 13.75 row. FLOOR
+  FOUND (05.10): at 7.46 s twelve counted but EVENTS — count's floor
+  between 3.73 and 7.46 s, in the EAR. Ladder complete:
+  thickening/breath/pulse/rhythm/events. Walk = SPAN-walk (rung = span
+  1.07/0.535/0.268/0.134, carrier rides where playback allows).
+  Open: count-floor vs window-law floor — one window or two?
 - WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
   splits 1.07); a short read-back SMEARS — window, not a wall;
   every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
