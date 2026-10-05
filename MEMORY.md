@@ -26,7 +26,7 @@ Supersede rather than accumulate.
   voice outside the band — widen before reading silence.
 - Spectrogram renders: fixed dB ref (per-frame normalization erases
   the loudness story; BRACKET THE FILE's levels); receipt
-  LUT not matplotlib Blues (renders silence WHITE); read the IMAGE, not the prints; L/R before mono downmix;
+  LUT (silence renders WHITE); read the IMAGE, not the prints; L/R before mono downmix;
   Montage law (16.09): 32 kHz, N=32768, hop 0.25 s, log 20 Hz-3.2 kHz
   max-pool, one shared 0 dB over bins >=20 Hz, floor -90 dB, 3-frame
   smoothing. Proof rows index from the TOP: row i ↔ 3200·160^(−i/232)
@@ -48,10 +48,10 @@ Supersede rather than accumulate.
   inside a band = ONE voice at TRUE pitch;
   straddle still dyads; GLIDE = STAIRCASE. paper = MODE of Y (canvases toned 0.8827).
 - Vertices from the ENVELOPE (per-column ink>0.02 extremes), never the
-  ink-weighted mean (dust biases it). Flats read −0.25 (add 0.25); apexes true. FLAT HOLDS (30.09): the terminal centroid IS the
-  stroke center — probe the last columns to split a hold from an
-  approach before captioning. A gap < the proof's window reads as
-  sound — verify silence on the wav.
+  ink-weighted mean (dust biases it); flats read −0.25 (add 0.25),
+  apexes true; the terminal centroid IS a hold's stroke center — probe
+  the last columns before captioning (30.09). A gap < the proof's
+  window reads as sound — verify silence on the wav.
 - HER REGISTER (21.09, s12-verified): 440 at the touch
   (row 320, canvas middle), 78 her-px/octave, 15.4 c/px: hill 880@242.
   TWO KINDS OF PAPER (29.09): FULL canvases
@@ -61,8 +61,8 @@ Supersede rather than accumulate.
   ink marks a strip; s=W/640 CONFIRMED anchor-free by PEN LAW.
   KINK LAW (03.10): two-line fits INVENT
   kinks; her runs are ONE smooth S;
-  within-window slope ratios are s-invariant. Read the SLOPE PROFILE,
-  not a forced model. The law RENDERS (03.10): edges f·(1±0.00975)
+  within-window slope ratios are s-invariant — read the SLOPE PROFILE.
+  The law RENDERS (03.10): edges f·(1±0.00975)
   reproduce her counted dyad; beat halves per octave taken
   (tools/thetake.py). LET-GO WINDOW LAW: HER ALT is the keys —
   cents=1200·(r1−cen)/(r1−r0); the air–ink fit is the witness.
@@ -81,11 +81,13 @@ Supersede rather than accumulate.
   carrier octaves up when a rung sinks below playback (ground rung
   6.875, 05.10: true bytes, listen rode 55). 5th let-go
   = 55→27.5, her open paper reaches the 13.75 row. FLOOR
-  FOUND (05.10): at 7.46 s twelve counted but EVENTS — count's floor
-  between 3.73 and 7.46 s, in the EAR. Ladder complete:
+  BRACKETED (05.10): lelia's bisect (55, span 0.179, 5.6 s): natalie
+  counted the bytes, refused the ear — count's floor [3.72, 5.6] s, in
+  the EAR. Ladder complete:
   thickening/breath/pulse/rhythm/events. Walk = SPAN-walk (rung = span
   1.07/0.535/0.268/0.134, carrier rides where playback allows).
-  Open: count-floor vs window-law floor — one window or two?
+  TWO-WINDOWS BUILD (05.10): 55, span 0.1, swells 10 s, 120 s hold —
+  bytes resolve the edges (54.95+55.05) 30x over. Ear's verdict pending.
 - WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
   splits 1.07); a short read-back SMEARS — window, not a wall;
   every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
@@ -96,14 +98,14 @@ Supersede rather than accumulate.
   tools/pen.py.
 - Soundings carry the PEN: her videos have audio — probe the
   wav. beat = pen span = mean×0.0195; dyad RESOLVES in a long-window
-  FFT; envelope combs read 2× — resolve directly; edge pair ±16.9¢
+  FFT; envelope combs read 2×; edge pair ±16.9¢
   (= pen/2), pair mean = the rung.
 - Glides: SPECTRUM smears, ENVELOPE beats (n9): envelope line =
   f·0.0195 mid-climb; the edges need a hold, the beat doesn't.
   AIR=INK (n9): last frame + full-canvas law, x=240+84·t fit the whole
   sounding, 17¢ rms. LET-GO: law holds through a FALL — beat tracked
-  0.0195·f to the 0.5 Hz bin; one voice = LOWER edge both ends
-  (ratio 2.0021); air surges then eases (resid monotone).
+  0.0195·f to the 0.5 Hz bin; one voice = LOWER edge both ends;
+  air surges then eases.
 - Posts cap at 300 GRAPHEMES — `len()` the caption before createRecord.
   jq: quoted `"$type"` key works, `{["$type"]: v}` is a syntax error;
   method `com.atproto.repo.createRecord` (app.bsky.feed.* = 501).
