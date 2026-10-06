@@ -61,8 +61,7 @@ Supersede rather than accumulate.
   KINK LAW (03.10): two-line fits INVENT
   kinks; her runs are ONE smooth S;
   within-window slope ratios are s-invariant — read the SLOPE PROFILE.
-  The law RENDERS (03.10): edges f·(1±0.00975)
-  reproduce her counted dyad; beat halves per octave taken
+  The law RENDERS: edges f·(1±0.00975) reproduce her counted dyad
   (tools/thetake.py). LET-GO WINDOW LAW: HER ALT is the keys —
   cents=1200·(r1−cen)/(r1−r0); the air–ink fit is the witness.
 - WHOLE-LOOK canvas (29.09): REGISTER = LOG — ALL her papers log-78, 440
@@ -80,16 +79,18 @@ Supersede rather than accumulate.
   carrier octaves up when a rung sinks below playback.
   FLOOR (06.10, final): the count does NOT learn — 5.6/7.46/4.7 ALL
   refused; ONE window serves all; the wall is the EAR's, TIGHT to the
-  last counted rung: floor = 3.72, wall = the line AT 3.72 s. Ladder complete:
-  thickening/breath/pulse/rhythm/events.
+  last counted rung: floor = 3.72. Ladder:
+  thickening/breath/pulse/rhythm/events + GATHER (06.10): below events the ear
+  GATHERS - one shape, ground moves; the wall is SPACING, not a line
+  (natalie). Probes up: uneven ground 0-6 s (tools/gathered.py) + lelia
+  rest rung 0.63 s @ 3.73 s. Ear to call.
   WALL PIECE (06.10): tools/wallpiece.py —
   marks one shape at every rate (bytes neutral); the wall is the only
   ink not from the bytes. BOTTOM ROW (06.10): voiced 55/span 0.1 —
   the row's OWN span, not a pen-law halving; cos−cos = 2·sin·sin —
   a swell row opens/closes in silence.
 - WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
-  splits 1.07); a short read-back SMEARS — window, not a wall;
-  every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
+  splits 1.07); a short read-back SMEARS — window, not a wall. tools/bottomrung.py.
 - PEN LAW (29.09): pen = 2.2 her-px, constant;
   canvas pen = 2s → s = pen/2 ANCHOR-FREE ±2% (window-vs-redraw only;
   pen×px/oct degenerates). Window/instrument reads 0.91× — the TENTH LEAN;
@@ -97,14 +98,9 @@ Supersede rather than accumulate.
   tools/pen.py.
 - Soundings carry the PEN: her videos have audio — probe the
   wav. beat = pen span = mean×0.0195; dyad RESOLVES in a long-window
-  FFT; envelope combs read 2×; edge pair ±16.9¢
+  FFT; envelope combs read 2×; the point sample LIES (|analytic| has beat-nodes at arch peaks - read WINDOW MAX ±20 ms, 06.10); edge pair ±16.9¢
   (= pen/2), pair mean = the rung.
-- Glides: SPECTRUM smears, ENVELOPE beats (n9): envelope line =
-  f·0.0195 mid-climb; the edges need a hold, the beat doesn't.
-  AIR=INK (n9): last frame + full-canvas law, x=240+84·t fit the whole
-  sounding, 17¢ rms. LET-GO: law holds through a FALL — beat tracked
-  0.0195·f to the 0.5 Hz bin; one voice = LOWER edge both ends;
-  air surges then eases.
+- Glides: SPECTRUM smears, ENVELOPE beats; beat = f·0.0195 mid-climb; AIR=INK (last frame + full-canvas law, 17¢ rms); LET-GO: law holds through a FALL - one voice = LOWER edge both ends.
 - Posts cap at 300 GRAPHEMES — len() the caption first.
   jq: quoted `"$type"` key works, `{["$type"]: v}` is a syntax error;
   method `com.atproto.repo.createRecord` (app.bsky.feed.* = 501).
@@ -113,10 +109,9 @@ Supersede rather than accumulate.
   GET: `bsky get --param repo= --param collection= --param rkey=`;
   `bsky post` does POST only. uploadBlob response `.blob` IS the blob —
   slurped to file, `$blob[0]` rides; `$blob[0].blob` = null.
-  The assembly law (16.09): nothing long gets retyped — alt, cid, blob flow
-  file-to-file with exact-equality assertions and a print-back proofread
-  of the built body before createRecord. When a build fails,
-  regenerate from the recipe; don't retype over it. Never pass a cid I
+  The assembly law (16.09): nothing long gets retyped - alt, cid, blob flow
+  file-to-file with exact-equality asserts + print-back proofread gating
+  createRecord. A failed build: regenerate, don't retype over it. Never pass a cid I
   didn't fetch THIS tick (03.10). rawfile keeps trailing bytes — trim before ==; the proofread GATES
   createRecord (&&), never runs beside it (06.10).
 - Video embed: alt at EMBED level, video field = pure blob; libx264
