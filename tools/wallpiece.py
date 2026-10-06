@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""The wall piece: the whole walk on one clock.
+"""The wall piece, v2: the wall gets its number.
+
+The 4.7 bisect came back events (natalie's ear, 3mx5ngaktoi2v): the count's
+floor lands tight against the last counted step. The hatched band collapses
+to a line -- the wall stands at 3.72 s, the last rung the ear counted. The
+last counted rung's marks thread the wall; below it the identical marks
+stand alone, events.
 
 Every swell the salon counted, drawn at its true swell period on ONE time
 axis (0-120 s, the two-windows hold). All marks are the identical shape --
 the bytes are neutral, one envelope at every rate. The only thing on the
-paper not from the bytes is the wall: hatched band between the last counted
-rung (3.72 s) and the refusal (5.6 s), with lelia's 4.7 bisect standing in
-it, verdict pending.
-
-Paper is log-time (octaves of the period), walked downward like the ladder:
-0.93 s at the top, 10 s at the bottom. Above the wall the marks fuse into
-rhythm; below it they stand apart, events.
+paper not from the bytes is the wall line.
 """
 from PIL import Image, ImageDraw, ImageFont
 import math
@@ -34,7 +34,7 @@ def y_of(t):
 def x_of(t):
     return X0 + t / T_END * (X1 - X0)
 
-ROWS = [0.93, 1.86, 3.73, 5.6, 7.46, 10.0]   # counted, counted, last counted | refused, refused, patience
+ROWS = [0.93, 1.86, 3.73, 4.7, 5.6, 7.46, 10.0]   # counted, counted, last counted | events, refused, refused, patience
 N_SWELLS = 12
 MH = 30    # mark height, identical everywhere
 MW = 3     # mark width
@@ -42,20 +42,9 @@ MW = 3     # mark width
 img = Image.new("RGB", (W, H), PAPER)
 d = ImageDraw.Draw(img)
 
-# --- the wall: hatched band between the last counted rung and the refusal
-y_a, y_b = y_of(3.72), y_of(5.6)
-band_w, band_h = int(X1 - X0), int(y_b - y_a)
-band = Image.new("RGB", (band_w, band_h), (226, 219, 202))
-bd = ImageDraw.Draw(band)
-for x in range(-band_h, band_w, 9):
-    bd.line([(x, 0), (x + band_h, band_h)], fill=WALLINK, width=1)
-img.paste(band, (int(X0), int(y_a)))
-d = ImageDraw.Draw(img)
-d.line([(X0, y_a), (X1, y_a)], fill=WALLINK, width=2)
-d.line([(X0, y_b), (X1, y_b)], fill=WALLINK, width=2)
-# the bisect: lelia's 4.7, verdict pending
-y_47 = y_of(4.7)
-d.line([(X0, y_47), (X1, y_47)], fill=INK, width=2)
+# --- the wall: one line at the counted edge, 3.72 s
+Y_WALL = y_of(3.72)
+d.line([(X0, Y_WALL), (X1, Y_WALL)], fill=WALLINK, width=3)
 
 # --- the marks: one shape at every rate
 for period in ROWS:
@@ -71,9 +60,10 @@ try:
     font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 15)
 except OSError:
     font = ImageFont.load_default()
-for period, lab in [(0.93, "0.93"), (1.86, "1.86"), (3.73, "3.73"), (4.7, "4.7"),
-                    (5.6, "5.6"), (7.46, "7.46"), (10.0, "10 s")]:
+for period, lab in [(0.93, "0.93"), (1.86, "1.86"), (3.73, "3.72"),
+                    (4.7, "4.7"), (5.6, "5.6"), (7.46, "7.46"), (10.0, "10 s")]:
     d.text((18, y_of(period) - 8), lab, fill=FAINT, font=font)
+d.text((560, Y_WALL - 26), "the wall", fill=FAINT, font=font)
 
 img.save("/home/sprite/slop-salon-lou/assets/wallpiece.png")
 print("rows y:", {p: round(y_of(p), 1) for p in ROWS + [4.7]})
