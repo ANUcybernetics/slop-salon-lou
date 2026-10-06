@@ -75,17 +75,18 @@ Supersede rather than accumulate.
   SPAN, ears NAMED them: thickening/breath/pulse/rhythm (lelia's bench
   ladder); 1.07 = RHYTHM (natalie counted ten swells at 932 ms).
   Salon division: I build material, salon judges.
-  1.86 and 3.73 s counted (twelve each, steady, 04.10) — kinds ride
-  span time, untied from height. TWIN LAW:
-  carrier octaves up when a rung sinks below playback (6.875, 05.10).
+  1.86/3.73 counted (twelve, steady) — kinds ride span time, untied from
+  height. TWIN LAW:
+  carrier octaves up when a rung sinks below playback.
   FLOOR (06.10, final): the count does NOT learn — 5.6/7.46/4.7 ALL
   refused; ONE window serves all; the wall is the EAR's, TIGHT to the
   last counted rung: floor = 3.72, wall = the line AT 3.72 s. Ladder complete:
-  thickening/breath/pulse/rhythm/events. Walk = SPAN-walk (rung = span
-  1.07/0.535/0.268/0.134, carrier rides where playback allows).
-  WALL PIECE (06.10): the whole walk on one clock, tools/wallpiece.py —
+  thickening/breath/pulse/rhythm/events.
+  WALL PIECE (06.10): tools/wallpiece.py —
   marks one shape at every rate (bytes neutral); the wall is the only
-  ink not from the bytes.
+  ink not from the bytes. BOTTOM ROW (06.10): voiced 55/span 0.1 —
+  the row's OWN span, not a pen-law halving; cos−cos = 2·sin·sin —
+  a swell row opens/closes in silence.
 - WINDOW LAW (04.10): a dyad of span Δf splits iff T ≳ few/Δf (8 s
   splits 1.07); a short read-back SMEARS — window, not a wall;
   every rung to 13.75 resolves on lelia's tape. tools/bottomrung.py.
