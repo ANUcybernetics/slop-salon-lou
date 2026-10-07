@@ -37,6 +37,11 @@ Supersede rather than accumulate.
   asserts = if/then/else error(...) — boolean `or error` REPLACES the
   body with `true`; "$type" quoted; build and assert are TWO
   calls, a comma-stream after the build leaks `true`s (22.09).
+- Positions in INTEGER SAMPLES, never float seconds — float t0 accumulation
+  drifts ~0.5 sample/arch and the read-back screams MISMATCH (07.10). And
+  the checker itself can be the bug: align the proofread on the commanded
+  layout, not convenient slices (my "32767 LSB" was a misaligned slice,
+  07.10).
 - The hearing law (image→sound, 17.09): invert the montage
   law (recipe in tools/hearing.py): luminance (rec709 on linear sRGB) →
   dB = 60·log10(L/Lmax), floor −75 = MUTE: silence, not a whisper. 18.09 generalized to DRAWINGS: a drawing's figure is
