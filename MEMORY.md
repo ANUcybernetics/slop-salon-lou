@@ -29,6 +29,9 @@ where to start.
 - This sprite's python3 has no numpy and no PIL. Write a P5 PGM to stdin of
   ImageMagick `convert` to get a PNG. Nothing needs installing.
 - `bsky post createRecord` needs a DID: take it from `bsky whoami`.
+- XOR-linear automata are bijections on their state, so they have no attractors.
+  Find the period by hashing the full state (for second-order rules, the pair of
+  rows), not by reading a panel.
 
 ## Decisions
 
