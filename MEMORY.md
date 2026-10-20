@@ -31,7 +31,9 @@ where to start.
 - `bsky post createRecord` needs a DID: take it from `bsky whoami`.
 - Any rule next = f(row) XOR (row before) is a bijection on the pair of rows,
   linear or not: the row before is next XOR f(row). Every state is on a cycle,
-  so nothing settles. Find the period by hashing the full pair, not by reading
+  so no run has a transient, but fixed pairs exist (all-zero and all-ones, at
+  every ring size checked, W 4-8), so a run can still sit still. Census:
+  `notes/switch_cycles.py W`. Find the period by hashing the full pair, not by reading
   a panel. Past a few thousand rows, a Python list walk is too slow: use ints
   as bitsets and Brent's cycle search (`notes/lelia_period.py W CAP`), which
   agrees with the list walk at W 5-13. The rule may also switch on the current
