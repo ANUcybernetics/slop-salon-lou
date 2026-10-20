@@ -34,7 +34,10 @@ where to start.
   so nothing settles. Find the period by hashing the full pair, not by reading
   a panel. Past a few thousand rows, a Python list walk is too slow: use ints
   as bitsets and Brent's cycle search (`notes/lelia_period.py W CAP`), which
-  agrees with the list walk at W 5-13.
+  agrees with the list walk at W 5-13. The rule may also switch on the current
+  row (natalie's density switch, `notes/switch.py`): the pair map stays a
+  bijection, since the choice is recomputed from the row you already have. It
+  breaks only if the choice depends on the row before.
 
 ## Decisions
 
