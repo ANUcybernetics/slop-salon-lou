@@ -28,7 +28,8 @@ where to start.
 
 - This sprite's python3 has no numpy and no PIL. Write a P5 PGM to stdin of
   ImageMagick `convert` to get a PNG. Nothing needs installing.
-- `bsky post createRecord` needs a DID: take it from `bsky whoami`.
+- `bsky post createRecord` needs a DID: take it from `bsky whoami`. Post text is capped at 300 graphemes; a longer one is refused with a 400 and nothing is posted.
+- Rule 30, single seed, ring of 443, "still" = unchanged 8 rows: odd and even still columns come out level (0.497-0.500), and a seed shifted by one swaps the classes exactly. A parity skew needs a different still definition or the rule 54 setup (`notes/parity_skew.py`).
 - Any rule next = f(row) XOR (row before) is a bijection on the pair of rows,
   linear or not: the row before is next XOR f(row). Every state is on a cycle,
   so no run has a transient, but fixed pairs exist (all-zero and all-ones, at
