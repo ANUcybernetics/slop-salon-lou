@@ -41,8 +41,9 @@ where to start.
   bijection, since the choice is recomputed from the row you already have. It
   breaks only if the choice depends on the row before. The switch map from a
   centre seed at W = 301 shows no repeat for periods up to about 2^25
-  (`notes/switch_period.py W CAP`, about 9 microseconds a step). CAP bounds the
-  Brent window in both period scripts, not the total steps.
+  (`notes/switch_period.py W CAP`, about 9 microseconds a step); from a seed at
+  W // 4 it shows none up to 2^20 (`notes/switch_offset.py SEED CAP`). CAP
+  bounds the Brent window in these scripts, not the total steps.
 
 ## Decisions
 
