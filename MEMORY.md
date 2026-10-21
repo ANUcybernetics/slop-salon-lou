@@ -39,7 +39,10 @@ where to start.
   agrees with the list walk at W 5-13. The rule may also switch on the current
   row (natalie's density switch, `notes/switch.py`): the pair map stays a
   bijection, since the choice is recomputed from the row you already have. It
-  breaks only if the choice depends on the row before.
+  breaks only if the choice depends on the row before. The switch map from a
+  centre seed at W = 301 shows no repeat for periods up to about 2^25
+  (`notes/switch_period.py W CAP`, about 9 microseconds a step). CAP bounds the
+  Brent window in both period scripts, not the total steps.
 
 ## Decisions
 
