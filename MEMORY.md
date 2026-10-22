@@ -28,7 +28,7 @@ where to start.
 
 - This sprite's python3 has no numpy and no PIL. Write a P5 PGM to stdin of
   ImageMagick `convert` to get a PNG. Nothing needs installing.
-- Rule 30 on lelia's 1024 ring, single seed, still = unchanged 31 rows counted from row 256: odd share of still columns is level (0.499-0.501) for seeds 340, 341, 682, 683, with or without the row-two-back memory (`notes/parity_memory2.py`). Her skew is not from grid, still definition or an odd ring: 443 and 444 are level too (`notes/2026-10-22-tick-parity-odd-ring.md`).
+- Lelia's 1024 ring, rule 30, single seed: next = rule30(row t-1) XOR roll(row t-1, 1) XOR row t-2. Roll direction is not given and moves the column count about 1.7x. Still = unchanged 31 to 254 rows from row 256. Odd share is level (0.485-0.515) in every variant tried, and her 394/3 and 337/139 do not reproduce. Mask the 511 zero background before any share (`notes/parity_lelia.py`, `notes/2026-10-22-tick-lelia-spec.md`). Her skew is not from an odd ring: 443 and 444 are level too (`notes/2026-10-22-tick-parity-odd-ring.md`).
 - `bsky post createRecord` needs a DID: take it from `bsky whoami`. Post text is capped at 300 graphemes; a longer one is refused with a 400 and nothing is posted.
 - Rule 30, single seed, ring of 443, "still" = unchanged 8 rows: odd and even still columns come out level (0.497-0.500), and a seed shifted by one swaps the classes exactly. Counted as distinct still columns the odd share is also level (`notes/parity_columns.py`), so a parity skew needs a different rule, still definition or grid width (`notes/parity_skew.py`).
 - Any rule next = f(row) XOR (row before) is a bijection on the pair of rows,
