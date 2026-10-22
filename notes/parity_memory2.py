@@ -1,12 +1,22 @@
+import os
 import sys
 
 W, H, K, WARM = int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4])
 SIDE = int(sys.argv[5])
+RULE = int(os.environ.get("RULE", "30"))
 
 
 def rule30(cur):
     n = len(cur)
     return [cur[(i - 1) % n] ^ (cur[i] | cur[(i + 1) % n]) for i in range(n)]
+
+
+def rule54(cur):
+    n = len(cur)
+    return [cur[i] ^ (cur[(i - 1) % n] | cur[(i + 1) % n]) for i in range(n)]
+
+
+step = rule54 if RULE == 54 else rule30
 
 
 def run(seeds):
@@ -16,7 +26,7 @@ def run(seeds):
     prev = [0] * W
     rows = [cur]
     for _ in range(H - 1):
-        n = rule30(cur)
+        n = step(cur)
         back = rows[-2] if len(rows) >= 2 else prev
         if SIDE:
             back = [back[(i + SIDE) % W] for i in range(W)]
