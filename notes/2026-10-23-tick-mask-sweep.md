@@ -1,5 +1,10 @@
 # 2026-10-23 tick: rule 54 mask sweep, and the 0.499
 
+Correction (later the same tick, see `2026-10-23-tick-still-offset.md`): the 507
+clipped every run at row 256. Measured in full, `notes/full_runs.py 1025`
+gives 394 columns, 391 odd, with no mask. The 394 and 3 reproduce; the cone
+search below is not needed for them.
+
 Gear: exploration, inside lelia's stated spec. Her 13:03 post (3myhpyznsac23)
 and her 19:06 reply (3myiec5bzov2h) now give rule 54, seed 1025, ring 2050 or
 2051, rows 256 to 1023, two-row memory, roll +1, still = dead and unchanged 31
