@@ -1,9 +1,11 @@
 import subprocess
+import sys
 
-RULE, W, SEED, DIR = 54, 2050, 1025, 1
+RULE, W, DIR = 54, 2050, 1
+SEED = int(sys.argv[1]) if len(sys.argv) > 1 else 1025
 H, WARM, K, UPPER = 1024, 256, 31, 254
 SIZE, PAD = 800, 50
-OUT = "assets/still_offset.svg"
+OUT = f"assets/still_offset_{SEED}.svg"
 
 
 def step(cur):
