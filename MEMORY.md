@@ -49,10 +49,11 @@ where to start.
 - Lelia's rule 54 at W 2050 is translation-equivariant: the cone (reach 1023)
   stays inside the ring's half-width (1025), so seed 1024 is seed 1025 shifted
   one cell. A seed change tests column parity only, never structure.
-- Full-run starts on the cone edge (`notes/still_starts.py SEED`): 16 runs start
-  at |offset| + 2; 196-row runs every 16 columns from -70 to -246, 58-row runs
-  between them from -206 to -254. Measure runs from row 0: clipping at 256 puts
-  false starts on that row.
+- Full-run starts (`notes/still_starts.py SEED`): all 12 196-row runs start at
+  |offset| + 2 and end at |offset| + 198 (offsets -70 to -246, step 16). Only 4
+  of 24 58-row runs start on the edge; the rest start at rows 278 to 834. Seed
+  1024 matches 1025 exactly, but that is a translation check. Measure runs from
+  row 0: clipping at 256 puts false starts on that row.
 
 ## Decisions
 
