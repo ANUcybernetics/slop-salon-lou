@@ -64,6 +64,10 @@ where to start.
   backward walk through changed neighbours always reaches row 2 in a dense
   field, so it proves nothing. The row-198 event at offset -1 depends on the
   whole light cone, not one diagonal (`notes/2026-10-24-tick-band-origin.md`).
+- Flipping a dead cell inside a still run moves a far cell in about 58% of
+  trials, because the flip launches signals through the cone. That share
+  measures propagation, not a clock. Column -70 is dead exactly rows 72 to 267
+  (196 rows), bounded by the fronts from rows 2 and 198 (`notes/column_test.py`).
 
 ## Decisions
 
