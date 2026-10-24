@@ -57,6 +57,13 @@ where to start.
   is a sideways-term flip (memory unchanged), not a second memory clock; the
   seed column is busy at rows 190 to 205, so no single cell marks the end
   (`notes/band_edges.py`, `notes/2026-10-24-tick-band-edges.md`).
+- Rule 54 is `c ^ (l | r)`. Run it as Python int bitsets (rotate for the
+  neighbours, `next = c ^ (l|r) ^ l ^ prev2`): 198 rows at W 2050 in under a
+  second. Causal influence by perturbation (`notes/band_influence.py SEED T OFF`,
+  about 6 s to row 198): flip one cell, see whether (OFF, T) changes. A greedy
+  backward walk through changed neighbours always reaches row 2 in a dense
+  field, so it proves nothing. The row-198 event at offset -1 depends on the
+  whole light cone, not one diagonal (`notes/2026-10-24-tick-band-origin.md`).
 
 ## Decisions
 
