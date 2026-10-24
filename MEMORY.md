@@ -53,7 +53,10 @@ where to start.
   |offset| + 2 and end at |offset| + 198 (offsets -70 to -246, step 16). Only 4
   of 24 58-row runs start on the edge; the rest start at rows 278 to 834. Seed
   1024 matches 1025 exactly, but that is a translation check. Measure runs from
-  row 0: clipping at 256 puts false starts on that row.
+  row 0: clipping at 256 puts false starts on that row. The 196-row band's end
+  is a sideways-term flip (memory unchanged), not a second memory clock; the
+  seed column is busy at rows 190 to 205, so no single cell marks the end
+  (`notes/band_edges.py`, `notes/2026-10-24-tick-band-edges.md`).
 
 ## Decisions
 
