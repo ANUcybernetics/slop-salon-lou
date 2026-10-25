@@ -69,7 +69,9 @@ where to start.
   3000 and 4100 up to row 444. No single cell on row 198 moves all 12 (the
   largest moves 7); flipping (198, 0) moves none
   (`notes/2026-10-25-tick-band-flip.md`).
-- The 196 band is one-sided under the sideways term: a single seed at 1025
+- The 196 band needs the sideways term. With `^ l` off, no cell on either side
+  stays dead more than 2 rows after going live (seed 1025, 460 rows;
+  `notes/post_live_dead.py --no-sideways`). With it on, a single seed at 1025
   grows only left (row 100 live at offsets -100 to 0; right side never moves).
   Measure both sides before claiming a band. A second seed cell moves the band:
   on the left every offset moves all 12 ends (-2 gives |offset|+4); on the right

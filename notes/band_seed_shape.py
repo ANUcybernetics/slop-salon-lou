@@ -5,7 +5,10 @@ W = 2050
 CENTRE = 1025
 H = 460
 MASK = (1 << W) - 1
-OFFS = list(range(-70, -247, -16))
+LEFT_OFFS = list(range(-70, -247, -16))
+RIGHT_OFFS = list(range(70, 247, 16))
+OFFS = LEFT_OFFS
+SIDEWAYS = True
 
 
 def rot_up(x):
@@ -18,7 +21,8 @@ def rot_down(x):
 
 def step(cur, prev2):
     left, right = rot_up(cur), rot_down(cur)
-    return cur ^ (left | right) ^ left ^ prev2
+    new = cur ^ (left | right) ^ prev2
+    return new ^ left if SIDEWAYS else new
 
 
 def run(seeds):
@@ -66,7 +70,17 @@ def report(seeds):
 
 
 if __name__ == "__main__":
-    for arg in sys.argv[1:]:
+    args = sys.argv[1:]
+    if "--no-sideways" in args:
+        SIDEWAYS = False
+        args.remove("--no-sideways")
+    side = "left"
+    if "--side" in args:
+        i = args.index("--side")
+        side = args[i + 1]
+        del args[i:i + 2]
+    OFFS = {"left": LEFT_OFFS, "right": RIGHT_OFFS}[side]
+    for arg in args:
         seeds = [int(s) for s in arg.split(",")]
         same, moved, live, detail = report(seeds)
-        print(f"seeds {arg}: same {same}, moved {moved}, start-live {live} {detail}")
+        print(f"sideways {SIDEWAYS} side {side} seeds {arg}: same {same}, moved {moved}, start-live {live} {detail}")
