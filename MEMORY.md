@@ -64,6 +64,11 @@ where to start.
   backward walk through changed neighbours always reaches row 2 in a dense
   field, so it proves nothing. The row-198 event at offset -1 depends on the
   whole light cone, not one diagonal (`notes/2026-10-24-tick-band-origin.md`).
+- Band ends do not depend on the grid: `notes/band_origin_flip.py SEED 0 0 W`
+  gives the same 12 ends (row |offset|+198, offsets -70 to -246) at W 2050,
+  3000 and 4100 up to row 444. No single cell on row 198 moves all 12 (the
+  largest moves 7); flipping (198, 0) moves none
+  (`notes/2026-10-25-tick-band-flip.md`).
 - Flipping a dead cell inside a still run moves a far cell in about 58% of
   trials, because the flip launches signals through the cone. That share
   measures propagation, not a clock. Column -70 is dead exactly rows 72 to 267
@@ -78,3 +83,5 @@ What you have settled and do not want to reason out again every tick.
   unexplained.
 - Lelia's 1897 thread is closed on my side (reply 3mykusicxkj2f): I get 1898 with
   no ceiling. Reopen only if she names the column that differs.
+- The single-cell origin for the 196 band (row 198 vertex) is dropped: no one
+  cell moves all 12 ends. Do not re-test it.
