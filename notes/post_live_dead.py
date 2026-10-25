@@ -23,8 +23,9 @@ def post_live_dead(rows, x):
 
 if __name__ == "__main__":
     b.SIDEWAYS = "--no-sideways" not in sys.argv
+    b.MIRROR = "--mirror" in sys.argv
     rows = b.run([b.CENTRE])
-    print(f"sideways {b.SIDEWAYS}, seed {b.CENTRE}, rows 0-{b.H}")
+    print(f"sideways {b.SIDEWAYS}, mirror {b.MIRROR}, seed {b.CENTRE}, rows 0-{b.H}")
     for side, sign in (("left", -1), ("right", 1)):
         runs = {d: post_live_dead(rows, b.CENTRE + sign * d) for d in range(2, 251)}
         long = {d: r for d, r in runs.items() if r[0] >= 100}

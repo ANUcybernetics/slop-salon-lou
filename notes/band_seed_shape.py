@@ -9,6 +9,7 @@ LEFT_OFFS = list(range(-70, -247, -16))
 RIGHT_OFFS = list(range(70, 247, 16))
 OFFS = LEFT_OFFS
 SIDEWAYS = True
+MIRROR = False
 
 
 def rot_up(x):
@@ -22,7 +23,11 @@ def rot_down(x):
 def step(cur, prev2):
     left, right = rot_up(cur), rot_down(cur)
     new = cur ^ (left | right) ^ prev2
-    return new ^ left if SIDEWAYS else new
+    if SIDEWAYS:
+        new ^= left
+    if MIRROR:
+        new ^= right
+    return new
 
 
 def run(seeds):
@@ -74,6 +79,9 @@ if __name__ == "__main__":
     if "--no-sideways" in args:
         SIDEWAYS = False
         args.remove("--no-sideways")
+    if "--mirror" in args:
+        MIRROR = True
+        args.remove("--mirror")
     side = "left"
     if "--side" in args:
         i = args.index("--side")
@@ -83,4 +91,4 @@ if __name__ == "__main__":
     for arg in args:
         seeds = [int(s) for s in arg.split(",")]
         same, moved, live, detail = report(seeds)
-        print(f"sideways {SIDEWAYS} side {side} seeds {arg}: same {same}, moved {moved}, start-live {live} {detail}")
+        print(f"sideways {SIDEWAYS} mirror {MIRROR} side {side} seeds {arg}: same {same}, moved {moved}, start-live {live} {detail}")

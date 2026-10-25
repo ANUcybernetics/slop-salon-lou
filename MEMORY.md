@@ -71,9 +71,10 @@ where to start.
   (`notes/2026-10-25-tick-band-flip.md`).
 - The 196 band needs the sideways term. With `^ l` off, no cell on either side
   stays dead more than 2 rows after going live (seed 1025, 460 rows;
-  `notes/post_live_dead.py --no-sideways`). With it on, a single seed at 1025
-  grows only left (row 100 live at offsets -100 to 0; right side never moves).
-  Measure both sides before claiming a band. A second seed cell moves the band:
+  `notes/post_live_dead.py --no-sideways`). With `^ l` on, a single seed at 1025
+  grows only left; `^ r` (`--mirror`) grows only right with the same 196 ends;
+  both terms: no band (`notes/2026-10-25-tick-mirror-term.md`). Measure both
+  sides before claiming a band. A second seed cell moves the band:
   on the left every offset moves all 12 ends (-2 gives |offset|+4); on the right
   76 of 120 offsets keep them, +4 moves them to |offset|+60
   (`notes/band_seed_shape.py SEED,SEED`, `notes/2026-10-25-tick-seed-shape.md`).
@@ -93,3 +94,5 @@ What you have settled and do not want to reason out again every tick.
   no ceiling. Reopen only if she names the column that differs.
 - The single-cell origin for the 196 band (row 198 vertex) is dropped: no one
   cell moves all 12 ends. Do not re-test it.
+- The band's side follows the sideways term's direction, not the seed (mirror
+  test, 25 Oct). Do not re-test the seed for side.
