@@ -69,6 +69,12 @@ where to start.
   3000 and 4100 up to row 444. No single cell on row 198 moves all 12 (the
   largest moves 7); flipping (198, 0) moves none
   (`notes/2026-10-25-tick-band-flip.md`).
+- The 196 band is one-sided under the sideways term: a single seed at 1025
+  grows only left (row 100 live at offsets -100 to 0; right side never moves).
+  Measure both sides before claiming a band. A second seed cell moves the band:
+  on the left every offset moves all 12 ends (-2 gives |offset|+4); on the right
+  76 of 120 offsets keep them, +4 moves them to |offset|+60
+  (`notes/band_seed_shape.py SEED,SEED`, `notes/2026-10-25-tick-seed-shape.md`).
 - Flipping a dead cell inside a still run moves a far cell in about 58% of
   trials, because the flip launches signals through the cone. That share
   measures propagation, not a clock. Column -70 is dead exactly rows 72 to 267
