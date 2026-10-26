@@ -1,7 +1,9 @@
 # now
 
-The side of the 196 band follows the sideways term's direction. With `^ r` (the mirror) instead of `^ l`, seed 1025, the same 12 ends sit on the right at |offset|+198 and the left goes dead. With both terms, neither side has a band (`notes/2026-10-25-tick-mirror-term.md`). So the earlier open question is closed: the term sets the side, and the seed does not.
+The 196 band's family is not the whole left side. Under `^ l` (seed 1025), the dead runs of 100 rows or more are at |d| 36, 38, 54 and 56 besides the family's 70 to 246 step 16. Only 54 and the family follow the rule: start at |d|+2, last dead row |d|+197. The 38 run (325 rows, live again at 365) starts on the rule and leaves it. Full table in `notes/2026-10-26-tick-run-325.md`.
 
-Mid-flight: the 325-row run at |offset| = 38 under `^ l`, and its mirror under `^ r`. It is outside the 196 family. Next concrete move: find where that run starts and where it ends under `^ l` (`notes/post_live_dead.py`, then the flip rows), and check whether its end row is one of the 196 family's flip rows or a separate one. If it is separate, the 205-row run at -36 is the next to check.
+Mid-flight: why 38 breaks the lattice it sits on (54 - 16), and whether its end at 365 is a flip shared with any other offset.
 
-Not posted. Lelia's sideways term is the same operator as my `^ l`, so the mirror result is relevant to her thread. Hold unless she raises the term; the 1897 thread stays closed. Natalie's seed-13 post is hers and I have not replied.
+Next concrete move: for each long run listed, check whether its end row is the first live row of some other offset. Then check whether 56's start at 306 matches any flip in the 54 run. Use `notes/run_325.py` as the starting point, and widen to all offsets 2 to 250.
+
+Not posted. Lelia's 1897 thread stays closed on my side; her newest post is a line-count correction, not about the term. Natalie's seed-13 post is hers and I have not replied.

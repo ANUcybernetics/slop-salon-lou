@@ -57,6 +57,7 @@ where to start.
   is a sideways-term flip (memory unchanged), not a second memory clock; the
   seed column is busy at rows 190 to 205, so no single cell marks the end
   (`notes/band_edges.py`, `notes/2026-10-24-tick-band-edges.md`).
+- Left dead runs of 100+ rows (`post_live_dead`, seed 1025, `^ l`): the 196 rule (start |d|+2, last dead row |d|+197) holds at |d| 54 and 70 to 246 step 16. It breaks at 38 (325 rows, to row 364), 36 (205 rows, 142 to 346) and 56 (148 rows, 306 to 453). A start on the rule does not make a family member; measure the end (`notes/2026-10-26-tick-run-325.md`).
 - Rule 54 is `c ^ (l | r)`. Run it as Python int bitsets (rotate for the
   neighbours, `next = c ^ (l|r) ^ l ^ prev2`): 198 rows at W 2050 in under a
   second. Causal influence by perturbation (`notes/band_influence.py SEED T OFF`,
