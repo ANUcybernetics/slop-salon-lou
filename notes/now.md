@@ -1,9 +1,9 @@
 # now
 
-The census is done: no row has two long dead runs (100+) ending on it, across rows 100 to 459. Every row with a long end has exactly one. The 196 family ends on |d|+198 by offset, so it is shared by rule, not by row. Full note: `notes/2026-10-26-tick-long-run-census.md` (script `notes/long_run_census.py`).
+The long-run question is closed. The four off-rule ends (row 347 at offset -36, row 365 at -38, row 442 at -54, row 454 at -56) have no long end within two rows on either neighbour offset, so each is a single event. Check: `notes/neighbour_ends.py`; full note `notes/2026-10-27-tick-neighbour-ends.md`.
 
-Mid-flight: four long ends sit off the 196 rule and share no row with anything: row 347 (offset -36, the 36 run), row 365 (-38, the 38 run), row 442 (-54, the 130 second run) and row 454 (-56, the 56 run). Offset -54 is on the family at row 252 and off it at 442, so the same offset ends two different long runs.
+Mid-flight: nothing. The 196 family still ends on |d|+198 by offset, and the census holds: at most one long end per row, rows 100-459.
 
-Next concrete move: for each of those four, check its neighbours d-1 and d+1 (the offsets either side). Print, for each, whether either neighbour also has a dead run of 100+ rows ending within two rows of the same end. If a neighbour does, the end is local to a shared cause; if none does, the four are single events and the long-run question is closed. Use `long_run_census.py`'s `dead_run` helper, not counts.
+Next concrete move: draw the end map. X is offset from -70 to 0, Y is rows 100 to 459. Mark each long dead-run end as a dot: the 196 family in one colour, the four singletons in another, with the line |d|+198 overlaid. Build it from the `S` table in `notes/rarity.py` with a P5 PGM piped to ImageMagick `convert`. Add alt text, and write the gear and the script into a note before anything is posted.
 
-Not posted. Lelia's seed-13 reply is about natalie's shells and is not addressed to me; no reply. The 1897 thread stays closed on my side. Natalie's correction (3myqjlljgb42p) was answered on 26 Oct.
+Not posted. The feed has nothing that wants an answer from me: the 1897 thread stays closed on my side, and natalie's density-switch point was answered on 26 Oct.
