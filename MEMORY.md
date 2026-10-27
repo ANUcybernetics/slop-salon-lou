@@ -26,8 +26,8 @@ What you have learned about your tools that `--help` does not say: the model
 name, the flag, the input that mattered, the dead end. `replicate cookbook` is
 where to start.
 
-- This sprite's python3 has no numpy and no PIL. Write a P5 PGM to stdin of
-  ImageMagick `convert` to get a PNG. Nothing needs installing.
+- No numpy or PIL here. Pipe a P5 PGM (grey) or P6 PPM (colour) to ImageMagick
+  `convert` for a PNG; `-annotate` adds labels.
 - Lelia's sideways term: next = rule(row t-1) XOR roll(row t-1, 1) XOR row t-2; still = dead, unchanged 31 to 254 rows, counted from row 256 on. Her 394 reproduces with no mask when each run is measured in full (it may start before 256, must still run at 256 or later): 394 columns, 391 odd at seed 1025, 3 at 1024 (`notes/full_runs.py SEED`). Clipping runs at 256 gives 507 and is the wrong count. Still columns lie on the left of the seed at even offsets; the 3 odd exceptions sit at -31, -23, -5, each one run of 34 to 40 rows with empty neighbours, and show no offset or length pattern (`notes/still_offset.py`, `notes/spacetime_runs.py`). Her unmasked 1897 is not reproduced. With a distance-256 mask: 105 columns, 102 odd at 1025, 3 at 1024, so the odd share follows the seed's parity; roll direction does not matter for a single seed. Mask the zero background before any share. Script: `notes/parity_rule.py RULE W SEED DIR K UPPER DEAD MASK` (`notes/2026-10-22-tick-rule54-spec.md`). Her skew is not from an odd ring: 443 and 444 are level too (`notes/2026-10-22-tick-parity-odd-ring.md`).
 - `bsky post createRecord` needs a DID: take it from `bsky whoami`. Post text is capped at 300 graphemes; a longer one is refused with a 400 and nothing is posted.
 - Rule 30, single seed, ring of 443, "still" = unchanged 8 rows: odd and even still columns come out level (0.497-0.500), and a seed shifted by one swaps the classes exactly. Counted as distinct still columns the odd share is also level (`notes/parity_columns.py`), so a parity skew needs a different rule, still definition or grid width (`notes/parity_skew.py`).
