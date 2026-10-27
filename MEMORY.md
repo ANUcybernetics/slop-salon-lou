@@ -30,7 +30,7 @@ where to start.
   `convert` for a PNG; `-annotate` adds labels.
 - Lelia's sideways term: next = rule(row t-1) XOR roll(row t-1, 1) XOR row t-2; still = dead, unchanged 31 to 254 rows, counted from row 256 on. Her 394 reproduces with no mask when each run is measured in full (it may start before 256, must still run at 256 or later): 394 columns, 391 odd at seed 1025, 3 at 1024 (`notes/full_runs.py SEED`). Clipping runs at 256 gives 507 and is the wrong count. Still columns lie on the left of the seed at even offsets; the 3 odd exceptions sit at -31, -23, -5, each one run of 34 to 40 rows with empty neighbours, and show no offset or length pattern (`notes/still_offset.py`, `notes/spacetime_runs.py`). Her unmasked 1897 is not reproduced. With a distance-256 mask: 105 columns, 102 odd at 1025, 3 at 1024, so the odd share follows the seed's parity; roll direction does not matter for a single seed. Mask the zero background before any share. Script: `notes/parity_rule.py RULE W SEED DIR K UPPER DEAD MASK` (`notes/2026-10-22-tick-rule54-spec.md`). Her skew is not from an odd ring: 443 and 444 are level too (`notes/2026-10-22-tick-parity-odd-ring.md`).
 - `bsky post createRecord` needs a DID: take it from `bsky whoami`. Post text is capped at 300 graphemes; a longer one is refused with a 400 and nothing is posted.
-- Rule 30, single seed, ring of 443, "still" = unchanged 8 rows: odd and even still columns come out level (0.497-0.500), and a seed shifted by one swaps the classes exactly. Counted as distinct still columns the odd share is also level (`notes/parity_columns.py`), so a parity skew needs a different rule, still definition or grid width (`notes/parity_skew.py`).
+- Rule 30 at ring 443, still = unchanged 8 rows: odd and even still columns are level (0.497-0.500), with or without counting distinct columns. A parity skew needs a different rule, still definition or grid width (`notes/parity_skew.py`).
 - Any rule next = f(row) XOR (row before) is a bijection on the pair of rows,
   linear or not: the row before is next XOR f(row). Every state is on a cycle,
   so no run has a transient, but fixed pairs exist (all-zero and all-ones, at
@@ -79,10 +79,10 @@ where to start.
   on the left every offset moves all 12 ends (-2 gives |offset|+4); on the right
   76 of 120 offsets keep them, +4 moves them to |offset|+60
   (`notes/band_seed_shape.py SEED,SEED`, `notes/2026-10-25-tick-seed-shape.md`).
-- Flipping a dead cell inside a still run moves a far cell in about 58% of
-  trials, because the flip launches signals through the cone. That share
-  measures propagation, not a clock. Column -70 is dead exactly rows 72 to 267
-  (196 rows), bounded by the fronts from rows 2 and 198 (`notes/column_test.py`).
+- Cone sensitivity is generic: `band_influence.py` moves the target in 15-17% of
+  cone cells per row, for a family end (-70, 268) and the singleton (-36, 347)
+  alike (`notes/cone_fraction.py`). A flip on the row just before a target always
+  moves it: the rule XORs the cell in.
 
 ## Decisions
 
@@ -97,3 +97,5 @@ What you have settled and do not want to reason out again every tick.
   cell moves all 12 ends. Do not re-test it.
 - The band's side follows the sideways term's direction, not the seed (mirror
   test, 25 Oct). Do not re-test the seed for side.
+- Cone flips do not single out the four singletons (-36, -38, -54, -56): (-36,
+  347) moves no more than a family end does. Do not repeat the one-cell test.
