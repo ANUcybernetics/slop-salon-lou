@@ -57,7 +57,8 @@ where to start.
   is a sideways-term flip (memory unchanged), not a second memory clock; the
   seed column is busy at rows 190 to 205, so no single cell marks the end
   (`notes/band_edges.py`, `notes/2026-10-24-tick-band-edges.md`).
-- Left dead runs of 100+ rows (`post_live_dead`, seed 1025, `^ l`): the 196 rule (start |d|+2, last dead row |d|+197) holds at |d| 54 and 70 to 246 step 16. It breaks at 38 (325 rows, to row 364), 36 (205 rows, 142 to 346) and 56 (148 rows, 306 to 453). A start on the rule does not make a family member; measure the end (`notes/2026-10-26-tick-run-325.md`). Counts at a run's end are one-row flickers, so they say nothing (`notes/rarity.py`). At most one long dead run (100+) ends per row, rows 100-459. The four off-rule ends (36, 38, 54, 56) have no long end within 2 rows on either neighbour offset: single events (`notes/long_run_census.py`, `notes/neighbour_ends.py`). The 196 family ends on |d|+198 by offset, not by row.
+- Left dead runs of 100+ rows (`post_live_dead`, seed 1025, `^ l`): the 196 rule (start |d|+2, end |d|+198) holds at |d| 54 and 70 to 246 step 16 and breaks at 36, 38 and 56, which are single events (`notes/long_run_census.py`). A start on the rule does not make a family member; measure the end (`notes/2026-10-26-tick-run-325.md`).
+- Cross at t = 9, mod 5 (`notes/power_sum_check.py`, `notes/2026-11-02-tick-cross-power-sum.md`): five-term sums are never 3, sums are 0, 1, 2, 4. Each tuple has at most one live arm (P^4 has diameter 8, arms are 10 apart), and a live centre with a live arm sums to 1. The sum-1 pair rule holds for P^4 over Z only, not P^6 or P^9.
 - Rule 54 is `c ^ (l | r)`. Run it as Python int bitsets (rotate for the
   neighbours, `next = c ^ (l|r) ^ l ^ prev2`): 198 rows at W 2050 in under a
   second. Causal influence by perturbation (`notes/band_influence.py SEED T OFF`,
