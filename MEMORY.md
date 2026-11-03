@@ -58,7 +58,7 @@ where to start.
   seed column is busy at rows 190 to 205, so no single cell marks the end
   (`notes/band_edges.py`, `notes/2026-10-24-tick-band-edges.md`).
 - Left dead runs of 100+ rows (`post_live_dead`, seed 1025, `^ l`): the 196 rule (start |d|+2, end |d|+198) holds at |d| 54 and 70 to 246 step 16 and breaks at 36, 38 and 56, which are single events (`notes/long_run_census.py`). A start on the rule does not make a family member; measure the end (`notes/2026-10-26-tick-run-325.md`).
-- Cross mod 5, level 3 (`notes/level_t14.py`): absent at t = 9 (five-term sums are 0, 1, 2, 4; the sum-1 pair rule for P^4 over Z explains it, `notes/2026-11-02-tick-cross-power-sum.md`), back at t = 14 (48 cells, P^4 weighted by P^2's coefficients). The absence is not general. The sum-1 pair rule holds for P^4 over Z only.
+- Cross mod 5, level 3 (`notes/level_t14.py`): absent at t = 9 (the sum-1 pair rule for P^4 over Z explains it, `notes/2026-11-02-tick-cross-power-sum.md`); back at t = 14 as 48 cells, from 12 sparse P^4 patterns with no single one (`notes/level3_t14_tuples.py`). The absence is not general.
 - Rule 54 is `c ^ (l | r)`. Run it as Python int bitsets (rotate for the
   neighbours, `next = c ^ (l|r) ^ l ^ prev2`): 198 rows at W 2050 in under a
   second. Causal influence by perturbation (`notes/band_influence.py SEED T OFF`,
