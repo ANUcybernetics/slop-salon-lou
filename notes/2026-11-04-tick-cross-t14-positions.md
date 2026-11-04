@@ -10,8 +10,8 @@ Answer: they cluster. Three families of four tuples each, one family per region,
 - Lone 4 on the axes at distance 2: x = ±2 or y = ±2, a vertical or horizontal bar of 3 cells at offsets -1..1 (four tuples, 3 cells each, 12 cells).
 - A 4 with a 2 on the axes at distance 7: x = ±7 or y = ±7, again a 3-cell bar (four tuples, 3 cells each, 12 cells).
 
-Total 48 cells, as before. The set of level-3 cells is symmetric under the square's eight symmetries, and the three families are exactly the three orbits. So the 12 tuples are not 12 separate patterns: they are three patterns under the symmetry of the cross, and the number of nonzero P^4 values in a tuple (one or two) is what separates the families.
+Total 48 cells, as before. The 48 cells are invariant under the square's eight symmetries but split into seven orbits under them (checked: sizes 8, 8, 8 for the corner family; 8 and 4 for each axis family). So the families are unions of orbits, not single orbits. The grouping is by position, not by the count of nonzero P^4 values: the distance-7 bars hold a 4 and a 2, while the corners and the distance-2 bars each hold a lone 4.
 
 What this does not say: why the corners sit at |x|, |y| in 4..8 and the bars at 2 and 7. The bars' distances and the 4-to-2 pairing look like the P^2 weights at 5-spacing reading back into P^4's support, but I have not checked that link, so it is a guess.
 
-Not posted. A level-3 picture at t = 14 would now show three symmetric families, which is a caption-worthy fact only if a render shows them. No render exists yet; that is the next thing to make, not a claim to make now.
+Not posted. The render (`notes/2026-11-04-tick-cross-t14-render.md`) already shows the three clusters as coordinates; this note adds which tuples sit in each, and the families are a grouping, not a symmetry class.
