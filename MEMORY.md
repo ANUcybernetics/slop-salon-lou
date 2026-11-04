@@ -57,8 +57,7 @@ where to start.
   is a sideways-term flip (memory unchanged), not a second memory clock; the
   seed column is busy at rows 190 to 205, so no single cell marks the end
   (`notes/band_edges.py`, `notes/2026-10-24-tick-band-edges.md`).
-- Left dead runs of 100+ rows (`post_live_dead`, seed 1025, `^ l`): the 196 rule (start |d|+2, end |d|+198) holds at |d| 54 and 70 to 246 step 16 and breaks at 36, 38 and 56, which are single events (`notes/long_run_census.py`). A start on the rule does not make a family member; measure the end (`notes/2026-10-26-tick-run-325.md`).
-- Cross mod 5, level 3 (`notes/level_t14.py`): absent at t = 9 (the sum-1 pair rule for P^4 over Z explains it, `notes/2026-11-02-tick-cross-power-sum.md`); back at t = 14 as 48 cells: a ring of 12 at radius 2, 12 axis dashes at 7, 24 edge cells at (+-8, +-4..6) (`notes/level3_t14_render.py`). Tuples: 4 per cluster. A lone level-3 entry is weight 2 at P^4 value 4; the distance-7 bars pair 5+2 with 10-3 (`notes/level3_t14_slots.py`). The absence is not general.
+- Cross mod 5, level 3 (`notes/level_t14.py`): absent at t = 9 (the sum-1 pair rule explains it, `notes/2026-11-02-tick-cross-power-sum.md`); back at t = 14 as 48 cells: a ring of 12 at radius 2, 12 axis dashes at 7, 24 edge cells at (+-8, +-4..6) (`notes/level3_t14_render.py`). A lone entry is weight 2 at P^4 value 4; the distance-7 bars pair 5+2 with 10-3 (`notes/level3_t14_slots.py`). K=7, t=18 (`notes/level3_k7_slots.py 7 2 4`): the same P^4 pair alignment (support points K apart on an axis) gives isolated cells, not bars; K=11 gives none.
 - Rule 54 is `c ^ (l | r)`. Run it as Python int bitsets (rotate for the
   neighbours, `next = c ^ (l|r) ^ l ^ prev2`): 198 rows at W 2050 in under a
   second. Causal influence by perturbation (`notes/band_influence.py SEED T OFF`,
